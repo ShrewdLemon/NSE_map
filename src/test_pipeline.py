@@ -100,11 +100,42 @@ for nm in ("Life Insurance Corporation of India", "NPS Trust", "SBI Mutual Fund"
     check(f"{nm} is not a promoter", nm in rel_prom, False)
 # Percentages are on the SCRR basis, which excludes shares underlying DRs.
 # Using the grand total instead would overstate every converted count.
-import build_reliance_register as brr
+import build_register
+rel_register = json.loads((ROOT / "data" / "registers" / "RELIANCE.json").read_text())
+SCRR, GRAND_TOTAL_INCL_DRS = 13_289_313_310, 13_532_472_634
 check("percentage denominator excludes depository receipts",
-      brr.SHARES_OUT, 13_289_313_310)
+      rel_register["shares_scrr"], SCRR)
 check("denominator reproduces a published share count within rounding",
-      abs(round(6.88 / 100 * brr.SHARES_OUT) - 915_033_063) / 915_033_063 < 0.001, True)
+      abs(round(6.88 / 100 * SCRR) - 915_033_063) / 915_033_063 < 0.001, True)
+
+# The denominator is recovered from the data, not trusted from the header, so a
+# register that states the DR-inclusive grand total is corrected rather than
+# propagated. This is the guard that stops the Reliance mistake recurring on
+# any of the other forty-nine companies.
+# Recovery works off percentages rounded to six places, so it lands near the
+# true base rather than exactly on it. What matters is that it rejects the
+# DR-inclusive total, which is 1.8% out - hundreds of times the rounding noise.
+recovered = build_register.resolve_denominator(
+    {**rel_register, "shares_scrr": GRAND_TOTAL_INCL_DRS})[0]
+check("a stated grand total is overridden by what the holders imply",
+      abs(recovered - SCRR) / SCRR < 0.0001, True)
+check("the override does not simply keep the grand total",
+      recovered != GRAND_TOTAL_INCL_DRS, True)
+check("a correct stated denominator is left alone",
+      build_register.resolve_denominator(rel_register)[0], SCRR)
+# Too few disagreeing holders must not be enough to move it.
+check("one outlier cannot move the denominator",
+      build_register.resolve_denominator(
+          {"shares_scrr": SCRR, "promoter_group": [],
+           "public_holders": [{"holder_name": "x", "shares": 100, "pct": 50.0}]})[0],
+      SCRR)
+
+# A promoter group member filed as holding nil is a fact, not a missing figure.
+rel_raw = json.loads((ROOT / "output" / "holders_raw_RELIANCE.json").read_text())
+nil_member = next(h for h in rel_raw["holders"]
+                  if h["holder_name"].startswith("Reliance Life Sciences"))
+check("a filed nil holding stays zero rather than becoming null",
+      nil_member["quarters"][rel_raw["quarter_labels"][-1]], 0)
 
 if FAILURES:
     print(f"FAILED ({len(FAILURES)}):")

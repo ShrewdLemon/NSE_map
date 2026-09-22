@@ -10,313 +10,262 @@
   "promoter_total_pct": 50.48,
   "promoter_total_shares_filed": 6715496096,
   "bonus_adjustment_note": "No adjustment needed: holder counts and filed counts come from the same post-bonus filings, so the bonus factor is 1. Reliance's 1:1 bonus issue of October 2024 predates every quarter in this window.",
+  "bonus_factor": 1,
   "promoter_group": [
     {
       "filed_name": "K D Ambani",
       "shares_filed": 31482644,
-      "class": "Individuals/HUF",
-      "residency": "Indian"
+      "class": "Individuals/HUF"
     },
     {
       "filed_name": "Akash M Ambani",
       "shares_filed": 16104042,
-      "class": "Individuals/HUF",
-      "residency": "Indian"
+      "class": "Individuals/HUF"
     },
     {
       "filed_name": "Anant M Ambani",
       "shares_filed": 16104042,
-      "class": "Individuals/HUF",
-      "residency": "Indian"
+      "class": "Individuals/HUF"
     },
     {
       "filed_name": "Isha M Ambani",
       "shares_filed": 16104042,
-      "class": "Individuals/HUF",
-      "residency": "Indian"
+      "class": "Individuals/HUF"
     },
     {
       "filed_name": "Mukesh D Ambani",
       "shares_filed": 16104040,
-      "class": "Individuals/HUF",
-      "residency": "Indian"
+      "class": "Individuals/HUF"
     },
     {
       "filed_name": "Nita M Ambani",
       "shares_filed": 16104042,
-      "class": "Individuals/HUF",
-      "residency": "Indian"
+      "class": "Individuals/HUF"
     },
     {
       "filed_name": "Srichakra Commercials LLP",
       "shares_filed": 1479199658,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Devarshi Commercials LLP",
       "shares_filed": 1091138920,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Karuna Commercials LLP",
       "shares_filed": 1091138920,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Tattvam Enterprises LLP",
       "shares_filed": 1091138920,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Reliance Industries Holding Private Ltd",
       "shares_filed": 608030142,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Reliance Industrial Investments and Holdings Ltd",
       "shares_filed": 481884012,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Reliance Services and Holdings Limited",
       "shares_filed": 343765640,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Samarjit Enterprises LLP",
       "shares_filed": 249250548,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Sikka Ports & Terminals Limited",
       "shares_filed": 70000000,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Shrikrishna Tradecom LLP",
       "shares_filed": 28675930,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Shreeji Comtrade LLP",
       "shares_filed": 28675930,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Svar Enterprises LLP",
       "shares_filed": 27178734,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Reliance Welfare Association",
       "shares_filed": 10689994,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Vasuprada Enterprises LLP",
       "shares_filed": 2631850,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Exotic Officeinfra Private Limited",
       "shares_filed": 55348,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Carat Holdings and Trading Co Pvt Ltd",
       "shares_filed": 21902,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Neutron Enterprises Private Limited",
       "shares_filed": 3698,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Futura Commercials Private Limited",
       "shares_filed": 3628,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Shripal Enterprises LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Vishatan Enterprises LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Janardan Commercials LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Harinarayan Enterprises LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Chhatrabhuj Enterprises LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Chakresh Enterprises LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Chakradhar Commercials LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Chakradev Enterprises LLP",
       "shares_filed": 432,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Bhuvanesh Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Kankhal Trading LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Pavana Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Pitambar Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Rishikesh Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Taran Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Trilokesh Commercials LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Badri Commercials LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Ajitesh Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Adisesh Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Abhayaprada Enterprises LLP",
       "shares_filed": 430,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Kamalakar Enterprises LLP",
       "shares_filed": 426,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Narahari Enterprises LLP",
       "shares_filed": 426,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Pinakin Commercials Private Limited",
       "shares_filed": 216,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Elakshi Commercials Private Limited",
       "shares_filed": 216,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Reliance Life Sciences Private Limited",
       "shares_filed": 0,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Jamnagar Utilities and Power Private Limited",
       "shares_filed": 0,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Tiruttani Infralog Private Limited",
       "shares_filed": 0,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     },
     {
       "filed_name": "Petroleum Trust through Trustees for sole beneficiary RIIHL",
       "shares_filed": 0,
-      "class": "Any Other",
-      "residency": "Indian"
+      "class": "Any Other"
     }
-  ],
-  "bonus_factor": 1
+  ]
 }

@@ -1,0 +1,258 @@
+{
+  "index": "NIFTY 50",
+  "as_of": "2026-09-22",
+  "source": "Cross-checked: en.wikipedia.org/wiki/NIFTY_50 constituents table and moneydock.in/indices/nifty-50; both list the identical 50 symbols.",
+  "note": "Tata Motors appears as TMPV following the passenger/commercial vehicle demerger.",
+  "constituents": [
+    {
+      "ticker": "ADANIENT",
+      "company_name": "Adani Enterprises Limited",
+      "sector": "Metals & Mining"
+    },
+    {
+      "ticker": "ADANIPORTS",
+      "company_name": "Adani Ports and Special Economic Zone Limited",
+      "sector": "Services"
+    },
+    {
+      "ticker": "APOLLOHOSP",
+      "company_name": "Apollo Hospitals Enterprise Limited",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "ASIANPAINT",
+      "company_name": "Asian Paints Limited",
+      "sector": "Consumer Durables"
+    },
+    {
+      "ticker": "AXISBANK",
+      "company_name": "Axis Bank Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "BAJAJ-AUTO",
+      "company_name": "Bajaj Auto Limited",
+      "sector": "Automobile"
+    },
+    {
+      "ticker": "BAJFINANCE",
+      "company_name": "Bajaj Finance Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "BAJAJFINSV",
+      "company_name": "Bajaj Finserv Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "BEL",
+      "company_name": "Bharat Electronics Limited",
+      "sector": "Capital Goods"
+    },
+    {
+      "ticker": "BHARTIARTL",
+      "company_name": "Bharti Airtel Limited",
+      "sector": "Telecommunication"
+    },
+    {
+      "ticker": "CIPLA",
+      "company_name": "Cipla Limited",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "COALINDIA",
+      "company_name": "Coal India Limited",
+      "sector": "Oil, Gas & Consumable Fuels"
+    },
+    {
+      "ticker": "DRREDDY",
+      "company_name": "Dr. Reddy's Laboratories Limited",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "EICHERMOT",
+      "company_name": "Eicher Motors Limited",
+      "sector": "Automobile"
+    },
+    {
+      "ticker": "ETERNAL",
+      "company_name": "Eternal Limited",
+      "sector": "Consumer Services"
+    },
+    {
+      "ticker": "GRASIM",
+      "company_name": "Grasim Industries Limited",
+      "sector": "Construction Materials"
+    },
+    {
+      "ticker": "HCLTECH",
+      "company_name": "HCL Technologies Limited",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "HDFCBANK",
+      "company_name": "HDFC Bank Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "HDFCLIFE",
+      "company_name": "HDFC Life Insurance Company Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "HINDALCO",
+      "company_name": "Hindalco Industries Limited",
+      "sector": "Metals & Mining"
+    },
+    {
+      "ticker": "HINDUNILVR",
+      "company_name": "Hindustan Unilever Limited",
+      "sector": "FMCG"
+    },
+    {
+      "ticker": "ICICIBANK",
+      "company_name": "ICICI Bank Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "INDIGO",
+      "company_name": "InterGlobe Aviation Limited",
+      "sector": "Services"
+    },
+    {
+      "ticker": "INFY",
+      "company_name": "Infosys Limited",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "ITC",
+      "company_name": "ITC Limited",
+      "sector": "FMCG"
+    },
+    {
+      "ticker": "JIOFIN",
+      "company_name": "Jio Financial Services Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "JSWSTEEL",
+      "company_name": "JSW Steel Limited",
+      "sector": "Metals & Mining"
+    },
+    {
+      "ticker": "KOTAKBANK",
+      "company_name": "Kotak Mahindra Bank Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "LT",
+      "company_name": "Larsen & Toubro Limited",
+      "sector": "Construction"
+    },
+    {
+      "ticker": "M&M",
+      "company_name": "Mahindra & Mahindra Limited",
+      "sector": "Automobile"
+    },
+    {
+      "ticker": "MARUTI",
+      "company_name": "Maruti Suzuki India Limited",
+      "sector": "Automobile"
+    },
+    {
+      "ticker": "MAXHEALTH",
+      "company_name": "Max Healthcare Institute Limited",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "NESTLEIND",
+      "company_name": "Nestle India Limited",
+      "sector": "FMCG"
+    },
+    {
+      "ticker": "NTPC",
+      "company_name": "NTPC Limited",
+      "sector": "Power"
+    },
+    {
+      "ticker": "ONGC",
+      "company_name": "Oil and Natural Gas Corporation Limited",
+      "sector": "Oil, Gas & Consumable Fuels"
+    },
+    {
+      "ticker": "POWERGRID",
+      "company_name": "Power Grid Corporation of India Limited",
+      "sector": "Power"
+    },
+    {
+      "ticker": "RELIANCE",
+      "company_name": "Reliance Industries Limited",
+      "sector": "Oil, Gas & Consumable Fuels"
+    },
+    {
+      "ticker": "SBILIFE",
+      "company_name": "SBI Life Insurance Company Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "SBIN",
+      "company_name": "State Bank of India",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "SHRIRAMFIN",
+      "company_name": "Shriram Finance Limited",
+      "sector": "Financial Services"
+    },
+    {
+      "ticker": "SUNPHARMA",
+      "company_name": "Sun Pharmaceutical Industries Limited",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "TATACONSUM",
+      "company_name": "Tata Consumer Products Limited",
+      "sector": "FMCG"
+    },
+    {
+      "ticker": "TATASTEEL",
+      "company_name": "Tata Steel Limited",
+      "sector": "Metals & Mining"
+    },
+    {
+      "ticker": "TCS",
+      "company_name": "Tata Consultancy Services Limited",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "TECHM",
+      "company_name": "Tech Mahindra Limited",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "TITAN",
+      "company_name": "Titan Company Limited",
+      "sector": "Consumer Durables"
+    },
+    {
+      "ticker": "TMPV",
+      "company_name": "Tata Motors Passenger Vehicles Limited",
+      "sector": "Automobile"
+    },
+    {
+      "ticker": "TRENT",
+      "company_name": "Trent Limited",
+      "sector": "Consumer Services"
+    },
+    {
+      "ticker": "ULTRACEMCO",
+      "company_name": "UltraTech Cement Limited",
+      "sector": "Construction Materials"
+    },
+    {
+      "ticker": "WIPRO",
+      "company_name": "Wipro Limited",
+      "sector": "Information Technology"
+    }
+  ]
+}

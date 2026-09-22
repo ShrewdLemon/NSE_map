@@ -30,12 +30,14 @@ _VEHICLE_FOR_CATEGORY = {
 }
 
 
-def build(holders_path, registry_path, ticker, out_stem):
-    data = json.loads(Path(holders_path).read_text())
-    holders, quarters = data["holders"], data["quarter_labels"]
-    registry = json.loads(Path(registry_path).read_text())
+def classify(holders, registry, ticker, master):
+    """Classify holder rows against a promoter registry and the entity master.
+
+    Returns (rows, promoter_issues). The caller owns loading and saving the
+    master, so a multi-company run shares one cache across every company and
+    each company compounds the next one's hit rate.
+    """
     promoters, promoter_issues = match_promoters(holders, registry)
-    master = em.load()
 
     rows = []
     for h in holders:
@@ -88,6 +90,17 @@ def build(holders_path, registry_path, ticker, out_stem):
                        reason="no filing match, no cached entity, no rule",
                        needs_review=True)
         rows.append(row)
+
+    return rows, promoter_issues
+
+
+def build(holders_path, registry_path, ticker, out_stem):
+    """Single-company convenience wrapper: classify, then write the three files."""
+    data = json.loads(Path(holders_path).read_text())
+    holders, quarters = data["holders"], data["quarter_labels"]
+    registry = json.loads(Path(registry_path).read_text())
+    master = em.load()
+    rows, promoter_issues = classify(holders, registry, ticker, master)
 
     out_xlsx = ROOT / "output" / f"{out_stem}.xlsx"
     write_xlsx(rows, quarters, data["company"], out_xlsx)
