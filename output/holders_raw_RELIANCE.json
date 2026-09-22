@@ -1,0 +1,1001 @@
+{
+  "company": "RELIANCE INDUSTRIES LTD",
+  "isin": "INE002A01018",
+  "quarter_labels": [
+    "Jun/2025",
+    "Sep/2025",
+    "Dec/2025",
+    "Mar/2026",
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Srichakra Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 1479199658
+      },
+      "rank": 1
+    },
+    {
+      "holder_name": "Devarshi Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 1091138920
+      },
+      "rank": 2
+    },
+    {
+      "holder_name": "Karuna Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 1091138920
+      },
+      "rank": 3
+    },
+    {
+      "holder_name": "Tattvam Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 1091138920
+      },
+      "rank": 4
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": 922278344,
+        "Dec/2025": 906331168,
+        "Mar/2026": 903673305,
+        "Jun/2026": 914304756
+      },
+      "rank": 5
+    },
+    {
+      "holder_name": "Reliance Industries Holding Private Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 608030142
+      },
+      "rank": 6
+    },
+    {
+      "holder_name": "Reliance Industrial Investments and Holdings Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 481884012
+      },
+      "rank": 7
+    },
+    {
+      "holder_name": "Reliance Services and Holdings Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 343765640
+      },
+      "rank": 8
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 331701260,
+        "Sep/2025": 335820947,
+        "Dec/2025": 329707863,
+        "Mar/2026": 332232833,
+        "Jun/2026": 342332711
+      },
+      "rank": 9
+    },
+    {
+      "holder_name": "Vanguard Group Inc/The",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 295667028
+      },
+      "rank": 10
+    },
+    {
+      "holder_name": "Blackrock Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 255773102
+      },
+      "rank": 11
+    },
+    {
+      "holder_name": "Samarjit Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 249250548
+      },
+      "rank": 12
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 195485799,
+        "Sep/2025": 222330212,
+        "Dec/2025": 206914608,
+        "Mar/2026": 209705364,
+        "Jun/2026": 235353739
+      },
+      "rank": 13
+    },
+    {
+      "holder_name": "NPS Trust",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": 146182446,
+        "Dec/2025": 171432142,
+        "Mar/2026": 188708249,
+        "Jun/2026": 205984356
+      },
+      "rank": 14
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 91430476,
+        "Sep/2025": 96613308,
+        "Dec/2025": 103922430,
+        "Mar/2026": 118407782,
+        "Jun/2026": 130102377
+      },
+      "rank": 15
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 100068529,
+        "Sep/2025": 103789537,
+        "Dec/2025": 107776331,
+        "Mar/2026": 114553881,
+        "Jun/2026": 120268285
+      },
+      "rank": 16
+    },
+    {
+      "holder_name": "Nippon India Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 102460606,
+        "Sep/2025": 107776331,
+        "Dec/2025": 109503942,
+        "Mar/2026": 113623629,
+        "Jun/2026": 116547278
+      },
+      "rank": 17
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 105494998
+      },
+      "rank": 18
+    },
+    {
+      "holder_name": "Sikka Ports & Terminals Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 70000000
+      },
+      "rank": 19
+    },
+    {
+      "holder_name": "Kotak Mahindra Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 45848131,
+        "Sep/2025": 52758574,
+        "Dec/2025": 42127123,
+        "Mar/2026": 44386306,
+        "Jun/2026": 52891467
+      },
+      "rank": 20
+    },
+    {
+      "holder_name": "Mirae Asset Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 32691711,
+        "Sep/2025": 33090390,
+        "Dec/2025": 30299634,
+        "Mar/2026": 37741650,
+        "Jun/2026": 48107314
+      },
+      "rank": 21
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 44120520,
+        "Sep/2025": 44120520,
+        "Dec/2025": 45316558,
+        "Mar/2026": 46246810,
+        "Jun/2026": 43987627
+      },
+      "rank": 22
+    },
+    {
+      "holder_name": "Axis Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 36811398,
+        "Sep/2025": 34818001,
+        "Dec/2025": 39070581,
+        "Mar/2026": 36014039,
+        "Jun/2026": 33223283
+      },
+      "rank": 23
+    },
+    {
+      "holder_name": "K D Ambani",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 31482644
+      },
+      "rank": 24
+    },
+    {
+      "holder_name": "Shrikrishna Tradecom LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 28675930
+      },
+      "rank": 25
+    },
+    {
+      "holder_name": "Shreeji Comtrade LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 28675930
+      },
+      "rank": 26
+    },
+    {
+      "holder_name": "Svar Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 27178734
+      },
+      "rank": 27
+    },
+    {
+      "holder_name": "Franklin Templeton Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 21528688,
+        "Sep/2025": 20465542,
+        "Dec/2025": 20332649,
+        "Mar/2026": 22458939,
+        "Jun/2026": 23123405
+      },
+      "rank": 28
+    },
+    {
+      "holder_name": "Tata Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 21661581,
+        "Sep/2025": 22326046,
+        "Dec/2025": 20598436,
+        "Mar/2026": 19136611,
+        "Jun/2026": 22591833
+      },
+      "rank": 29
+    },
+    {
+      "holder_name": "Bandhan Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 21262901,
+        "Sep/2025": 20731329,
+        "Dec/2025": 20199756,
+        "Mar/2026": 20465542,
+        "Jun/2026": 22193153
+      },
+      "rank": 30
+    },
+    {
+      "holder_name": "Canara Robeco Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 17940573,
+        "Sep/2025": 18605039,
+        "Dec/2025": 18870825,
+        "Mar/2026": 18073466,
+        "Jun/2026": 18737932
+      },
+      "rank": 31
+    },
+    {
+      "holder_name": "DSP Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 5714405,
+        "Sep/2025": 5980191,
+        "Dec/2025": 6113084,
+        "Mar/2026": 5847298,
+        "Jun/2026": 16611642
+      },
+      "rank": 32
+    },
+    {
+      "holder_name": "Akash M Ambani",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 16104042
+      },
+      "rank": 33
+    },
+    {
+      "holder_name": "Anant M Ambani",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 16104042
+      },
+      "rank": 34
+    },
+    {
+      "holder_name": "Isha M Ambani",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 16104042
+      },
+      "rank": 35
+    },
+    {
+      "holder_name": "Nita M Ambani",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 16104042
+      },
+      "rank": 36
+    },
+    {
+      "holder_name": "Mukesh D Ambani",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 16104040
+      },
+      "rank": 37
+    },
+    {
+      "holder_name": "Invesco Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 3322328,
+        "Sep/2025": 9302519,
+        "Dec/2025": 7973588,
+        "Mar/2026": 6777550,
+        "Jun/2026": 14352458
+      },
+      "rank": 38
+    },
+    {
+      "holder_name": "Edelweiss Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 11960382,
+        "Sep/2025": 13289313,
+        "Dec/2025": 11960382,
+        "Mar/2026": 10099878,
+        "Jun/2026": 11163023
+      },
+      "rank": 39
+    },
+    {
+      "holder_name": "Reliance Welfare Association",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 10689994
+      },
+      "rank": 40
+    },
+    {
+      "holder_name": "HSBC Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 9435412,
+        "Sep/2025": 10232771,
+        "Dec/2025": 10365664,
+        "Mar/2026": 15149817,
+        "Jun/2026": 10631451
+      },
+      "rank": 41
+    },
+    {
+      "holder_name": "Sundaram Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 12491955,
+        "Sep/2025": 12491955,
+        "Dec/2025": 12226168,
+        "Mar/2026": 11960382,
+        "Jun/2026": 10631451
+      },
+      "rank": 42
+    },
+    {
+      "holder_name": "Baroda BNP Paribas Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 7176229,
+        "Sep/2025": 7442015,
+        "Dec/2025": 7043336,
+        "Mar/2026": 7309122,
+        "Jun/2026": 6910443
+      },
+      "rank": 43
+    },
+    {
+      "holder_name": "PPFAS Mutual Fund",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 7442015,
+        "Sep/2025": 7442015,
+        "Dec/2025": 7840695,
+        "Mar/2026": 3455221,
+        "Jun/2026": 5847298
+      },
+      "rank": 44
+    },
+    {
+      "holder_name": "Vasuprada Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 2631850
+      },
+      "rank": 45
+    },
+    {
+      "holder_name": "Exotic Officeinfra Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 55348
+      },
+      "rank": 46
+    },
+    {
+      "holder_name": "Carat Holdings and Trading Co Pvt Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 21902
+      },
+      "rank": 47
+    },
+    {
+      "holder_name": "Neutron Enterprises Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 3698
+      },
+      "rank": 48
+    },
+    {
+      "holder_name": "Futura Commercials Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 3628
+      },
+      "rank": 49
+    },
+    {
+      "holder_name": "Shripal Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 50
+    },
+    {
+      "holder_name": "Vishatan Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 51
+    },
+    {
+      "holder_name": "Janardan Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 52
+    },
+    {
+      "holder_name": "Harinarayan Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 53
+    },
+    {
+      "holder_name": "Chhatrabhuj Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 54
+    },
+    {
+      "holder_name": "Chakresh Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 55
+    },
+    {
+      "holder_name": "Chakradhar Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 56
+    },
+    {
+      "holder_name": "Chakradev Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 432
+      },
+      "rank": 57
+    },
+    {
+      "holder_name": "Bhuvanesh Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 58
+    },
+    {
+      "holder_name": "Kankhal Trading LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 59
+    },
+    {
+      "holder_name": "Pavana Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 60
+    },
+    {
+      "holder_name": "Pitambar Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 61
+    },
+    {
+      "holder_name": "Rishikesh Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 62
+    },
+    {
+      "holder_name": "Taran Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 63
+    },
+    {
+      "holder_name": "Trilokesh Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 64
+    },
+    {
+      "holder_name": "Badri Commercials LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 65
+    },
+    {
+      "holder_name": "Ajitesh Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 66
+    },
+    {
+      "holder_name": "Adisesh Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 67
+    },
+    {
+      "holder_name": "Abhayaprada Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 430
+      },
+      "rank": 68
+    },
+    {
+      "holder_name": "Kamalakar Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 426
+      },
+      "rank": 69
+    },
+    {
+      "holder_name": "Narahari Enterprises LLP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 426
+      },
+      "rank": 70
+    },
+    {
+      "holder_name": "Pinakin Commercials Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 216
+      },
+      "rank": 71
+    },
+    {
+      "holder_name": "Elakshi Commercials Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 216
+      },
+      "rank": 72
+    },
+    {
+      "holder_name": "Reliance Life Sciences Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 0,
+        "Sep/2025": 0,
+        "Dec/2025": 0,
+        "Mar/2026": 0,
+        "Jun/2026": 0
+      },
+      "rank": 73
+    },
+    {
+      "holder_name": "Jamnagar Utilities and Power Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 0,
+        "Sep/2025": 0,
+        "Dec/2025": 0,
+        "Mar/2026": 0,
+        "Jun/2026": 0
+      },
+      "rank": 74
+    },
+    {
+      "holder_name": "Tiruttani Infralog Private Limited",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 0,
+        "Sep/2025": 0,
+        "Dec/2025": 0,
+        "Mar/2026": 0,
+        "Jun/2026": 0
+      },
+      "rank": 75
+    },
+    {
+      "holder_name": "Petroleum Trust through Trustees for sole beneficiary RIIHL",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 0,
+        "Sep/2025": 0,
+        "Dec/2025": 0,
+        "Mar/2026": 0,
+        "Jun/2026": 0
+      },
+      "rank": 76
+    }
+  ]
+}

@@ -135,3 +135,42 @@ against primary sources:
 **Amit Rathi** is `Individual`, not `Promoter`: he was reclassified from
 Promoter Group to Public with effect from 23 May 2025, before the window
 opens, which exactly explains the 47.29% -> 42.71% drop in promoter holding.
+
+## Result for RELIANCE (Jun 2025 - Jun 2026)
+
+All 76 holders classified, none left unresolved.
+
+| Basis | Holders |
+|---|---|
+| Filed shareholding pattern (promoter) | 51 |
+| Deterministic name rules | 21 |
+| Entity master cache | 4 |
+
+**Input differs from the Anand Rathi run.** There is no Bloomberg `OWN` export
+here, so the register is built from the filed shareholding pattern plus
+fund-house and institutional holdings from ownership aggregators
+(`src/build_reliance_register.py`). A shareholding pattern names every
+promoter group member but only those public holders above 1%, so the ~1,360
+individually unnamed FPIs are absent. Named holders cover 73.58% of the share
+base; the rest is that unnamed tail.
+
+All 51 filed promoter group members are matched, including the four that hold
+no shares. Note that for this company the numeric matcher is **not**
+independent evidence — register and registry are built from the same filing —
+so the token matcher is doing the real work. On a Bloomberg-sourced register
+the two are genuinely independent.
+
+Two things the second company forced out of the code:
+
+* **Bonus factor moved into the registry.** It was hard-coded at 2 for Anand
+  Rathi's 1:1 bonus. Reliance needs 1, since register and filing are both
+  post-bonus.
+* **Percentages are on the SCRR basis**, `(A)+(B)+(C2)` = 13,289,313,310,
+  which excludes the 243,159,324 shares underlying depository receipts. Using
+  the 13,532,472,634 grand total would inflate every converted share count by
+  about 1.8%. The denominator was verified by backing it out of holders that
+  publish both a percentage and a share count.
+
+A zero holding is no longer treated as numeric evidence, so the four
+nil-holding promoter group members match on name alone without being reported
+as matcher disagreements.

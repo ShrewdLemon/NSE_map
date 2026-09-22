@@ -30,6 +30,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "aditya birla sun life mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya Birla Sun Life Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "alliancebernstein": {
       "basis": "web",
       "confidence": "high",
@@ -135,6 +150,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "axis mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Axis Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "azeez family trust": {
       "basis": "web",
       "confidence": "high",
@@ -210,6 +240,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "baroda bnp paribas mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Baroda BNP Paribas Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "blackrock": {
       "basis": "web",
       "confidence": "high",
@@ -266,6 +311,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "canara robeco mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Canara Robeco Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -345,6 +405,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "dsp mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "DSP Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "echjay industries": {
       "basis": "web",
       "confidence": "high",
@@ -386,6 +461,21 @@
       "holding_vehicle": "insurance_float",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "edelweiss mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Edelweiss Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -450,6 +540,21 @@
       "source": "https://www.ipqwery.com/ipowner/en/owner/ip/485181-franklin-resources-inc.html",
       "verified_on": "2026-09-22"
     },
+    "franklin templeton mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Franklin Templeton Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "goldman sachs": {
       "basis": "web",
       "confidence": "high",
@@ -463,6 +568,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.gsam.com/content/dam/gsam/pdfs/international/en/fund-literature/monthly-factsheet-goldman-sachs-india-equity-portfolio-class-i-shares.pdf",
+      "verified_on": "2026-09-22"
+    },
+    "government pension fund global": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "NO",
+      "display_name": "Government Pension Fund Global",
+      "entity_type": "pension_fund",
+      "evidence": "Norway's sovereign fund, managed by Norges Bank Investment Management. Aggregators book Norges Bank's equity holdings under this fund name. Classified consistently with the Norges Bank row; Foreign Government is the alternative if sovereign ownership is the deciding axis.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.nbim.no/",
       "verified_on": "2026-09-22"
     },
     "groww asset management": {
@@ -510,6 +630,36 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "hdfc mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hsbc mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HSBC Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "icici prudential asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -540,6 +690,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "icici prudential mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "indusind nippon life insurance": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -566,6 +731,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "invesco mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Invesco Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -615,6 +795,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "kotak mahindra mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak Mahindra Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "legal and general": {
       "basis": "web",
       "confidence": "high",
@@ -630,6 +825,21 @@
       "source": "https://en.wikipedia.org/wiki/Legal_%26_General",
       "verified_on": "2026-09-22"
     },
+    "life insurance of india": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Life Insurance Corporation of India",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "mirae asset financial": {
       "basis": "web",
       "confidence": "high",
@@ -643,6 +853,21 @@
         "ANANDRATHI"
       ],
       "source": "https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group",
+      "verified_on": "2026-09-22"
+    },
+    "mirae asset mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Mirae Asset Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "motilal oswal asset management": {
@@ -720,6 +945,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "nippon india mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Nippon India Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "nippon life india asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -765,6 +1005,21 @@
       "source": "https://www.investing.com/equities/anand-rathi-wealth-ownership",
       "verified_on": "2026-09-22"
     },
+    "nps trust": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "NPS Trust",
+      "entity_type": "pension_fund",
+      "evidence": "India's National Pension System Trust, established by PFRDA under the Indian Trusts Act 1882 on 27 Feb 2008. It is the registered owner of all assets under the NPS architecture; pension funds purchase securities on its behalf while subscribers remain beneficial owners.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.pfrda.org.in/web/pfrda/intermediaries/registered-intermediaries/nps-trust",
+      "verified_on": "2026-09-22"
+    },
     "pnb metlife india insurance": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -776,6 +1031,21 @@
       "holding_vehicle": "insurance_float",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "ppfas mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "PPFAS Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -870,6 +1140,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "sbi mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "shriram asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -945,6 +1230,21 @@
       "source": "https://en.wikipedia.org/wiki/Sun_Life_Financial",
       "verified_on": "2026-09-22"
     },
+    "sundaram mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Sundaram Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "taiwan securities": {
       "basis": "web",
       "confidence": "high",
@@ -986,6 +1286,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "tata mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Tata Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1061,6 +1376,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "uti mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "RELIANCE"
       ],
       "source": null,
       "verified_on": "2026-09-22"

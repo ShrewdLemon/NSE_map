@@ -12,7 +12,7 @@ import re
 
 from normalize import normalize
 
-BONUS_FACTOR = 2  # 1:1 bonus; Bloomberg is adjusted, the filing is not
+DEFAULT_BONUS_FACTOR = 1  # registries override; see 'bonus_factor' in the registry
 
 
 # Words that mark a name as an entity rather than a natural person.
@@ -50,11 +50,11 @@ def _token_match(a: str, b: str) -> bool:
     return False
 
 
-def _numeric_targets(promoter_group):
+def _numeric_targets(promoter_group, factor):
     """filed x factor for each promoter, plus merged individual+HUF sums."""
     targets = {}
     for p in promoter_group:
-        targets.setdefault(p["shares_filed"] * BONUS_FACTOR, []).append(p["filed_name"])
+        targets.setdefault(p["shares_filed"] * factor, []).append(p["filed_name"])
 
     hufs = [p for p in promoter_group if "huf" in p["filed_name"].lower()]
     plain = [p for p in promoter_group if "huf" not in p["filed_name"].lower()]
@@ -62,7 +62,7 @@ def _numeric_targets(promoter_group):
         # Only merge when the HUF shares a surname with the individual.
         if not (_tokens(huf["filed_name"]) & _tokens(ind["filed_name"])):
             continue
-        total = (huf["shares_filed"] + ind["shares_filed"]) * BONUS_FACTOR
+        total = (huf["shares_filed"] + ind["shares_filed"]) * factor
         targets.setdefault(total, []).append(
             f"{ind['filed_name']} + {huf['filed_name']}"
         )
@@ -72,7 +72,8 @@ def _numeric_targets(promoter_group):
 def match(holders, registry):
     """Annotate each holder with promoter evidence. Returns (results, issues)."""
     group = registry["promoter_group"]
-    numeric = _numeric_targets(group)
+    factor = registry.get("bonus_factor", DEFAULT_BONUS_FACTOR)
+    numeric = _numeric_targets(group, factor)
     filed_names = [p["filed_name"] for p in group]
 
     results, issues = {}, []
@@ -83,6 +84,7 @@ def match(holders, registry):
 
         numeric_hit, matched_qtr = [], None
         for qtr, val in h["quarters"].items():
+            # A zero holding is not evidence: many holders sit at zero.
             if val and val in numeric:
                 numeric_hit, matched_qtr = numeric[val], qtr
                 break
@@ -97,7 +99,10 @@ def match(holders, registry):
                 ),
                 "numeric_quarter": matched_qtr,
             }
-            if bool(token_hit) != bool(numeric_hit):
+            # A holder sitting at zero across every quarter cannot be matched
+            # numerically, so token-only is the expected result, not a conflict.
+            holds_nothing = not any(h["quarters"].values())
+            if bool(token_hit) != bool(numeric_hit) and not holds_nothing:
                 issues.append(
                     f"{h['holder_name']}: matched by "
                     f"{'token only' if token_hit else 'numeric only'} "
