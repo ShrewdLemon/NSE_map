@@ -1,0 +1,32 @@
+{
+  "company": "ANAND RATHI WEALTH LTD",
+  "isin": "INE463V01026",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/latest/anand-rathi-wealth-ltd/"
+  ],
+  "as_of": "2026-03-31",
+  "promoter_total_pct": 43.11,
+  "promoter_total_shares_filed": 35793582,
+  "bonus_adjustment_note": "Bloomberg share counts are exactly 2x the filed counts (1:1 bonus). Bloomberg also merges an individual's HUF holding into their personal row.",
+  "promoter_group": [
+    {"filed_name": "Anand rathi",                                "shares_filed": 8276890,  "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Pradeep kumar gupta",                        "shares_filed": 3675684,  "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Priti pradeep gupta",                        "shares_filed": 2207976,  "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Pradeep kumar gupta HUF",                    "shares_filed": 1488524,  "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Navratan mal gupta HUF",                     "shares_filed": 1166984,  "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Krishnav pradeep gupta",                     "shares_filed": 14898,    "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Asha kailash biyani",                        "shares_filed": 4500,     "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Phool kaur mundra",                          "shares_filed": 8654,     "class": "Individuals/HUF", "residency": "Indian"},
+    {"filed_name": "Anand rathi financial services limited",     "shares_filed": 16534758, "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Jaipur securities private limited",          "shares_filed": 1230360,  "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Twelfth tier property limited",              "shares_filed": 357246,   "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Anand rathi it private limited",             "shares_filed": 297706,   "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Anand rathi insurance brokers limited",      "shares_filed": 210000,   "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Aqua proof wall plast private limited",      "shares_filed": 124702,   "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Amit capital and securities private limited","shares_filed": 50000,    "class": "Any Other",       "residency": "Indian"},
+    {"filed_name": "Pooja maru",                                 "shares_filed": 120000,   "class": "Individuals/HUF", "residency": "Foreign"},
+    {"filed_name": "Tara mantri",                                "shares_filed": 21700,    "class": "Individuals/HUF", "residency": "Foreign"},
+    {"filed_name": "Aishwariya p gupta",                         "shares_filed": 3000,     "class": "Individuals/HUF", "residency": "Foreign"}
+  ]
+}
