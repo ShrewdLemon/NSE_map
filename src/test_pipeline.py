@@ -137,6 +137,35 @@ nil_member = next(h for h in rel_raw["holders"]
 check("a filed nil holding stays zero rather than becoming null",
       nil_member["quarters"][rel_raw["quarter_labels"][-1]], 0)
 
+# --- the entity cache must round-trip every category a rule can emit -------
+# The master is consulted BEFORE the rules, so anything cached wrongly silently
+# overrides the rule that produced it. A rule returning 'Government' once cached
+# entity_type None, which came back as an unclassified holder on the next run.
+import build as pipeline
+import rules as rules_mod
+
+_RULE_CATEGORIES = set()
+for _name in ("SBI Mutual Fund", "Life Insurance Corporation of India",
+              "President of India", "NPS Trust", "LICI ULIP-Growth Fund",
+              "SBI Nifty 50 ETF", "HDFC Trustee Company Limited"):
+    _r = rules_mod.classify(_name, normalize(_name), "Institution")
+    if _r:
+        _RULE_CATEGORIES.add(_r[0])
+
+for _cat in sorted(_RULE_CATEGORIES):
+    _type = pipeline._TYPE_FOR_CATEGORY.get(_cat)
+    check(f"cache can represent {_cat!r}", bool(_type), True)
+    _back, _ = categorize(is_promoter=False, bloomberg_type="Institution",
+                          country="IN" if "Domestic" in _cat or _cat == "Government"
+                          else None,
+                          entity_type=_type,
+                          holding_vehicle=pipeline._VEHICLE_FOR_CATEGORY.get(_cat))
+    check(f"{_cat!r} survives a cache round-trip", _back, _cat)
+
+# And nothing may be cached that cannot round-trip.
+check("an unmappable category is never cached",
+      pipeline._TYPE_FOR_CATEGORY.get("Individual"), None)
+
 # --- ingest: the airlock between a web agent and the pipeline --------------
 import ingest_nimble as ing
 

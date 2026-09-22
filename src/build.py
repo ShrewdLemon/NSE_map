@@ -20,13 +20,29 @@ from write_output import write as write_xlsx
 ROOT = Path(__file__).resolve().parent.parent
 
 # Inverse of the decision table, for caching what the rules settle.
+#
+# This map must cover every category a rule can return. It did not: a rule
+# resolving 'Government' or 'Domestic Pension Fund' cached entity_type None,
+# and because the master is consulted before the rules, that null came back on
+# the next run, reached categorize() as an unmapped type and turned a correctly
+# classified holder into an unclassified one. The cache was poisoning itself,
+# quietly, and worse with every company added.
 _TYPE_FOR_CATEGORY = {
     "Domestic AMC": "asset_manager", "Foreign AMC": "asset_manager",
     "Domestic Insurance": "insurer", "Foreign Insurance": "insurer",
+    "Domestic Pension Fund": "pension_fund", "Foreign Pension Fund": "pension_fund",
+    "Government": "sovereign_wealth_fund", "Foreign Government": "sovereign_wealth_fund",
+    "Domestic corporate": "operating_company", "Foreign corporate": "operating_company",
+    "Bank": "bank",
 }
 _VEHICLE_FOR_CATEGORY = {
     "Domestic AMC": "managed_funds", "Foreign AMC": "managed_funds",
     "Domestic Insurance": "insurance_float", "Foreign Insurance": "insurance_float",
+    "Domestic Pension Fund": "pension_assets", "Foreign Pension Fund": "pension_assets",
+    "Government": "sovereign_assets", "Foreign Government": "sovereign_assets",
+    "Domestic corporate": "operating_company_treasury",
+    "Foreign corporate": "operating_company_treasury",
+    "Bank": "own_balance_sheet",
 }
 
 
@@ -77,7 +93,9 @@ def classify(holders, registry, ticker, master):
                        country="IN" if "Domestic" in cat else None,
                        reason="name-based rule", source="deterministic rule")
             # Individuals are people, not entities - nothing worth caching.
-            if btype != "Individual":
+            # A category with no inverse mapping is not cached either: writing a
+            # null entity_type would override this very rule on the next run.
+            if btype != "Individual" and _TYPE_FOR_CATEGORY.get(cat):
                 em.upsert(master, name,
                           country="IN" if "Domestic" in cat else None,
                           entity_type=_TYPE_FOR_CATEGORY.get(cat),
