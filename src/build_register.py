@@ -186,24 +186,45 @@ def build(ticker, quarter_label=None):
     return raw, registry
 
 
+# Indian ISINs are INE/INF/INA followed by nine alphanumerics. A malformed one
+# is worth flagging: it usually means the whole record came from a weak source.
+_ISIN = re.compile(r"^IN[EFA][0-9A-Z]{9}$")
+
+
 def check(raw, registry):
     """Arithmetic sanity checks. Returns a list of human-readable warnings."""
     warn = []
     total = raw["shares_scrr"]
-    filed = registry["promoter_total_shares_filed"]
+    tick = raw["ticker"]
+
+    if not total:
+        warn.append(f"{tick}: no share base, so percentages cannot be converted")
+    if raw.get("isin") and not _ISIN.match(raw["isin"].strip().upper()):
+        warn.append(f"{tick}: ISIN {raw['isin']!r} is not a well-formed Indian ISIN")
+    if not raw.get("quarter_labels"):
+        warn.append(f"{tick}: no quarter label")
     pct = registry.get("promoter_total_pct")
+    if pct is not None and not 0 <= pct <= 100:
+        warn.append(f"{tick}: promoter_pct {pct} is outside 0-100")
+    negatives = [h["holder_name"] for h in raw["holders"]
+                 if any((v or 0) < 0 for v in h["quarters"].values())]
+    if negatives:
+        warn.append(f"{tick}: negative holding for {', '.join(negatives[:3])}")
+    if len(raw["holders"]) < 3:
+        warn.append(f"{tick}: only {len(raw['holders'])} holder(s) - source looks thin")
+    filed = registry["promoter_total_shares_filed"]
     if total and pct:
         expected = pct / 100 * total
         if expected and abs(filed - expected) / expected > 0.01:
             warn.append(
-                f"{raw['ticker']}: promoter members sum to {filed:,} but "
+                f"{tick}: promoter members sum to {filed:,} but "
                 f"{pct}% of {total:,} is {expected:,.0f} "
                 f"({(filed - expected) / expected:+.2%})")
     if total:
         held = sum(v for h in raw["holders"] for v in [h["quarters"].get(
             raw["quarter_labels"][-1])] if v)
         if held > total * 1.001:
-            warn.append(f"{raw['ticker']}: named holders exceed the share base")
+            warn.append(f"{tick}: named holders exceed the share base")
     return warn
 
 
