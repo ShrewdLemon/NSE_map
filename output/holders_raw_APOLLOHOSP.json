@@ -1,0 +1,346 @@
+{
+  "company": "Apollo Hospitals Enterprise Limited",
+  "ticker": "APOLLOHOSP",
+  "isin": "INE437A01024",
+  "as_of": "2026-06-30",
+  "shares_scrr": 143779907.0,
+  "denominator_note": "stated denominator agrees with 21 of 34 holders to 0.021%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Ms. Suneeta Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2937066
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Sangita Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2432508
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Shobana Kamineni",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2239952
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. K Vishweshwar Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1577350
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Preetha Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1043915
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Sindoori Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 318600
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Anuspala Kamineni",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 259174
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dr. Prathap C Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 245464
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Konda Anindith Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 230200
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Karthik Anand",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 236167
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Vijay Kumar Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 228957
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Konda Vishwajit Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 222300
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Upasana Konidela",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 217276
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Puansh Kamineni",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 212202
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Harshad Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 217900
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Konda Viraj Madhav Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 168224
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ms. Sucharitha P Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 169800
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Aditya Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10200
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Dwaraknath Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 18000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr. Anil Kamineni",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 20
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "M/s. PCR Investments Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 27223124
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "M/s. Indian Hospitals Corporation Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 61704
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "M/s. Obul Reddy Investments Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11200
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "M/s. PPN Power Generating Company Private Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5827
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3333586
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Axis Mutual Fund Trustee Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2578658
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mirae Asset ELSS Tax Saver Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2157205
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Trustee Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1993863
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Balanced Advantage Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1877338
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1705664
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1654510
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2361960
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Employees Provident Fund Board - Internalmanaged 1",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1992112
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1581082
+      },
+      "filed_class": "FPI Cat II",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1509918
+      },
+      "filed_class": "FPI Cat II",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2830488
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/93/APOLLOHOSP/latest/apollo-hospitals-enterprise-ltd/",
+    "https://trendlyne.com/equity/93/APOLLOHOSP/apollo-hospitals-enterprise-ltd/"
+  ],
+  "notes": "Quarter ended 30 June 2026; total SCRR share count computed as 40,287,130 / 0.2802 = ~143,779,907 shares (SCRR basis, excluding depository receipts). 20 named Individuals/HUF family members and 4 named bodies corporate in promoter group; M/s. PCR Investments Ltd alone holds 18.93%.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 1.4545588410581236e-09,
+  "promoter_pct_filed": 28.02
+}

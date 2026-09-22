@@ -1,0 +1,143 @@
+{
+  "company": "UltraTech Cement Limited",
+  "isin": "INE481G01011",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1443/ULTRACEMCO/30-06-2026/ultratech-cement-ltd",
+    "https://trendlyne.com/equity/share-holding/1443/ULTRACEMCO/latest/ultratech-cement-ltd",
+    "https://screener.in/company/ULTRACEMCO/consolidated",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/c833e46a-4141-427b-8f23-57286275cd72.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 59.33,
+  "promoter_total_shares_filed": 174829976,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Shri Kumar Mangalam Birla",
+      "shares_filed": 611500,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Smt. Rajashree Birla",
+      "shares_filed": 41793,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Aditya Vikram Kumarmangalam Birla HUF",
+      "shares_filed": 10228,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Advaitesha Birla",
+      "shares_filed": 4300,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ananyashree Birla",
+      "shares_filed": 4300,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Aryaman Vikram Birla",
+      "shares_filed": 4300,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Smt. Neerja Birla",
+      "shares_filed": 8011,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Smt. Vasavadatta Bajaj",
+      "shares_filed": 13396,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Grasim Industries Limited",
+      "shares_filed": 165335150,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pilani Investment and Industries Corporation Limited",
+      "shares_filed": 4405944,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hindalco Industries Limited",
+      "shares_filed": 1258515,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pt. Indo Bharat Rayon",
+      "shares_filed": 2286172,
+      "class": "Foreign Promoter"
+    },
+    {
+      "filed_name": "Thai Rayon Public Co. Ltd",
+      "shares_filed": 219998,
+      "class": "Foreign Promoter"
+    },
+    {
+      "filed_name": "Aditya Birla Real Estate Limited",
+      "shares_filed": 146163,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pt. Sunrise Bumi Textiles",
+      "shares_filed": 144998,
+      "class": "Foreign Promoter"
+    },
+    {
+      "filed_name": "Birla Institute of Technology and Science",
+      "shares_filed": 75566,
+      "class": "Trusts"
+    },
+    {
+      "filed_name": "Pt. Elegant Textile Industry",
+      "shares_filed": 92428,
+      "class": "Foreign Promoter"
+    },
+    {
+      "filed_name": "Padmavati Investment Private Limited",
+      "shares_filed": 56336,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Birla Group Holdings Pvt. Limited",
+      "shares_filed": 69963,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Century Enka Limited",
+      "shares_filed": 40105,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vaibhav Holdings Pvt. Limited",
+      "shares_filed": 76,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vikram Holding Pvt. Limited",
+      "shares_filed": 85,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rajratna Holdings Pvt. Limited",
+      "shares_filed": 76,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "IGH Holdings Private Limited",
+      "shares_filed": 1,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Surya Kiran Investments Pte. Ltd",
+      "shares_filed": 572,
+      "class": "Foreign Promoter"
+    }
+  ]
+}

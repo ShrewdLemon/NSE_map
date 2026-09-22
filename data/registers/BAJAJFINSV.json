@@ -2,23 +2,427 @@
   "ticker": "BAJAJFINSV",
   "company": "Bajaj Finserv Limited",
   "sector": "Financial Services",
-  "isin": "INE918I01018",
+  "isin": "INE918I01026",
   "as_of": "2026-06-30",
   "as_of_label": "Jun/2026",
   "quarters": [
     "Jun/2026"
   ],
-  "shares_scrr": null,
+  "shares_scrr": 1600494000.0,
   "bonus_factor": 1,
   "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
-  "promoter_pct": 58.72,
+  "promoter_pct": 58.71,
   "has_promoter": true,
-  "promoter_group": [],
-  "public_holders": [],
-  "source_urls": [
-    "https://choiceindia.com/stocks/bajaj-finserv-ltd-shareholding-pattern",
-    "https://www.screener.in/company/BAJAJFINSV/consolidated/"
+  "promoter_group": [
+    {
+      "filed_name": "Manish Kejriwal",
+      "shares_filed": 6739380.0,
+      "pct": 0.42,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Suman Jain",
+      "shares_filed": 5783290.0,
+      "pct": 0.36,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kiran Bajaj",
+      "shares_filed": 3925600.0,
+      "pct": 0.25,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sanjivnayan Bajaj",
+      "shares_filed": 3618050.0,
+      "pct": 0.23,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Niraj Bajaj",
+      "shares_filed": 2953150.0,
+      "pct": 0.18,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Geetika Bajaj",
+      "shares_filed": 2479000.0,
+      "pct": 0.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Niravnayan Bajaj",
+      "shares_filed": 2058660.0,
+      "pct": 0.13,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shekhar Bajaj",
+      "shares_filed": 1630260.0,
+      "pct": 0.1,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kumud Bajaj",
+      "shares_filed": 1000000.0,
+      "pct": 0.06,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sanjali Bajaj",
+      "shares_filed": 903690.0,
+      "pct": 0.06,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Siddhantnayan Bajaj",
+      "shares_filed": 903690.0,
+      "pct": 0.06,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kriti Bajaj",
+      "shares_filed": 742000.0,
+      "pct": 0.05,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Pooja Bajaj",
+      "shares_filed": 744360.0,
+      "pct": 0.05,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Minal Bajaj",
+      "shares_filed": 642000.0,
+      "pct": 0.04,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Neelima Bajaj Swamy",
+      "shares_filed": 500000.0,
+      "pct": 0.03,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nimisha Jaipuria",
+      "shares_filed": 514000.0,
+      "pct": 0.03,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shefali Bajaj",
+      "shares_filed": 525990.0,
+      "pct": 0.03,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vanraj Bajaj",
+      "shares_filed": 332360.0,
+      "pct": 0.02,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nirvaan Kejriwal",
+      "shares_filed": 111330.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rishabnayan Bajaj",
+      "shares_filed": 112320.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sheetal Bajaj",
+      "shares_filed": 199000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rajivnayan Bajaj",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deepa Bajaj",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Bajaj Holdings and Investment Limited",
+      "shares_filed": 614832190.0,
+      "pct": 38.41,
+      "holder_class": "Bodies Corporate (Promoter)"
+    },
+    {
+      "filed_name": "Jamnalal Sons Private Limited",
+      "shares_filed": 136700840.0,
+      "pct": 8.54,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Maharashtra Scooters Ltd",
+      "shares_filed": 37932400.0,
+      "pct": 2.37,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Bajaj Sevashram Private Limited",
+      "shares_filed": 26685025.0,
+      "pct": 1.67,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Bachhraj and Company Private Limited",
+      "shares_filed": 23314745.0,
+      "pct": 1.46,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Bachhraj Factories Private Limited",
+      "shares_filed": 10787870.0,
+      "pct": 0.67,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Baroda Industries Private Limited",
+      "shares_filed": 9190010.0,
+      "pct": 0.57,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Niravnayan Bajaj Family Trust (Niraj Bajaj)",
+      "shares_filed": 5500000.0,
+      "pct": 0.34,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Geetika Shekhar Bajaj Trust (Shekhar Bajaj)",
+      "shares_filed": 5245000.0,
+      "pct": 0.33,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Niravnayan Trust (Niraj Bajaj)",
+      "shares_filed": 4355000.0,
+      "pct": 0.27,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nimisha Bajaj Family Trust (Kumud Bajaj)",
+      "shares_filed": 3553700.0,
+      "pct": 0.22,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Neelima Bajaj Family Trust (Kumud Bajaj)",
+      "shares_filed": 3379240.0,
+      "pct": 0.21,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nimisha Jaipuria Family Trust (Nimisha Jaipuria)",
+      "shares_filed": 2382730.0,
+      "pct": 0.15,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Neelima Bajaj Swamy Family Trust (Neelima Bajaj Swamy)",
+      "shares_filed": 2320190.0,
+      "pct": 0.14,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Rahul Securities Pvt Ltd",
+      "shares_filed": 2074000.0,
+      "pct": 0.13,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Rupa Equities Pvt Ltd",
+      "shares_filed": 2011000.0,
+      "pct": 0.13,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Madhur Neelima Family Trust (Kumud Bajaj )",
+      "shares_filed": 1362610.0,
+      "pct": 0.09,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Madhur Nimisha Family Trust (Kumud Bajaj )",
+      "shares_filed": 1362620.0,
+      "pct": 0.09,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Hercules Investments Limited (erstwhile Hercules Hoists Limited)",
+      "shares_filed": 1105630.0,
+      "pct": 0.07,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Aryaman Family Trust (Manish Kejriwal)",
+      "shares_filed": 944000.0,
+      "pct": 0.06,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nirvaan Family Trust (Manish Kejriwal)",
+      "shares_filed": 944000.0,
+      "pct": 0.06,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Madhur Securities Pvt Ltd",
+      "shares_filed": 941000.0,
+      "pct": 0.06,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Kamalnayan Investment & Trading Private Limited",
+      "shares_filed": 900000.0,
+      "pct": 0.06,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Kriti Bajaj Family Trust (Minal Bajaj)",
+      "shares_filed": 1000000.0,
+      "pct": 0.06,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Kumud Neelima Family Trust (Nimisha Jaipuria )",
+      "shares_filed": 862610.0,
+      "pct": 0.05,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Kumud Nimisha Family Trust (Neelima Bajaj Swamy)",
+      "shares_filed": 862610.0,
+      "pct": 0.05,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Shekhar Holdings Pvt Ltd",
+      "shares_filed": 834000.0,
+      "pct": 0.05,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Anant Bajaj Trust (Shekhar Bajaj)",
+      "shares_filed": 405000.0,
+      "pct": 0.03,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Sanjali Family Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 444000.0,
+      "pct": 0.03,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Siddhant Family Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 433000.0,
+      "pct": 0.03,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Niraj Holdings Pvt Ltd",
+      "shares_filed": 244000.0,
+      "pct": 0.02,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Rishab Family Trust (Rajivnayan Bajaj)",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Rishab Trust (Rajivnayan Bajaj)",
+      "shares_filed": 11000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Sanjali Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 11000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Siddhant Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 22000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nirvaan Trust (Sunaina Kejriwal)",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Aryaman Trust (Manish Kejriwal)",
+      "shares_filed": 1220.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Deepa Trust (Niraj Bajaj)",
+      "shares_filed": 11000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Hindustan Housing Company Ltd",
+      "shares_filed": 80000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Nirav Trust (Niraj Bajaj)",
+      "shares_filed": 71000.0,
+      "pct": 0.0,
+      "holder_class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Aryaman Kejriwal",
+      "shares_filed": 111330.0,
+      "pct": 0.01,
+      "holder_class": "Individuals (Foreign / NRI)"
+    }
   ],
-  "notes": "Quarter end 2026-06-30 is the most recent quarter shown on screener.in (Jun 2026 column). Detailed Table II promoter and Table III public-holder names with individual share counts were not located in the aggregated sources I retrieved; only category totals are available. Choice India shows Bajaj Finserv promoter 58.71% / Mutual Fund 8.46% / Insurance 2.83% / FII 6.90% / DII 0.82% / Retail 22.28% as of 09-2026. Screener Jun 2026 column shows Promoters 58.72%, FIIs [cumulative], DIIs [cumulative], Government 0.16%, Public 19.52% (approx). The company's own PDF filing for the quarter ended 30 June 2026 was not directly retrieved from BSE/NSE/Bajaj Finserv IR pages.",
+  "public_holders": [
+    {
+      "holder_name": "ICICI Prudential Nifty50 Equal Weight Index Fund",
+      "shares": 41820615.0,
+      "pct": 2.61,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "shares": 34417888.0,
+      "pct": 2.15,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "LICI ASM Non Par",
+      "shares": 33143234.0,
+      "pct": 2.07,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/147/BAJAJFINSV/latest/bajaj-finserv-ltd",
+    "https://nsearchives.nseindia.com/corporate/BAJAJFINSV_31072026124123_SEInitmationIP.pdf"
+  ],
+  "notes": "Trendlyne data is the source of record for the Reg 31 shareholding pattern as filed. Total_shares_scrr = 1,600,494,000 (derived from 939,649,700 / 0.5871 round-trip; matches Public 22.23% and Institutional 19.01% category math within 0.05% rounding). Promoter group: 23 individuals/HUF + 7 listed bodies corporate including Bajaj Holdings and Investment Ltd as primary promoter (38.41%) + Maharashtra Scooters Ltd, Bachhraj and Company Pvt Ltd, Jamnalal Sons Pvt Ltd, etc. + 20 named family trusts (Niravnayan, Geetika, Nimisha, Neelima, Kumud, Madhur, Sanjali, Siddhant, Rishab, Aryaman, Kriti, Anant, Nirav, Deepa trusts) + 1 foreign individual (Aryaman Kejriwal). Sum of named promoter entries = 939,649,700 (matches aggregate). The 23.4% promoter in FII/FPI Cat plus 1.31% FPI Cat II bucket is consolidated into the 0.01% Foreign Individual Aryaman Kejriwal entry only as a named person; the broader institution totals are not broken down by individual FPI on the trendlyne aggregated view. Public holdings: 3 named entities with >1% holding - 2 mutual fund index/arbitrage schemes and 1 LIC insurer pool - which collectively represent ~6.83% (still short of the 8.46% Mutual Funds + 2.83% Insurance category totals reflecting additional unnamed holders). Bodies Corporate Public bucket includes Jaya Hind Industries Private Limited (3.92%, 62,742,450 shares) but is omitted from named-holders list per instruction to focus on fund/insurer/pension names.",
   "ingested_on": "2026-09-22"
 }

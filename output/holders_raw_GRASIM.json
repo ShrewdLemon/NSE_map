@@ -4,7 +4,7 @@
   "isin": "INE047A01013",
   "as_of": "2026-06-30",
   "shares_scrr": 680548951,
-  "denominator_note": "denominator recovered from 37 count/percentage pairs",
+  "denominator_note": "denominator recovered from 36 count/percentage pairs",
   "quarter_labels": [
     "Jun/2026"
   ],
@@ -50,15 +50,6 @@
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 9803199
-      },
-      "filed_class": null,
-      "doubtful": false
-    },
-    {
-      "holder_name": "Sub -Total (B)(1)",
-      "bloomberg_holder_type": "Individual",
-      "quarters": {
-        "Jun/2026": 109758905
       },
       "filed_class": null,
       "doubtful": false
@@ -154,7 +145,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "1 Kumar Mangalam Birla",
+      "holder_name": "Kumar Mangalam Birla",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 1776589
@@ -163,7 +154,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "2 Neerja Birla",
+      "holder_name": "Neerja Birla",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 75967
@@ -172,7 +163,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "3 Rajashree Birla",
+      "holder_name": "Rajashree Birla",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 574829
@@ -181,7 +172,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "4 Vasavadatta Bajaj",
+      "holder_name": "Vasavadatta Bajaj",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 123249
@@ -199,7 +190,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "6 Ananyashree Birla",
+      "holder_name": "Ananyashree Birla",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 36800
@@ -208,7 +199,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "7 Aryaman Vikram Birla",
+      "holder_name": "Aryaman Vikram Birla",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 36800
@@ -217,7 +208,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "8 Advaitesha Birla",
+      "holder_name": "Advaitesha Birla",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 36800
@@ -226,7 +217,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "1 Birla Consultants Limited",
+      "holder_name": "Birla Consultants Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 90856
@@ -235,7 +226,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "2 Birla Industrial Finance (India) Limited",
+      "holder_name": "Birla Industrial Finance (India) Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 90962
@@ -244,7 +235,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "3 Birla Industrial Investments (India) Limited",
+      "holder_name": "Birla Industrial Investments (India) Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 19400
@@ -253,7 +244,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "4 Hindalco Industries Limited",
+      "holder_name": "Hindalco Industries Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 29168472
@@ -262,7 +253,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "5 Birla Group Holdings Private Limited",
+      "holder_name": "Birla Group Holdings Private Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 157782973
@@ -271,7 +262,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "6 Rajratna Holdings Private Limited",
+      "holder_name": "Rajratna Holdings Private Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 697
@@ -280,7 +271,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "7 Vikram Holdings Pvt Ltd",
+      "holder_name": "Vikram Holdings Pvt Ltd",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 781
@@ -289,7 +280,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "8 Vaibhav Holdings Private Limited",
+      "holder_name": "Vaibhav Holdings Private Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 697
@@ -298,7 +289,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "9 Birla Institute of Technology and Science",
+      "holder_name": "Birla Institute of Technology and Science",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 661205
@@ -307,7 +298,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "10 Pilani Investment and Industries",
+      "holder_name": "Pilani Investment and Industries",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 30335623
@@ -316,7 +307,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "11 Renuka Ventures Limited",
+      "holder_name": "Renuka Ventures Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 250302
@@ -325,7 +316,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "12 IGH Holdings Private Limited",
+      "holder_name": "IGH Holdings Private Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 45195313
@@ -334,7 +325,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "1 P.T. Indo Bharat Rayon",
+      "holder_name": "P.T. Indo Bharat Rayon",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 20004020
@@ -343,7 +334,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "2 PT. Sunrise Bumi Textiles",
+      "holder_name": "PT. Sunrise Bumi Textiles",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 1268750
@@ -352,7 +343,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "3 PT. Elegant Textile Industry",
+      "holder_name": "PT. Elegant Textile Industry",
       "bloomberg_holder_type": "Individual",
       "quarters": {
         "Jun/2026": 808750
@@ -361,7 +352,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "4 Thai Rayon Public Company Limited",
+      "holder_name": "Thai Rayon Public Company Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 4774666
@@ -370,7 +361,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "5 Surya Kiran Investments Pte Limited",
+      "holder_name": "Surya Kiran Investments Pte Limited",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 5000
@@ -379,7 +370,7 @@
       "doubtful": false
     },
     {
-      "holder_name": "6 Anatole Investments Pte Ltd",
+      "holder_name": "Anatole Investments Pte Ltd",
       "bloomberg_holder_type": "Institution",
       "quarters": {
         "Jun/2026": 4459323
@@ -403,6 +394,6 @@
   "notes": "Parsed from the filed SEBI Regulation 31 shareholding pattern.",
   "corrections": [],
   "promoter_reconciliation": "unreconciled",
-  "promoter_drift": -0.14564887183206215,
+  "promoter_drift": -0.5143730514992516,
   "promoter_pct_filed": 43.74
 }

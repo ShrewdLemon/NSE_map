@@ -1,0 +1,111 @@
+{
+  "company": "Hindustan Unilever Limited",
+  "ticker": "HINDUNILVR",
+  "isin": "INE030A01027",
+  "as_of": "2026-06-30",
+  "shares_scrr": 2349591262.0,
+  "denominator_note": "stated denominator agrees with 10 of 10 holders to 0.004%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "UNILEVER PLC",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1114370148
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UNILEVER GROUP HOLDINGS LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 106739460
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UNILEVER OVERSEAS HOLDINGS AG",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 68784320
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UNILEVER UK&CN HOLDINGS LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 60086250
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UNILEVER SOUTH INDIA ESTATES LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 52747200
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UNILEVER ASSAM ESTATES LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 32820480
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UNILEVER OVERSEAS HOLDINGS B V",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 18865000
+      },
+      "filed_class": "Bodies Corporate (Foreign Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential India Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 41815213
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Equity Minimum Variance Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 37746799
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 154902720
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/560/HINDUNILVR/latest/hindustan-unilever-ltd"
+  ],
+  "notes": "Quarter ended 30 June 2026 (Trendlyne Jun 2026 latest); HUL IR past-quarters-2026 archive page (805d6fd1) lists 'MQ 2026 - Shareholding Pattern for the past quarter' at /files/mq-2026-shareholding-pattern-for-the-past-quarter.pdf (March 2026 PDF, 158.3 KB) but the underlying PDF body did not extract in a rendered browser (chrome extension iframe). Trendlyne's June 2026 figures are the ones presented here; they are cross-validated against HUL's March 2026 PDF (ca2ac176) which confirms the identical promoter block (same 7 Unilever entities with same share counts 1,114,370,148 / 106,739,460 / 68,784,320 / 60,086,250 / 52,747,200 / 32,820,480 / 18,865,000 = 1,454,412,858). Total SCRR = (A)+(B)+(C2) = 1,454,412,858 + 895,178,404 + 0 = 2,349,591,262 (no DR custodian; no employee trust). The Unilever entities are foreign promoter group members listed under Table II category 'Bodies Corporate / Any Other'. ISIN INE030A01027 confirmed via NSE Archive Axis AMC portfolio (5ade50d0) and HUL IR PDF (ca2ac176 lists NSE Symbol HINDUNILVR, ISIN INE030A01027, Scrip 500696).",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 1.0909553647505313e-05,
+  "promoter_pct_filed": 61.9
+}

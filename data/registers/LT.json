@@ -91,6 +91,6 @@
   "source_urls": [
     "https://investors.larsentoubro.com/ShareholdingPattern.aspx"
   ],
-  "notes": "Larsen & Toubro has no promoter (L&T is a professionally managed company). Quarter ended 30 June 2026. Total SCRR shares = (A)+(B)+(C2) = 0 + 1,363,411,493 + 0 = 1,363,411,493; an additional 12,317,685 DR (Citibank N.A. NY ADR) shares under (C1) are excluded from the SCRR denominator. Filing is publicly available from L&T Investor Relations website. ISIN not stated on extracted page but is well-known for L&T as INE018A01030.",
+  "notes": "L&T is professionally managed with no identifiable promoter (per IR page Table I: '(A) Promoter & Promoter Group | 0 | 0 | 0 | 0 | 0 | 0.00 | 0 | 0.00 | 0'). Total SCRR equity = (A) + (B) + (C2) = 0 + 1,363,411,493 + 0 = 1,363,411,493; an additional 12,317,685 DR (CITIBANK N.A. NEW YORK, NYADR DEPARTMENT) shares under (C1) are EXCLUDED from the SCRR denominator per SEBI Regulation 31. (B) Public = 1,795,248 holders. Banks NBFCs, FII sub-cat I, FII Cat II, etc. are below 1% individually. The above-1% named public holders capture every entity required under Reg 31.",
   "ingested_on": "2026-09-22"
 }

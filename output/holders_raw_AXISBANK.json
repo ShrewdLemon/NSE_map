@@ -1,0 +1,310 @@
+{
+  "company": "Axis Bank Limited",
+  "ticker": "AXISBANK",
+  "isin": "INE238A01034",
+  "as_of": "2026-06-30",
+  "shares_scrr": 310908880952,
+  "denominator_note": "stated 3,110,778,129 backed by 0 holders, implied 310,908,880,952 by 19; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "LIFE INSURANCE CORPORATION OF INDIA",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 244860645
+      },
+      "filed_class": "Insurance Company (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC Pension Fund Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC Card Services Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC (Singapore) Pte Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC (Nepal) Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC(International) BSC (c) Bahrain",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC (Lanka) Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC Bangladesh Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC Housing Finance Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC HFL Asset Management Company Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC Mutual Fund Asset Management Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LIC Mutual Fund Trustee Company Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Insurance Group (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "IDBI Bank Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bank (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "IDBI Trusteeship Services Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bank (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 179703834
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 162856558
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 151842080
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIPPON Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 109026873
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS TRUST - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 102310219
+      },
+      "filed_class": "Pension/Provident Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "THE BANK OF NEW YORK MELLON",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 96096470
+      },
+      "filed_class": "Overseas Depository",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UTI Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 58090514
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "DODGE AND COX INTERNATIONAL STOCK FUND",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 57718650
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "GOVERNMENT PENSION FUND GLOBAL",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 57654680
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "GOVERNMENT OF SINGAPORE",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 49578669
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KOTAK Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 48072944
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "DSP Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 43645553
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI LIFE INSURANCE CO. LTD",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 42192622
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Birla Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 39174519
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Parag Parikh Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 36423887
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mirae Asset Mutual Fund - Through its various Schemes",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 35977419
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 33761498
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VANGUARD EMERGING MARKETS STOCK INDEX FUND, A SERI",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 31958815
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=AXISBANK"
+  ],
+  "notes": "Q1 FY27 SHP filed 13-Jul-2026. pr_and_prgrp=7.87%, public=92.13%. SCRR-denominator (A+B+C2)=3,110,778,129 equity shares. Filing's 'Promoter' = LIC group: LIFE INSURANCE CORPORATION OF INDIA = 7.87%; 13 LIC-group entities listed with 0 shares (LIC Pension Fund, LIC Card Services, LIC Singapore, LIC Nepal, LIC International Bahrain, LIC Lanka, LIC Bangladesh, LIC Housing Finance, LIC HFL AMC, LIC MF AMC, LIC MF Trustee, IDBI Bank, IDBI Trusteeship Services). 96,096,470 shares (3.09%) underlying outstanding GDRs held by THE BANK OF NEW YORK MELLON (custodian/DR-holder) \u2014 excluded from (A)+(B)+(C2). ESOP outstanding shown under 'Resident individuals upto Rs 2 lakhs'. Public named: 10 Mutual Funds (top ICICI Prudential 5.78%, SBI 5.24%, HDFC 4.88%, Nippon 3.50%, UTI 1.87%, Kotak 1.55%, DSP 1.40%, Aditya Birla 1.26%, Parag Parikh 1.17%, Mirae Asset 1.16%) + NPS Trust - UTI Pension Fund 3.29% + SBI Life Insurance Co 1.36% + 5 FPI Cat I (Dodge & Cox Intl 1.86%, GIC Singapore 1.59%, Government Pension Fund Global 1.85%, Vanguard Total Intl 1.09%, Vanguard Emerging Markets 1.03%) + FOREIGN INSTITUTIONAL INVESTORS 39k shares (legacy).",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.000716658084640236,
+  "promoter_pct_filed": 0.0787
+}

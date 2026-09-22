@@ -1,0 +1,40 @@
+{
+  "company": "Tata Consultancy Services Limited",
+  "isin": "INE467B01029",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1372/TCS/latest/tata-consultancy-services-ltd"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 71.77,
+  "promoter_total_shares_filed": 2596558628,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Tata sons private limited",
+      "shares_filed": 2595499419,
+      "class": "Bodies Corporate (Promoter)"
+    },
+    {
+      "filed_name": "Tata investment corporation limited",
+      "shares_filed": 1004425,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Tata industries limited",
+      "shares_filed": 7220,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Tata steel limited",
+      "shares_filed": 46798,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "The tata power company limited",
+      "shares_filed": 766,
+      "class": "Bodies Corporate (Promoter Group)"
+    }
+  ]
+}

@@ -1,20 +1,193 @@
 {
   "company": "Dr. Reddy's Laboratories Limited",
   "ticker": "DRREDDY",
-  "isin": "INE089A01023",
+  "isin": "INE089A01031",
   "as_of": "2026-06-30",
-  "shares_scrr": null,
-  "denominator_note": "no holder published both a count and a percentage",
+  "shares_scrr": 834669070.0,
+  "denominator_note": "stated denominator agrees with 13 of 14 holders to 0.027%",
   "quarter_labels": [
     "Jun/2026"
   ],
-  "holders": [],
-  "source_urls": [
-    "https://www.screener.in/company/DRREDDY/consolidated/"
+  "holders": [
+    {
+      "holder_name": "Kallam Satish Reddy HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 27618385
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gunupati Venkateswara Prasad HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 12717090
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Satish Reddy Kallam",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10107505
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Anuradha Gunupati",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 46025
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Deepti Reddy Kallam",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 25700
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "G Vani Sanjana Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 25700
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gunupati Mallika Reddy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 25695
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Parvathi Gunupati",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10800
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sharathchandra Reddy Gunupati",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 13000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "GVP Family Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 96095920
+      },
+      "filed_class": "Trusts",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VSD Family Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 75630620
+      },
+      "filed_class": "Trusts",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Value Discovery Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 36842838
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C-Nippon India Nifty 50 Value 20 Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15682948
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Parag Parikh Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 14706891
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Nifty Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11960032
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9038674
+      },
+      "filed_class": "FPI",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India P & GS Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 101502343
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "J P Morgan Chase Bank NA",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 95244276
+      },
+      "filed_class": "FPI (ADR Custodian)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust-A/C SBI Pension Fund Scheme Tax Saver-Tier 2",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 26274811
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    }
   ],
-  "notes": "Dr Reddy's is one of the Indian pharma companies whose founder family (Reddy family) holds promoter shares. Screener Jun 2026 column shows Promoters 26.63%, FIIs 20.67%, DIIs 31.75%, Others 0.20%, Public 20.76%. Detailed Table II promoter group member names with individual share counts and Table III named mutual fund / insurer / FPI shareholders above 1% were not retrieved \u2014 the company's own filed PDF for the quarter ended 30 June 2026 was not directly located on drreddys.com or via BSE/NSE archives during this run. Total_shares_scrr is null because the exact denominator is not in the captured source.",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/346/DRREDDY/latest/dr-reddy-s-laboratories-ltd",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f95f2cb6-32dc-4c4a-8a34-74a8e4a8e050.pdf"
+  ],
+  "notes": "Trendlyne data is the source of record for the Reg 31 shareholding pattern as filed. Total_shares_scrr = 83,46,69,070 (post ESOP allotment of 12,100 shares on June 5, 2026 per BSE disclosure of Dr. Reddy's, less 1,000 forfeited shares). Verification: 222,316,440 / 83,46,69,070 = 26.641% rounds to 26.64%. Promoter group includes 7 HUFs (incl. Kallam Satish Reddy HUF, GVP HUF, Satish Reddy Kallam, smaller family members plus 2 family trusts (GVP and VSD) that together hold 100% of promoter stake. Following SEBI Order WTM/ASB/CFD/16/2024-25 of 31 Dec 2024, family shareholdings were transferred to these trusts on Sept 17, 2025 (no change in aggregate promoter holding). Names in Table II reproduced verbatim from trendlyne's named-entrant listing. Public holders include 4 named mutual fund schemes, 1 FPI (Government Pension Fund Global), 1 LIC insurance fund, 1 ADR custodian (JP Morgan Chase Bank NA holding underlying ADRs), and 1 NPS pension scheme. JP Morgan Chase Bank NA 9.5244276 cr shares is the ADR custodian for NYSE-listed ADRs - categorized here as FPI/ADR Custodian based on filings, though trendlyne displayed it within Insurance block; the Insurance 15.24% / 127,186,273 share category total already accounts for LIC P&GS at 12.16%. Subscriber Receipts from deposits / mutual fund units are not separately disclosed in this filing.",
   "corrections": [],
-  "promoter_reconciliation": "unchecked",
-  "promoter_drift": null,
-  "promoter_pct_filed": 26.63
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -0.00017719457224996425,
+  "promoter_pct_filed": 26.64
 }

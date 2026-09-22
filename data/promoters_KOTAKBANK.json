@@ -1,0 +1,56 @@
+{
+  "company": "Kotak Mahindra Bank Limited",
+  "isin": "INE237A01028",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/758/KOTAKBANK/latest/kotak-mahindra-bank-ltd/",
+    "https://www.kotak.bank.in/en/investor-relations/investor-information/share-holding-pattern.html"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 25.87,
+  "promoter_total_shares_filed": 2573201985,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Uday Suresh Kotak",
+      "shares_filed": 2555135500,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Indira Suresh Kotak",
+      "shares_filed": 10000000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Pallavi Kotak",
+      "shares_filed": 5557900,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Suresh A Kotak (HUF)",
+      "shares_filed": 550000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Suresh Amritlal Kotak",
+      "shares_filed": 500000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Janak Dinkarrai Desai",
+      "shares_filed": 5,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kotak Trustee Company Private Limited",
+      "shares_filed": 1171780,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Aarti Neal Chandaria",
+      "shares_filed": 286800,
+      "class": "Individuals/HUF"
+    }
+  ]
+}

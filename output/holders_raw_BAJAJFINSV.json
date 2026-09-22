@@ -1,21 +1,625 @@
 {
   "company": "Bajaj Finserv Limited",
   "ticker": "BAJAJFINSV",
-  "isin": "INE918I01018",
+  "isin": "INE918I01026",
   "as_of": "2026-06-30",
-  "shares_scrr": null,
-  "denominator_note": "no holder published both a count and a percentage",
+  "shares_scrr": 1600494000.0,
+  "denominator_note": "stated denominator agrees with 12 of 56 holders to 0.013%",
   "quarter_labels": [
     "Jun/2026"
   ],
-  "holders": [],
-  "source_urls": [
-    "https://choiceindia.com/stocks/bajaj-finserv-ltd-shareholding-pattern",
-    "https://www.screener.in/company/BAJAJFINSV/consolidated/"
+  "holders": [
+    {
+      "holder_name": "Manish Kejriwal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6739380
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Suman Jain",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5783290
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kiran Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3925600
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sanjivnayan Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3618050
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Niraj Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2953150
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Geetika Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2479000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Niravnayan Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2058660
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shekhar Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1630260
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kumud Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1000000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sanjali Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 903690
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Siddhantnayan Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 903690
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kriti Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 742000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pooja Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 744360
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Minal Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 642000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Neelima Bajaj Swamy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 500000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nimisha Jaipuria",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 514000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shefali Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 525990
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vanraj Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 332360
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nirvaan Kejriwal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 111330
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rishabnayan Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 112320
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sheetal Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 199000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rajivnayan Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Deepa Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Bajaj Holdings and Investment Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 614832190
+      },
+      "filed_class": "Bodies Corporate (Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Jamnalal Sons Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 136700840
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Maharashtra Scooters Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 37932400
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Bajaj Sevashram Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 26685025
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Bachhraj and Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 23314745
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Bachhraj Factories Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10787870
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Baroda Industries Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9190010
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Niravnayan Bajaj Family Trust (Niraj Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5500000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Geetika Shekhar Bajaj Trust (Shekhar Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5245000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Niravnayan Trust (Niraj Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4355000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nimisha Bajaj Family Trust (Kumud Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3553700
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Neelima Bajaj Family Trust (Kumud Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3379240
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nimisha Jaipuria Family Trust (Nimisha Jaipuria)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2382730
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Neelima Bajaj Swamy Family Trust (Neelima Bajaj Swamy)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2320190
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rahul Securities Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2074000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rupa Equities Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2011000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Madhur Neelima Family Trust (Kumud Bajaj )",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1362610
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Madhur Nimisha Family Trust (Kumud Bajaj )",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1362620
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hercules Investments Limited (erstwhile Hercules Hoists Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1105630
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aryaman Family Trust (Manish Kejriwal)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 944000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nirvaan Family Trust (Manish Kejriwal)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 944000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Madhur Securities Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 941000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kamalnayan Investment & Trading Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 900000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kriti Bajaj Family Trust (Minal Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1000000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kumud Neelima Family Trust (Nimisha Jaipuria )",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 862610
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kumud Nimisha Family Trust (Neelima Bajaj Swamy)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 862610
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shekhar Holdings Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 834000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Anant Bajaj Trust (Shekhar Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 405000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sanjali Family Trust (Sanjivnayan Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 444000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Siddhant Family Trust (Sanjivnayan Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 433000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Niraj Holdings Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 244000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rishab Family Trust (Rajivnayan Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rishab Trust (Rajivnayan Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sanjali Trust (Sanjivnayan Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Siddhant Trust (Sanjivnayan Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 22000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nirvaan Trust (Sunaina Kejriwal)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aryaman Trust (Manish Kejriwal)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1220
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Deepa Trust (Niraj Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hindustan Housing Company Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 80000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nirav Trust (Niraj Bajaj)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 71000
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aryaman Kejriwal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 111330
+      },
+      "filed_class": "Individuals (Foreign / NRI)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Nifty50 Equal Weight Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 41820615
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 34417888
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LICI ASM Non Par",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 33143234
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
   ],
-  "notes": "Quarter end 2026-06-30 is the most recent quarter shown on screener.in (Jun 2026 column). Detailed Table II promoter and Table III public-holder names with individual share counts were not located in the aggregated sources I retrieved; only category totals are available. Choice India shows Bajaj Finserv promoter 58.71% / Mutual Fund 8.46% / Insurance 2.83% / FII 6.90% / DII 0.82% / Retail 22.28% as of 09-2026. Screener Jun 2026 column shows Promoters 58.72%, FIIs [cumulative], DIIs [cumulative], Government 0.16%, Public 19.52% (approx). The company's own PDF filing for the quarter ended 30 June 2026 was not directly retrieved from BSE/NSE/Bajaj Finserv IR pages.",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/147/BAJAJFINSV/latest/bajaj-finserv-ltd",
+    "https://nsearchives.nseindia.com/corporate/BAJAJFINSV_31072026124123_SEInitmationIP.pdf"
+  ],
+  "notes": "Trendlyne data is the source of record for the Reg 31 shareholding pattern as filed. Total_shares_scrr = 1,600,494,000 (derived from 939,649,700 / 0.5871 round-trip; matches Public 22.23% and Institutional 19.01% category math within 0.05% rounding). Promoter group: 23 individuals/HUF + 7 listed bodies corporate including Bajaj Holdings and Investment Ltd as primary promoter (38.41%) + Maharashtra Scooters Ltd, Bachhraj and Company Pvt Ltd, Jamnalal Sons Pvt Ltd, etc. + 20 named family trusts (Niravnayan, Geetika, Nimisha, Neelima, Kumud, Madhur, Sanjali, Siddhant, Rishab, Aryaman, Kriti, Anant, Nirav, Deepa trusts) + 1 foreign individual (Aryaman Kejriwal). Sum of named promoter entries = 939,649,700 (matches aggregate). The 23.4% promoter in FII/FPI Cat plus 1.31% FPI Cat II bucket is consolidated into the 0.01% Foreign Individual Aryaman Kejriwal entry only as a named person; the broader institution totals are not broken down by individual FPI on the trendlyne aggregated view. Public holdings: 3 named entities with >1% holding - 2 mutual fund index/arbitrage schemes and 1 LIC insurer pool - which collectively represent ~6.83% (still short of the 8.46% Mutual Funds + 2.83% Insurance category totals reflecting additional unnamed holders). Bodies Corporate Public bucket includes Jaya Hind Industries Private Limited (3.92%, 62,742,450 shares) but is omitted from named-holders list per instruction to focus on fund/insurer/pension names.",
   "corrections": [],
-  "promoter_reconciliation": "unchecked",
-  "promoter_drift": null,
-  "promoter_pct_filed": 58.72
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -3.484275958380695e-07,
+  "promoter_pct_filed": 58.71
 }

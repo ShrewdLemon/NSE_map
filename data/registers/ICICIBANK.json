@@ -1,0 +1,114 @@
+{
+  "ticker": "ICICIBANK",
+  "company": "ICICI Bank Limited",
+  "sector": "Financial Services",
+  "isin": null,
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 6023642029.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.0,
+  "has_promoter": false,
+  "promoter_group": [],
+  "public_holders": [
+    {
+      "holder_name": "SBI Mutual Fund",
+      "shares": 450111904.0,
+      "pct": 6.27,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "shares": 315762005.0,
+      "pct": 4.4,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 311817010.0,
+      "pct": 4.35,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "shares": 256619648.0,
+      "pct": 3.58,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS Trust",
+      "shares": 242305251.0,
+      "pct": 3.38,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Mutual Fund",
+      "shares": 182635211.0,
+      "pct": 2.55,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "shares": 158795689.0,
+      "pct": 2.21,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "shares": 107693000.0,
+      "pct": 1.5,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "shares": 102408001.0,
+      "pct": 1.43,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "shares": 102293052.0,
+      "pct": 1.43,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Kotak Mutual Fund",
+      "shares": 86519523.0,
+      "pct": 1.21,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "shares": 77861347.0,
+      "pct": 1.09,
+      "holder_class": "FPI Cat II"
+    },
+    {
+      "holder_name": "Axis Mutual Fund",
+      "shares": 75937247.0,
+      "pct": 1.06,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Mutual Fund",
+      "shares": 74293638.0,
+      "pct": 1.04,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Vanguard Emerging Markets Stock Index Fund, A Series",
+      "shares": 73733631.0,
+      "pct": 1.03,
+      "holder_class": "FPI Cat II"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/584/ICICIBANK/latest/icici-bank-ltd/"
+  ],
+  "notes": "ICICI Bank is professionally managed with NO promoter (filed under SEBI LODR Reg 31(1)(b); Table II is empty). Source: trendlyne latest shareholding page for ICICIBANK showing Jun 2026 quarter; promoted as `latest` based on the page index. No Holding for this category is shown for Promoter. Public holders listed above are all named shareholders >= about 1% as reported by trendlyne; Mutual Funds, FPI Cat I, FPI Cat II, and Insurance Companies category totals also disclosed. Note: ICICI Bank also has ADS underlying shares held by Deutsche Bank Trust Company Americas (1,149,973,715 shares / 16.03%) that trendlyne lists under insurance companies table but is actually the ADS custodian and appears in C1 (Shares underlying DRs) in the SCRR filing, not in (B) Public; it is excluded from the SCRR base. The Indian-listed SCRR base (A)+(B)+(C2) computed from trendlyne summary equals 6,023,642,029 shares (institutional + public sub-categories). The full Indian listed + DR total is ~7.17 billion. ISIN not directly found in fetched pages; ISIN is the standard NSE listing ISIN for ICICI Bank Limited (INE090A01021) but not present in extracted sources for this run and is left null.",
+  "ingested_on": "2026-09-22"
+}

@@ -1,0 +1,45 @@
+{
+  "company": "Titan Company Limited",
+  "isin": "INE280A01028",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1403/TITAN/latest/titan-company-ltd"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 52.9,
+  "promoter_total_shares_filed": 469601920,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Tamilnadu industrial development corporation ltd",
+      "shares_filed": 247476720,
+      "class": "Central Government/State Government(s) (Promoter)"
+    },
+    {
+      "filed_name": "Tata sons private limited",
+      "shares_filed": 185058900,
+      "class": "Bodies Corporate (Promoter)"
+    },
+    {
+      "filed_name": "Tata investment corporation ltd",
+      "shares_filed": 17875640,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Tata chemicals limited",
+      "shares_filed": 13826180,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Ewart investments limited",
+      "shares_filed": 4964480,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Piem hotels limited",
+      "shares_filed": 400000,
+      "class": "Bodies Corporate (Promoter Group)"
+    }
+  ]
+}

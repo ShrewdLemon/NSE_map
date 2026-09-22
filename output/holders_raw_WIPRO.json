@@ -1,0 +1,136 @@
+{
+  "company": "Wipro Limited",
+  "ticker": "WIPRO",
+  "isin": "INE075A01022",
+  "as_of": "2026-06-30",
+  "shares_scrr": 9899515631,
+  "denominator_note": "stated 9,665,069,035 backed by 1 holders, implied 9,899,515,631 by 7; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Azim H Premji",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 407860044
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rishad Azim Premji",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 12775239
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tariq Azim Premji",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 12492749
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Yasmeen A Premji",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4830432
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr Azim Hasham Premji Partner Representing Zash Traders",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2078093874
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr Azim Hasham Premji Partner Representing Prazim Traders",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2038614716
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mr Azim Hasham Premji Partner Representing Hasham Traders",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1780547328
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Azim Premji Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 642061825
+      },
+      "filed_class": "Trusts",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Prazim Trading and Investment Company Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 182797240
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Azim Premji Philanthropic Initiatives Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 26163172
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hasham Investment and Trading Co Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2559153
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India - LIC Index Plus Flexi Smart Growth Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 266202884
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1526/WIPRO/30-06-2026/wipro-ltd",
+    "https://trendlyne.com/equity/share-holding/1526/WIPRO/latest/wipro-ltd",
+    "https://screener.in/company/WIPRO/consolidated",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/08800bd4-a488-4593-8cfb-da456e1c55af.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/fd5b32d4-517c-45de-8ed8-f34783641709.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/0002c528-5c64-4bb5-a1f0-fdf82d27831806.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/846d0011-866a-4a47-a920-75dae1923c370b.pdf",
+    "https://nsearchives.nseindia.com/corporate/wipro_secretarial_15042026082838_reg30seintimation_f1f21f57.pdf"
+  ],
+  "notes": "Source: trendlyne.com aggregator view of June 2026 quarter SEBI LODR Reg 31 shareholding pattern. Trendlyne surfaces only one named public-holder row for this quarter - LIC Index Plus Flexi Smart Growth Fund. The filing's full Table III names 87 mutual fund schemes, 1,377 FPI Cat I, 95 FPI Cat II, 80 other foreign institutions, 8 banks/FIs, 6 insurance companies (LIC entities - Index Flexi Smart Growth, New Endowment Plus-Secured Fund, etc.), 4,11,532 resident individuals <=Rs 2L, 11 individuals >Rs 2L, 7,847 NRIs, 5,272 bodies corporate, 5 trusts, 2 qualified institutional buyers, 81 foreign nationals, 1 clearing member. Wipro has ADRs (NYSE: WIT) with each ADR representing 1 equity share; the ADR underlying is deposited with JP Morgan Chase Bank NA as depositary and reflected in (C1) Non Promoter-Non Public, therefore excluded from the (A)+(B)+(C2) SCRR denominator. June 2026 quarter reflects the June 2026 buyback completion: 60 crore equity shares extinguished (post-buyback ISC = 9,903,549,797 shares); pre-buyback ISC was 10,503,549,797. Post-buyback ADR underlying ~238,480,762 shares imply SCRR denominator (excl ADR) = 9,903,549,797 - 238,480,762 = 9,665,069,035. Promoter percent and shares above are as printed by trendlyne against filed shares and treasury/buyback-shifted capital; shares_filed in this table are the Filed in last quarter column values (which appear unchanged from the pre-buyback filing since holdings are tracked to record date).",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.0003809286407158649,
+  "promoter_pct_filed": 72.59
+}

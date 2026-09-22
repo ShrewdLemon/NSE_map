@@ -1,0 +1,904 @@
+{
+  "company": "Bajaj Auto Limited",
+  "ticker": "BAJAJ-AUTO",
+  "isin": "INE917I01010",
+  "as_of": "2026-06-30",
+  "shares_scrr": 28048938462,
+  "denominator_note": "stated 279,497,838 backed by 0 holders, implied 28,048,938,462 by 14; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "BAJAJ HOLDINGS AND INVESTMENT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 95547251
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "JAMNALAL SONS PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 25960841
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MAHARASHTRA SCOOTERS LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 6927794
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ SEVASHRAM PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4408288
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BACHHRAJ AND COMPANY PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3646362
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "YAMUNA TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3615269
+      },
+      "filed_class": "Trust (PG)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BACHHRAJ FACTORIES PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1937254
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BARODA INDUSTRIES PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1650423
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SUMAN JAIN",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1047008
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MANISH KEJRIWAL",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 842471
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAVNAYAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 790066
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RAJIVNAYAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 745001
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MINAL BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 664743
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAJ BAJAJ (NIRAVNAYAN TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 518005
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NEELIMA BAJAJ SWAMY (NEELIMA BAJAJ SWAMY FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 455811
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIMISHA JAIPURIA (NIMISHA JAIPURIA FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 452292
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MADHUR BAJAJ (NIMISHA BAJAJ FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 440211
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "DEEPA BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 424904
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KUMUD BAJAJ (NEELIMA BAJAJ FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 401081
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KUMUD BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 395122
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RISHABNAYAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 366336
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RUPA EQUITIES PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 336803
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RAHUL SECURITIES PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 320600
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIVNAYAN BAJAJ ( SANJALI FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216329
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRVAAN KEJRIWAL",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 209760
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIVNAYAN BAJAJ (SIDDHANT FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 202354
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIMISHA JAIPURIA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 200991
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIVNAYAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 200000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NEELIMA BAJAJ SWAMY",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 197561
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MANISH KEJRIWAL (ARYAMAN FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 197561
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HERCULES IINVESTMENTS LIMITED (Formerly Known as Hercules Hoists Limited )",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 182590
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KUMUD BAJAJ (MADHUR NEELIMA FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 174584
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KUMUD BAJAJ (MADHUR NIMISHA FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 174584
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MADHUR BAJAJ ( KUMUD NEELIMA FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 174583
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MADHUR BAJAJ ( KUMUD NIMISHA FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 174583
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SHEFALI BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 171120
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "POOJA BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 163321
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAV TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 162700
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SUNAINA KEJRIWAL (NIRVAAN FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 158049
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAJ BAJAJ (NIRAVNAYAN BAJAJ FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 148171
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MINAL NIRAJ BAJAJ (KRITI BAJAJ FAMILY TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 148171
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SIDDHANTNAYAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 142000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJALI BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 142000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KIRAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 133671
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIV TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 131126
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RAJIV TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 131000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KAMALNAYAN INVESTMENT &amp; TRADING PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 130588
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ LIFE INSURANCE LIMITED ( Formely Known as Bajaj Allianz Life Insurance Company Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 125000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ANANT BAJAJ TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 123233
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ARYAN BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 100000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MADHUR SECURITIES PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 78432
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAJ HOLDINGS PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 72987
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SHEKHAR HOLDINGS PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 62232
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANRAJ NAYAN INVESTMENTS PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 59269
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAJ BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 42103
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "THE HINDUSTAN HOUSING COMPANY LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 20547
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VANRAJ BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 13822
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SHEKHAR BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6020
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIVNAYAN BAJAJ (SIDDHANT TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RAJIVNAYAN BAJAJ (RISHAB TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NIRAJ BAJAJ (DEEPA TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIVNAYAN BAJAJ (SANJALI TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SUNAINA KEJRIWAL (NIRVAAN TRUST)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 200
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ARYAMAN TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 200
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ FINANCE LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 150
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VIHAAN JAIPURIA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SHEETAL BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "GEETIKA BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "AARAV SWAMY",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RISHAB FAMILY TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ TRADING COMPANY",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RAJIVNAYAN BAJAJ HUF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANJIVNAYAN BAJAJ HUF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ INTERNATIONAL PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ROSE REALTORS PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "EMERALD ACRES PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SANKALP RESORTS PVT LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HIND MUSAFIR AGENCY LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "GEETIKA SHEKHAR BAJAJ TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VANRAJ BAJAJ TRUST",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ INTEGRATED HEALTH SYSTEM PVT LTD (formerly known as Bajaj Vitality Pvt Ltd)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "INDEF MANUFACTURING LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ARYAN NAYAN REALTY LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RDR VENTURES LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ FINSERV LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BAJAJ AUTO HOLDINGS LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SRB &amp; Family LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "DRR &amp; Family LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NRB &amp; Family LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SRJB Family LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SNRS Family LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LICI ULIP-GROWTH FUND",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13639328
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "JAYA HIND INDUSTRIES PRIVATE LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9949160
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC MUTUAL FUND-HDFC HYBRID DEBT FUND",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4468974
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI NIFTY 50 EQUAL WEIGHT INDEX FUND",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3781840
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2815667
+      },
+      "filed_class": "Pension/Provident Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "KRITI BAJAJ",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 486810
+      },
+      "filed_class": "NRI / Foreign Individual",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ARYAMAN KEJRIWAL",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 209759
+      },
+      "filed_class": "NRI / Foreign Individual",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696379_20072026090038_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJAJ-AUTO"
+  ],
+  "notes": "Q1 FY27 SHP filed 20-Jul-2026. pr_and_prgrp=55.01%, public=44.99%. SCRR-denominator (A+B+C2)=279,497,838 equity shares. GDR issued (Overseas Depositories axis = 225 underlying shares \u2014 de minimis). 91 promoter named entries (Bajaj Holdings & Investment 34.19%, Jamnalal Sons 9.29%, Maharashtra Scooters 2.48%, Bajaj Sevashram 1.58%, Bachhraj & Co 1.30%, 60 other body corporates + Yamuna Trust 1.29% + 25 promoter Individuals/HUF). Many family members hold 1-100 shares each; Bajaj family total promoter ~55%. Public named: LICI ULIP-Growth Fund 4.88% + Jaya Hind Industries Private Ltd 3.56% (Bodies Corporate Public) + HDFC MF - HDFC Hybrid Debt Fund 1.60% + SBI NIFTY 50 Equal Weight Index Fund 1.35% + NPS Trust A/C UTI Pension 1.01% + Kriti Bajaj (NRI) + Aryaman Kejriwal (NRI) + small 'FOREIGN INSTITUTIONAL INVESTORS'/'FOREIGN BANK' legacy entries.",
+  "corrections": [],
+  "promoter_reconciliation": "close",
+  "promoter_drift": 0.015413872442331302,
+  "promoter_pct_filed": 0.5501
+}

@@ -1,0 +1,56 @@
+{
+  "ticker": "ONGC",
+  "company": "Oil and Natural Gas Corporation Limited",
+  "sector": "Oil, Gas & Consumable Fuels",
+  "isin": "INE213A01029",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 12580756138.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 58.89,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "President of India",
+      "shares_filed": 7408867093.0,
+      "pct": 58.89,
+      "holder_class": "Central Government/ State Government(s)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "ICICI Prudential Value Fund",
+      "shares": 245088579.0,
+      "pct": 1.95,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "shares": 222572017.0,
+      "pct": 1.77,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "CPSE Exchange Traded Scheme (CPSE ETF)",
+      "shares": 164987025.0,
+      "pct": 1.31,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "shares": 1252140634.0,
+      "pct": 9.95,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/974/ONGC/latest/oil-and-natural-gas-corporation-ltd/",
+    "https://upstox.com/stocks/oil-and-natural-gas-corp-share-price/INE213A01029"
+  ],
+  "notes": "Single Table II promoter (President of India, 58.89%); only named public holders at >=1% transcribed. Underlying filed Table III aggregates 43 mutual-fund schemes, 32 insurers, 723+ FPIs. Total SCRR denominator derived from the President's share count 7,408,867,093 divided by 58.89% (TRENDLYNE-derived; underlying PDF gives the explicit number). Source: Trendlyne aggregation of BSE/NSE LODR Reg 31 filing for Q1 FY27 (30 Jun 2026).",
+  "ingested_on": "2026-09-22"
+}

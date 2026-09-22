@@ -1,0 +1,138 @@
+{
+  "company": "Tech Mahindra Limited",
+  "ticker": "TECHM",
+  "isin": "INE669C01036",
+  "as_of": "2026-06-30",
+  "shares_scrr": 979980811.0,
+  "denominator_note": "stated denominator agrees with 11 of 13 holders to 0.026%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Mahindra & mahindra limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 248022598
+      },
+      "filed_class": "Bodies Corporate (Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tml benefit trust through puneet renjhen",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 94235629
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mahindra holdings ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 198201
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mahindra-bt investment company (mauritius) limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 242904
+      },
+      "filed_class": "Foreign Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi nifty 50 etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 42893220
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Icici prudential technology fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 25397459
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kotak flexicap fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 17830959
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya birla sun life trustee private limited a/c aditya birla sun life flexi cap fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 16243708
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Uti nifty 50 etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13973765
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon life india trustee ltd-a/c nippon india etf nifty 50 bees",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 12890256
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life insurance corporation of india",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 108899363
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi life insurance co. ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10405949
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nps trust- a/c sbi pension fund scheme - state govt",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 19281062
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1374/TECHM/latest/tech-mahindra-ltd"
+  ],
+  "notes": "Trendlyne Jun 2026 quarter data. Mahindra & Mahindra Limited holds 25.31% as the controlling Indian promoter; TML Benefit Trust (Through Puneet Renjhen) holds 9.62% as a Trust in the promoter group; Mahindra Holdings Ltd 0.02% (Indian bodies corporate) and Mahindra-BT Investment Company (Mauritius) Limited 0.02% (Foreign bodies corporate). The verbatim 'Tml benefit trust through puneet renjhen' reflects trendlyne's concatenation of trust name with named trustee - in SEBI LODR filing the holder is the trust. Named public holders above 1%: 6 mutual fund schemes (SBI Nifty 50 ETF 4.38%, ICICI Prudential Technology Fund 2.59%, Kotak Flexicap 1.82%, Aditya Birla Sun Life Trustee Pvt Ltd a/c Aditya Birla Sun Life Flexi Cap Fund 1.66%, UTI Nifty 50 ETF 1.43%, Nippon India ETF Nifty 50 BeES 1.32%), 2 insurers (LIC 11.11%, SBI Life 1.06%), 1 NPS pension fund (NPS Trust- a/c SBI Pension Fund Scheme - State Govt 1.97%). Total_shares_scrr back-calculated from institutional block (55.75% / 546,339,406 = 979,980,997) consistent with promoter block (34.97% / 342,699,332 = 979,980,932). ISIN confirmed in BSE Tech Mahindra annual report filing.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 1.2370407900613302e-07,
+  "promoter_pct_filed": 34.97
+}

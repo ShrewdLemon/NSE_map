@@ -1,0 +1,1102 @@
+{
+  "company": "Asian Paints Limited",
+  "ticker": "ASIANPAINT",
+  "isin": "INE021A01026",
+  "as_of": "2026-06-30",
+  "shares_scrr": 95958083847,
+  "denominator_note": "stated 959,197,790 backed by 0 holders, implied 95,958,083,847 by 34; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Sattva Holding and Trading Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 54789183
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Smiti Holding and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 51442638
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Geetanjali Trading and Investments Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 45706140
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Elcid Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 28313860
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shubhit Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 23150730
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sudhanva Investments and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 19001760
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rupen Investment &amp; Industries Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 18849825
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Satyadharma Investments and Trading Company Private Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 18334280
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Castle Investment &amp; Industries Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15457470
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Lyon Investment &amp; Industries Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 14342060
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dipika Amar Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 12761340
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Jaldhar Investments and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 12428250
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Late Abhay Arvind Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 12418060
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tru Trading and Investments Pvt Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 12176500
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nehal Trading and Investments Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11102530
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Asteroids Trading and Investments Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10818530
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Jalaj Trading &amp; Investment Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10776697
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Unnati Trading and Investments Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10472600
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Doli Trading and Investments Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9363440
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Centaurus Trading and Investments Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7408940
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vivek Abhay Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6812369
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Suptaswar Investments and Trading Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 6558310
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Bhairavi Abhay Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6064322
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Lambodar Investments and Trading Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 6015130
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Murahar Investments and Trading Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5743670
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nehal Abhay Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5738489
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Upnishad Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4098430
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hiren Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3950310
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Prafullika Shailesh Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3874480
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Satyen Ashwin Gandhi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3725954
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hiren Ashwin Gandhi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3706265
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vishal Shailesh Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3380865
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hasit A Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3150800
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "VAKIL HUF (VARUN AMAR VAKIL)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3103290
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Amrita Amar Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2566680
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Jigish Shailesh Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2424825
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Manish Mahendra Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2381040
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Varun Amar Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2230590
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "AMAR ARVIND VAKIL HUF (VARUN AMAR VAKIL)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2112190
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ELF Trading and Chemical Manufacturing Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2108160
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ABHAY ARVIND VAKIL HUF (VIVEK ABHAY VAKIL)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2076820
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rupal Anant Bhat",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1923770
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SHAILESH CHIMANLAL CHOKSI HUF (JIGISH SHAILESH CHOKSI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1749690
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mahendra Chimanlal Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1656380
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Jalaj A Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1600200
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Late Asha Subhash Gujarathi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1423400
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rita Mahendra Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 980000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rayirth Holding and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 965910
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rupen Ashwin Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 928607
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ashish Ashwin Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 880840
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Urvashi Ashwin Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 838110
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ACC AP TRUST (Urvashi Ashwin Choksi, Ashish Ashwin Choksi, Rupen Ashwin Choksi)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 785700
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rhea Amit Sethi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 702000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MAHENDRA CHIMANLAL CHOKSI HUF (MAHENDRA CHIMANLAL CHOKSI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 539800
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ami Manish Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 472200
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vita Jalaj Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 435260
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ishwara Hasit Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 410710
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HASIT ASHWIN DANI HUF (HASIT ASHWIN DANI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 392666
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "JALAJ A DANI HUF (JALAJ ASHWIN DANI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 344666
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Richa Manish Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 180450
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mudit Jalaj Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 159800
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Late Amar Arvind Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 158770
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Smiti Jalaj Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 139110
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Binita Ashish Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 131700
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Anay Rupen Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 130500
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aashay Ashish Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 125380
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vikatmev Containers Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 111600
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nysha Rupen Choksi (Minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 102750
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Druhi Ashish Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 100000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ashwin Ramanlal Gandhi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 91860
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Meghna Satyen Gandhi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 75000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vaibhavi Hiren Gandhi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 75000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shubhlakshmi Hasit Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 59529
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Late Chandanben Chhotalal Shah",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 20000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dani Finlease Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10930
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hrishav Varun Vakil (Minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nyra Varun Vakil (Minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ragini Varun Vakil",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "MANISH MAHENDRA CHOKSI HUF (MANISH MAHENDRA CHOKSI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 7500
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ASHISH ASHWIN CHOKSI HUF (ASHISH ASHWIN CHOKSI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5620
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ASHWIN SURYAKANT DANI HUF (ASHWIN SURYAKANT DANI)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Anant Raghuvir Bhat",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Arhaan Anant Bhat",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rehaan Anant Bhat (Minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Priyanka Jigish Choksi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aryan Jigish Choksi N/G Jigish Shailesh Choksi (Minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gayatri Subhash Gujarathi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Amreen Sethi (Minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "S C Dani Research Foundation Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Haish Holding and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Avinash Holding and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Canes Venatici Trading Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hydra Trading Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hitech Specialities Solutions Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rituh Holding and Trading Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hitech Corporation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Homevilla Yoga Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Riash Renewable Materials Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Stack Pack Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dipika Chemicals Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Cronus Merchandise LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Mefree LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "DANI FOUNDATION (Jalaj Dani, Vita Dani, Mudit Dani, Smiti Dani)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "PARAM-ARTH CHARITABLE TRUST (Hasit Dani, Shubhlakshmi Dani, Priyadarshini Kanodia)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ASHIYANA TRUST (Ina Ashwin Dani - Managing Trustee, Percy Jal Dajee - Trustee)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "CRONUS TRUST (Jalaj Dani, Vita Dani)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ISHWARA TRUST (Hasit Dani, Shubhlakshmi Dani)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NARADIYA TRUST (Malav Ashwin Dani - Managing Trustee, Ina Ashwin Dani)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "RIG Trust (Jalaj Dani, Vita Dani)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "INAASHWIN TRUST (Ina Dani and Malav Dani-Managing Trustees,Viraf Mehta,Gautam Doshi,Vaishali Sharma)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Advaita Charitable Trust (Malav Ashwin Dani, Ina Ashwin Dani, Percy Jal Dajee)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sab Ka Mangal Ho Foundation (Ina Ashwin Dani, Malav Ashwin Dani, Percy Dajee, Mehernosh Mehta)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dani Charitable Foundation (Ina Ashwin Dani, Jalaj Dani, Malav Ashwin Dani, Hasit Dani)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Homevilla Charitable Trust (Ina Ashwin Dani, Mahendra Sheth, Percy Jal Dajee, Homi Daruwalla)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ashwin Ina Charitable Trust (Ina Ashwin Dani, Malav Ashwin Dani, Percy Jal Dajee)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 77822006
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 41302172
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 17637780
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Malav A Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3650176
+      },
+      "filed_class": "NRI / Foreign Individual",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ina Ashwin Dani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1451792
+      },
+      "filed_class": "NRI / Foreign Individual",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696081_18072026032420_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ASIANPAINT"
+  ],
+  "notes": "Q1 FY27 SHP filed 18-Jul-2026. pr_and_prgrp=52.63%, public=47.29%. SCRR-denominator (A+B+C2)=959,197,790 equity shares. 115 promoter named entries (60 Individuals/HUF + 55 Bodies Corporate). Per filing note: PG accounts clubbed to 82 by first name + PAN; PG entities holding NIL shares ARE included (e.g., Amisha Vakil, Late Abhay Arvind Vakil, Nehal Abhay Vakil, Bhairavi Abhay Vakil etc.). Employee Trusts reported at 0.09% (~1.1L shares) \u2014 this is C2 EBT holding, NOT a public holder and not separately listed. Public named: Life Insurance Corporation of India 8.11%, HDFC MF - through various schemes 4.31%, Nippon India MF - through various schemes 2.50% (~rest minor), plus 2 NRI individuals (Malav A Dani, Ina Ashwin Dani) totalling 0.53%.",
+  "corrections": [],
+  "promoter_reconciliation": "close",
+  "promoter_drift": -0.010581931468740542,
+  "promoter_pct_filed": 0.5263
+}

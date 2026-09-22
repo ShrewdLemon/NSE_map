@@ -1,14 +1,71 @@
 {
   "company": "Dr. Reddy's Laboratories Limited",
-  "isin": "INE089A01023",
+  "isin": "INE089A01031",
   "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
   "source_urls": [
-    "https://www.screener.in/company/DRREDDY/consolidated/"
+    "https://trendlyne.com/equity/share-holding/346/DRREDDY/latest/dr-reddy-s-laboratories-ltd",
+    "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f95f2cb6-32dc-4c4a-8a34-74a8e4a8e050.pdf"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 26.63,
-  "promoter_total_shares_filed": 0,
+  "promoter_total_pct": 26.64,
+  "promoter_total_shares_filed": 222316440,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,
-  "promoter_group": []
+  "promoter_group": [
+    {
+      "filed_name": "Kallam Satish Reddy HUF",
+      "shares_filed": 27618385,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gunupati Venkateswara Prasad HUF",
+      "shares_filed": 12717090,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Satish Reddy Kallam",
+      "shares_filed": 10107505,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anuradha Gunupati",
+      "shares_filed": 46025,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deepti Reddy Kallam",
+      "shares_filed": 25700,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "G Vani Sanjana Reddy",
+      "shares_filed": 25700,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gunupati Mallika Reddy",
+      "shares_filed": 25695,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Parvathi Gunupati",
+      "shares_filed": 10800,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sharathchandra Reddy Gunupati",
+      "shares_filed": 13000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "GVP Family Trust",
+      "shares_filed": 96095920,
+      "class": "Trusts"
+    },
+    {
+      "filed_name": "VSD Family Trust",
+      "shares_filed": 75630620,
+      "class": "Trusts"
+    }
+  ]
 }

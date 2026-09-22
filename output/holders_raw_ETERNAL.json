@@ -1,0 +1,175 @@
+{
+  "company": "Eternal Limited (formerly Zomato)",
+  "ticker": "ETERNAL",
+  "isin": "INE758T01015",
+  "as_of": "2026-06-30",
+  "shares_scrr": 9648408250.0,
+  "denominator_note": "stated denominator agrees with 17 of 17 holders to 0.086%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Info Edge (India) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1194687095
+      },
+      "filed_class": "Public - Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Deepinder Goyal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 424238500
+      },
+      "filed_class": "Public - Director",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited - HDFC Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 415464919
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 351503000
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kotak Flexicap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 291909215
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Balanced Advantage Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 290434186
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd - Nippon India ETF Nifty 50 BeES",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 245933940
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UTI Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 222340017
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Axis Mutual Fund Trustee Ltd - Axis Large Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 188564876
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust - SBI Pension Fund Scheme - State Govt",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 180068400
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Motilal Oswal Midcap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 177041573
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Camas Investments Pte. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 168084489
+      },
+      "filed_class": "FPI",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Trustee - ABSL Large Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 124349895
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 110049667
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dunearn Investments (Mauritius) Pte Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 109309341
+      },
+      "filed_class": "FPI",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Invesco India Focused Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 104481474
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Canara Robeco Mutual Fund - Canara Robeco Large And Mid Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 101427948
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://www.trendlyne.com/equity/share-holding/589490/eternal/latest/eternal-ltd/",
+    "https://bseindia.com/xml-data/corpfiling/AttachLive/b267f096-3422-444f-83cc-4bf28ccd99cd.pdf"
+  ],
+  "notes": "Q1 FY2027 (June 2026 quarter-end 30-Jun-2026) shareholding pattern. ETERNAL is professionally managed with NO PROMOTER (has_promoter=false, promoter_pct=0, empty promoter_group). Table II shows 'No Holding for this category'. Institutional Investors 68.41% / 6,600,476,084 shares (down from prior quarter); FII/FPI 29.09% (down from 32.61%); Mutual Funds 31.68% across 47 schemes / 3,057,374,853 shares; Insurance 4.21%; Public non-institutional 26.99% / 2,604,917,013 shares; Banks 0.03%. SCRR denominator (A)+(B)+(C2) = 9,648,408,250 shares (no GDRs). Info Edge (India) Limited at 12.38% / 1,194,687,095 shares is the single largest shareholder. Includes Deepinder Goyal (founder/CEO) at 4.40%.",
+  "corrections": [],
+  "promoter_reconciliation": "unchecked",
+  "promoter_drift": null,
+  "promoter_pct_filed": 0.0
+}

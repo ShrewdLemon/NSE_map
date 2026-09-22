@@ -1,15 +1,336 @@
 {
   "company": "Bajaj Finserv Limited",
-  "isin": "INE918I01018",
+  "isin": "INE918I01026",
   "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
   "source_urls": [
-    "https://choiceindia.com/stocks/bajaj-finserv-ltd-shareholding-pattern",
-    "https://www.screener.in/company/BAJAJFINSV/consolidated/"
+    "https://trendlyne.com/equity/share-holding/147/BAJAJFINSV/latest/bajaj-finserv-ltd",
+    "https://nsearchives.nseindia.com/corporate/BAJAJFINSV_31072026124123_SEInitmationIP.pdf"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 58.72,
-  "promoter_total_shares_filed": 0,
+  "promoter_total_pct": 58.71,
+  "promoter_total_shares_filed": 939649700,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,
-  "promoter_group": []
+  "promoter_group": [
+    {
+      "filed_name": "Manish Kejriwal",
+      "shares_filed": 6739380,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Suman Jain",
+      "shares_filed": 5783290,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kiran Bajaj",
+      "shares_filed": 3925600,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sanjivnayan Bajaj",
+      "shares_filed": 3618050,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Niraj Bajaj",
+      "shares_filed": 2953150,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Geetika Bajaj",
+      "shares_filed": 2479000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Niravnayan Bajaj",
+      "shares_filed": 2058660,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shekhar Bajaj",
+      "shares_filed": 1630260,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kumud Bajaj",
+      "shares_filed": 1000000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sanjali Bajaj",
+      "shares_filed": 903690,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Siddhantnayan Bajaj",
+      "shares_filed": 903690,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kriti Bajaj",
+      "shares_filed": 742000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Pooja Bajaj",
+      "shares_filed": 744360,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Minal Bajaj",
+      "shares_filed": 642000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Neelima Bajaj Swamy",
+      "shares_filed": 500000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nimisha Jaipuria",
+      "shares_filed": 514000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shefali Bajaj",
+      "shares_filed": 525990,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vanraj Bajaj",
+      "shares_filed": 332360,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nirvaan Kejriwal",
+      "shares_filed": 111330,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rishabnayan Bajaj",
+      "shares_filed": 112320,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sheetal Bajaj",
+      "shares_filed": 199000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rajivnayan Bajaj",
+      "shares_filed": 1000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deepa Bajaj",
+      "shares_filed": 1000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Bajaj Holdings and Investment Limited",
+      "shares_filed": 614832190,
+      "class": "Bodies Corporate (Promoter)"
+    },
+    {
+      "filed_name": "Jamnalal Sons Private Limited",
+      "shares_filed": 136700840,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Maharashtra Scooters Ltd",
+      "shares_filed": 37932400,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Bajaj Sevashram Private Limited",
+      "shares_filed": 26685025,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Bachhraj and Company Private Limited",
+      "shares_filed": 23314745,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Bachhraj Factories Private Limited",
+      "shares_filed": 10787870,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Baroda Industries Private Limited",
+      "shares_filed": 9190010,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Niravnayan Bajaj Family Trust (Niraj Bajaj)",
+      "shares_filed": 5500000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Geetika Shekhar Bajaj Trust (Shekhar Bajaj)",
+      "shares_filed": 5245000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Niravnayan Trust (Niraj Bajaj)",
+      "shares_filed": 4355000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nimisha Bajaj Family Trust (Kumud Bajaj)",
+      "shares_filed": 3553700,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Neelima Bajaj Family Trust (Kumud Bajaj)",
+      "shares_filed": 3379240,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nimisha Jaipuria Family Trust (Nimisha Jaipuria)",
+      "shares_filed": 2382730,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Neelima Bajaj Swamy Family Trust (Neelima Bajaj Swamy)",
+      "shares_filed": 2320190,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Rahul Securities Pvt Ltd",
+      "shares_filed": 2074000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Rupa Equities Pvt Ltd",
+      "shares_filed": 2011000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Madhur Neelima Family Trust (Kumud Bajaj )",
+      "shares_filed": 1362610,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Madhur Nimisha Family Trust (Kumud Bajaj )",
+      "shares_filed": 1362620,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Hercules Investments Limited (erstwhile Hercules Hoists Limited)",
+      "shares_filed": 1105630,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Aryaman Family Trust (Manish Kejriwal)",
+      "shares_filed": 944000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nirvaan Family Trust (Manish Kejriwal)",
+      "shares_filed": 944000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Madhur Securities Pvt Ltd",
+      "shares_filed": 941000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Kamalnayan Investment & Trading Private Limited",
+      "shares_filed": 900000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Kriti Bajaj Family Trust (Minal Bajaj)",
+      "shares_filed": 1000000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Kumud Neelima Family Trust (Nimisha Jaipuria )",
+      "shares_filed": 862610,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Kumud Nimisha Family Trust (Neelima Bajaj Swamy)",
+      "shares_filed": 862610,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Shekhar Holdings Pvt Ltd",
+      "shares_filed": 834000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Anant Bajaj Trust (Shekhar Bajaj)",
+      "shares_filed": 405000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Sanjali Family Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 444000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Siddhant Family Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 433000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Niraj Holdings Pvt Ltd",
+      "shares_filed": 244000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Rishab Family Trust (Rajivnayan Bajaj)",
+      "shares_filed": 1000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Rishab Trust (Rajivnayan Bajaj)",
+      "shares_filed": 11000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Sanjali Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 11000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Siddhant Trust (Sanjivnayan Bajaj)",
+      "shares_filed": 22000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Nirvaan Trust (Sunaina Kejriwal)",
+      "shares_filed": 1000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Aryaman Trust (Manish Kejriwal)",
+      "shares_filed": 1220,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Deepa Trust (Niraj Bajaj)",
+      "shares_filed": 11000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Hindustan Housing Company Ltd",
+      "shares_filed": 80000,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Nirav Trust (Niraj Bajaj)",
+      "shares_filed": 71000,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Aryaman Kejriwal",
+      "shares_filed": 111330,
+      "class": "Individuals (Foreign / NRI)"
+    }
+  ]
 }

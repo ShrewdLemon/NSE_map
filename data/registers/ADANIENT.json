@@ -1,0 +1,182 @@
+{
+  "ticker": "ADANIENT",
+  "company": "Adani Enterprises Limited",
+  "sector": "Metals & Mining",
+  "isin": "INE423A01024",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 1301693464.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.7484,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Gautambhai Shantilal Adani and Rajeshbhai Shantilal Adani (on behalf of S.B. Adani Family Trust)",
+      "shares_filed": 642133511.0,
+      "pct": 0.4933,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Adani Tradeline Private Limited",
+      "shares_filed": 120351663.0,
+      "pct": 0.0925,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kempas Trade And Investment Ltd",
+      "shares_filed": 41467216.0,
+      "pct": 0.0319,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Flourishing Trade And Investment Ltd",
+      "shares_filed": 38010224.0,
+      "pct": 0.0292,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Afro Asia Trade And Investments Limited",
+      "shares_filed": 33879664.0,
+      "pct": 0.026,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Worldwide Emerging Market Holding Limited",
+      "shares_filed": 33879664.0,
+      "pct": 0.026,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Infinite Trade And Investment Ltd",
+      "shares_filed": 27219584.0,
+      "pct": 0.0209,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Emerging Market Investment Dmcc",
+      "shares_filed": 21498400.0,
+      "pct": 0.0165,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Infra (India) Limited",
+      "shares_filed": 9000000.0,
+      "pct": 0.0069,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Spitze Trade And Investment Limited",
+      "shares_filed": 4464320.0,
+      "pct": 0.0034,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Hibiscus Trade And Investment Ltd",
+      "shares_filed": 2240000.0,
+      "pct": 0.0017,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Properties Private Limited",
+      "shares_filed": 90110.0,
+      "pct": 0.0001,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Gelt Bery Trade And Investment Ltd",
+      "shares_filed": 156.0,
+      "pct": 0.0,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Pranav Vinod Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Karan Gautam Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sagar Rajeshbhai Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Jeet Gautam Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gautambhai Shantilal Adani",
+      "shares_filed": 1.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rajeshbhai Shantilal Adani",
+      "shares_filed": 1.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shri Gautam S. Adani/Smt.Priti G. Adani (on behalf of Gautam S. Adani Family Trust)",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Ardour Investment Holding Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Foreign Body"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "shares": 45510920.0,
+      "pct": 0.035,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Green Enterprises Investment Holding Rsc Limited",
+      "shares": 40191038.0,
+      "pct": 0.0309,
+      "holder_class": "Foreign Company"
+    },
+    {
+      "holder_name": "Sbi Equity Hybrid Fund",
+      "shares": 30799049.0,
+      "pct": 0.0237,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Goldman Sachs Trust Ii - Goldman Sachs Gqg Partners International Opportunities Fund",
+      "shares": 26765500.0,
+      "pct": 0.0206,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Quant Mutual Fund - Quant Small Cap Fund",
+      "shares": 15784577.0,
+      "pct": 0.0121,
+      "holder_class": "Mutual Fund"
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690795_10072026081131_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIENT"
+  ],
+  "notes": "Q1 FY27 SHP filed 10-Jul-2026. pr_and_prgrp=74.84%, public=25.16%. SCRR-denominator (A+B+C2)=1,301,693,464 equity shares (FullyPaid=1,300,920,098 + PartlyPaid=773,366). No DR/GDR issued. The 6 promoter individuals Gautambhai/Rajeshbhai/Pranav/Karan/Sagar/Jeet Adani hold 42 shares in aggregate (1 or 10 each \u2014 formal promoter-individual representation), with bulk of promoter holding concentrated in the S.B. Adani Family Trust (49.33%) and 9 Foreign Promoter Bodies (cumulative 15.57%); one nil-holder 'Gautam S. Adani Family Trust' included. Public named holders total ~12.18% (LIC+GQG+Quant+Green Enterprises+SBI Equity Hybrid). Partly-paid 773,366 shares all classed to Public. PAN/holder details are masked '******' in filing for promoter rows. Note from XBRL on nationality of Vinodbhai Shantilal Adani.",
+  "ingested_on": "2026-09-22"
+}

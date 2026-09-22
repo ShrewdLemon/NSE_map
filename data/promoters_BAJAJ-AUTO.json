@@ -1,0 +1,471 @@
+{
+  "company": "Bajaj Auto Limited",
+  "isin": "INE917I01010",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696379_20072026090038_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJAJ-AUTO"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 0.5501,
+  "promoter_total_shares_filed": 156675528,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "BAJAJ HOLDINGS AND INVESTMENT LIMITED",
+      "shares_filed": 95547251,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JAMNALAL SONS PVT LIMITED",
+      "shares_filed": 25960841,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MAHARASHTRA SCOOTERS LIMITED",
+      "shares_filed": 6927794,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ SEVASHRAM PVT LIMITED",
+      "shares_filed": 4408288,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BACHHRAJ AND COMPANY PVT LIMITED",
+      "shares_filed": 3646362,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "YAMUNA TRUST",
+      "shares_filed": 3615269,
+      "class": "Trust (PG)"
+    },
+    {
+      "filed_name": "BACHHRAJ FACTORIES PVT LIMITED",
+      "shares_filed": 1937254,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BARODA INDUSTRIES PVT LIMITED",
+      "shares_filed": 1650423,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SUMAN JAIN",
+      "shares_filed": 1047008,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MANISH KEJRIWAL",
+      "shares_filed": 842471,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIRAVNAYAN BAJAJ",
+      "shares_filed": 790066,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RAJIVNAYAN BAJAJ",
+      "shares_filed": 745001,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MINAL BAJAJ",
+      "shares_filed": 664743,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIRAJ BAJAJ (NIRAVNAYAN TRUST)",
+      "shares_filed": 518005,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NEELIMA BAJAJ SWAMY (NEELIMA BAJAJ SWAMY FAMILY TRUST)",
+      "shares_filed": 455811,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIMISHA JAIPURIA (NIMISHA JAIPURIA FAMILY TRUST)",
+      "shares_filed": 452292,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MADHUR BAJAJ (NIMISHA BAJAJ FAMILY TRUST)",
+      "shares_filed": 440211,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "DEEPA BAJAJ",
+      "shares_filed": 424904,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KUMUD BAJAJ (NEELIMA BAJAJ FAMILY TRUST)",
+      "shares_filed": 401081,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KUMUD BAJAJ",
+      "shares_filed": 395122,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RISHABNAYAN BAJAJ",
+      "shares_filed": 366336,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RUPA EQUITIES PVT LIMITED",
+      "shares_filed": 336803,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RAHUL SECURITIES PVT LIMITED",
+      "shares_filed": 320600,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ ( SANJALI FAMILY TRUST)",
+      "shares_filed": 216329,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRVAAN KEJRIWAL",
+      "shares_filed": 209760,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ (SIDDHANT FAMILY TRUST)",
+      "shares_filed": 202354,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIMISHA JAIPURIA",
+      "shares_filed": 200991,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ",
+      "shares_filed": 200000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NEELIMA BAJAJ SWAMY",
+      "shares_filed": 197561,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MANISH KEJRIWAL (ARYAMAN FAMILY TRUST)",
+      "shares_filed": 197561,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "HERCULES IINVESTMENTS LIMITED (Formerly Known as Hercules Hoists Limited )",
+      "shares_filed": 182590,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KUMUD BAJAJ (MADHUR NEELIMA FAMILY TRUST)",
+      "shares_filed": 174584,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KUMUD BAJAJ (MADHUR NIMISHA FAMILY TRUST)",
+      "shares_filed": 174584,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MADHUR BAJAJ ( KUMUD NEELIMA FAMILY TRUST)",
+      "shares_filed": 174583,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MADHUR BAJAJ ( KUMUD NIMISHA FAMILY TRUST)",
+      "shares_filed": 174583,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SHEFALI BAJAJ",
+      "shares_filed": 171120,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "POOJA BAJAJ",
+      "shares_filed": 163321,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIRAV TRUST",
+      "shares_filed": 162700,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SUNAINA KEJRIWAL (NIRVAAN FAMILY TRUST)",
+      "shares_filed": 158049,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAJ BAJAJ (NIRAVNAYAN BAJAJ FAMILY TRUST)",
+      "shares_filed": 148171,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MINAL NIRAJ BAJAJ (KRITI BAJAJ FAMILY TRUST)",
+      "shares_filed": 148171,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SIDDHANTNAYAN BAJAJ",
+      "shares_filed": 142000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJALI BAJAJ",
+      "shares_filed": 142000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KIRAN BAJAJ",
+      "shares_filed": 133671,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJIV TRUST",
+      "shares_filed": 131126,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RAJIV TRUST",
+      "shares_filed": 131000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KAMALNAYAN INVESTMENT &amp; TRADING PVT LIMITED",
+      "shares_filed": 130588,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ LIFE INSURANCE LIMITED ( Formely Known as Bajaj Allianz Life Insurance Company Limited)",
+      "shares_filed": 125000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ANANT BAJAJ TRUST",
+      "shares_filed": 123233,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ARYAN BAJAJ",
+      "shares_filed": 100000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MADHUR SECURITIES PVT LIMITED",
+      "shares_filed": 78432,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAJ HOLDINGS PVT LIMITED",
+      "shares_filed": 72987,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SHEKHAR HOLDINGS PVT LIMITED",
+      "shares_filed": 62232,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANRAJ NAYAN INVESTMENTS PVT LIMITED",
+      "shares_filed": 59269,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAJ BAJAJ",
+      "shares_filed": 42103,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "THE HINDUSTAN HOUSING COMPANY LIMITED",
+      "shares_filed": 20547,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "VANRAJ BAJAJ",
+      "shares_filed": 13822,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SHEKHAR BAJAJ",
+      "shares_filed": 6020,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ (SIDDHANT TRUST)",
+      "shares_filed": 4000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RAJIVNAYAN BAJAJ (RISHAB TRUST)",
+      "shares_filed": 2000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAJ BAJAJ (DEEPA TRUST)",
+      "shares_filed": 2000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ (SANJALI TRUST)",
+      "shares_filed": 2000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SUNAINA KEJRIWAL (NIRVAAN TRUST)",
+      "shares_filed": 200,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ARYAMAN TRUST",
+      "shares_filed": 200,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ FINANCE LIMITED",
+      "shares_filed": 150,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "VIHAAN JAIPURIA",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SHEETAL BAJAJ",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "GEETIKA BAJAJ",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "AARAV SWAMY",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RISHAB FAMILY TRUST",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ TRADING COMPANY",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RAJIVNAYAN BAJAJ HUF",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ HUF",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ INTERNATIONAL PVT LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ROSE REALTORS PVT LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EMERALD ACRES PVT LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANKALP RESORTS PVT LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "HIND MUSAFIR AGENCY LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "GEETIKA SHEKHAR BAJAJ TRUST",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "VANRAJ BAJAJ TRUST",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ INTEGRATED HEALTH SYSTEM PVT LTD (formerly known as Bajaj Vitality Pvt Ltd)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "INDEF MANUFACTURING LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ARYAN NAYAN REALTY LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RDR VENTURES LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ FINSERV LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ AUTO HOLDINGS LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SRB &amp; Family LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "DRR &amp; Family LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NRB &amp; Family LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SRJB Family LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SNRS Family LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    }
+  ]
+}

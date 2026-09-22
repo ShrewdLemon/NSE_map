@@ -1,0 +1,50 @@
+{
+  "company": "Hindustan Unilever Limited",
+  "isin": "INE030A01027",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/560/HINDUNILVR/latest/hindustan-unilever-ltd"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 61.9,
+  "promoter_total_shares_filed": 1454412858,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "UNILEVER PLC",
+      "shares_filed": 1114370148,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER GROUP HOLDINGS LIMITED",
+      "shares_filed": 106739460,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER OVERSEAS HOLDINGS AG",
+      "shares_filed": 68784320,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER UK&CN HOLDINGS LIMITED",
+      "shares_filed": 60086250,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER SOUTH INDIA ESTATES LIMITED",
+      "shares_filed": 52747200,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER ASSAM ESTATES LIMITED",
+      "shares_filed": 32820480,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER OVERSEAS HOLDINGS B V",
+      "shares_filed": 18865000,
+      "class": "Bodies Corporate (Foreign Promoter)"
+    }
+  ]
+}

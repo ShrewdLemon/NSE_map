@@ -1,0 +1,86 @@
+{
+  "company": "Axis Bank Limited",
+  "isin": "INE238A01034",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=AXISBANK"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 0.0787,
+  "promoter_total_shares_filed": 244860645,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "LIFE INSURANCE CORPORATION OF INDIA",
+      "shares_filed": 244860645,
+      "class": "Insurance Company (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Pension Fund Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Card Services Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC (Singapore) Pte Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC (Nepal) Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC(International) BSC (c) Bahrain",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC (Lanka) Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Bangladesh Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Housing Finance Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC HFL Asset Management Company Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Mutual Fund Asset Management Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Mutual Fund Trustee Company Pvt Ltd",
+      "shares_filed": 0,
+      "class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "IDBI Bank Ltd",
+      "shares_filed": 0,
+      "class": "Bank (Promoter Group)"
+    },
+    {
+      "filed_name": "IDBI Trusteeship Services Ltd",
+      "shares_filed": 0,
+      "class": "Bank (Promoter Group)"
+    }
+  ]
+}

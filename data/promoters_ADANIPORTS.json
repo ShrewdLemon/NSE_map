@@ -1,0 +1,121 @@
+{
+  "company": "Adani Ports and Special Economic Zone Limited",
+  "isin": "INE742F01042",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690812_10072026084030_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIPORTS"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 0.6603,
+  "promoter_total_shares_filed": 1521337573,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Gautambhai Shantilal Adani &amp; Rajeshbhai Shantilal Adani (on behalf of S. B. Adani Family Trust)",
+      "shares_filed": 710753935,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Carmichael Rail And Port Singapore Holdings Pte. Ltd",
+      "shares_filed": 143820153,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Tradeline Private Limited",
+      "shares_filed": 138193549,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Emerging Market Investment Dmcc",
+      "shares_filed": 136235995,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Flourishing Trade And Investment Ltd",
+      "shares_filed": 124454607,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Afro Asia Trade And Investments Limited",
+      "shares_filed": 89945212,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Rail Infra Private Limited",
+      "shares_filed": 70621469,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Resurgent Trade And Investment Ltd",
+      "shares_filed": 53004718,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Worldwide Emerging Market Holding Limited",
+      "shares_filed": 40234093,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Spitze Trade And Investment Limited",
+      "shares_filed": 12358700,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Properties Private Limited",
+      "shares_filed": 1685000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rajeshbhai Shantilal Adani",
+      "shares_filed": 30001,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gelt Bery Trade And Investment Ltd",
+      "shares_filed": 100,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Jeet Gautam Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Karan Gautam Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Pranav Vinod Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sagar Rajeshbhai Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gautambhai Shantilal Adani",
+      "shares_filed": 1,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gautambhai Shantilal Adani &amp; Pritiben Gautambhai Adani (on behalf of Gautam S. Adani Family Trust)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rajeshbhai Shantilal Adani &amp; Shilin Rajeshbhai Adani (on behalf of Rajesh S. Adani Family Trust)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Infinite Trade and Investment Limited",
+      "shares_filed": 0,
+      "class": "Foreign Body"
+    }
+  ]
+}
