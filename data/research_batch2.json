@@ -1,0 +1,173 @@
+[
+  {
+    "evidence": "Japanese financial holding company headquartered in Chuo, Tokyo. Nomura's India equity stake is held via Nomura Asset Management (NAM) \u2014 the Nomura India Investment Fund Mother Fund is a Japan-domiciled fund managed by NAM.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Nomura_Holdings",
+    "holder_name": "Nomura Holdings Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "JP"
+  },
+  {
+    "evidence": "SEC filing: Nationwide Fund Advisors is a business trust organized under the laws of the state of Delaware, registered as an investment adviser under the Investment Advisers Act of 1940. Sponsors active ETFs.",
+    "confidence": "high",
+    "source_url": "https://www.federalregister.gov/documents/2018/03/13/2018-05039/nationwide-fund-advisors-and-etf-series-solutions",
+    "holder_name": "Nationwide Fund Advisors",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Indian listed stockbroker (Angel One Ltd). Its wholly owned subsidiary Angel One Asset Management Company Ltd received SEBI approval (Nov 2024) to operate as the AMC for Angel One Mutual Fund (passive ETF/index funds). When an Indian retail broker appears on a listed-equity shareholder register it typically represents client holdings in its pool/depository account.",
+    "confidence": "medium",
+    "source_url": "https://inc42.com/buzz/angel-one-amc-gets-sebi-nod-to-start-mutual-fund-business",
+    "holder_name": "Angel One Ltd",
+    "holding_vehicle": "custody_only",
+    "legal_entity_type": "broker",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "British multinational headquartered in London (FTSE 100). Provides life insurance, pensions, annuities; its asset management arm (LGIM) is the UK's largest by AUM and runs large foreign-equity portfolios (including India), making LGIM-run funds the typical vehicle for the group's foreign-equity exposure.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Legal_%26_General",
+    "holder_name": "Legal & General Group PLC",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "insurer",
+    "country_of_incorporation": "GB"
+  },
+  {
+    "evidence": "Franklin Resources, Inc. (DBA Franklin Templeton Investments) is a US (Delaware-incorporated) investment company/asset manager. Holds foreign equity on behalf of mutual funds (Franklin, Templeton, Mutual Series funds) and institutional clients.",
+    "confidence": "high",
+    "source_url": "https://www.ipqwery.com/ipowner/en/owner/ip/485181-franklin-resources-inc.html",
+    "holder_name": "Franklin Templeton Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "FlexShares Trust is an ETF trust registered with the SEC under the Investment Company Act of 1940, sponsored and managed by Northern Trust Asset Management (NTAM), headquartered at 50 South La Salle Street, Chicago, Illinois.",
+    "confidence": "high",
+    "source_url": "https://www.flexshares.com/us/en/individual/press",
+    "holder_name": "FlexShares Trust",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "exchange_traded_fund_trust",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Canadian chartered bank (TSX: CM), principal office 81 Bay Street, CIBC Square, Toronto. Operates CIBC Asset Management; shareholder roster shows asset-management entities (Mackenzie Financial, CIBC World Markets) as the dominant CIBC-group equity holders.",
+    "confidence": "medium",
+    "source_url": "https://www.marketscreener.com/quote/stock/CANADIAN-IMPERIAL-BANK-OF-40530896/company-shareholders",
+    "holder_name": "Canadian Imperial Bank of Commerce",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "CA"
+  },
+  {
+    "evidence": "Credit Agricole S.A. owns 80% of Amundi, Europe's largest asset manager and a subsidiary of the Credit Agricole group. Foreign equity including India is held via Amundi-managed funds/accounts.",
+    "confidence": "high",
+    "source_url": "https://about.amundi.com/article/credit-agricole-sa-has-entered-exclusive-negotiations-societe-generale",
+    "holder_name": "Credit Agricole Group",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "FR"
+  },
+  {
+    "evidence": "German global bank (DBKGn.DE). Its investment arm DWS Group is one of Europe's biggest fund managers; DWS is acquiring 40% in a Nippon Life India Asset Management unit, confirming Indian equity exposure runs through DWS-managed funds.",
+    "confidence": "high",
+    "source_url": "https://www.reuters.com/world/india/deutsche-banks-dws-buy-40-stake-nippon-life-india-asset-management-2025-11-13",
+    "holder_name": "Deutsche Bank AG",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "DE"
+  },
+  {
+    "evidence": "US life/health insurer and asset manager (NYSE: PRU, S&P 500). The parent holds its diversified equity book (including Indian listed equity) primarily through the insurance general account; PGIM is the AM subsidiary that runs third-party money.",
+    "confidence": "medium",
+    "source_url": "https://ad-hoc-news.de/boerse/news/ueberblick/prudential-financial-balances-insuran/69743267",
+    "holder_name": "Prudential Financial Inc",
+    "holding_vehicle": "insurance_float",
+    "legal_entity_type": "insurer",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Fidelity International Ltd (FIL) is the legal entity behind the Fidelity International brand. Per its infobox, headquarters is Pembroke, Bermuda. It is an employee-owned private company, separate from US FMR LLC (Fidelity Investments), and provides investment management for clients in Europe, Canada, EMEA and Asia.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Fidelity_International",
+    "holder_name": "FIL Ltd",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "BM"
+  },
+  {
+    "evidence": "Russell Investment Group Limited, UK Companies House registration 12595999, registered office at 4th Floor Llanthony Warehouse, The Docks, Gloucester, GL1 2EH. SIC code 64304 (activities of open-ended investment companies). The UK Ltd is part of the Russell Investments Group (parent US-incorporated LLC).",
+    "confidence": "medium",
+    "source_url": "https://find-and-update.company-information.service.gov.uk/company/12595999",
+    "holder_name": "Russell Investments Group Ltd",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "GB"
+  },
+  {
+    "evidence": "US bank holding company. JPMorgan Chase Bank, N.A. India branches plus JPMSI and JPMIPL are wholly-owned subsidiaries. JPMorgan Asset Management is the group's asset-management arm; Indian listed-equity exposure runs through these AM subsidiaries/managed funds rather than on the bank's own proprietary book.",
+    "confidence": "high",
+    "source_url": "https://jpmorganchaseco.gcs-web.com/static-files/3d1cfdc0-b391-4c71-a055-cb09f463622e",
+    "holder_name": "JPMorgan Chase & Co",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Canadian insurance and wealth-management company (TSX/NYSE: SLF), Toronto HQ. Manages CAD$1.3-1.7 trillion in assets; runs life insurance plus AM subsidiaries (MFS, BentallGreenOak, Crescent Capital, SLC Management). Foreign equity held by the parent is recorded through its insurance general account float.",
+    "confidence": "medium",
+    "source_url": "https://en.wikipedia.org/wiki/Sun_Life_Financial",
+    "holder_name": "Sun Life Financial Inc",
+    "holding_vehicle": "insurance_float",
+    "legal_entity_type": "insurer",
+    "country_of_incorporation": "CA"
+  },
+  {
+    "evidence": "Rawal Family Trust is an Indian private family trust connected to Rakesh Rawal (CEO and Whole-Time Director of Anand Rathi Wealth Limited). It is listed in the Anand Rathi Wealth IPO DRHP as a selling shareholder alongside other family trusts of promoter-group individuals \u2014 confirming Indian private family trust status, not a fund.",
+    "confidence": "high",
+    "source_url": "https://www.anandrathiwealth.in/about-ar-wealth",
+    "holder_name": "Rawal Family Trust",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "private_family_trust",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "Suhas Gupta Family Trust is an Indian private family trust of the Gupta family connected to Anand Rathi Wealth Ltd executives (co-founder Mr. Pradeep Gupta, Anand Rathi Group). The Anand Rathi Wealth DRHP lists multiple Indian family trusts (e.g., Rawal Family Trust) as selling shareholders \u2014 confirming the family-trust structure used for promoter-group holdings, not pooled funds.",
+    "confidence": "medium",
+    "source_url": "https://www.moneycontrol.com/news/business/ipo/anand-rathi-wealth-files-drhp-for-ipo-10-things-to-know-about-the-mutual-fund-distributor-7201771.html",
+    "holder_name": "SUHAS GUPTA FAMILY TRUST",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "private_family_trust",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "Munix (India) Private Limited, CIN U00000PB2003PTC025986, incorporated 5 May 2003, Punjab. Operates as a manufacturer and supplier of staplers, staples, scissors, knives, peelers, gun tackers, pneumatic tools and tape tools. Active operating company (INR 100-500 cr revenue). Any listed-equity holding sits on the company's own balance sheet.",
+    "confidence": "high",
+    "source_url": "https://www.tofler.in/munix-india-private-limited/company/U00000PB2003PTC025986",
+    "holder_name": "Munix India Pvt Ltd",
+    "holding_vehicle": "operating_company_treasury",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "Anandrathi Housing Finance Limited, CIN U67100MH2018PLC304174, registered 15 January 2018 in Maharashtra (Mumbai), classified as Indian Non-Government Company limited by shares, finance business. Listed as associate #11 of Anand Rathi Share and Stock Brokers Ltd. NBFC housing-finance company \u2014 any listed-equity stake is on its own balance sheet.",
+    "confidence": "high",
+    "source_url": "https://economictimes.indiatimes.com/company/anandrathi-housing-finance-limited/U67100MH2018PLC304174",
+    "holder_name": "ANANDRATHI HOUSING FIN LTD",
+    "holding_vehicle": "operating_company_treasury",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "Wilshire Advisors LLC is the US entity operating the Wilshire investment-advisory business (Santa Monica, California), offering investment consulting, indexes, OCIO/managed portfolios, mutual funds and alternative-assets solutions. Holds foreign equities in advisory/managed mandates rather than on own book.",
+    "confidence": "high",
+    "source_url": "https://www.wilshire.com",
+    "holder_name": "Wilshire Advisors LLC",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  }
+]

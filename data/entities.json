@@ -1,0 +1,906 @@
+{
+  "entities": {
+    "aditya birla sun life asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya Birla Sun Life Asset Management Co Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "aditya birla sun life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya Birla Sun Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "alphagrep investment mgmt india": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ALPHAGREP INVESTMENT MGMT INDIA",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "anandrathi housing fin": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ANANDRATHI HOUSING FIN LTD",
+      "entity_type": "operating_company",
+      "evidence": "MCA register: Anandrathi Housing Finance Limited, CIN U67100MH2018PLC304174, an Indian non-government public company in the Finance business, registered in Mumbai. An Anand Rathi group entity but NOT in the filed promoter group of Anand Rathi Wealth Ltd. Distinct from Anand Rathi Global Finance Ltd (CIN U67190MH1982PLC140380).",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://economictimes.indiatimes.com/company/anandrathi-housing-finance-limited/U67100MH2018PLC304174",
+      "verified_on": "2026-09-22"
+    },
+    "angel one": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Angel One Ltd",
+      "entity_type": "broker",
+      "evidence": "Indian listed stockbroker (Angel One Ltd). Its wholly owned subsidiary Angel One Asset Management Company Ltd received SEBI approval (Nov 2024) to operate as the AMC for Angel One Mutual Fund (passive ETF/index funds). When an Indian retail broker appears on a listed-equity shareholder register it typically represents client holdings in its pool/depository account.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "custody_only",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://inc42.com/buzz/angel-one-amc-gets-sebi-nod-to-start-mutual-fund-business",
+      "verified_on": "2026-09-22"
+    },
+    "axis asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Axis Asset Management Co Ltd/India",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "axis max life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "AXIS MAX LIFE INSURANCE LTD",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "azeez family trust": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Azeez Family Trust",
+      "entity_type": "private_family_trust",
+      "evidence": "SEBI shareholding pattern lists it under Public > Non-Institutions > Trusts as 'Azeez family trust acting through Feroze Azeez'. A private family trust, not a pooled fund. Feroze Azeez is Joint CEO; the trust is public category, not promoter group.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/",
+      "verified_on": "2026-09-22"
+    },
+    "bajaj life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Bajaj Life Insurance Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "bandhan life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Bandhan Life Insurance Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "bandhan mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Bandhan Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "bank of india investment managers": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Bank of India Investment Managers Pvt Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "canadian imperial bank of commerce": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "CA",
+      "display_name": "Canadian Imperial Bank of Commerce",
+      "entity_type": "bank",
+      "evidence": "Canadian chartered bank (TSX: CM), principal office 81 Bay Street, CIBC Square, Toronto. Operates CIBC Asset Management; shareholder roster shows asset-management entities (Mackenzie Financial, CIBC World Markets) as the dominant CIBC-group equity holders.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.marketscreener.com/quote/stock/CANADIAN-IMPERIAL-BANK-OF-40530896/company-shareholders",
+      "verified_on": "2026-09-22"
+    },
+    "canara hsbc life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Canara HSBC Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "canara robeco asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Canara Robeco Asset Management Co Ltd/India",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "capitalmind asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "CAPITALMIND ASSET MANAGEMENT",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "credit agricole": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "FR",
+      "display_name": "Credit Agricole Group",
+      "entity_type": "bank",
+      "evidence": "Credit Agricole S.A. owns 80% of Amundi, Europe's largest asset manager and a subsidiary of the Credit Agricole group. Foreign equity including India is held via Amundi-managed funds/accounts.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://about.amundi.com/article/credit-agricole-sa-has-entered-exclusive-negotiations-societe-generale",
+      "verified_on": "2026-09-22"
+    },
+    "deutsche bank": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "DE",
+      "display_name": "Deutsche Bank AG",
+      "entity_type": "bank",
+      "evidence": "German global bank (DBKGn.DE). Its investment arm DWS Group is one of Europe's biggest fund managers; DWS is acquiring 40% in a Nippon Life India Asset Management unit, confirming Indian equity exposure runs through DWS-managed funds.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.reuters.com/world/india/deutsche-banks-dws-buy-40-stake-nippon-life-india-asset-management-2025-11-13",
+      "verified_on": "2026-09-22"
+    },
+    "dsp asset managers": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "DSP Asset Managers Pvt Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "echjay industries": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Echjay Industries Pvt Ltd",
+      "entity_type": "operating_company",
+      "evidence": "SEBI shareholding pattern lists 'Echjay industries private limited' under Public > Non-Institutions > Bodies corporate. An Indian forging and engineering group holding the stake on its own book.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/",
+      "verified_on": "2026-09-22"
+    },
+    "edelweiss asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Edelweiss Asset Management Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "edelweiss life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Edelweiss Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "fil": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "BM",
+      "display_name": "FIL Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "Fidelity International Ltd (FIL) is the legal entity behind the Fidelity International brand. Per its infobox, headquarters is Pembroke, Bermuda. It is an employee-owned private company, separate from US FMR LLC (Fidelity Investments), and provides investment management for clients in Europe, Canada, EMEA and Asia.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fidelity_International",
+      "verified_on": "2026-09-22"
+    },
+    "flexshares trust": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "FlexShares Trust",
+      "entity_type": "exchange_traded_fund_trust",
+      "evidence": "FlexShares Trust is an ETF trust registered with the SEC under the Investment Company Act of 1940, sponsored and managed by Northern Trust Asset Management (NTAM), headquartered at 50 South La Salle Street, Chicago, Illinois.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.flexshares.com/us/en/individual/press",
+      "verified_on": "2026-09-22"
+    },
+    "franklin templeton": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Franklin Templeton Inc",
+      "entity_type": "asset_manager",
+      "evidence": "Franklin Resources, Inc. (DBA Franklin Templeton Investments) is a US (Delaware-incorporated) investment company/asset manager. Holds foreign equity on behalf of mutual funds (Franklin, Templeton, Mutual Series funds) and institutional clients.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.ipqwery.com/ipowner/en/owner/ip/485181-franklin-resources-inc.html",
+      "verified_on": "2026-09-22"
+    },
+    "groww asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Groww Asset Management Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hdfc asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Asset Management Co Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hdfc life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Asset Management Co Ltd/India",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "indusind nippon life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Indusind Nippon Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "invesco asset management india": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Invesco Asset Management India Pvt Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "jio blackrock asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Jio BlackRock Asset Management Pvt Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "jpmorgan chase and": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "JPMorgan Chase & Co",
+      "entity_type": "bank",
+      "evidence": "US bank holding company. JPMorgan Chase Bank, N.A. India branches plus JPMSI and JPMIPL are wholly-owned subsidiaries. JPMorgan Asset Management is the group's asset-management arm; Indian listed-equity exposure runs through these AM subsidiaries/managed funds rather than on the bank's own proprietary book.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://jpmorganchaseco.gcs-web.com/static-files/3d1cfdc0-b391-4c71-a055-cb09f463622e",
+      "verified_on": "2026-09-22"
+    },
+    "kotak mahindra asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak Mahindra Asset Management Co Ltd/India",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "legal and general": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "GB",
+      "display_name": "Legal & General Group PLC",
+      "entity_type": "insurer",
+      "evidence": "British multinational headquartered in London (FTSE 100). Provides life insurance, pensions, annuities; its asset management arm (LGIM) is the UK's largest by AUM and runs large foreign-equity portfolios (including India), making LGIM-run funds the typical vehicle for the group's foreign-equity exposure.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Legal_%26_General",
+      "verified_on": "2026-09-22"
+    },
+    "motilal oswal asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Motilal Oswal Asset Management Co Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "munix india": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Munix India Pvt Ltd",
+      "entity_type": "operating_company",
+      "evidence": "Munix (India) Private Limited, CIN U00000PB2003PTC025986, incorporated 5 May 2003, Punjab. Operates as a manufacturer and supplier of staplers, staples, scissors, knives, peelers, gun tackers, pneumatic tools and tape tools. Active operating company (INR 100-500 cr revenue). Any listed-equity holding sits on the company's own balance sheet.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.tofler.in/munix-india-private-limited/company/U00000PB2003PTC025986",
+      "verified_on": "2026-09-22"
+    },
+    "nationwide fund advisors": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Nationwide Fund Advisors",
+      "entity_type": "asset_manager",
+      "evidence": "SEC filing: Nationwide Fund Advisors is a business trust organized under the laws of the state of Delaware, registered as an investment adviser under the Investment Advisers Act of 1940. Sponsors active ETFs.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.federalregister.gov/documents/2018/03/13/2018-05039/nationwide-fund-advisors-and-etf-series-solutions",
+      "verified_on": "2026-09-22"
+    },
+    "navi amc": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Navi AMC Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nippon life india asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Nippon Life India Asset Management Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nomura": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "JP",
+      "display_name": "Nomura Holdings Inc",
+      "entity_type": "bank",
+      "evidence": "Japanese financial holding company headquartered in Chuo, Tokyo. Nomura's India equity stake is held via Nomura Asset Management (NAM) \u2014 the Nomura India Investment Fund Mother Fund is a Japan-domiciled fund managed by NAM.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Nomura_Holdings",
+      "verified_on": "2026-09-22"
+    },
+    "norges bank": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "NO",
+      "display_name": "Norges Bank",
+      "entity_type": "pension_fund",
+      "evidence": "The holding is reported as 'Government Pension Fund Global' - Norway's sovereign fund, managed by Norges Bank Investment Management, not the central bank's own reserves. Placed in the new Foreign Pension Fund category per the agreed taxonomy extension; Foreign Government is the defensible alternative if sovereign ownership is the more important axis.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.investing.com/equities/anand-rathi-wealth-ownership",
+      "verified_on": "2026-09-22"
+    },
+    "pnb metlife india insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "PNB MetLife India Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "prudential financial": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "US",
+      "display_name": "Prudential Financial Inc",
+      "entity_type": "insurer",
+      "evidence": "US life/health insurer and asset manager (NYSE: PRU, S&P 500). The parent holds its diversified equity book (including Indian listed equity) primarily through the insurance general account; PGIM is the AM subsidiary that runs third-party money.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://ad-hoc-news.de/boerse/news/ueberblick/prudential-financial-balances-insuran/69743267",
+      "verified_on": "2026-09-22"
+    },
+    "quant money managers": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Quant Money Managers Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "rawal family trust": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Rawal Family Trust",
+      "entity_type": "private_family_trust",
+      "evidence": "SEBI shareholding pattern lists it under Public > Non-Institutions > Trusts as 'Rawal family trust acting through Rakesh Rawal'. Named an 'Other Selling Shareholder' in the IPO DRHP, distinct from the Promoter Selling Shareholders.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/",
+      "verified_on": "2026-09-22"
+    },
+    "russell investments": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "GB",
+      "display_name": "Russell Investments Group Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "Russell Investment Group Limited, UK Companies House registration 12595999, registered office at 4th Floor Llanthony Warehouse, The Docks, Gloucester, GL1 2EH. SIC code 64304 (activities of open-ended investment companies). The UK Ltd is part of the Russell Investments Group (parent US-incorporated LLC).",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://find-and-update.company-information.service.gov.uk/company/12595999",
+      "verified_on": "2026-09-22"
+    },
+    "samco asset management india": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SAMCO ASSET MANAGEMENT INDIA",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi funds management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Funds Management Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "shriram asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Shriram Asset Management Co Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "star union dai ichi life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Star Union Dai-Ichi Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "suhas gupta family trust": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SUHAS GUPTA FAMILY TRUST",
+      "entity_type": "private_family_trust",
+      "evidence": "SEBI shareholding pattern lists it under Public > Non-Institutions > Trusts as 'Suhas gupta family trust acting through Preeti Rawal'. A private family trust, not a pooled fund.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/",
+      "verified_on": "2026-09-22"
+    },
+    "sun life financial": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "CA",
+      "display_name": "Sun Life Financial Inc",
+      "entity_type": "insurer",
+      "evidence": "Canadian insurance and wealth-management company (TSX/NYSE: SLF), Toronto HQ. Manages CAD$1.3-1.7 trillion in assets; runs life insurance plus AM subsidiaries (MFS, BentallGreenOak, Crescent Capital, SLC Management). Foreign equity held by the parent is recorded through its insurance general account float.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Sun_Life_Financial",
+      "verified_on": "2026-09-22"
+    },
+    "tata aia life insurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Tata AIA Life Insurance Co Ltd",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "tata asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Tata Asset Management Pvt Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "union mutual fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Union Mutual Fund/India",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "uti asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI Asset Management Co Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "wilshire advisors": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Wilshire Advisors LLC",
+      "entity_type": "asset_manager",
+      "evidence": "Wilshire Advisors LLC is the US entity operating the Wilshire investment-advisory business (Santa Monica, California), offering investment consulting, indexes, OCIO/managed portfolios, mutual funds and alternative-assets solutions. Holds foreign equities in advisory/managed mandates rather than on own book.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.wilshire.com",
+      "verified_on": "2026-09-22"
+    },
+    "zerodha asset management": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Zerodha Asset Management Pvt Ltd",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    }
+  },
+  "updated": "2026-09-22",
+  "version": 1
+}

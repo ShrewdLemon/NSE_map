@@ -47,10 +47,10 @@
   {
     "holder_name": "Norges Bank",
     "country_of_incorporation": "NO",
-    "legal_entity_type": "sovereign_wealth_fund",
-    "holding_vehicle": "sovereign_assets",
-    "confidence": "high",
-    "evidence": "The holding is reported as 'Government Pension Fund Global' - Norway's sovereign wealth fund, managed by Norges Bank Investment Management. Sovereign capital rather than central-bank reserves or a commercial banking book.",
+    "legal_entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "confidence": "medium",
+    "evidence": "The holding is reported as 'Government Pension Fund Global' - Norway's sovereign fund, managed by Norges Bank Investment Management, not the central bank's own reserves. Placed in the new Foreign Pension Fund category per the agreed taxonomy extension; Foreign Government is the defensible alternative if sovereign ownership is the more important axis.",
     "source_url": "https://www.investing.com/equities/anand-rathi-wealth-ownership"
   }
 ]
