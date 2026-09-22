@@ -22,13 +22,21 @@ broker or an operating company.
 
 ## Pipeline
 
+There are two ways in, because there are two kinds of source. A Bloomberg
+`OWN` export names the long tail of holders but knows nothing about promoter
+status; a filed shareholding pattern is authoritative on promoters but only
+names public holders above 1%. Both converge on the same holder rows.
+
 ```
-Bloomberg .xlsx
-      |
-      v
-  parse_bloomberg.py     strip the banner, find the header row, type the quarters
-      |
-      v
+Bloomberg .xlsx                    data/registers/<TICKER>.json
+      |                                      |
+      v                                      v
+  parse_bloomberg.py                   build_register.py
+  strip the banner, find the           recover the SCRR denominator,
+  header row, type the quarters        emit holder rows + the registry
+      |                                      |
+      +------------------+-------------------+
+                         v
   promoters.py           overlay filed Table II names  ... company-specific
       |
       v
@@ -89,21 +97,59 @@ it is company-specific and lives in `data/promoters_<TICKER>.json`.
 
 ## Run it
 
+One company from a Bloomberg export:
+
 ```bash
 python3 src/parse_bloomberg.py "data/<company>.xlsx" output/holders_raw.json
 python3 src/build.py --registry data/promoters_<TICKER>.json --ticker <TICKER>
 ```
 
-Outputs land in `output/` as `.xlsx` (Book1 layout), `.csv`, and `.json`.
+A whole index from filed shareholding patterns:
+
+```bash
+python3 src/build_nifty50.py                # one workbook for every constituent
+python3 src/build_nifty50.py --unresolved   # what still needs research
+python3 src/build_nifty50.py --only TCS INFY
+```
+
+Outputs land in `output/` as `.xlsx`, `.csv`, and `.json`. The index workbook
+carries a Summary sheet, an Index totals rollup, a combined All holders sheet
+and one sheet per company.
 
 ## Adding a company
 
-1. Drop the Bloomberg export in `data/` and parse it.
-2. Build `data/promoters_<TICKER>.json` from that company's filed
-   shareholding pattern (Table II). Record the bonus/split factor if the
-   Bloomberg counts are adjusted and the filing is not.
-3. Run `build.py`. Names already in the entity master resolve for free;
-   only genuinely new entities need research.
+A company is data, not code. Write `data/registers/<TICKER>.json`:
+
+```jsonc
+{
+  "ticker": "ACME", "company": "Acme Industries Limited",
+  "as_of": "2026-06-30", "quarters": ["Jun/2026"],
+  "shares_scrr": 1000000000,          // optional: recovered if wrong or absent
+  "promoter_pct": 51.2, "has_promoter": true,
+  "promoter_group": [{"filed_name": "...", "shares_filed": 123, "pct": 0.1}],
+  "public_holders": [{"holder_name": "...", "shares": 456, "pct": 0.5,
+                      "pct_series": {"Mar/2026": 0.48, "Jun/2026": 0.5}}]
+}
+```
+
+Then add the ticker to `data/nifty50.json` (or pass `--only`) and run. Names
+already in the entity master resolve for free; only genuinely new entities
+need research.
+
+Coming from a Bloomberg export instead, keep the older path: parse the export
+and hand-build `data/promoters_<TICKER>.json`, recording the bonus/split
+factor when the export is adjusted and the filing is not.
+
+### The denominator is recovered, not trusted
+
+Indian filings quote percentages on the SCRR basis `(A)+(B)+(C2)`, which
+excludes shares underlying depository receipts. Reliance publishes a
+13,532,472,634 grand total and a 13,289,313,310 SCRR base; using the wrong one
+inflates every converted share count by 1.8%. So `shares_scrr` is a hint, not
+gospel: `resolve_denominator()` backs the real base out of holders that publish
+both a share count and a percentage, and overrides the stated figure only when
+at least three of them disagree by more than half a percent. One stale row
+cannot move it.
 
 ## Result for ANANDRATHI (Q2/2025 - Q3/2026)
 
