@@ -28,7 +28,7 @@ _MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
 # SCRR base '(A)+(B)+(C2)'), a roman numeral or a digit, so a real name like
 # 'Alpha Holdings (India) Pvt Ltd' is never mistaken for one.
 _TABLE_REF = r"(?:[-\s+]*\((?:[A-Za-z]\d?|[ivx]+|\d)\))*"
-_TOTAL_WORD = r"(?:sub[\s-]?total|grand\s*total|total|aggregate|combined)"
+_TOTAL_WORD = r"(?:sub\s*[\s-]?\s*total|grand\s*total|total|aggregate|combined)"
 
 # The classes a shareholding pattern groups holders under. A row whose whole
 # name is one of these is the group's own line, never a shareholder.
@@ -111,6 +111,7 @@ def label(iso):
 _ENUMERATOR = re.compile(r"""^\s*['"]?\s*\(\s*['"]?\s*[A-Za-z0-9]{1,3}\s*\)\s*""")
 # Caption text that wrapped out of a table header and into a name buffer.
 _CAPTION = re.compile(r"Table\s+[IV]+\s*[-–]|Statement showing|Category of shareholder", re.I)
+
 
 
 def _clean_name(raw):
