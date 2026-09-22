@@ -1,0 +1,140 @@
+"""Parse a filed SEBI shareholding pattern PDF into promoter and public holders.
+
+The filing is the primary source: exact names, exact share counts, every
+quarter. Reading it directly removes the web agent from the critical path,
+which is what makes an index-wide run practical.
+
+SEBI's format is fixed. Table II holds the Promoter & Promoter Group, Table III
+the Public shareholders, Table IV the Non-Promoter Non-Public holders. Each
+data row is a name followed by a run of numeric columns:
+
+    Mr. Shiv Nadar  Promoter  1  736  -  -  736  0.000%  736 ...
+    name            role      (III) (IV) (V) (VI) (VII)  (VIII)
+
+so the name is whatever precedes the numeric run, and the counts are read
+positionally from it.
+"""
+import io
+import re
+
+# A numeric column: a count, a percentage, or a dash standing for nil.
+_NUM = re.compile(r"^(?:-+|NA|N/?A|\d[\d,]*(?:\.\d+)?%?|\.\d+%?)$", re.I)
+# The role column sits between the name and the numbers in Table II.
+_ROLE = re.compile(r"\s+(?:Promoter Group|Promoter|Public|Trust)\s*$", re.I)
+_MIN_NUMERIC = 4      # fewer columns than this is a caption, not a data row
+
+
+def _to_num(tok):
+    if tok is None or re.fullmatch(r"-+|NA|N/?A", tok or "", re.I):
+        return None
+    try:
+        return float(tok.replace(",", "").rstrip("%"))
+    except ValueError:
+        return None
+
+
+def split_row(line):
+    """(name, numeric tokens) for a data row, else (None, [])."""
+    toks = line.split()
+    i = len(toks)
+    while i > 0 and _NUM.match(toks[i - 1]):
+        i -= 1
+    name, nums = " ".join(toks[:i]).strip(), toks[i:]
+    if len(nums) < _MIN_NUMERIC or not name:
+        return None, []
+    return _ROLE.sub("", name).strip(" .,-"), nums
+
+
+def _sections(text):
+    """Split the document into its SEBI tables, keyed by roman numeral."""
+    marks = [(m.start(), m.group(1).upper())
+             for m in re.finditer(r"Table\s+(I{1,3}V?|IV|V)\s*[-–]", text)]
+    out = {}
+    for n, (pos, roman) in enumerate(marks):
+        end = marks[n + 1][0] if n + 1 < len(marks) else len(text)
+        # A table can be announced more than once (continuation pages); keep
+        # the longest run so the body is not truncated at a repeat header.
+        if roman not in out or end - pos > len(out[roman]):
+            out[roman] = text[pos:end]
+    return out
+
+
+def _rows(section, clean_name):
+    """Data rows of one table, with aggregate lines filtered out.
+
+    A row does not always survive PDF extraction on one line. A long name wraps
+    and the numbers land on their own line:
+
+        Vama Sundari Investments (Delhi) Pvt.
+        Ltd.
+        Promoter
+        1   1,200,361,516   -   -   1,200,361,516   44.234% ...
+
+    so non-numeric lines are buffered and flushed against the next all-numeric
+    line. Without this the largest promoter of several companies reads as nil.
+    """
+    got, buf = [], []
+
+    def emit(name, nums):
+        clean = clean_name(_ROLE.sub("", name).strip(" .,-"))
+        if not clean:
+            return
+        shares = _to_num(nums[1]) if len(nums) > 1 else None
+        total = _to_num(nums[4]) if len(nums) > 4 else None
+        pct = _to_num(nums[5]) if len(nums) > 5 else None
+        got.append({
+            "name": clean,
+            # (IV) fully paid up is the headline count; (VII) total holding
+            # matches it unless partly paid or DR shares exist, and is the
+            # better figure when they do.
+            "shares": int(total if total not in (None, 0) else (shares or 0)),
+            "pct": pct,
+        })
+
+    for raw in section.split("\n"):
+        line = raw.strip()
+        if not line:
+            continue
+        toks = line.split()
+        name, nums = split_row(line)
+        if name:
+            emit(name, nums)
+            buf = []
+        elif len(toks) >= _MIN_NUMERIC and all(_NUM.match(t) for t in toks):
+            if buf:
+                emit(" ".join(buf), toks)
+            buf = []
+        else:
+            # Part of a name that wrapped. Cap the buffer so a page header
+            # cannot accumulate into a fake holder.
+            buf = (buf + [line])[-4:]
+    return got
+
+
+def parse_text(text, clean_name):
+    """Returns {'promoters': [...], 'public': [...], 'non_public': [...]}."""
+    sec = _sections(text)
+    return {
+        "promoters": _rows(sec.get("II", ""), clean_name),
+        "public": _rows(sec.get("III", ""), clean_name),
+        "non_public": _rows(sec.get("IV", ""), clean_name),
+    }
+
+
+def parse_pdf(data, clean_name):
+    import pypdf
+    reader = pypdf.PdfReader(io.BytesIO(data))
+    text = "\n".join((p.extract_text() or "") for p in reader.pages)
+    return parse_text(text, clean_name), text
+
+
+def scrr_base(text):
+    """The (A)+(B)+(C2) denominator, read off the Table I total row."""
+    # The grand total including depository receipts is a different row; the
+    # SCRR base is the one the percentages are struck on.
+    m = re.search(r"Total\s*\(A\)\s*\+\s*\(B\)\s*\+\s*\(C2?\)[^\n]*", text, re.I)
+    if not m:
+        return None
+    nums = [t for t in m.group(0).split() if _NUM.match(t)]
+    vals = sorted({int(v) for v in (_to_num(t) or 0 for t in nums) if v > 1000})
+    return int(vals[-1]) if vals else None
