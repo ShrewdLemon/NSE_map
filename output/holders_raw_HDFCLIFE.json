@@ -1,0 +1,103 @@
+{
+  "company": "HDFC Life Insurance Company Limited",
+  "ticker": "HDFCLIFE",
+  "isin": "INE795G01014",
+  "as_of": "2026-06-30",
+  "shares_scrr": 2172474981.0,
+  "denominator_note": "stated denominator agrees with 9 of 9 holders to 0.015%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "HDFC Bank Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1097866178
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 97313586
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 91909908
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Exide Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 87022222
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Camas Investments Pte. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 36559723
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 29678078
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust - A/C SBI Pension Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 25712136
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 24822717
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Quant Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 23056328
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/65394/HDFCLIFE/latest/",
+    "https://www.bseindia.com/xml-data/corpfiling/attachLive/...-7ef6d1e5.pdf"
+  ],
+  "notes": "Promoter holding rose from 50.21% to 50.54% due to HDFC Bank's preferential allotment of 1,45,23,906 shares at Rs 688.52 on Jun 16, 2026. Total shares 2,172,474,981 per BSE allotment notice of June 16, 2026; trendlyne carries forward the same numerator with IPR holdings listed above.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -9.35157649464831e-05,
+  "promoter_pct_filed": 50.54
+}

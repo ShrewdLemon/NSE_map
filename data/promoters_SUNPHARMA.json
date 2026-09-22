@@ -1,0 +1,87 @@
+{
+  "company": "Sun Pharmaceutical Industries Limited",
+  "isin": "INE044A01036",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1316/SUNPHARMA/latest/sun-pharmaceutical-industries-ltd",
+    "https://sunpharma.com/wp-content/uploads/2025/07/Share-Holding-Pattern_30-June-2025.pdf",
+    "https://sunpharma.com/wp-content/uploads/2024/07/SPIL-AR2023-24-Annual-Return.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 54.48,
+  "promoter_total_shares_filed": 1307119535,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Dilip.S.Shanghvi",
+      "shares_filed": 230385155,
+      "class": "Individuals/HUF (Promoter)"
+    },
+    {
+      "filed_name": "Sudhir vrundavandas valia",
+      "shares_filed": 14345019,
+      "class": "Individuals/HUF (Promoter Group)"
+    },
+    {
+      "filed_name": "Vibha dilip shanghvi",
+      "shares_filed": 8840280,
+      "class": "Individuals/HUF (Promoter Group)"
+    },
+    {
+      "filed_name": "Aalok dilip shanghvi",
+      "shares_filed": 2877280,
+      "class": "Individuals/HUF (Promoter Group)"
+    },
+    {
+      "filed_name": "Vidhi dilip shanghvi",
+      "shares_filed": 2822427,
+      "class": "Individuals/HUF (Promoter Group)"
+    },
+    {
+      "filed_name": "Kumud shantilal shanghvi",
+      "shares_filed": 85000,
+      "class": "Individuals/HUF (Promoter Group)"
+    },
+    {
+      "filed_name": "Shanghvi Family & Friends Benefit Trust",
+      "shares_filed": 1276774,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Raksha Sudhir Valia",
+      "shares_filed": 28830352,
+      "class": "Individuals/HUF (Persons Acting in Concert, Promoter Group)"
+    },
+    {
+      "filed_name": "Unimed Investments Limited",
+      "shares_filed": 10400850,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Shanghvi Finance Private Limited",
+      "shares_filed": 967051732,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Aditya Medisales Limited",
+      "shares_filed": 40153960,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Flamboyawer Finance Private Limited",
+      "shares_filed": 20865,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Shanghvi Universal Private Limited (formerly known as Sanghvi Properties Private Limited)",
+      "shares_filed": 15479,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Sun Petro Private Limited (formerly known as Gujarat Sun Pharmaceutical Industries Private Limited)",
+      "shares_filed": 14362,
+      "class": "Bodies Corporate (Promoter Group)"
+    }
+  ]
+}

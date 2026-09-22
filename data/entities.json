@@ -165,6 +165,21 @@
       "source": "https://economictimes.indiatimes.com/company/anandrathi-housing-finance-limited/U67100MH2018PLC304174",
       "verified_on": "2026-09-22"
     },
+    "anatole investments": {
+      "basis": "rule:foreign-legal-form",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Anatole Investments Pte Ltd",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "angel one": {
       "basis": "web",
       "confidence": "medium",
@@ -360,6 +375,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "bank of new york mellon": {
+      "basis": "rule:bank-by-name",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "THE BANK OF NEW YORK MELLON",
+      "entity_type": "bank",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "baroda bnp paribas mutual fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -371,6 +401,66 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "birla": {
+      "basis": "rule:indian-legal-form",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Birla Group Holdings Private Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "birla consultants": {
+      "basis": "rule:indian-company",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Birla Consultants Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "birla industrial finance india": {
+      "basis": "rule:indian-company",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Birla Industrial Finance (India) Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "birla industrial investments india": {
+      "basis": "rule:indian-company",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Birla Industrial Investments (India) Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -388,6 +478,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm",
+      "verified_on": "2026-09-22"
+    },
+    "camas investments": {
+      "basis": "rule:foreign-legal-form",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Camas Investments Pte. Ltd",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ETERNAL"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "canadian imperial bank of commerce": {
@@ -540,6 +645,21 @@
       "source": "https://en.wikipedia.org/wiki/DWS_Group",
       "verified_on": "2026-09-22"
     },
+    "dodge and cox international stock fund": {
+      "basis": "rule:foreign-fund-house",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "DODGE AND COX INTERNATIONAL STOCK FUND",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "driehaus capital management": {
       "basis": "web",
       "confidence": "high",
@@ -611,6 +731,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "CIPLA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "dunearn investments mauritius": {
+      "basis": "rule:foreign-legal-form",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Dunearn Investments (Mauritius) Pte Ltd",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ETERNAL"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -916,6 +1051,21 @@
       "source": "https://sec.gov/Archives/edgar/data/1593547/000119312520267112/d87085dncsr.htm",
       "verified_on": "2026-09-22"
     },
+    "green enterprises investment rsc": {
+      "basis": "rule:foreign-legal-form",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Green Enterprises Investment Holding Rsc Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ADANIENT"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "groww asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1126,6 +1276,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "hindalco industries": {
+      "basis": "rule:indian-company",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Hindalco Industries Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "hsbc mutual fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1242,6 +1407,36 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "HINDUNILVR"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential large and mid cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Large & Mid Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HINDALCO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential large cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Large Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HDFCBANK"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1441,6 +1636,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "igh": {
+      "basis": "rule:indian-legal-form",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "IGH Holdings Private Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "indusind nippon life insurance": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -1452,6 +1662,21 @@
       "holding_vehicle": "insurance_float",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "info edge india": {
+      "basis": "rule:indian-company",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Info Edge (India) Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "ETERNAL"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1497,6 +1722,36 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "j p morgan chase bank na": {
+      "basis": "rule:bank-by-name",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "J P Morgan Chase Bank NA",
+      "entity_type": "bank",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "DRREDDY"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "jaya hind industries": {
+      "basis": "rule:indian-legal-form",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "JAYA HIND INDUSTRIES PRIVATE LIMITED",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "BAJAJ-AUTO"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1919,6 +2174,21 @@
         "ANANDRATHI"
       ],
       "source": "https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group",
+      "verified_on": "2026-09-22"
+    },
+    "mirae asset large cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Mirae Asset Large Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HDFCBANK"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "mirae asset mutual fund": {
@@ -2551,6 +2821,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "quant mutual fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Quant Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HDFCLIFE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "quant mutual fund quant small cap fund": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -2562,6 +2847,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ADANIENT"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "rajratna": {
+      "basis": "rule:indian-legal-form",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Rajratna Holdings Private Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -2579,6 +2879,21 @@
         "ANANDRATHI"
       ],
       "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/",
+      "verified_on": "2026-09-22"
+    },
+    "renuka ventures": {
+      "basis": "rule:indian-company",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Renuka Ventures Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "rothmans international enterprises": {
@@ -2971,6 +3286,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "surya kiran investments": {
+      "basis": "rule:foreign-legal-form",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Surya Kiran Investments Pte Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "taiwan securities": {
       "basis": "web",
       "confidence": "high",
@@ -3044,6 +3374,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.tiaa.org/public/about-tiaa",
+      "verified_on": "2026-09-22"
+    },
+    "thai rayon public": {
+      "basis": "rule:foreign-legal-form",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Thai Rayon Public Company Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "thrivent financial for lutherans": {
@@ -3241,6 +3586,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "vaibhav": {
+      "basis": "rule:indian-legal-form",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Vaibhav Holdings Private Limited",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "vanguard": {
       "basis": "web",
       "confidence": "high",
@@ -3254,6 +3614,51 @@
         "ANANDRATHI"
       ],
       "source": "https://www.wikidata.org/wiki/Q849363",
+      "verified_on": "2026-09-22"
+    },
+    "vanguard emerging markets stock index fund": {
+      "basis": "rule:foreign-fund-house",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Vanguard Emerging Markets Stock Index Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INFY"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "vanguard emerging markets stock index fund a seri": {
+      "basis": "rule:foreign-fund-house",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "VANGUARD EMERGING MARKETS STOCK INDEX FUND, A SERI",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "vanguard emerging markets stock index fund a series": {
+      "basis": "rule:foreign-fund-house",
+      "confidence": "medium",
+      "country": null,
+      "display_name": "Vanguard Emerging Markets Stock Index Fund, A Series",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ICICIBANK"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "vanguard total international stock index fund": {
@@ -3284,6 +3689,21 @@
         "ANANDRATHI"
       ],
       "source": "https://en.wikipedia.org/wiki/Victory_Capital",
+      "verified_on": "2026-09-22"
+    },
+    "vikram": {
+      "basis": "rule:indian-legal-form",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Vikram Holdings Pvt Ltd",
+      "entity_type": "operating_company",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "GRASIM"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "wbc": {

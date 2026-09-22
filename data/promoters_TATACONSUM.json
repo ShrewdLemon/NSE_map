@@ -1,0 +1,58 @@
+{
+  "company": "Tata Consumer Products Limited",
+  "isin": "INE192A01025",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1359/TATACONSUM/latest/tata-consumer-products-ltd",
+    "https://www.tataconsumer.com/shareholding-pattern-q1-2026-27",
+    "https://www.tataconsumer.com/shareholding-pattern-q1-2024-25",
+    "https://bseindia.com/xml-data/corpfiling/AttachLive/087ca5bf-e93e-4121-b4ba-0b4bd183a1cd.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 33.83,
+  "promoter_total_shares_filed": 334813834,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Tata Sons Private Limited",
+      "shares_filed": 283854264,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Investment Corporation Limited",
+      "shares_filed": 45975807,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Ewart Investments Limited",
+      "shares_filed": 3876950,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Industries Limited",
+      "shares_filed": 851161,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Voltas Limited",
+      "shares_filed": 237289,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Capital Limited",
+      "shares_filed": 11468,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Securities Limited",
+      "shares_filed": 2,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Titan Company Limited",
+      "shares_filed": 6893,
+      "class": "Bodies Corporate (Promoter Group - Any Other)"
+    }
+  ]
+}

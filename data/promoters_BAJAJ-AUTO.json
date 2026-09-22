@@ -7,7 +7,7 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJAJ-AUTO"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 0.5501,
+  "promoter_total_pct": 55.010000000000005,
   "promoter_total_shares_filed": 156675528,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,

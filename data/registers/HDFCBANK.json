@@ -1,0 +1,108 @@
+{
+  "ticker": "HDFCBANK",
+  "company": "HDFC Bank Limited",
+  "sector": "Financial Services",
+  "isin": "INE040A01034",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 13349933102.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.0,
+  "has_promoter": false,
+  "promoter_group": [],
+  "public_holders": [
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "shares": 998537680.0,
+      "pct": 7.48,
+      "holder_class": "Mutual Fund - ETF"
+    },
+    {
+      "holder_name": "ICICI Prudential Large Cap Fund",
+      "shares": 645891709.0,
+      "pct": 4.84,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 637348790.0,
+      "pct": 4.77,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS Trust- A/C HDFC Pension Fund Management Limited Scheme E - Tier I",
+      "shares": 402675981.0,
+      "pct": 3.02,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "HDFC Trustee Co Ltd A/C HDFC Flexi Cap Fund",
+      "shares": 407353907.0,
+      "pct": 3.05,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India ETF Nifty 50 BeES",
+      "shares": 390887886.0,
+      "pct": 2.93,
+      "holder_class": "Mutual Fund - ETF"
+    },
+    {
+      "holder_name": "UTI Nifty 50 ETF",
+      "shares": 328343588.0,
+      "pct": 2.46,
+      "holder_class": "Mutual Fund - ETF"
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "shares": 290093188.0,
+      "pct": 2.17,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "shares": 179316154.0,
+      "pct": 1.34,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "shares": 167330626.0,
+      "pct": 1.25,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Vanguard Emerging Markets Stock Index Fund",
+      "shares": 158405284.0,
+      "pct": 1.19,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Parag Parikh Flexi Cap Fund",
+      "shares": 159181542.0,
+      "pct": 1.19,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Kotak Flexicap Fund",
+      "shares": 156637542.0,
+      "pct": 1.17,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Mirae Asset Large Cap Fund",
+      "shares": 154630723.0,
+      "pct": 1.16,
+      "holder_class": "Mutual Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/533/HDFCBANK/latest/hdfc-bank-ltd/"
+  ],
+  "notes": "HDFC Bank is professionally managed and reports no promoter. Total shares 13,349,933,102 derived from institutional + public aggregate (Trendlyne Jun 2026 quarter); named public holders above 1% shown.",
+  "ingested_on": "2026-09-22"
+}

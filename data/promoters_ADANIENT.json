@@ -7,7 +7,7 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIENT"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 0.7484,
+  "promoter_total_pct": 71.97,
   "promoter_total_shares_filed": 974234554,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,

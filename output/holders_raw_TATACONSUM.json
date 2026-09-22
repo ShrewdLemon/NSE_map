@@ -1,0 +1,141 @@
+{
+  "company": "Tata Consumer Products Limited",
+  "ticker": "TATACONSUM",
+  "isin": "INE192A01025",
+  "as_of": "2026-06-30",
+  "shares_scrr": 989645268.0,
+  "denominator_note": "stated denominator agrees with 8 of 10 holders to 0.008%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Tata Sons Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 283854264
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Investment Corporation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 45975807
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ewart Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3876950
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 851161
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Voltas Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 237289
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Capital Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11468
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Securities Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Titan Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 6893
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi-Nifty 50 Etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 16692239
+      },
+      "filed_class": "Mutual Fund/ETF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15913283
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 81469499
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi Life Insurance Co. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 14121220
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust A/C UTI Pension Fund Limited - Scheme State Govt",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 23896426
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1359/TATACONSUM/latest/tata-consumer-products-ltd",
+    "https://www.tataconsumer.com/shareholding-pattern-q1-2026-27",
+    "https://www.tataconsumer.com/shareholding-pattern-q1-2024-25",
+    "https://bseindia.com/xml-data/corpfiling/AttachLive/087ca5bf-e93e-4121-b4ba-0b4bd183a1cd.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2026 shareholding pattern (Tata Consumer Q1 FY27). Trendlyne-derived SCRR denominator 989,645,268 = promoter 334,813,834 + institutional 446,333,454 + non-institutional public 208,497,980; consistent with paid-up equity capital of Rs 98.96 crore (999.60 lakh shares) per Q1 FY27 standalone results. Tata Sons Private Limited is the holding-company promoter; remaining Any-Other promoter group members are fellow Tata Group entities that all fall under the Bodies Corporate sub-category. Tata Securities Limited holds a nil-effect 2-share residual. No other Pension Fund/Insurance/MF/FPI row above 1% was shown beyond the 5 listed.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 5.0298646324612474e-05,
+  "promoter_pct_filed": 33.83
+}

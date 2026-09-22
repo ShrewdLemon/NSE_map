@@ -1,0 +1,80 @@
+{
+  "ticker": "HDFCLIFE",
+  "company": "HDFC Life Insurance Company Limited",
+  "sector": "Financial Services",
+  "isin": "INE795G01014",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 2172474981.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 50.54,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "HDFC Bank Limited",
+      "shares_filed": 1097866178.0,
+      "pct": 50.54,
+      "holder_class": "Bodies Corporate"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "shares": 97313586.0,
+      "pct": 4.48,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "shares": 91909908.0,
+      "pct": 4.23,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Exide Industries Limited",
+      "shares": 87022222.0,
+      "pct": 4.01,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Camas Investments Pte. Ltd",
+      "shares": 36559723.0,
+      "pct": 1.68,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Nippon Life India Mutual Fund",
+      "shares": 29678078.0,
+      "pct": 1.37,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS Trust - A/C SBI Pension Fund",
+      "shares": 25712136.0,
+      "pct": 1.18,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "shares": 24822717.0,
+      "pct": 1.14,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Quant Mutual Fund",
+      "shares": 23056328.0,
+      "pct": 1.06,
+      "holder_class": "Mutual Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/65394/HDFCLIFE/latest/",
+    "https://www.bseindia.com/xml-data/corpfiling/attachLive/...-7ef6d1e5.pdf"
+  ],
+  "notes": "Promoter holding rose from 50.21% to 50.54% due to HDFC Bank's preferential allotment of 1,45,23,906 shares at Rs 688.52 on Jun 16, 2026. Total shares 2,172,474,981 per BSE allotment notice of June 16, 2026; trendlyne carries forward the same numerator with IPR holdings listed above.",
+  "ingested_on": "2026-09-22"
+}

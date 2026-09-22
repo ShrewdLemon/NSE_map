@@ -1,0 +1,95 @@
+{
+  "company": "Hindalco Industries Limited",
+  "isin": "INE038A01020",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/549/HINDALCO/latest/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 34.66,
+  "promoter_total_shares_filed": 778904497,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "IGH Holdings Private Limited",
+      "shares_filed": 350088487,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Birla Group Holdings Private Limited",
+      "shares_filed": 255622668,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Grasim Industries Limited",
+      "shares_filed": 88048812,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pilani Investment and Industries Corporation Limited",
+      "shares_filed": 29857969,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BITS Investments Limited",
+      "shares_filed": 21583090,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Trustee HIL/IGCL/IGFL Merger Trust",
+      "shares_filed": 16316130,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "PT Indo Bharat Rayon",
+      "shares_filed": 9633890,
+      "class": "Foreign Promoter Bodies Corporate"
+    },
+    {
+      "filed_name": "PT Sunrise Bumi Textiles",
+      "shares_filed": 3004167,
+      "class": "Foreign Promoter Bodies Corporate"
+    },
+    {
+      "filed_name": "PT Elegant Textile Industry",
+      "shares_filed": 1902752,
+      "class": "Foreign Promoter Bodies Corporate"
+    },
+    {
+      "filed_name": "Kumar Mangalam Birla",
+      "shares_filed": 1341635,
+      "class": "Individuals"
+    },
+    {
+      "filed_name": "Aditya Vikram Kumarmangalam Birla HUF",
+      "shares_filed": 648632,
+      "class": "HUF"
+    },
+    {
+      "filed_name": "Rajashree Birla",
+      "shares_filed": 612470,
+      "class": "Individuals"
+    },
+    {
+      "filed_name": "Vasavadatta Bajaj",
+      "shares_filed": 121319,
+      "class": "Individuals"
+    },
+    {
+      "filed_name": "Neerja Birla",
+      "shares_filed": 114640,
+      "class": "Individuals"
+    },
+    {
+      "filed_name": "Global Holdings Trading FZE",
+      "shares_filed": 6336,
+      "class": "Foreign Promoter Bodies Corporate"
+    },
+    {
+      "filed_name": "Surya Kiran Investments Pte Ltd",
+      "shares_filed": 1500,
+      "class": "Foreign Promoter Bodies Corporate"
+    }
+  ]
+}

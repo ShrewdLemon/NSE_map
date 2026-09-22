@@ -7,7 +7,7 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=AXISBANK"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 0.0787,
+  "promoter_total_pct": 7.870000000000001,
   "promoter_total_shares_filed": 244860645,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,

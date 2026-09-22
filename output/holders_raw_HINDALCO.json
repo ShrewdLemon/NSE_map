@@ -1,0 +1,228 @@
+{
+  "company": "Hindalco Industries Limited",
+  "ticker": "HINDALCO",
+  "isin": "INE038A01020",
+  "as_of": "2026-06-30",
+  "shares_scrr": 2247579284.0,
+  "denominator_note": "stated denominator agrees with 13 of 21 holders to 0.072%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "IGH Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 350088487
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Birla Group Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 255622668
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Grasim Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 88048812
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pilani Investment and Industries Corporation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 29857969
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "BITS Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 21583090
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Trustee HIL/IGCL/IGFL Merger Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 16316130
+      },
+      "filed_class": "Trust",
+      "doubtful": false
+    },
+    {
+      "holder_name": "PT Indo Bharat Rayon",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9633890
+      },
+      "filed_class": "Foreign Promoter Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "PT Sunrise Bumi Textiles",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3004167
+      },
+      "filed_class": "Foreign Promoter Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "PT Elegant Textile Industry",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1902752
+      },
+      "filed_class": "Foreign Promoter Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kumar Mangalam Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1341635
+      },
+      "filed_class": "Individuals",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Vikram Kumarmangalam Birla HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 648632
+      },
+      "filed_class": "HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rajashree Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 612470
+      },
+      "filed_class": "Individuals",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vasavadatta Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 121319
+      },
+      "filed_class": "Individuals",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Neerja Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 114640
+      },
+      "filed_class": "Individuals",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Global Holdings Trading FZE",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 6336
+      },
+      "filed_class": "Foreign Promoter Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Surya Kiran Investments Pte Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1500
+      },
+      "filed_class": "Foreign Promoter Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 103152710
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Morgan Guaranty Trust Company of New York (GDR depositary)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 93880883
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 59446613
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust - A/C SBI Pension Fund State Government Scheme",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 56668740
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 51397571
+      },
+      "filed_class": "Mutual Fund - ETF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Large & Mid Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 30353511
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Trustee Pvt. Ltd. - A/C Aditya Birla Sun Life Equity Advantage Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 25024473
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/549/HINDALCO/latest/"
+  ],
+  "notes": "Promoter 34.66% (Indian 34.02% + Foreign Promoter Bodies 0.65%). Total shares 2,247,579,284 derived from promoter-share totals / 0.3466. GDR custodian Morgan Guaranty holds 93,880,883 shares underlying Hindalco GDRs, which are excluded from the SCRR denominator per Reg 31.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -0.00013668977351586806,
+  "promoter_pct_filed": 34.66
+}

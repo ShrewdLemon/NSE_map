@@ -11,7 +11,7 @@
   "shares_scrr": 959197790.0,
   "bonus_factor": 1,
   "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
-  "promoter_pct": 0.5263,
+  "promoter_pct": 52.63,
   "has_promoter": true,
   "promoter_group": [
     {
@@ -742,5 +742,6 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ASIANPAINT"
   ],
   "notes": "Q1 FY27 SHP filed 18-Jul-2026. pr_and_prgrp=52.63%, public=47.29%. SCRR-denominator (A+B+C2)=959,197,790 equity shares. 115 promoter named entries (60 Individuals/HUF + 55 Bodies Corporate). Per filing note: PG accounts clubbed to 82 by first name + PAN; PG entities holding NIL shares ARE included (e.g., Amisha Vakil, Late Abhay Arvind Vakil, Nehal Abhay Vakil, Bhairavi Abhay Vakil etc.). Employee Trusts reported at 0.09% (~1.1L shares) \u2014 this is C2 EBT holding, NOT a public holder and not separately listed. Public named: Life Insurance Corporation of India 8.11%, HDFC MF - through various schemes 4.31%, Nippon India MF - through various schemes 2.50% (~rest minor), plus 2 NRI individuals (Malav A Dani, Ina Ashwin Dani) totalling 0.53%.",
-  "ingested_on": "2026-09-22"
+  "ingested_on": "2026-09-22",
+  "promoter_pct_source": "NSE corporate-share-holdings-master API; the extracted value was 0.5263, which the exchange contradicts"
 }

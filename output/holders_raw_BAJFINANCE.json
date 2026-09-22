@@ -1051,7 +1051,7 @@
   ],
   "notes": "Q1 FY27 SHP filed 18-Jul-2026. pr_and_prgrp=54.67%, public=45.24%. SCRR-denominator (A+B+C2)=6,225,954,304 equity shares. Per remarks: 5 Bajaj Group subsidiaries renamed (Bajaj Finserv Asset Mgmt -> Bajaj Asset Mgmt Ltd; Bajaj Finserv Mutual Fund Trustee -> Bajaj Mutual Fund Trustee; Bajaj Allianz Financial Distributors -> Bajaj Financial Distributors; Bajaj Allianz General Insurance -> Bajaj General Insurance; Bajaj Allianz Life Insurance -> Bajaj Life Insurance) \u2014 name-change footnotes only, no impact on holdings. 108 promoter named entries (Bajaj group body corporates majority of stake, 27 promoter Individuals/HUF; Bajaj family trust + Anant Kumar Baid etc.). Employee Trust holding 0.08% (~1.0L shares) \u2014 filed in C2 (not Table III). Public named: SBI MUTUAL FUND - through various schemes 4.75%, LIFE INSURANCE CORPORATION OF INDIA 3.00%, NPS TRUST - through its various schemes 1.62%, GOVERNMENT OF SINGAPORE (Sovereign Wealth Fund) 1.36%, GOVERNMENT PENSION FUND GLOBAL FPI Cat I 1.36%, HDFC MF - through its various schemes, ICICI Pru MF - through its various schemes, Axis MF - through its various schemes, NPS Trust (FPIS) + minor. Note: pr_and_prgrp reported by NSE summary = 54.67%.",
   "corrections": [],
-  "promoter_reconciliation": "reconciled",
-  "promoter_drift": 0.0006922456129088742,
-  "promoter_pct_filed": 0.5467
+  "promoter_reconciliation": "unreconciled",
+  "promoter_drift": -0.9899930775438709,
+  "promoter_pct_filed": 54.669999999999995
 }

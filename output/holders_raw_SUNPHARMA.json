@@ -1,0 +1,212 @@
+{
+  "company": "Sun Pharmaceutical Industries Limited",
+  "ticker": "SUNPHARMA",
+  "isin": "INE044A01036",
+  "as_of": "2026-06-30",
+  "shares_scrr": 2399334970.0,
+  "denominator_note": "stated denominator agrees with 14 of 17 holders to 0.021%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Dilip.S.Shanghvi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 230385155
+      },
+      "filed_class": "Individuals/HUF (Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sudhir vrundavandas valia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 14345019
+      },
+      "filed_class": "Individuals/HUF (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vibha dilip shanghvi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8840280
+      },
+      "filed_class": "Individuals/HUF (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aalok dilip shanghvi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2877280
+      },
+      "filed_class": "Individuals/HUF (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vidhi dilip shanghvi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2822427
+      },
+      "filed_class": "Individuals/HUF (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kumud shantilal shanghvi",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 85000
+      },
+      "filed_class": "Individuals/HUF (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shanghvi Family & Friends Benefit Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1276774
+      },
+      "filed_class": "Trusts (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Raksha Sudhir Valia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 28830352
+      },
+      "filed_class": "Individuals/HUF (Persons Acting in Concert, Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Unimed Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10400850
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shanghvi Finance Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 967051732
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Medisales Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 40153960
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Flamboyawer Finance Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 20865
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shanghvi Universal Private Limited (formerly known as Sanghvi Properties Private Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15479
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sun Petro Private Limited (formerly known as Gujarat Sun Pharmaceutical Industries Private Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 14362
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Icici Prudential Value Discovery Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 89198583
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 56689578
+      },
+      "filed_class": "Mutual Fund/ETF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 33125559
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 24668240
+      },
+      "filed_class": "FPI Category I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 132770818
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust- A/C HDFC Pension Fund Management Limited Scheme E - Tier I",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 45178710
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Lakshdeep Investments & Finance (P) Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 24418497
+      },
+      "filed_class": "Bodies Corporate (Public)",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1316/SUNPHARMA/latest/sun-pharmaceutical-industries-ltd",
+    "https://sunpharma.com/wp-content/uploads/2025/07/Share-Holding-Pattern_30-June-2025.pdf",
+    "https://sunpharma.com/wp-content/uploads/2024/07/SPIL-AR2023-24-Annual-Return.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2026 shareholding pattern. SCRR denominator 2,399,334,970 = promoter 1,307,119,535 + institutional 880,770,867 + public (non-institutional) 211,444,568; current promoter percentage 54.48% is unchanged from the 30 June 2025 filing. Only filed-name change vs Jun 2025: Shanghvi Properties Private Limited was renamed Shanghvi Universal Private Limited, and Gujarat Sun Pharmaceutical Industries Private Limited was renamed Sun Petro Private Limited; share counts identical. Only material share-count change in Jun 2026 vs Jun 2025: Kumud Shantilal Shanghvi declined from 100,000 to 85,000 shares. Trendlyne Jun 2026 page mirrors the SEBI LODR Reg.31 filing under 1316/30-06-2026. Names above 1% in Publics taken from same trendlyne single-holder rows; no Bodies Corporate row other than Lakshdeep Investments exceeds 1%.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -2.919055309352872e-05,
+  "promoter_pct_filed": 54.48
+}
