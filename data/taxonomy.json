@@ -1,0 +1,21 @@
+{
+  "source": "Book1.xlsx Sheet1!E3:E14, plus one extension agreed with the user",
+  "categories": [
+    "Promoter", "Domestic AMC", "Domestic Insurance", "Domestic corporate",
+    "Individual", "Domestic Pension Fund", "Government", "Foreign Government",
+    "Foreign AMC", "Foreign Insurance", "Foreign corporate", "Bank",
+    "Foreign Pension Fund"
+  ],
+  "extensions": [
+    {
+      "category": "Foreign Pension Fund",
+      "reason": "Book1 offers Domestic Pension Fund but no foreign counterpart. Foreign retirement/pension pools would otherwise have to be mislabelled as Foreign Insurance or Foreign AMC.",
+      "agreed_with_user": true
+    }
+  ],
+  "rulings": {
+    "promoter_overrides": "Promoter status is taken from the company's filed shareholding pattern and overrides entity type and domicile. An entity in the promoter group is 'Promoter' even if it is an insurer, an AMC or a corporate.",
+    "banks_by_holding_vehicle": "'Bank' has no domestic/foreign split, so a banking group is classified by the vehicle that actually holds the stake: via an asset-management arm it is an AMC, via custody or the bank's own book it is 'Bank'.",
+    "entity_as_named": "Each holder is classified as the entity Bloomberg names, not its parent or subsidiary."
+  }
+}

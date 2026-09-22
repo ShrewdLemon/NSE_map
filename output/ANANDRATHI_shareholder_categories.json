@@ -1,0 +1,1879 @@
+[
+  {
+    "holder_name": "Anand Rathi Financial Services Ltd",
+    "quarters": {
+      "Q2/2025": 33069516,
+      "Q3/2025": 33069516,
+      "Q4/2025": 33069516,
+      "Q1/2026": 33069516,
+      "Q2/2026": 30177516,
+      "Q3/2026": 30177516
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Anand rathi financial services limited"
+  },
+  {
+    "holder_name": "Anand Rathi",
+    "quarters": {
+      "Q2/2025": 16553780,
+      "Q3/2025": 16553780,
+      "Q4/2025": 16553780,
+      "Q1/2026": 16553780,
+      "Q2/2026": 16553780,
+      "Q3/2026": 16256780
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Anand rathi"
+  },
+  {
+    "holder_name": "Gupta Pradeep Kumar",
+    "quarters": {
+      "Q2/2025": 10328416,
+      "Q3/2025": 10328416,
+      "Q4/2025": 10328416,
+      "Q1/2026": 10328416,
+      "Q2/2026": 10328416,
+      "Q3/2026": 10328416
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Pradeep kumar gupta; Pradeep kumar gupta + Pradeep kumar gupta HUF; Pradeep kumar gupta HUF"
+  },
+  {
+    "holder_name": "Quant Money Managers Ltd",
+    "quarters": {
+      "Q2/2025": 5507698,
+      "Q3/2025": 5507698,
+      "Q4/2025": 5507698,
+      "Q1/2026": 4746834,
+      "Q2/2026": 4746834,
+      "Q3/2026": 4746834
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Gupta Priti",
+    "quarters": {
+      "Q2/2025": 4415952,
+      "Q3/2025": 4415952,
+      "Q4/2025": 4415952,
+      "Q1/2026": 4415952,
+      "Q2/2026": 4415952,
+      "Q3/2026": 4415952
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Priti pradeep gupta"
+  },
+  {
+    "holder_name": "Vanguard Group Inc/The",
+    "quarters": {
+      "Q2/2025": 2751420,
+      "Q3/2025": 2813570,
+      "Q4/2025": 3120270,
+      "Q1/2026": 3189156,
+      "Q2/2026": 3425166,
+      "Q3/2026": 4361760
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "SBI Funds Management Ltd",
+    "quarters": {
+      "Q2/2025": 3053798,
+      "Q3/2025": 3055710,
+      "Q4/2025": 4267532,
+      "Q1/2026": 4268936,
+      "Q2/2026": 4274164,
+      "Q3/2026": 4276127
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Azeez Family Trust",
+    "quarters": {
+      "Q2/2025": 4207494,
+      "Q3/2025": 3867494,
+      "Q4/2025": 3609494,
+      "Q1/2026": 3609494,
+      "Q2/2026": 3365054,
+      "Q3/2026": 3365054
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Azeez Feroze",
+    "quarters": {
+      "Q2/2025": 3408972,
+      "Q3/2025": 2798972,
+      "Q4/2025": 2538872,
+      "Q1/2026": 2538872,
+      "Q2/2026": 2538872,
+      "Q3/2026": 2538872
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Gupta Navratan Mal",
+    "quarters": {
+      "Q2/2025": 2333968,
+      "Q3/2025": 2333968,
+      "Q4/2025": 2333968,
+      "Q1/2026": 2333968,
+      "Q2/2026": 2333968,
+      "Q3/2026": 2333968
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Navratan mal gupta HUF"
+  },
+  {
+    "holder_name": "JAIPUR SECURITIES PVT LTD",
+    "quarters": {
+      "Q2/2025": 2460720,
+      "Q3/2025": 2460720,
+      "Q4/2025": 2460720,
+      "Q1/2026": 2460720,
+      "Q2/2026": 2460720,
+      "Q3/2026": 2315720
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Jaipur securities private limited"
+  },
+  {
+    "holder_name": "Echjay Industries Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 1683740,
+      "Q3/2025": 1683740,
+      "Q4/2025": 1683740,
+      "Q1/2026": 1675800,
+      "Q2/2026": 1675800,
+      "Q3/2026": 1675800
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Blackrock Inc",
+    "quarters": {
+      "Q2/2025": 1154273,
+      "Q3/2025": 1337308,
+      "Q4/2025": 1377973,
+      "Q1/2026": 1470722,
+      "Q2/2026": 1533235,
+      "Q3/2026": 1624259
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Canara Robeco Asset Management Co Ltd/India",
+    "quarters": {
+      "Q2/2025": 1277164,
+      "Q3/2025": 1277164,
+      "Q4/2025": 1277164,
+      "Q1/2026": 1277164,
+      "Q2/2026": 1277164,
+      "Q3/2026": 1277164
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Invesco Asset Management India Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 1033254,
+      "Q3/2025": 904482,
+      "Q4/2025": 1047542,
+      "Q1/2026": 1047542,
+      "Q2/2026": 1047542,
+      "Q3/2026": 1047542
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "ICICI Prudential Asset Management Co Ltd/India",
+    "quarters": {
+      "Q2/2025": 921606,
+      "Q3/2025": 923170,
+      "Q4/2025": 925902,
+      "Q1/2026": 929938,
+      "Q2/2026": 932975,
+      "Q3/2026": 934782
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "DSP Asset Managers Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 910796,
+      "Q3/2025": 918134,
+      "Q4/2025": 811022,
+      "Q1/2026": 811040,
+      "Q2/2026": 929022,
+      "Q3/2026": 920178
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Twelfth Tier Property Ltd",
+    "quarters": {
+      "Q2/2025": 714492,
+      "Q3/2025": 714492,
+      "Q4/2025": 714492,
+      "Q1/2026": 714492,
+      "Q2/2026": 714492,
+      "Q3/2026": 714492
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Twelfth tier property limited"
+  },
+  {
+    "holder_name": "Anand Rathi IT Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 595412,
+      "Q3/2025": 595412,
+      "Q4/2025": 595412,
+      "Q1/2026": 595412,
+      "Q2/2026": 595406,
+      "Q3/2026": 595406
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Anand rathi it private limited"
+  },
+  {
+    "holder_name": "Norges Bank",
+    "quarters": {
+      "Q2/2025": 897125,
+      "Q3/2025": 897125,
+      "Q4/2025": 585288,
+      "Q1/2026": 585288,
+      "Q2/2026": 585288,
+      "Q3/2026": 585288
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Motilal Oswal Asset Management Co Ltd",
+    "quarters": {
+      "Q2/2025": 131528,
+      "Q3/2025": 144578,
+      "Q4/2025": 204424,
+      "Q1/2026": 305906,
+      "Q2/2026": 461781,
+      "Q3/2026": 547925
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Anand Rathi Insurance Brokers Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 420000,
+      "Q1/2026": 420000,
+      "Q2/2026": 420000,
+      "Q3/2026": 420000
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Anand rathi insurance brokers limited"
+  },
+  {
+    "holder_name": "AXIS MAX LIFE INSURANCE LTD",
+    "quarters": {
+      "Q2/2025": 431912,
+      "Q3/2025": 487768,
+      "Q4/2025": 14746,
+      "Q1/2026": 16746,
+      "Q2/2026": 345573,
+      "Q3/2026": 334749
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Aqua Proof Wall Plast Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 109404,
+      "Q3/2025": 109404,
+      "Q4/2025": 249404,
+      "Q1/2026": 249404,
+      "Q2/2026": 249404,
+      "Q3/2026": 249404
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Aqua proof wall plast private limited"
+  },
+  {
+    "holder_name": "Maru Pooja",
+    "quarters": {
+      "Q2/2025": 240000,
+      "Q3/2025": 240000,
+      "Q4/2025": 240000,
+      "Q1/2026": 240000,
+      "Q2/2026": 240000,
+      "Q3/2026": 240000
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Pooja maru"
+  },
+  {
+    "holder_name": "ICICI Prudential Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": 41038,
+      "Q3/2025": 46386,
+      "Q4/2025": 112090,
+      "Q1/2026": 142096,
+      "Q2/2026": 221564,
+      "Q3/2026": 222086
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Nippon Life India Asset Management Ltd",
+    "quarters": {
+      "Q2/2025": 104650,
+      "Q3/2025": 110716,
+      "Q4/2025": 165280,
+      "Q1/2026": 180298,
+      "Q2/2026": 216778,
+      "Q3/2026": 221895
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Bajaj Life Insurance Ltd",
+    "quarters": {
+      "Q2/2025": 241438,
+      "Q3/2025": 265118,
+      "Q4/2025": 0,
+      "Q1/2026": 0,
+      "Q2/2026": 227018,
+      "Q3/2026": 220746
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Bank of India Investment Managers Pvt Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 210000,
+      "Q1/2026": 210000,
+      "Q2/2026": 210000,
+      "Q3/2026": 210000
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Tata Asset Management Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 63386,
+      "Q3/2025": 77266,
+      "Q4/2025": 107956,
+      "Q1/2026": 121162,
+      "Q2/2026": 169572,
+      "Q3/2026": 198884
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Tata AIA Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 183505,
+      "Q3/2026": 198191
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Mirae Asset Financial Group",
+    "quarters": {
+      "Q2/2025": 58012,
+      "Q3/2025": 64422,
+      "Q4/2025": 177656,
+      "Q1/2026": 221642,
+      "Q2/2026": 183817,
+      "Q3/2026": 175463
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "American Century Cos Inc",
+    "quarters": {
+      "Q2/2025": 41278,
+      "Q3/2025": 16564,
+      "Q4/2025": 17000,
+      "Q1/2026": 123466,
+      "Q2/2026": 134348,
+      "Q3/2026": 173687
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Goldman Sachs Group Inc/The",
+    "quarters": {
+      "Q2/2025": 0,
+      "Q3/2025": 32962,
+      "Q4/2025": 21500,
+      "Q1/2026": 0,
+      "Q2/2026": 169570,
+      "Q3/2026": 169570
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Trust Investment Advisors Pvt Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 121516,
+      "Q3/2026": 152977
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "HDFC Asset Management Co Ltd",
+    "quarters": {
+      "Q2/2025": 73418,
+      "Q3/2025": 81670,
+      "Q4/2025": 97178,
+      "Q1/2026": 134384,
+      "Q2/2026": 141377,
+      "Q3/2026": 146848
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Kotak Mahindra Asset Management Co Ltd/India",
+    "quarters": {
+      "Q2/2025": 1054,
+      "Q3/2025": 1304,
+      "Q4/2025": 2258,
+      "Q1/2026": 26378,
+      "Q2/2026": 138926,
+      "Q3/2026": 144363
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "SAMCO ASSET MANAGEMENT INDIA",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 193106,
+      "Q4/2025": 236960,
+      "Q1/2026": 24400,
+      "Q2/2026": 42355,
+      "Q3/2026": 140683
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "WBC Holdings LP",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 139600,
+      "Q3/2026": 139600
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Axis Asset Management Co Ltd/India",
+    "quarters": {
+      "Q2/2025": 1114,
+      "Q3/2025": 13362,
+      "Q4/2025": 15036,
+      "Q1/2026": 87204,
+      "Q2/2026": 118716,
+      "Q3/2026": 129817
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Victory Capital Management Inc",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 86464,
+      "Q1/2026": 0,
+      "Q2/2026": 117990,
+      "Q3/2026": 126480
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Driehaus Capital Management LLC",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 40686,
+      "Q4/2025": 102320,
+      "Q1/2026": 102320,
+      "Q2/2026": 121650,
+      "Q3/2026": 121650
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "HDFC Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 101419,
+      "Q3/2026": 111582
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Amit Capital And Securities Pvt Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 100000,
+      "Q1/2026": 100000,
+      "Q2/2026": 100000,
+      "Q3/2026": 100000
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Amit capital and securities private limited"
+  },
+  {
+    "holder_name": "WisdomTree Inc",
+    "quarters": {
+      "Q2/2025": 111362,
+      "Q3/2025": 102784,
+      "Q4/2025": 101812,
+      "Q1/2026": 96142,
+      "Q2/2026": 94778,
+      "Q3/2026": 90460
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Edelweiss Asset Management Ltd",
+    "quarters": {
+      "Q2/2025": 7798,
+      "Q3/2025": 9984,
+      "Q4/2025": 56746,
+      "Q1/2026": 65476,
+      "Q2/2026": 75264,
+      "Q3/2026": 80554
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Bandhan Mutual Fund",
+    "quarters": {
+      "Q2/2025": 2370,
+      "Q3/2025": 2514,
+      "Q4/2025": 3872,
+      "Q1/2026": 4750,
+      "Q2/2026": 77083,
+      "Q3/2026": 78208
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Union Mutual Fund/India",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 60178,
+      "Q4/2025": 0,
+      "Q1/2026": 0,
+      "Q2/2026": 0,
+      "Q3/2026": 67571
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Teachers Insurance & Annuity Association of America",
+    "quarters": {
+      "Q2/2025": 40484,
+      "Q3/2025": 40484,
+      "Q4/2025": 58860,
+      "Q1/2026": 58860,
+      "Q2/2026": 58860,
+      "Q3/2026": 58860
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "CAPITALMIND ASSET MANAGEMENT",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 66658,
+      "Q3/2026": 58039
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "State Street Corp",
+    "quarters": {
+      "Q2/2025": 88014,
+      "Q3/2025": 39770,
+      "Q4/2025": 42136,
+      "Q1/2026": 44596,
+      "Q2/2026": 49843,
+      "Q3/2026": 51736
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Star Union Dai-Ichi Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 51342
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "FMR LLC",
+    "quarters": {
+      "Q2/2025": 36092,
+      "Q3/2025": 39300,
+      "Q4/2025": 43814,
+      "Q1/2026": 43814,
+      "Q2/2026": 45320,
+      "Q3/2026": 49939
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Aditya Birla Sun Life Asset Management Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 9470,
+      "Q4/2025": 7766,
+      "Q1/2026": 37754,
+      "Q2/2026": 48826,
+      "Q3/2026": 48900
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "AllianceBernstein Holding LP",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 46870,
+      "Q3/2026": 46870
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Aditya Birla Sun Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 43180,
+      "Q3/2026": 46250
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Mantri Tara",
+    "quarters": {
+      "Q2/2025": 43400,
+      "Q3/2025": 43400,
+      "Q4/2025": 43400,
+      "Q1/2026": 43400,
+      "Q2/2026": 43400,
+      "Q3/2026": 43400
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Tara mantri"
+  },
+  {
+    "holder_name": "National Bank of Canada",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 25812,
+      "Q3/2026": 38250
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Thrivent Financial for Lutherans",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": 19902,
+      "Q2/2026": 22604,
+      "Q3/2026": 36551
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Groww Asset Management Ltd",
+    "quarters": {
+      "Q2/2025": 5548,
+      "Q3/2025": 12672,
+      "Q4/2025": 12150,
+      "Q1/2026": 13634,
+      "Q2/2026": 18899,
+      "Q3/2026": 31369
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Gupta Krishnav Pradeep",
+    "quarters": {
+      "Q2/2025": 29796,
+      "Q3/2025": 29796,
+      "Q4/2025": 29796,
+      "Q1/2026": 29796,
+      "Q2/2026": 29796,
+      "Q3/2026": 29796
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Krishnav pradeep gupta"
+  },
+  {
+    "holder_name": "Taiwan Securities Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": 17988,
+      "Q2/2026": 17993,
+      "Q3/2026": 17993
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Mundra Phool Kaur",
+    "quarters": {
+      "Q2/2025": 17308,
+      "Q3/2025": 17308,
+      "Q4/2025": 17308,
+      "Q1/2026": 17308,
+      "Q2/2026": 17308,
+      "Q3/2026": 17308
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Phool kaur mundra"
+  },
+  {
+    "holder_name": "Jio BlackRock Asset Management Pvt Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 4956,
+      "Q4/2025": 9480,
+      "Q1/2026": 14750,
+      "Q2/2026": 16094,
+      "Q3/2026": 17114
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "PNB MetLife India Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 2529,
+      "Q3/2026": 11433
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Nomura Holdings Inc",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 9800,
+      "Q1/2026": 9800,
+      "Q2/2026": 9800,
+      "Q3/2026": 9800
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Nationwide Fund Advisors",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 9682,
+      "Q3/2026": 9682
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "UTI Asset Management Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 7390,
+      "Q1/2026": 7682,
+      "Q2/2026": 8425,
+      "Q3/2026": 9669
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Biyani Asha Kailash",
+    "quarters": {
+      "Q2/2025": 9000,
+      "Q3/2025": 9000,
+      "Q4/2025": 9000,
+      "Q1/2026": 9000,
+      "Q2/2026": 9000,
+      "Q3/2026": 9000
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Asha kailash biyani"
+  },
+  {
+    "holder_name": "Indusind Nippon Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 7984,
+      "Q3/2026": 8786
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Edelweiss Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 6768,
+      "Q1/2026": 8162,
+      "Q2/2026": 7966,
+      "Q3/2026": 7944
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Zerodha Asset Management Pvt Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 1586,
+      "Q1/2026": 5264,
+      "Q2/2026": 6511,
+      "Q3/2026": 7779
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Navi AMC Ltd",
+    "quarters": {
+      "Q2/2025": 1740,
+      "Q3/2025": 2324,
+      "Q4/2025": 5142,
+      "Q1/2026": 6638,
+      "Q2/2026": 6458,
+      "Q3/2026": 6260
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Gupta Aishwariya P",
+    "quarters": {
+      "Q2/2025": 6000,
+      "Q3/2025": 6000,
+      "Q4/2025": 6000,
+      "Q1/2026": 6000,
+      "Q2/2026": 6000,
+      "Q3/2026": 6000
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31",
+    "filed_as": "Aishwariya p gupta"
+  },
+  {
+    "holder_name": "Angel One Ltd",
+    "quarters": {
+      "Q2/2025": 252,
+      "Q3/2025": 348,
+      "Q4/2025": 3492,
+      "Q1/2026": 3682,
+      "Q2/2026": 4559,
+      "Q3/2026": 5161
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Canara HSBC Life Insurance Co Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 3959,
+      "Q3/2026": 4598
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Legal & General Group PLC",
+    "quarters": {
+      "Q2/2025": 4328,
+      "Q3/2025": 4328,
+      "Q4/2025": 4328,
+      "Q1/2026": 4328,
+      "Q2/2026": 4328,
+      "Q3/2026": 4328
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Franklin Templeton Inc",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 15648,
+      "Q1/2026": 7450,
+      "Q2/2026": 0,
+      "Q3/2026": 3026
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "ALPHAGREP INVESTMENT MGMT INDIA",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 2075
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "FlexShares Trust",
+    "quarters": {
+      "Q2/2025": 3072,
+      "Q3/2025": 3006,
+      "Q4/2025": 1890,
+      "Q1/2026": 1890,
+      "Q2/2026": 1476,
+      "Q3/2026": 1476
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Canadian Imperial Bank of Commerce",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": 534,
+      "Q3/2026": 764
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Bandhan Life Insurance Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": 140,
+      "Q1/2026": 116,
+      "Q2/2026": 286,
+      "Q3/2026": 319
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Credit Agricole Group",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": 108,
+      "Q2/2026": 191,
+      "Q3/2026": 190
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Deutsche Bank AG",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 164,
+      "Q4/2025": 158,
+      "Q1/2026": 158,
+      "Q2/2026": 188,
+      "Q3/2026": 188
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Rathi Suresh",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Prudential Financial Inc",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 37906,
+      "Q4/2025": 70328,
+      "Q1/2026": 0,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "FIL Ltd",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Russell Investments Group Ltd",
+    "quarters": {
+      "Q2/2025": 18632,
+      "Q3/2025": 18632,
+      "Q4/2025": 18632,
+      "Q1/2026": 0,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Rathi Amit",
+    "quarters": {
+      "Q2/2025": 5130000,
+      "Q3/2025": 5130000,
+      "Q4/2025": 5130000,
+      "Q1/2026": 5130000,
+      "Q2/2026": 5130000,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Rawal Rakesh",
+    "quarters": {
+      "Q2/2025": 2048400,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Rathi Supriya",
+    "quarters": {
+      "Q2/2025": 1905200,
+      "Q3/2025": 1905200,
+      "Q4/2025": 1905200,
+      "Q1/2026": 1905200,
+      "Q2/2026": 1905200,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Rawal Preeti",
+    "quarters": {
+      "Q2/2025": 1823000,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Saigal Supriya",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 1905200,
+      "Q4/2025": 1905200,
+      "Q1/2026": 1905200,
+      "Q2/2026": 1905200,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Ali Fahim Sultan",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": 1874970,
+      "Q2/2026": 1874970,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Individual",
+    "basis": "bloomberg-holder-type",
+    "confidence": "high",
+    "country": null,
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "JPMorgan Chase & Co",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 404,
+      "Q4/2025": 0,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Sun Life Financial Inc",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": 8374,
+      "Q4/2025": 2072,
+      "Q1/2026": 0,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Shriram Asset Management Co Ltd",
+    "quarters": {
+      "Q2/2025": 0,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "name-based rule",
+    "source": "deterministic rule"
+  },
+  {
+    "holder_name": "Rawal Family Trust",
+    "quarters": {
+      "Q2/2025": 1750352,
+      "Q3/2025": 1750352,
+      "Q4/2025": 1750352,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "SUHAS GUPTA FAMILY TRUST",
+    "quarters": {
+      "Q2/2025": 1748992,
+      "Q3/2025": 1748992,
+      "Q4/2025": 1748992,
+      "Q1/2026": 1748992,
+      "Q2/2026": 1748992,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Munix India Pvt Ltd",
+    "quarters": {
+      "Q2/2025": 1668468,
+      "Q3/2025": 1668468,
+      "Q4/2025": 1668468,
+      "Q1/2026": 1668468,
+      "Q2/2026": 1668468,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "ANANDRATHI HOUSING FIN LTD",
+    "quarters": {
+      "Q2/2025": 720000,
+      "Q3/2025": 720000,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  },
+  {
+    "holder_name": "Wilshire Advisors LLC",
+    "quarters": {
+      "Q2/2025": null,
+      "Q3/2025": null,
+      "Q4/2025": null,
+      "Q1/2026": null,
+      "Q2/2026": null,
+      "Q3/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": null,
+    "basis": "unresolved",
+    "confidence": "low",
+    "reason": "no filing match, no cached entity, no rule"
+  }
+]

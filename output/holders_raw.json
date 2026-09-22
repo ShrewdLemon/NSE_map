@@ -1,0 +1,1442 @@
+{
+  "company": "ANAND RATHI WEALTH LTD",
+  "isin": "INE463V01026",
+  "quarter_labels": [
+    "Q2/2025",
+    "Q3/2025",
+    "Q4/2025",
+    "Q1/2026",
+    "Q2/2026",
+    "Q3/2026"
+  ],
+  "holders": [
+    {
+      "rank": 1,
+      "holder_name": "Anand Rathi Financial Services Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 33069516,
+        "Q3/2025": 33069516,
+        "Q4/2025": 33069516,
+        "Q1/2026": 33069516,
+        "Q2/2026": 30177516,
+        "Q3/2026": 30177516
+      }
+    },
+    {
+      "rank": 2,
+      "holder_name": "Anand Rathi",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 16553780,
+        "Q3/2025": 16553780,
+        "Q4/2025": 16553780,
+        "Q1/2026": 16553780,
+        "Q2/2026": 16553780,
+        "Q3/2026": 16256780
+      }
+    },
+    {
+      "rank": 3,
+      "holder_name": "Gupta Pradeep Kumar",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 10328416,
+        "Q3/2025": 10328416,
+        "Q4/2025": 10328416,
+        "Q1/2026": 10328416,
+        "Q2/2026": 10328416,
+        "Q3/2026": 10328416
+      }
+    },
+    {
+      "rank": 4,
+      "holder_name": "Quant Money Managers Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 5507698,
+        "Q3/2025": 5507698,
+        "Q4/2025": 5507698,
+        "Q1/2026": 4746834,
+        "Q2/2026": 4746834,
+        "Q3/2026": 4746834
+      }
+    },
+    {
+      "rank": 5,
+      "holder_name": "Gupta Priti",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 4415952,
+        "Q3/2025": 4415952,
+        "Q4/2025": 4415952,
+        "Q1/2026": 4415952,
+        "Q2/2026": 4415952,
+        "Q3/2026": 4415952
+      }
+    },
+    {
+      "rank": 6,
+      "holder_name": "Vanguard Group Inc/The",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 2751420,
+        "Q3/2025": 2813570,
+        "Q4/2025": 3120270,
+        "Q1/2026": 3189156,
+        "Q2/2026": 3425166,
+        "Q3/2026": 4361760
+      }
+    },
+    {
+      "rank": 7,
+      "holder_name": "SBI Funds Management Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 3053798,
+        "Q3/2025": 3055710,
+        "Q4/2025": 4267532,
+        "Q1/2026": 4268936,
+        "Q2/2026": 4274164,
+        "Q3/2026": 4276127
+      }
+    },
+    {
+      "rank": 8,
+      "holder_name": "Azeez Family Trust",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 4207494,
+        "Q3/2025": 3867494,
+        "Q4/2025": 3609494,
+        "Q1/2026": 3609494,
+        "Q2/2026": 3365054,
+        "Q3/2026": 3365054
+      }
+    },
+    {
+      "rank": 9,
+      "holder_name": "Azeez Feroze",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 3408972,
+        "Q3/2025": 2798972,
+        "Q4/2025": 2538872,
+        "Q1/2026": 2538872,
+        "Q2/2026": 2538872,
+        "Q3/2026": 2538872
+      }
+    },
+    {
+      "rank": 10,
+      "holder_name": "Gupta Navratan Mal",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 2333968,
+        "Q3/2025": 2333968,
+        "Q4/2025": 2333968,
+        "Q1/2026": 2333968,
+        "Q2/2026": 2333968,
+        "Q3/2026": 2333968
+      }
+    },
+    {
+      "rank": 11,
+      "holder_name": "JAIPUR SECURITIES PVT LTD",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 2460720,
+        "Q3/2025": 2460720,
+        "Q4/2025": 2460720,
+        "Q1/2026": 2460720,
+        "Q2/2026": 2460720,
+        "Q3/2026": 2315720
+      }
+    },
+    {
+      "rank": 12,
+      "holder_name": "Echjay Industries Pvt Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1683740,
+        "Q3/2025": 1683740,
+        "Q4/2025": 1683740,
+        "Q1/2026": 1675800,
+        "Q2/2026": 1675800,
+        "Q3/2026": 1675800
+      }
+    },
+    {
+      "rank": 13,
+      "holder_name": "Blackrock Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1154273,
+        "Q3/2025": 1337308,
+        "Q4/2025": 1377973,
+        "Q1/2026": 1470722,
+        "Q2/2026": 1533235,
+        "Q3/2026": 1624259
+      }
+    },
+    {
+      "rank": 14,
+      "holder_name": "Canara Robeco Asset Management Co Ltd/India",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1277164,
+        "Q3/2025": 1277164,
+        "Q4/2025": 1277164,
+        "Q1/2026": 1277164,
+        "Q2/2026": 1277164,
+        "Q3/2026": 1277164
+      }
+    },
+    {
+      "rank": 15,
+      "holder_name": "Invesco Asset Management India Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1033254,
+        "Q3/2025": 904482,
+        "Q4/2025": 1047542,
+        "Q1/2026": 1047542,
+        "Q2/2026": 1047542,
+        "Q3/2026": 1047542
+      }
+    },
+    {
+      "rank": 16,
+      "holder_name": "ICICI Prudential Asset Management Co Ltd/India",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 921606,
+        "Q3/2025": 923170,
+        "Q4/2025": 925902,
+        "Q1/2026": 929938,
+        "Q2/2026": 932975,
+        "Q3/2026": 934782
+      }
+    },
+    {
+      "rank": 17,
+      "holder_name": "DSP Asset Managers Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 910796,
+        "Q3/2025": 918134,
+        "Q4/2025": 811022,
+        "Q1/2026": 811040,
+        "Q2/2026": 929022,
+        "Q3/2026": 920178
+      }
+    },
+    {
+      "rank": 18,
+      "holder_name": "Twelfth Tier Property Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 714492,
+        "Q3/2025": 714492,
+        "Q4/2025": 714492,
+        "Q1/2026": 714492,
+        "Q2/2026": 714492,
+        "Q3/2026": 714492
+      }
+    },
+    {
+      "rank": 19,
+      "holder_name": "Anand Rathi IT Pvt Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 595412,
+        "Q3/2025": 595412,
+        "Q4/2025": 595412,
+        "Q1/2026": 595412,
+        "Q2/2026": 595406,
+        "Q3/2026": 595406
+      }
+    },
+    {
+      "rank": 20,
+      "holder_name": "Norges Bank",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 897125,
+        "Q3/2025": 897125,
+        "Q4/2025": 585288,
+        "Q1/2026": 585288,
+        "Q2/2026": 585288,
+        "Q3/2026": 585288
+      }
+    },
+    {
+      "rank": 21,
+      "holder_name": "Motilal Oswal Asset Management Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 131528,
+        "Q3/2025": 144578,
+        "Q4/2025": 204424,
+        "Q1/2026": 305906,
+        "Q2/2026": 461781,
+        "Q3/2026": 547925
+      }
+    },
+    {
+      "rank": 22,
+      "holder_name": "Anand Rathi Insurance Brokers Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 420000,
+        "Q1/2026": 420000,
+        "Q2/2026": 420000,
+        "Q3/2026": 420000
+      }
+    },
+    {
+      "rank": 23,
+      "holder_name": "AXIS MAX LIFE INSURANCE LTD",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 431912,
+        "Q3/2025": 487768,
+        "Q4/2025": 14746,
+        "Q1/2026": 16746,
+        "Q2/2026": 345573,
+        "Q3/2026": 334749
+      }
+    },
+    {
+      "rank": 24,
+      "holder_name": "Aqua Proof Wall Plast Pvt Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 109404,
+        "Q3/2025": 109404,
+        "Q4/2025": 249404,
+        "Q1/2026": 249404,
+        "Q2/2026": 249404,
+        "Q3/2026": 249404
+      }
+    },
+    {
+      "rank": 25,
+      "holder_name": "Maru Pooja",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 240000,
+        "Q3/2025": 240000,
+        "Q4/2025": 240000,
+        "Q1/2026": 240000,
+        "Q2/2026": 240000,
+        "Q3/2026": 240000
+      }
+    },
+    {
+      "rank": 26,
+      "holder_name": "ICICI Prudential Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 41038,
+        "Q3/2025": 46386,
+        "Q4/2025": 112090,
+        "Q1/2026": 142096,
+        "Q2/2026": 221564,
+        "Q3/2026": 222086
+      }
+    },
+    {
+      "rank": 27,
+      "holder_name": "Nippon Life India Asset Management Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 104650,
+        "Q3/2025": 110716,
+        "Q4/2025": 165280,
+        "Q1/2026": 180298,
+        "Q2/2026": 216778,
+        "Q3/2026": 221895
+      }
+    },
+    {
+      "rank": 28,
+      "holder_name": "Bajaj Life Insurance Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 241438,
+        "Q3/2025": 265118,
+        "Q4/2025": 0,
+        "Q1/2026": 0,
+        "Q2/2026": 227018,
+        "Q3/2026": 220746
+      }
+    },
+    {
+      "rank": 29,
+      "holder_name": "Bank of India Investment Managers Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 210000,
+        "Q1/2026": 210000,
+        "Q2/2026": 210000,
+        "Q3/2026": 210000
+      }
+    },
+    {
+      "rank": 30,
+      "holder_name": "Tata Asset Management Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 63386,
+        "Q3/2025": 77266,
+        "Q4/2025": 107956,
+        "Q1/2026": 121162,
+        "Q2/2026": 169572,
+        "Q3/2026": 198884
+      }
+    },
+    {
+      "rank": 31,
+      "holder_name": "Tata AIA Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 183505,
+        "Q3/2026": 198191
+      }
+    },
+    {
+      "rank": 32,
+      "holder_name": "Mirae Asset Financial Group",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 58012,
+        "Q3/2025": 64422,
+        "Q4/2025": 177656,
+        "Q1/2026": 221642,
+        "Q2/2026": 183817,
+        "Q3/2026": 175463
+      }
+    },
+    {
+      "rank": 33,
+      "holder_name": "American Century Cos Inc",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 41278,
+        "Q3/2025": 16564,
+        "Q4/2025": 17000,
+        "Q1/2026": 123466,
+        "Q2/2026": 134348,
+        "Q3/2026": 173687
+      }
+    },
+    {
+      "rank": 34,
+      "holder_name": "Goldman Sachs Group Inc/The",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 0,
+        "Q3/2025": 32962,
+        "Q4/2025": 21500,
+        "Q1/2026": 0,
+        "Q2/2026": 169570,
+        "Q3/2026": 169570
+      }
+    },
+    {
+      "rank": 35,
+      "holder_name": "Trust Investment Advisors Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 121516,
+        "Q3/2026": 152977
+      }
+    },
+    {
+      "rank": 36,
+      "holder_name": "HDFC Asset Management Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 73418,
+        "Q3/2025": 81670,
+        "Q4/2025": 97178,
+        "Q1/2026": 134384,
+        "Q2/2026": 141377,
+        "Q3/2026": 146848
+      }
+    },
+    {
+      "rank": 37,
+      "holder_name": "Kotak Mahindra Asset Management Co Ltd/India",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1054,
+        "Q3/2025": 1304,
+        "Q4/2025": 2258,
+        "Q1/2026": 26378,
+        "Q2/2026": 138926,
+        "Q3/2026": 144363
+      }
+    },
+    {
+      "rank": 38,
+      "holder_name": "SAMCO ASSET MANAGEMENT INDIA",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 193106,
+        "Q4/2025": 236960,
+        "Q1/2026": 24400,
+        "Q2/2026": 42355,
+        "Q3/2026": 140683
+      }
+    },
+    {
+      "rank": 39,
+      "holder_name": "WBC Holdings LP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 139600,
+        "Q3/2026": 139600
+      }
+    },
+    {
+      "rank": 40,
+      "holder_name": "Axis Asset Management Co Ltd/India",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1114,
+        "Q3/2025": 13362,
+        "Q4/2025": 15036,
+        "Q1/2026": 87204,
+        "Q2/2026": 118716,
+        "Q3/2026": 129817
+      }
+    },
+    {
+      "rank": 41,
+      "holder_name": "Victory Capital Management Inc",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 86464,
+        "Q1/2026": 0,
+        "Q2/2026": 117990,
+        "Q3/2026": 126480
+      }
+    },
+    {
+      "rank": 42,
+      "holder_name": "Driehaus Capital Management LLC",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 40686,
+        "Q4/2025": 102320,
+        "Q1/2026": 102320,
+        "Q2/2026": 121650,
+        "Q3/2026": 121650
+      }
+    },
+    {
+      "rank": 43,
+      "holder_name": "HDFC Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 101419,
+        "Q3/2026": 111582
+      }
+    },
+    {
+      "rank": 44,
+      "holder_name": "Amit Capital And Securities Pvt Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 100000,
+        "Q1/2026": 100000,
+        "Q2/2026": 100000,
+        "Q3/2026": 100000
+      }
+    },
+    {
+      "rank": 45,
+      "holder_name": "WisdomTree Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 111362,
+        "Q3/2025": 102784,
+        "Q4/2025": 101812,
+        "Q1/2026": 96142,
+        "Q2/2026": 94778,
+        "Q3/2026": 90460
+      }
+    },
+    {
+      "rank": 46,
+      "holder_name": "Edelweiss Asset Management Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 7798,
+        "Q3/2025": 9984,
+        "Q4/2025": 56746,
+        "Q1/2026": 65476,
+        "Q2/2026": 75264,
+        "Q3/2026": 80554
+      }
+    },
+    {
+      "rank": 47,
+      "holder_name": "Bandhan Mutual Fund",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 2370,
+        "Q3/2025": 2514,
+        "Q4/2025": 3872,
+        "Q1/2026": 4750,
+        "Q2/2026": 77083,
+        "Q3/2026": 78208
+      }
+    },
+    {
+      "rank": 48,
+      "holder_name": "Union Mutual Fund/India",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 60178,
+        "Q4/2025": 0,
+        "Q1/2026": 0,
+        "Q2/2026": 0,
+        "Q3/2026": 67571
+      }
+    },
+    {
+      "rank": 49,
+      "holder_name": "Teachers Insurance & Annuity Association of America",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 40484,
+        "Q3/2025": 40484,
+        "Q4/2025": 58860,
+        "Q1/2026": 58860,
+        "Q2/2026": 58860,
+        "Q3/2026": 58860
+      }
+    },
+    {
+      "rank": 50,
+      "holder_name": "CAPITALMIND ASSET MANAGEMENT",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 66658,
+        "Q3/2026": 58039
+      }
+    },
+    {
+      "rank": 51,
+      "holder_name": "State Street Corp",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 88014,
+        "Q3/2025": 39770,
+        "Q4/2025": 42136,
+        "Q1/2026": 44596,
+        "Q2/2026": 49843,
+        "Q3/2026": 51736
+      }
+    },
+    {
+      "rank": 52,
+      "holder_name": "Star Union Dai-Ichi Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 51342
+      }
+    },
+    {
+      "rank": 53,
+      "holder_name": "FMR LLC",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 36092,
+        "Q3/2025": 39300,
+        "Q4/2025": 43814,
+        "Q1/2026": 43814,
+        "Q2/2026": 45320,
+        "Q3/2026": 49939
+      }
+    },
+    {
+      "rank": 54,
+      "holder_name": "Aditya Birla Sun Life Asset Management Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 9470,
+        "Q4/2025": 7766,
+        "Q1/2026": 37754,
+        "Q2/2026": 48826,
+        "Q3/2026": 48900
+      }
+    },
+    {
+      "rank": 55,
+      "holder_name": "AllianceBernstein Holding LP",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 46870,
+        "Q3/2026": 46870
+      }
+    },
+    {
+      "rank": 56,
+      "holder_name": "Aditya Birla Sun Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 43180,
+        "Q3/2026": 46250
+      }
+    },
+    {
+      "rank": 57,
+      "holder_name": "Mantri Tara",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 43400,
+        "Q3/2025": 43400,
+        "Q4/2025": 43400,
+        "Q1/2026": 43400,
+        "Q2/2026": 43400,
+        "Q3/2026": 43400
+      }
+    },
+    {
+      "rank": 58,
+      "holder_name": "National Bank of Canada",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 25812,
+        "Q3/2026": 38250
+      }
+    },
+    {
+      "rank": 59,
+      "holder_name": "Thrivent Financial for Lutherans",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": 19902,
+        "Q2/2026": 22604,
+        "Q3/2026": 36551
+      }
+    },
+    {
+      "rank": 60,
+      "holder_name": "Groww Asset Management Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 5548,
+        "Q3/2025": 12672,
+        "Q4/2025": 12150,
+        "Q1/2026": 13634,
+        "Q2/2026": 18899,
+        "Q3/2026": 31369
+      }
+    },
+    {
+      "rank": 61,
+      "holder_name": "Gupta Krishnav Pradeep",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 29796,
+        "Q3/2025": 29796,
+        "Q4/2025": 29796,
+        "Q1/2026": 29796,
+        "Q2/2026": 29796,
+        "Q3/2026": 29796
+      }
+    },
+    {
+      "rank": 62,
+      "holder_name": "Taiwan Securities Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": 17988,
+        "Q2/2026": 17993,
+        "Q3/2026": 17993
+      }
+    },
+    {
+      "rank": 63,
+      "holder_name": "Mundra Phool Kaur",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 17308,
+        "Q3/2025": 17308,
+        "Q4/2025": 17308,
+        "Q1/2026": 17308,
+        "Q2/2026": 17308,
+        "Q3/2026": 17308
+      }
+    },
+    {
+      "rank": 64,
+      "holder_name": "Jio BlackRock Asset Management Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 4956,
+        "Q4/2025": 9480,
+        "Q1/2026": 14750,
+        "Q2/2026": 16094,
+        "Q3/2026": 17114
+      }
+    },
+    {
+      "rank": 65,
+      "holder_name": "PNB MetLife India Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 2529,
+        "Q3/2026": 11433
+      }
+    },
+    {
+      "rank": 66,
+      "holder_name": "Nomura Holdings Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 9800,
+        "Q1/2026": 9800,
+        "Q2/2026": 9800,
+        "Q3/2026": 9800
+      }
+    },
+    {
+      "rank": 67,
+      "holder_name": "Nationwide Fund Advisors",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 9682,
+        "Q3/2026": 9682
+      }
+    },
+    {
+      "rank": 68,
+      "holder_name": "UTI Asset Management Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 7390,
+        "Q1/2026": 7682,
+        "Q2/2026": 8425,
+        "Q3/2026": 9669
+      }
+    },
+    {
+      "rank": 69,
+      "holder_name": "Biyani Asha Kailash",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 9000,
+        "Q3/2025": 9000,
+        "Q4/2025": 9000,
+        "Q1/2026": 9000,
+        "Q2/2026": 9000,
+        "Q3/2026": 9000
+      }
+    },
+    {
+      "rank": 70,
+      "holder_name": "Indusind Nippon Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 7984,
+        "Q3/2026": 8786
+      }
+    },
+    {
+      "rank": 71,
+      "holder_name": "Edelweiss Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 6768,
+        "Q1/2026": 8162,
+        "Q2/2026": 7966,
+        "Q3/2026": 7944
+      }
+    },
+    {
+      "rank": 72,
+      "holder_name": "Zerodha Asset Management Pvt Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 1586,
+        "Q1/2026": 5264,
+        "Q2/2026": 6511,
+        "Q3/2026": 7779
+      }
+    },
+    {
+      "rank": 73,
+      "holder_name": "Navi AMC Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1740,
+        "Q3/2025": 2324,
+        "Q4/2025": 5142,
+        "Q1/2026": 6638,
+        "Q2/2026": 6458,
+        "Q3/2026": 6260
+      }
+    },
+    {
+      "rank": 74,
+      "holder_name": "Gupta Aishwariya P",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 6000,
+        "Q3/2025": 6000,
+        "Q4/2025": 6000,
+        "Q1/2026": 6000,
+        "Q2/2026": 6000,
+        "Q3/2026": 6000
+      }
+    },
+    {
+      "rank": 75,
+      "holder_name": "Angel One Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 252,
+        "Q3/2025": 348,
+        "Q4/2025": 3492,
+        "Q1/2026": 3682,
+        "Q2/2026": 4559,
+        "Q3/2026": 5161
+      }
+    },
+    {
+      "rank": 76,
+      "holder_name": "Canara HSBC Life Insurance Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 3959,
+        "Q3/2026": 4598
+      }
+    },
+    {
+      "rank": 77,
+      "holder_name": "Legal & General Group PLC",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 4328,
+        "Q3/2025": 4328,
+        "Q4/2025": 4328,
+        "Q1/2026": 4328,
+        "Q2/2026": 4328,
+        "Q3/2026": 4328
+      }
+    },
+    {
+      "rank": 78,
+      "holder_name": "Franklin Templeton Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 15648,
+        "Q1/2026": 7450,
+        "Q2/2026": 0,
+        "Q3/2026": 3026
+      }
+    },
+    {
+      "rank": 79,
+      "holder_name": "ALPHAGREP INVESTMENT MGMT INDIA",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 2075
+      }
+    },
+    {
+      "rank": 80,
+      "holder_name": "FlexShares Trust",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 3072,
+        "Q3/2025": 3006,
+        "Q4/2025": 1890,
+        "Q1/2026": 1890,
+        "Q2/2026": 1476,
+        "Q3/2026": 1476
+      }
+    },
+    {
+      "rank": 81,
+      "holder_name": "Canadian Imperial Bank of Commerce",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": 534,
+        "Q3/2026": 764
+      }
+    },
+    {
+      "rank": 82,
+      "holder_name": "Bandhan Life Insurance Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": 140,
+        "Q1/2026": 116,
+        "Q2/2026": 286,
+        "Q3/2026": 319
+      }
+    },
+    {
+      "rank": 83,
+      "holder_name": "Credit Agricole Group",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": 108,
+        "Q2/2026": 191,
+        "Q3/2026": 190
+      }
+    },
+    {
+      "rank": 84,
+      "holder_name": "Deutsche Bank AG",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 164,
+        "Q4/2025": 158,
+        "Q1/2026": 158,
+        "Q2/2026": 188,
+        "Q3/2026": 188
+      }
+    },
+    {
+      "rank": 85,
+      "holder_name": "Rathi Suresh",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 86,
+      "holder_name": "Prudential Financial Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 37906,
+        "Q4/2025": 70328,
+        "Q1/2026": 0,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 87,
+      "holder_name": "FIL Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 88,
+      "holder_name": "Russell Investments Group Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 18632,
+        "Q3/2025": 18632,
+        "Q4/2025": 18632,
+        "Q1/2026": 0,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 89,
+      "holder_name": "Rathi Amit",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 5130000,
+        "Q3/2025": 5130000,
+        "Q4/2025": 5130000,
+        "Q1/2026": 5130000,
+        "Q2/2026": 5130000,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 90,
+      "holder_name": "Rawal Rakesh",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 2048400,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 91,
+      "holder_name": "Rathi Supriya",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 1905200,
+        "Q3/2025": 1905200,
+        "Q4/2025": 1905200,
+        "Q1/2026": 1905200,
+        "Q2/2026": 1905200,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 92,
+      "holder_name": "Rawal Preeti",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": 1823000,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 93,
+      "holder_name": "Saigal Supriya",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 1905200,
+        "Q4/2025": 1905200,
+        "Q1/2026": 1905200,
+        "Q2/2026": 1905200,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 94,
+      "holder_name": "Ali Fahim Sultan",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": 1874970,
+        "Q2/2026": 1874970,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 95,
+      "holder_name": "JPMorgan Chase & Co",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 404,
+        "Q4/2025": 0,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 96,
+      "holder_name": "Sun Life Financial Inc",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": 8374,
+        "Q4/2025": 2072,
+        "Q1/2026": 0,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 97,
+      "holder_name": "Shriram Asset Management Co Ltd",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 0,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 98,
+      "holder_name": "Rawal Family Trust",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1750352,
+        "Q3/2025": 1750352,
+        "Q4/2025": 1750352,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 99,
+      "holder_name": "SUHAS GUPTA FAMILY TRUST",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1748992,
+        "Q3/2025": 1748992,
+        "Q4/2025": 1748992,
+        "Q1/2026": 1748992,
+        "Q2/2026": 1748992,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 100,
+      "holder_name": "Munix India Pvt Ltd",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 1668468,
+        "Q3/2025": 1668468,
+        "Q4/2025": 1668468,
+        "Q1/2026": 1668468,
+        "Q2/2026": 1668468,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 101,
+      "holder_name": "ANANDRATHI HOUSING FIN LTD",
+      "portfolio_name": null,
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": 720000,
+        "Q3/2025": 720000,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    },
+    {
+      "rank": 102,
+      "holder_name": "Wilshire Advisors LLC",
+      "portfolio_name": "Multiple Portfolios",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Q2/2025": null,
+        "Q3/2025": null,
+        "Q4/2025": null,
+        "Q1/2026": null,
+        "Q2/2026": null,
+        "Q3/2026": 0
+      }
+    }
+  ]
+}
