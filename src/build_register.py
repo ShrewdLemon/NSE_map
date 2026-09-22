@@ -30,6 +30,18 @@ MIN_PAIRS_TO_OVERRIDE = 3       # one stale row should not move the denominator
 _PERSON_CLASS = re.compile(r"individual|huf|director|relative|promoter\s*-\s*person", re.I)
 
 
+def _support(candidate, probe, tol=DENOMINATOR_TOLERANCE):
+    """How many holders' count/percentage pairs agree with this denominator."""
+    if not candidate:
+        return 0
+    n = 0
+    for h in probe:
+        implied = h["shares"] / (h["pct"] / 100)
+        if abs(implied - candidate) / candidate <= tol:
+            n += 1
+    return n
+
+
 def implied_denominator(holders):
     """Median total implied by holders publishing both a share count and a %."""
     implied = sorted(
@@ -43,11 +55,18 @@ def implied_denominator(holders):
 
 
 def resolve_denominator(reg):
-    """Return (shares_scrr, note). Prefers the figure the holders actually imply."""
+    """Return (shares_scrr, note). Prefers the figure the holders actually imply.
+
+    Support decides, not the median alone. SBI Life's source mixes correct
+    percentages with others that read like a digit was dropped, so its holders
+    split into two clusters - one implying about a billion shares, one ten
+    times that. A plain median lands in whichever cluster happens to be larger
+    and, having inflated the base tenfold, then makes an impossible 212%
+    holding look unremarkable. So the stated figure is displaced only by a
+    denominator with strictly more support behind it; a tie keeps what the
+    filing says.
+    """
     stated = reg.get("shares_scrr")
-    pairs = [h for h in reg.get("promoter_group", []) if h.get("shares") and h.get("pct")]
-    pairs += [h for h in reg.get("public_holders", []) if h.get("shares") and h.get("pct")]
-    # promoter_group uses shares_filed; normalise before measuring.
     probe = [{"shares": h.get("shares") or h.get("shares_filed"), "pct": h.get("pct")}
              for h in reg.get("promoter_group", []) + reg.get("public_holders", [])]
     probe = [h for h in probe if h["shares"] and h.get("pct")]
@@ -57,14 +76,20 @@ def resolve_denominator(reg):
         return stated, "no holder published both a count and a percentage"
     if not stated:
         return round(implied), f"denominator recovered from {n} count/percentage pairs"
+
+    stated_support = _support(stated, probe)
+    implied_support = _support(implied, probe)
     drift = abs(implied - stated) / stated
     if drift <= DENOMINATOR_TOLERANCE:
-        return stated, f"stated denominator agrees with {n} holders to {drift:.3%}"
-    if n >= MIN_PAIRS_TO_OVERRIDE:
+        return stated, (f"stated denominator agrees with {stated_support} of {n} "
+                        f"holders to {drift:.3%}")
+    if implied_support >= MIN_PAIRS_TO_OVERRIDE and implied_support > stated_support:
         return (round(implied),
-                f"stated {stated:,} disagreed with {n} holders by {drift:.2%}; "
-                f"used the implied {round(implied):,} (SCRR basis)")
-    return stated, f"stated denominator kept; only {n} pair(s) disagreed by {drift:.2%}"
+                f"stated {stated:,.0f} backed by {stated_support} holders, "
+                f"implied {round(implied):,} by {implied_support}; used the implied")
+    return stated, (f"stated denominator kept: backed by {stated_support} of {n} "
+                    f"holders against {implied_support} for the implied "
+                    f"{round(implied):,}")
 
 
 # Below this a filed percentage is too coarse to check a share count against:
