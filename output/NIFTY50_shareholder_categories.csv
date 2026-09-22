@@ -6,7 +6,7 @@ BEL,Bharat Electronics Limited,CPSE exchange traded scheme - various schemes,Dom
 BEL,Bharat Electronics Limited,HDFC mutual fund - varuous schemes,Domestic AMC,95557340,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 BEL,Bharat Electronics Limited,Motilal oswal - various schemes,Domestic AMC,78382104,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 BEL,Bharat Electronics Limited,ICICI prudential nifty etf - various schemes,Domestic AMC,75916177,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-BEL,Bharat Electronics Limited,Government of Singapore,,80899294,,,,,unresolved,low,,,,REVIEW,
+BEL,Bharat Electronics Limited,Government of Singapore,Foreign Government,80899294,,,,,web,high,SG,sovereign_wealth_fund,sovereign_assets,,https://ifswf.org/member-profiles/government-singapore-investment-corporation
 BEL,Bharat Electronics Limited,Life insurance corporation of india (various schemes),Domestic Insurance,82734308,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 BEL,Bharat Electronics Limited,NPS trust- a/c hdfc pension fund management limited scheme e - tier i (various schemes),Domestic AMC,167073789,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 BHARTIARTL,Bharti Airtel Limited,Bharti telecom limited,Promoter,2466133527,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -16,9 +16,9 @@ BHARTIARTL,Bharti Airtel Limited,SBI ELSS Tax Saver Fund,Domestic AMC,157976816,
 BHARTIARTL,Bharti Airtel Limited,ICICI Prudential Mutual Fund - ICICI Prudential NI,Domestic AMC,104981853,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 BHARTIARTL,Bharti Airtel Limited,HDFC Mutual Fund - HDFC Technology Fund,Domestic AMC,84667934,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 BHARTIARTL,Bharti Airtel Limited,UTI Multi Cap Fund,Domestic AMC,66082158,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-BHARTIARTL,Bharti Airtel Limited,Google International LLC,,71176839,,,,,unresolved,low,,,,REVIEW,
-BHARTIARTL,Bharti Airtel Limited,Government of Singapore - E,,64377450,,,,,unresolved,low,,,,REVIEW,
-BHARTIARTL,Bharti Airtel Limited,Government Pension Fund Global,Foreign Pension Fund,61036886,,,,,web,medium,NO,pension_fund,pension_assets,REVIEW,https://www.nbim.no/
+BHARTIARTL,Bharti Airtel Limited,Google International LLC,Foreign corporate,71176839,,,,,web,high,US,operating_company,operating_company_treasury,,https://sec.gov/Archives/edgar/data/1288776/000119312507044494/dex2101.htm
+BHARTIARTL,Bharti Airtel Limited,Government of Singapore - E,Foreign Government,64377450,,,,,web,medium,SG,sovereign_wealth_fund,sovereign_assets,REVIEW,https://ifswf.org/member-profiles/government-singapore-investment-corporation
+BHARTIARTL,Bharti Airtel Limited,Government Pension Fund Global,Foreign Government,61036886,,,,,web,high,NO,sovereign_wealth_fund,sovereign_assets,,https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway
 BHARTIARTL,Bharti Airtel Limited,LICi New Pension Plus Secured Fund,Domestic Insurance,258208931,,,,,rule:indian-insurer-scheme,high,IN,insurer,insurance_float,,matched by deterministic name rule
 BHARTIARTL,Bharti Airtel Limited,NPS Trust A/C - SBI PF NPS Jeevan Swarna Retirement,Domestic AMC,115630605,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 CIPLA,Cipla Limited,Yusuf Khwaja Hamied,Promoter,150521183,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -31,8 +31,8 @@ CIPLA,Cipla Limited,ICICI Prudential Equity Savings Fund,Domestic AMC,18982812,,
 CIPLA,Cipla Limited,Nippon Life India Trustee Ltd-A/C Nippon India Arb,Domestic Insurance,15766895,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 CIPLA,Cipla Limited,DSP Nifty 50 Index Fund,Domestic AMC,15292938,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 CIPLA,Cipla Limited,Parag Parikh Arbitrage Fund,Domestic AMC,15050570,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-CIPLA,Cipla Limited,Government Pension Fund Global,Foreign Pension Fund,10431209,,,,,web,medium,NO,pension_fund,pension_assets,REVIEW,https://www.nbim.no/
-CIPLA,Cipla Limited,Vanguard Total International Stock Index Fund,,8394985,,,,,unresolved,low,,,,REVIEW,
+CIPLA,Cipla Limited,Government Pension Fund Global,Foreign Government,10431209,,,,,web,high,NO,sovereign_wealth_fund,sovereign_assets,,https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway
+CIPLA,Cipla Limited,Vanguard Total International Stock Index Fund,Foreign AMC,8394985,,,,,web,high,US,asset_manager,managed_funds,,https://sec.gov/Archives/edgar/data/736054/000168386322001087/f11043d1.htm
 CIPLA,Cipla Limited,LICI ULIP-Growth Fund,Domestic Insurance,78556781,,,,,rule:indian-insurer-scheme,high,IN,insurer,insurance_float,,matched by deterministic name rule
 CIPLA,Cipla Limited,NPS Trust A/C - LIC Pension Fund - UPS - CG Scheme,Domestic AMC,13742847,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 COALINDIA,Coal India Limited,President of India,Promoter,3767456372,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -84,8 +84,8 @@ EICHERMOT,Eicher Motors Limited,SBI Nifty 50 ETF,Domestic AMC,,7465418,,,,rule:i
 EICHERMOT,Eicher Motors Limited,UTI Nifty 50 ETF,Domestic AMC,,3688364,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 EICHERMOT,Eicher Motors Limited,NPS Trust- A/C SBI Pension Fund Scheme-State Govt,Domestic AMC,,3407097,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 EICHERMOT,Eicher Motors Limited,Life Insurance Corporation Of India,Domestic Insurance,,3127333,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
-EICHERMOT,Eicher Motors Limited,New World Fund Inc,,,3706104,,,,unresolved,low,,,,REVIEW,
-EICHERMOT,Eicher Motors Limited,Government Of Singapore,,,2923691,,,,unresolved,low,,,,REVIEW,
+EICHERMOT,Eicher Motors Limited,New World Fund Inc,Foreign AMC,,3706104,,,,web,high,US,asset_manager,managed_funds,,https://sec.gov/Archives/edgar/data/1073330/000005193118000997/nwf_nq.htm
+EICHERMOT,Eicher Motors Limited,Government Of Singapore,Foreign Government,,2923691,,,,web,high,SG,sovereign_wealth_fund,sovereign_assets,,https://ifswf.org/member-profiles/government-singapore-investment-corporation
 GRASIM,Grasim Industries Limited,SBI Nifty 50 ETF,Promoter,10916925,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 GRASIM,Grasim Industries Limited,ICICI Prudential Nifty ETF,Promoter,6900184,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 GRASIM,Grasim Industries Limited,Life Insurance Corporation of India,Promoter,44867472,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -191,7 +191,7 @@ HCLTECH,HCL Technologies Limited,ICICI Prudential Mutual Fund,Domestic AMC,31964
 HCLTECH,HCL Technologies Limited,Parag Parikh Flexi Cap Fund,Domestic AMC,44231975,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 HCLTECH,HCL Technologies Limited,Life Insurance Corporation Of India,Domestic Insurance,193966713,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 HCLTECH,HCL Technologies Limited,NPS,Individual,33729612,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
-HCLTECH,HCL Technologies Limited,Artisan International Value Fund,,53387154,,,,,unresolved,low,,,,REVIEW,
+HCLTECH,HCL Technologies Limited,Artisan International Value Fund,Foreign AMC,53387154,,,,,web,high,US,asset_manager,managed_funds,,https://sec.gov/Archives/edgar/data/935015/000119312511059568/d497.htm
 HCLTECH,HCL Technologies Limited,HCL Technologies Stock Options,Individual,7823946,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
 INDIGO,InterGlobe Aviation Limited,Interglobe Enterprises Private Limited,Promoter,137987201,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 INDIGO,InterGlobe Aviation Limited,The Chinkerpoo Family Trust (Trustee: Shobha Gangwal & J.P. Morgan Trust Company of Delaware),Promoter,5106413,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -208,8 +208,8 @@ INDIGO,InterGlobe Aviation Limited,Kotak Mahindra Trustee Co Ltd A/C Kotak Servi
 INDIGO,InterGlobe Aviation Limited,Axis Mutual Fund Trustee Limited A/C Axis Mutual Fund,Domestic AMC,5226614,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 INDIGO,InterGlobe Aviation Limited,UTI Nifty 50 ETF,Domestic AMC,4610253,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 INDIGO,InterGlobe Aviation Limited,Nippon Life India Trustee Ltd-A/C Nippon India Flexi Cap Fund,Domestic Insurance,4215194,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
-INDIGO,InterGlobe Aviation Limited,Government of Singapore,,8213760,,,,,unresolved,low,,,,REVIEW,
-INDIGO,InterGlobe Aviation Limited,Government Pension Fund Global,Foreign Pension Fund,4775432,,,,,web,medium,NO,pension_fund,pension_assets,REVIEW,https://www.nbim.no/
+INDIGO,InterGlobe Aviation Limited,Government of Singapore,Foreign Government,8213760,,,,,web,high,SG,sovereign_wealth_fund,sovereign_assets,,https://ifswf.org/member-profiles/government-singapore-investment-corporation
+INDIGO,InterGlobe Aviation Limited,Government Pension Fund Global,Foreign Government,4775432,,,,,web,high,NO,sovereign_wealth_fund,sovereign_assets,,https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway
 INDIGO,InterGlobe Aviation Limited,NPS Trust- A/C ICICI Prudential Pension Fund Scheme,Domestic AMC,7914050,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 INDIGO,InterGlobe Aviation Limited,Westbridge AIF I,,7439090,,,,,unresolved,low,,,,REVIEW,
 ITC,ITC Limited,SBI Mutual Funds,Domestic AMC,,,411952887,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
@@ -222,12 +222,12 @@ ITC,ITC Limited,Life Insurance Corporation of India,Domestic Insurance,,,1965797
 ITC,ITC Limited,General Insurance Corporation of India,Domestic Insurance,,,217085508,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ITC,ITC Limited,The New India Assurance Company Limited,Domestic Insurance,,,180822832,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ITC,ITC Limited,NPS Trust (various Pension Funds),Domestic Pension Fund,,,202305296,,,rule:indian-pension-scheme,high,IN,pension_fund,pension_assets,,matched by deterministic name rule
-ITC,ITC Limited,Specified Undertaking of the Unit Trust of India,Government,,,974531427,,,rule:indian-state-entity,high,IN,,,,deterministic rule
-ITC,ITC Limited,Tobacco Manufacturers (India) Limited,,,,2228495863,,,unresolved,low,,,,REVIEW,
-ITC,ITC Limited,Myddleton Investment Company Limited,,,,486311940,,,unresolved,low,,,,REVIEW,
-ITC,ITC Limited,Rothmans International Enterprises Limited,,,,154954890,,,unresolved,low,,,,REVIEW,
-ITC,ITC Limited,GQG Partners Emerging Markets Equity Fund,,,,223800530,,,unresolved,low,,,,REVIEW,
-ITC,ITC Limited,Goldman Sachs Trust II-Goldman Sachs GQG Partners International Opportunities Fund,,,,177285000,,,unresolved,low,,,,REVIEW,
+ITC,ITC Limited,Specified Undertaking of the Unit Trust of India,Government,,,974531427,,,rule:indian-state-entity,high,IN,sovereign_wealth_fund,sovereign_assets,,matched by deterministic name rule
+ITC,ITC Limited,Tobacco Manufacturers (India) Limited,Foreign corporate,,,2228495863,,,web,high,IM,operating_company,operating_company_treasury,,https://sec.gov/Archives/edgar/data/1303523/000130352326000017/a2025fy-ex8xsubsidiariesun.htm
+ITC,ITC Limited,Myddleton Investment Company Limited,Foreign corporate,,,486311940,,,web,high,GB,operating_company,own_balance_sheet,,https://bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/reporting/combined-annual-and-esg-report/previous-annual-reporting/uk-company-reporting/Myddleton_Investment_Company_Limited_-_Annual_Report_2022.pdf
+ITC,ITC Limited,Rothmans International Enterprises Limited,Foreign corporate,,,154954890,,,web,high,GB,operating_company,operating_company_treasury,,https://bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/reporting/combined-annual-and-esg-report/previous-annual-reporting/uk-company-reporting/Rothmans_International_Enterprises_Limited_-_Annual_Report_2024.pdf
+ITC,ITC Limited,GQG Partners Emerging Markets Equity Fund,Foreign AMC,,,223800530,,,web,high,US,asset_manager,managed_funds,,https://sec.gov/Archives/edgar/data/1593547/000119312520267112/d87085dncsr.htm
+ITC,ITC Limited,Goldman Sachs Trust II-Goldman Sachs GQG Partners International Opportunities Fund,Foreign AMC,,,177285000,,,web,high,US,asset_manager,managed_funds,,https://sec.gov/Archives/edgar/data/1557156/000119312516793306/d174361d497.htm
 JIOFIN,Jio Financial Services Limited,K D Ambani,Promoter,15741322,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 JIOFIN,Jio Financial Services Limited,Anant M Ambani,Promoter,8052021,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 JIOFIN,Jio Financial Services Limited,Isha M Ambani,Promoter,8052021,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -330,12 +330,12 @@ JSWSTEEL,JSW Steel Limited,Accuraform Pvt Ltd,Promoter,20800,,,,,filing (token+n
 JSWSTEEL,JSW Steel Limited,Sarika Jhunjhnuwala,Promoter,41500,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 JSWSTEEL,JSW Steel Limited,SBI Arbitrage Opportunities Fund,Domestic AMC,41003306,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 JSWSTEEL,JSW Steel Limited,HDFC Trustee Company Limited - HDFC Flexi Cap Fund,Domestic AMC,25612860,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-JSWSTEEL,JSW Steel Limited,GQG Partners Emerging Markets Equity Fund,,24902245,,,,,unresolved,low,,,,REVIEW,
+JSWSTEEL,JSW Steel Limited,GQG Partners Emerging Markets Equity Fund,Foreign AMC,24902245,,,,,web,high,US,asset_manager,managed_funds,,https://sec.gov/Archives/edgar/data/1593547/000119312520267112/d87085dncsr.htm
 JSWSTEEL,JSW Steel Limited,Life Insurance Corporation of India,Domestic Insurance,120872101,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
-JSWSTEEL,JSW Steel Limited,JFE Steel International Europe B.V,,366818095,,,,,unresolved,low,,,,REVIEW,
-JSWSTEEL,JSW Steel Limited,Gagandeep Credit Capital Pvt Ltd,,49550000,,,,,unresolved,low,,,,REVIEW,
-JSWSTEEL,JSW Steel Limited,Enam Securities Pvt Ltd,,27985121,,,,,unresolved,low,,,,REVIEW,
-JSWSTEEL,JSW Steel Limited,Shamyak Investment Private Limited,,26533230,,,,,unresolved,low,,,,REVIEW,
+JSWSTEEL,JSW Steel Limited,JFE Steel International Europe B.V,Foreign corporate,366818095,,,,,web,high,NL,operating_company,operating_company_treasury,,https://lei.jpx.co.jp/lei/en/detail.html?lei=3538004SYEDMHPTGRC96
+JSWSTEEL,JSW Steel Limited,Gagandeep Credit Capital Pvt Ltd,Domestic corporate,49550000,,,,,web,high,IN,other,own_balance_sheet,,https://www.thecompanycheck.com/company/gagandeep-credit-capital-private-limited/U65990MH1993PTC073769
+JSWSTEEL,JSW Steel Limited,Enam Securities Pvt Ltd,Domestic corporate,27985121,,,,,web,high,IN,broker,own_balance_sheet,,https://indiafilings.com/search/enam-securities-private-limited-cin-u67120mh2005ptc152297
+JSWSTEEL,JSW Steel Limited,Shamyak Investment Private Limited,Domestic corporate,26533230,,,,,web,high,IN,operating_company,own_balance_sheet,,https://www.instafinancials.com/company/shamyak-investment-private-limited-u23201mh1983ptc031175/
 LT,Larsen & Toubro Limited,SBI MUTUAL FUND,Domestic AMC,63888040,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 LT,Larsen & Toubro Limited,ICICI PRUDENTIAL MUTUAL FUND,Domestic AMC,48751101,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 LT,Larsen & Toubro Limited,HDFC MUTUAL FUND,Domestic AMC,29165638,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
@@ -346,8 +346,8 @@ LT,Larsen & Toubro Limited,GENERAL INSURANCE CORPORATION OF INDIA,Domestic Insur
 LT,Larsen & Toubro Limited,SBI LIFE INSURANCE CO. LTD,Domestic Insurance,15125714,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 LT,Larsen & Toubro Limited,ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED,Domestic Insurance,13878775,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 LT,Larsen & Toubro Limited,NPS TRUST A/C UTI PENSION FUND LIMITED,Domestic AMC,47085621,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-LT,Larsen & Toubro Limited,GOVERNMENT OF SINGAPORE,,21502855,,,,,unresolved,low,,,,REVIEW,
-LT,Larsen & Toubro Limited,L&T EMPLOYEES TRUST,,198679507,,,,,unresolved,low,,,,REVIEW,
+LT,Larsen & Toubro Limited,GOVERNMENT OF SINGAPORE,Foreign Government,21502855,,,,,web,high,SG,sovereign_wealth_fund,sovereign_assets,,https://ifswf.org/member-profiles/government-singapore-investment-corporation
+LT,Larsen & Toubro Limited,L&T EMPLOYEES TRUST,Domestic corporate,198679507,,,,,web,high,IN,other,own_balance_sheet,,https://sebi.gov.in/sebi-data/docfiles/11754_t.html
 M&M,Mahindra & Mahindra Limited,ANAND GOPAL MAHINDRA,Promoter,,,,1430008,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-06-30"
 M&M,Mahindra & Mahindra Limited,ANJALI K MAHINDRA,Promoter,,,,172962,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-06-30"
 M&M,Mahindra & Mahindra Limited,ANURADHA MAHINDRA,Promoter,,,,457090,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-06-30"
@@ -391,7 +391,7 @@ NTPC,NTPC Limited,Kotak Arbitrage Fund,Domestic AMC,,,,,102190136,rule:indian-fu
 NTPC,NTPC Limited,Sbi Nifty 50 Etf,Domestic AMC,,,,,216099483,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 NTPC,NTPC Limited,Life Insurance Corporation Of India,Domestic Insurance,,,,,479314529,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 NTPC,NTPC Limited,Nps Trust- A/c Hdfc Pension Fund Management Limited Scheme E-Tier I,Domestic AMC,,,,,207550566,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-NTPC,NTPC Limited,Government Of Singapore,,,,,,197673526,unresolved,low,,,,REVIEW,
+NTPC,NTPC Limited,Government Of Singapore,Foreign Government,,,,,197673526,web,high,SG,sovereign_wealth_fund,sovereign_assets,,https://ifswf.org/member-profiles/government-singapore-investment-corporation
 POWERGRID,Power Grid Corporation of India Limited,PRESIDENT OF INDIA,Promoter,4594849080,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 POWERGRID,Power Grid Corporation of India Limited,ICICI PRUDENTIAL ESG EXCLUSIONARY STRATEGY FUND,Domestic AMC,124293446,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 POWERGRID,Power Grid Corporation of India Limited,HDFC MUTUAL FUND - HDFC BSE 500 ETF,Domestic AMC,164000693,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
@@ -399,7 +399,7 @@ POWERGRID,Power Grid Corporation of India Limited,NIPPON LIFE INDIA TRUSTEE LTD-
 POWERGRID,Power Grid Corporation of India Limited,UTI NIFTY 50 INDEX FUND,Domestic AMC,101236594,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 POWERGRID,Power Grid Corporation of India Limited,SBI ARBITRAGE OPPORTUNITIES FUND,Domestic AMC,198507686,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 POWERGRID,Power Grid Corporation of India Limited,PARAG PARIKH ARBITRAGE FUND,Domestic AMC,330882158,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-POWERGRID,Power Grid Corporation of India Limited,GOVERNMENT OF SINGAPORE,,164016397,,,,,unresolved,low,,,,REVIEW,
+POWERGRID,Power Grid Corporation of India Limited,GOVERNMENT OF SINGAPORE,Foreign Government,164016397,,,,,web,high,SG,sovereign_wealth_fund,sovereign_assets,,https://ifswf.org/member-profiles/government-singapore-investment-corporation
 POWERGRID,Power Grid Corporation of India Limited,LIFE INSURANCE CORPORATION OF INDIA - ULIF00420091,Domestic Insurance,420437004,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 POWERGRID,Power Grid Corporation of India Limited,NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT,Domestic AMC,143363520,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,K D Ambani,Promoter,31482644,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -462,7 +462,7 @@ RELIANCE,RELIANCE INDUSTRIES LTD,NPS Trust,Domestic Pension Fund,205984356,18870
 RELIANCE,RELIANCE INDUSTRIES LTD,HDFC Mutual Fund,Domestic AMC,130102377,118407782,103922430,91430476,96613308,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,UTI Mutual Fund,Domestic AMC,120268285,114553881,107776331,100068529,103789537,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,Nippon India Mutual Fund,Domestic AMC,116547278,113623629,109503942,102460606,107776331,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-RELIANCE,RELIANCE INDUSTRIES LTD,Government Pension Fund Global,Foreign Pension Fund,105494998,,,,,web,medium,NO,pension_fund,pension_assets,REVIEW,https://www.nbim.no/
+RELIANCE,RELIANCE INDUSTRIES LTD,Government Pension Fund Global,Foreign Government,105494998,,,,,web,high,NO,sovereign_wealth_fund,sovereign_assets,,https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway
 RELIANCE,RELIANCE INDUSTRIES LTD,Kotak Mahindra Mutual Fund,Domestic AMC,52891467,44386306,42127123,45848131,52758574,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,Mirae Asset Mutual Fund,Domestic AMC,48107314,37741650,30299634,32691711,33090390,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,Aditya Birla Sun Life Mutual Fund,Domestic AMC,43987627,46246810,45316558,44120520,44120520,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
@@ -478,7 +478,7 @@ RELIANCE,RELIANCE INDUSTRIES LTD,HSBC Mutual Fund,Domestic AMC,10631451,15149817
 RELIANCE,RELIANCE INDUSTRIES LTD,Sundaram Mutual Fund,Domestic AMC,10631451,11960382,12226168,12491955,12491955,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,Baroda BNP Paribas Mutual Fund,Domestic AMC,6910443,7309122,7043336,7176229,7442015,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,PPFAS Mutual Fund,Domestic AMC,5847298,3455221,7840695,7442015,7442015,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,STATE BANK OF INDIA,Promoter,,,,,555000000,filing (token+numeric),high,IN,,,REVIEW,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
+SBILIFE,SBI Life Insurance Company Limited,STATE BANK OF INDIA,Promoter,,,,,555000000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,Arunachal Pradesh Rural Bank,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,C-Edge Technologies Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,Chhattisgarh Rajya Gramin Bank,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
@@ -524,13 +524,13 @@ SBILIFE,SBI Life Insurance Company Limited,State Bank Operations Support Service
 SBILIFE,SBI Life Insurance Company Limited,SBI Cards and Payment Services Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,SBI CDMDF Trustee Private Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,SBI Funds International (IFSC) Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
-SBILIFE,SBI Life Insurance Company Limited,ICICI PRUDENTIAL MUTUAL FUND SCHEMES,Domestic AMC,,,,,150607989,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,HDFC MUTUAL FUND SCHEMES,Domestic AMC,,,,,40680381,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,NIPPON LIFE INDIA MUTUAL FUND SCHEMES,Domestic AMC,,,,,40518952,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,SBI MUTUAL FUND SCHEMES,Domestic AMC,,,,,121567690,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,NPS TRUST SCHEMES,Domestic Pension Fund,,,,,137781580,rule:indian-pension-scheme,high,IN,pension_fund,pension_assets,,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,GOVERNMENT OF SINGAPORE,,,,,,2134450960,unresolved,low,,,,REVIEW,
-SBILIFE,SBI Life Insurance Company Limited,MACRITCHIE INVESTMENTS PTE LTD,,,,,,151000005,unresolved,low,,,,REVIEW,
+SBILIFE,SBI Life Insurance Company Limited,ICICI PRUDENTIAL MUTUAL FUND SCHEMES,Domestic AMC,,,,,150607989,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,HDFC MUTUAL FUND SCHEMES,Domestic AMC,,,,,40680381,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,NIPPON LIFE INDIA MUTUAL FUND SCHEMES,Domestic AMC,,,,,40518952,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,SBI MUTUAL FUND SCHEMES,Domestic AMC,,,,,121567690,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,NPS TRUST SCHEMES,Domestic Pension Fund,,,,,137781580,rule:indian-pension-scheme,high,IN,pension_fund,pension_assets,REVIEW,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,GOVERNMENT OF SINGAPORE,Foreign Government,,,,,213446728,web,high,SG,sovereign_wealth_fund,sovereign_assets,REVIEW,https://ifswf.org/member-profiles/government-singapore-investment-corporation
+SBILIFE,SBI Life Insurance Company Limited,MACRITCHIE INVESTMENTS PTE LTD,Foreign corporate,,,,,151000005,web,high,SG,operating_company,own_balance_sheet,REVIEW,https://www.crunchbase.com/organization/macritchie-investments
 SBIN,State Bank of India,President of India,Promoter,5569432140,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 SHRIRAMFIN,Shriram Finance Limited,Shriram Capital Limited,Promoter,80000000,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 TMPV,Tata Motors Passenger Vehicles Limited,Tata Sons Private Limited,Promoter,1478263541,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"

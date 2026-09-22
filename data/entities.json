@@ -120,6 +120,21 @@
       "source": "https://inc42.com/buzz/angel-one-amc-gets-sebi-nod-to-start-mutual-fund-business",
       "verified_on": "2026-09-22"
     },
+    "artisan international value fund": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Artisan International Value Fund",
+      "entity_type": "asset_manager",
+      "evidence": "SEC filing lists Artisan International Value Fund as a series of Artisan Funds, Inc., a US-registered investment company.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/935015/000119312511059568/d497.htm",
+      "verified_on": "2026-09-22"
+    },
     "axis asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -540,6 +555,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "enam securities": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Enam Securities Pvt Ltd",
+      "entity_type": "broker",
+      "evidence": "IndiaFilings registry shows Enam Securities Private Limited, CIN U67120MH2005PTC152297, registered with RoC-Mumbai, incorporated 30-03-2005, classified as a non-government private limited company at Nariman Point, Mumbai, India.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://indiafilings.com/search/enam-securities-private-limited-cin-u67120mh2005ptc152297",
+      "verified_on": "2026-09-22"
+    },
     "fil": {
       "basis": "web",
       "confidence": "high",
@@ -615,6 +645,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "gagandeep credit capital": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Gagandeep Credit Capital Pvt Ltd",
+      "entity_type": "other",
+      "evidence": "Indian corporate registry (TheCompanyCheck) shows Gagandeep Credit Capital Private Limited, CIN U65990MH1993PTC073769, incorporated 06 September 1993 in Vile Parle, Maharashtra, India; classified as an NBFC in financial services.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://www.thecompanycheck.com/company/gagandeep-credit-capital-private-limited/U65990MH1993PTC073769",
+      "verified_on": "2026-09-22"
+    },
     "general insurance of india": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -645,19 +690,95 @@
       "source": "https://www.gsam.com/content/dam/gsam/pdfs/international/en/fund-literature/monthly-factsheet-goldman-sachs-india-equity-portfolio-class-i-shares.pdf",
       "verified_on": "2026-09-22"
     },
-    "government pension fund global": {
+    "goldman sachs trust ii goldman sachs gqg partners international opportunities fund": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Goldman Sachs Trust II-Goldman Sachs GQG Partners International Opportunities Fund",
+      "entity_type": "asset_manager",
+      "evidence": "Goldman Sachs prospectus for the GQG Partners series states Goldman Sachs Trust II is organized as a Delaware statutory trust, registered as an open-end management investment company.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/1557156/000119312516793306/d174361d497.htm",
+      "verified_on": "2026-09-22"
+    },
+    "google international": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Google International LLC",
+      "entity_type": "operating_company",
+      "evidence": "Alphabet/Google SEC Exhibit 21 lists Google International LLC as a Delaware subsidiary of Google Inc.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/1288776/000119312507044494/dex2101.htm",
+      "verified_on": "2026-09-22"
+    },
+    "government of singapore": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "SG",
+      "display_name": "Government of Singapore",
+      "entity_type": "sovereign_wealth_fund",
+      "evidence": "IFSWF profile: GIC was incorporated in 1981 under the Singapore Companies Act and is wholly owned by the Government of Singapore to manage Singapore's reserves.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "sovereign_assets",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://ifswf.org/member-profiles/government-singapore-investment-corporation",
+      "verified_on": "2026-09-22"
+    },
+    "government of singapore e": {
       "basis": "web",
       "confidence": "medium",
+      "country": "SG",
+      "display_name": "Government of Singapore - E",
+      "entity_type": "sovereign_wealth_fund",
+      "evidence": "GIC is wholly owned by the Government of Singapore and was incorporated in Singapore in 1981; the suffix in the holder name denotes an internal sub-account reference, with the underlying entity remaining GIC.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "sovereign_assets",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://ifswf.org/member-profiles/government-singapore-investment-corporation",
+      "verified_on": "2026-09-22"
+    },
+    "government pension fund global": {
+      "basis": "web",
+      "confidence": "high",
       "country": "NO",
       "display_name": "Government Pension Fund Global",
-      "entity_type": "pension_fund",
-      "evidence": "Norway's sovereign fund, managed by Norges Bank Investment Management. Aggregators book Norges Bank's equity holdings under this fund name. Classified consistently with the Norges Bank row; Foreign Government is the alternative if sovereign ownership is the deciding axis.",
+      "entity_type": "sovereign_wealth_fund",
+      "evidence": "Wikipedia describes the Government Pension Fund of Norway with two parts; the Government Pension Fund Global (Statens pensjonsfond utland) was established in 1990, owned by the Council of State, managed by Norges Bank; it is a sovereign wealth fund.",
       "first_seen": "2026-09-22",
-      "holding_vehicle": "pension_assets",
+      "holding_vehicle": "sovereign_assets",
       "seen_in": [
-        "ANANDRATHI"
+        "ANANDRATHI",
+        "NIFTY50"
       ],
-      "source": "https://www.nbim.no/",
+      "source": "https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway",
+      "verified_on": "2026-09-22"
+    },
+    "gqg partners emerging markets equity fund": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "GQG Partners Emerging Markets Equity Fund",
+      "entity_type": "asset_manager",
+      "evidence": "SEC N-CSR filing names the fund as a series of The Advisors' Inner Circle Fund III registered under the Investment Company Act (file 811-22920), advised by GQG Partners LLC, located in Oaks, PA.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/1593547/000119312520267112/d87085dncsr.htm",
       "verified_on": "2026-09-22"
     },
     "groww asset management": {
@@ -1110,6 +1231,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "jfe steel international europe b v": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "NL",
+      "display_name": "JFE Steel International Europe B.V",
+      "entity_type": "operating_company",
+      "evidence": "JPX-LEI registry records JFE Steel International Europe B.V. with legal jurisdiction Netherlands, registered address Amsterdam, Noord-Holland, NL; entity creation date 2011-12-15.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://lei.jpx.co.jp/lei/en/detail.html?lei=3538004SYEDMHPTGRC96",
+      "verified_on": "2026-09-22"
+    },
     "jio blackrock asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1213,6 +1349,21 @@
         "INDIGO"
       ],
       "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "l and t employees trust": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "L&T EMPLOYEES TRUST",
+      "entity_type": "other",
+      "evidence": "SEBI Takeover Regulations order describes L&T Employees Welfare Foundation as an independent private trust formed for the welfare of employees of Larsen & Toubro Ltd, holding shares of the target company.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sebi.gov.in/sebi-data/docfiles/11754_t.html",
       "verified_on": "2026-09-22"
     },
     "legal and general": {
@@ -1320,6 +1471,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "macritchie investments": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "SG",
+      "display_name": "MACRITCHIE INVESTMENTS PTE LTD",
+      "entity_type": "operating_company",
+      "evidence": "Crunchbase profile describes MacRitchie Investments Pte. Ltd. as an investment holding company and indirect wholly-owned subsidiary of Singapore-based Temasek Holdings (Private) Limited, located in Singapore.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://www.crunchbase.com/organization/macritchie-investments",
+      "verified_on": "2026-09-22"
+    },
     "mirae asset financial": {
       "basis": "web",
       "confidence": "high",
@@ -1410,6 +1576,21 @@
       "source": "https://www.tofler.in/munix-india-private-limited/company/U00000PB2003PTC025986",
       "verified_on": "2026-09-22"
     },
+    "myddleton investment": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "GB",
+      "display_name": "Myddleton Investment Company Limited",
+      "entity_type": "operating_company",
+      "evidence": "BAT's Annual Report states Myddleton Investment Company Limited is a private company incorporated, domiciled and registered in England and Wales in the UK, registered number 00207434, and is an investment holding company in the BAT Group.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/reporting/combined-annual-and-esg-report/previous-annual-reporting/uk-company-reporting/Myddleton_Investment_Company_Limited_-_Annual_Report_2022.pdf",
+      "verified_on": "2026-09-22"
+    },
     "national bank of canada": {
       "basis": "web",
       "confidence": "medium",
@@ -1468,6 +1649,21 @@
         "ITC"
       ],
       "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "new world fund": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "New World Fund Inc",
+      "entity_type": "asset_manager",
+      "evidence": "SEC N-Q filing shows New World Fund, Inc. is registered under Investment Company Act file number 811-09105, a US-registered investment company managed by Capital Group.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/1073330/000005193118000997/nwf_nq.htm",
       "verified_on": "2026-09-22"
     },
     "nippon india mutual fund": {
@@ -1785,6 +1981,21 @@
       "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/",
       "verified_on": "2026-09-22"
     },
+    "rothmans international enterprises": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "GB",
+      "display_name": "Rothmans International Enterprises Limited",
+      "entity_type": "operating_company",
+      "evidence": "BAT's Annual Report states Rothmans International Enterprises Limited is a private company incorporated, domiciled and registered in England and Wales in the UK, registered number 02694154; LEI registry places the entity in the United Kingdom.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/reporting/combined-annual-and-esg-report/previous-annual-reporting/uk-company-reporting/Rothmans_International_Enterprises_Limited_-_Annual_Report_2024.pdf",
+      "verified_on": "2026-09-22"
+    },
     "russell investments": {
       "basis": "web",
       "confidence": "medium",
@@ -1978,6 +2189,21 @@
         "M&M"
       ],
       "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "shamyak investment": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Shamyak Investment Private Limited",
+      "entity_type": "operating_company",
+      "evidence": "Indian corporate registry records Shamyak Investment Private Limited (CIN U23201MH1983PTC031175) as a private limited company registered in Maharashtra, India.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://www.instafinancials.com/company/shamyak-investment-private-limited-u23201mh1983ptc031175/",
       "verified_on": "2026-09-22"
     },
     "shriram asset management": {
@@ -2175,6 +2401,21 @@
       "source": "https://en.wikipedia.org/wiki/Thrivent",
       "verified_on": "2026-09-22"
     },
+    "tobacco manufacturers india": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "IM",
+      "display_name": "Tobacco Manufacturers (India) Limited",
+      "entity_type": "operating_company",
+      "evidence": "BAT's 20-F Exhibit 8 lists Tobacco Manufacturers (India) Limited under the Isle of Man jurisdiction as a wholly-owned BAT subsidiary; Shardul Amarchand notes it is a wholly owned subsidiary of BAT that held ITC Limited shares in India.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "operating_company_treasury",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/1303523/000130352326000017/a2025fy-ex8xsubsidiariesun.htm",
+      "verified_on": "2026-09-22"
+    },
     "trust investment advisors": {
       "basis": "web",
       "confidence": "medium",
@@ -2323,6 +2564,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.wikidata.org/wiki/Q849363",
+      "verified_on": "2026-09-22"
+    },
+    "vanguard total international stock index fund": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Vanguard Total International Stock Index Fund",
+      "entity_type": "asset_manager",
+      "evidence": "Vanguard prospectus states the Fund is organized as a Delaware statutory trust registered with the SEC and tracks the FTSE Global All Cap ex US Index.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NIFTY50"
+      ],
+      "source": "https://sec.gov/Archives/edgar/data/736054/000168386322001087/f11043d1.htm",
       "verified_on": "2026-09-22"
     },
     "victory capital management": {

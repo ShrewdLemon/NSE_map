@@ -22,6 +22,8 @@ _NUM = re.compile(r"^(?:-+|NA|N/?A|\d[\d,]*(?:\.\d+)?%?|\.\d+%?)$", re.I)
 # The role column sits between the name and the numbers in Table II.
 _ROLE = re.compile(r"\s+(?:Promoter Group|Promoter|Public|Trust)\s*$", re.I)
 _MIN_NUMERIC = 4      # fewer columns than this is a caption, not a data row
+_NUMBER_PREFIX = re.compile(r"^\s*[1-9]\d{0,2}\s+(?=[A-Za-z])")
+_NUMBERED = re.compile(r"^\s*([1-9]\d{0,2})\s+[A-Z][A-Za-z]", re.M)
 
 
 def _to_num(tok):
@@ -114,11 +116,21 @@ def _rows(section, clean_name):
     got, buf = [], []
 
     def emit(name, nums):
+        if numbered:
+            name = _NUMBER_PREFIX.sub("", name)
         clean = clean_name(_ROLE.sub("", name).strip(" .,-"))
         if not clean:
             return
         shares, pct = read_holding(nums)
         got.append({"name": clean, "shares": shares, "pct": pct})
+
+    # A filing numbers its promoter group members and PDF extraction carries
+    # the index into the name column: "5 Birla Group Holdings Private Limited".
+    # Stripping that per name would maul a company genuinely called "63 Moons
+    # Technologies", so it is only stripped where the numbering is systematic -
+    # several rows in one table, each with a different index.
+    indices = _NUMBERED.findall(section)
+    numbered = len(set(indices)) >= 3
 
     for raw in section.split("\n"):
         line = raw.strip()

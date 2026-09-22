@@ -1,0 +1,182 @@
+[
+  {
+    "evidence": "IFSWF profile shows GIC Private Limited was incorporated in 1981 in Singapore under the Singapore Companies Act and is wholly owned by the Government of Singapore.",
+    "confidence": "high",
+    "source_url": "https://ifswf.org/member-profiles/government-singapore-investment-corporation",
+    "holder_name": "GOVERNMENT OF SINGAPORE",
+    "holding_vehicle": "sovereign_assets",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "country_of_incorporation": "SG"
+  },
+  {
+    "evidence": "NLB Singapore says the GIC is incorporated in Singapore under the Singapore Companies Act and is wholly owned by the Government of Singapore to manage Singapore's foreign reserves.",
+    "confidence": "high",
+    "source_url": "https://nlb.gov.sg/main/article-detail?cmsuuid=ed5d02b0-a615-4a91-a59b-482f94739de4",
+    "holder_name": "Government Of Singapore",
+    "holding_vehicle": "sovereign_assets",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "country_of_incorporation": "SG"
+  },
+  {
+    "evidence": "IFSWF profile: GIC was incorporated in 1981 under the Singapore Companies Act and is wholly owned by the Government of Singapore to manage Singapore's reserves.",
+    "confidence": "high",
+    "source_url": "https://ifswf.org/member-profiles/government-singapore-investment-corporation",
+    "holder_name": "Government of Singapore",
+    "holding_vehicle": "sovereign_assets",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "country_of_incorporation": "SG"
+  },
+  {
+    "evidence": "GIC is wholly owned by the Government of Singapore and was incorporated in Singapore in 1981; the suffix in the holder name denotes an internal sub-account reference, with the underlying entity remaining GIC.",
+    "confidence": "medium",
+    "source_url": "https://ifswf.org/member-profiles/government-singapore-investment-corporation",
+    "holder_name": "Government of Singapore - E",
+    "holding_vehicle": "sovereign_assets",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "country_of_incorporation": "SG"
+  },
+  {
+    "evidence": "Wikipedia describes the Government Pension Fund of Norway with two parts; the Government Pension Fund Global (Statens pensjonsfond utland) was established in 1990, owned by the Council of State, managed by Norges Bank; it is a sovereign wealth fund.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway",
+    "holder_name": "Government Pension Fund Global",
+    "holding_vehicle": "sovereign_assets",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "country_of_incorporation": "NO"
+  },
+  {
+    "evidence": "BAT's 20-F Exhibit 8 lists Tobacco Manufacturers (India) Limited under the Isle of Man jurisdiction as a wholly-owned BAT subsidiary; Shardul Amarchand notes it is a wholly owned subsidiary of BAT that held ITC Limited shares in India.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/1303523/000130352326000017/a2025fy-ex8xsubsidiariesun.htm",
+    "holder_name": "Tobacco Manufacturers (India) Limited",
+    "holding_vehicle": "operating_company_treasury",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "IM"
+  },
+  {
+    "evidence": "BAT's Annual Report states Myddleton Investment Company Limited is a private company incorporated, domiciled and registered in England and Wales in the UK, registered number 00207434, and is an investment holding company in the BAT Group.",
+    "confidence": "high",
+    "source_url": "https://bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/reporting/combined-annual-and-esg-report/previous-annual-reporting/uk-company-reporting/Myddleton_Investment_Company_Limited_-_Annual_Report_2022.pdf",
+    "holder_name": "Myddleton Investment Company Limited",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "GB"
+  },
+  {
+    "evidence": "BAT's Annual Report states Rothmans International Enterprises Limited is a private company incorporated, domiciled and registered in England and Wales in the UK, registered number 02694154; LEI registry places the entity in the United Kingdom.",
+    "confidence": "high",
+    "source_url": "https://bat.com/content/dam/batcom/global/main-nav/investors-and-reporting/reporting/combined-annual-and-esg-report/previous-annual-reporting/uk-company-reporting/Rothmans_International_Enterprises_Limited_-_Annual_Report_2024.pdf",
+    "holder_name": "Rothmans International Enterprises Limited",
+    "holding_vehicle": "operating_company_treasury",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "GB"
+  },
+  {
+    "evidence": "JPX-LEI registry records JFE Steel International Europe B.V. with legal jurisdiction Netherlands, registered address Amsterdam, Noord-Holland, NL; entity creation date 2011-12-15.",
+    "confidence": "high",
+    "source_url": "https://lei.jpx.co.jp/lei/en/detail.html?lei=3538004SYEDMHPTGRC96",
+    "holder_name": "JFE Steel International Europe B.V",
+    "holding_vehicle": "operating_company_treasury",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "NL"
+  },
+  {
+    "evidence": "SEC N-CSR filing names the fund as a series of The Advisors' Inner Circle Fund III registered under the Investment Company Act (file 811-22920), advised by GQG Partners LLC, located in Oaks, PA.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/1593547/000119312520267112/d87085dncsr.htm",
+    "holder_name": "GQG Partners Emerging Markets Equity Fund",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Goldman Sachs prospectus for the GQG Partners series states Goldman Sachs Trust II is organized as a Delaware statutory trust, registered as an open-end management investment company.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/1557156/000119312516793306/d174361d497.htm",
+    "holder_name": "Goldman Sachs Trust II-Goldman Sachs GQG Partners International Opportunities Fund",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Crunchbase profile describes MacRitchie Investments Pte. Ltd. as an investment holding company and indirect wholly-owned subsidiary of Singapore-based Temasek Holdings (Private) Limited, located in Singapore.",
+    "confidence": "high",
+    "source_url": "https://www.crunchbase.com/organization/macritchie-investments",
+    "holder_name": "MACRITCHIE INVESTMENTS PTE LTD",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "SG"
+  },
+  {
+    "evidence": "Alphabet/Google SEC Exhibit 21 lists Google International LLC as a Delaware subsidiary of Google Inc.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/1288776/000119312507044494/dex2101.htm",
+    "holder_name": "Google International LLC",
+    "holding_vehicle": "operating_company_treasury",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "SEC filing lists Artisan International Value Fund as a series of Artisan Funds, Inc., a US-registered investment company.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/935015/000119312511059568/d497.htm",
+    "holder_name": "Artisan International Value Fund",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Vanguard prospectus states the Fund is organized as a Delaware statutory trust registered with the SEC and tracks the FTSE Global All Cap ex US Index.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/736054/000168386322001087/f11043d1.htm",
+    "holder_name": "Vanguard Total International Stock Index Fund",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "SEC N-Q filing shows New World Fund, Inc. is registered under Investment Company Act file number 811-09105, a US-registered investment company managed by Capital Group.",
+    "confidence": "high",
+    "source_url": "https://sec.gov/Archives/edgar/data/1073330/000005193118000997/nwf_nq.htm",
+    "holder_name": "New World Fund Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "SEBI Takeover Regulations order describes L&T Employees Welfare Foundation as an independent private trust formed for the welfare of employees of Larsen & Toubro Ltd, holding shares of the target company.",
+    "confidence": "high",
+    "source_url": "https://sebi.gov.in/sebi-data/docfiles/11754_t.html",
+    "holder_name": "L&T EMPLOYEES TRUST",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "other",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "Indian corporate registry (TheCompanyCheck) shows Gagandeep Credit Capital Private Limited, CIN U65990MH1993PTC073769, incorporated 06 September 1993 in Vile Parle, Maharashtra, India; classified as an NBFC in financial services.",
+    "confidence": "high",
+    "source_url": "https://www.thecompanycheck.com/company/gagandeep-credit-capital-private-limited/U65990MH1993PTC073769",
+    "holder_name": "Gagandeep Credit Capital Pvt Ltd",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "other",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "IndiaFilings registry shows Enam Securities Private Limited, CIN U67120MH2005PTC152297, registered with RoC-Mumbai, incorporated 30-03-2005, classified as a non-government private limited company at Nariman Point, Mumbai, India.",
+    "confidence": "high",
+    "source_url": "https://indiafilings.com/search/enam-securities-private-limited-cin-u67120mh2005ptc152297",
+    "holder_name": "Enam Securities Pvt Ltd",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "broker",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "Indian corporate registry records Shamyak Investment Private Limited (CIN U23201MH1983PTC031175) as a private limited company registered in Maharashtra, India.",
+    "confidence": "high",
+    "source_url": "https://www.instafinancials.com/company/shamyak-investment-private-limited-u23201mh1983ptc031175/",
+    "holder_name": "Shamyak Investment Private Limited",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "IN"
+  }
+]
