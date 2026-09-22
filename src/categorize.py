@@ -8,8 +8,13 @@ domicile-neutral 'Bank' bucket and a group's stake may sit with its asset
 manager rather than on its own book.
 """
 
-# Vehicles that tell you more about the holding than the entity's own label.
-_VEHICLE_FIRST = {
+# For a BANKING GROUP only, the vehicle holding the stake decides the category.
+# The taxonomy's 'Bank' bucket has no domestic/foreign split, so a group whose
+# stake sits with its asset-management arm is better described as an AMC. This
+# does NOT generalise: applying it to every holder would empty the Insurance
+# buckets (most insurers run an investment arm) and would turn a private family
+# trust into an AMC.
+_BANK_VEHICLE = {
     "managed_funds": "AMC",
     "insurance_float": "Insurance",
     "pension_assets": "Pension Fund",
@@ -43,12 +48,13 @@ def categorize(*, is_promoter, bloomberg_type, country, entity_type, holding_veh
 
     # Banking groups: the vehicle decides, per the agreed ruling.
     if entity_type == "bank":
-        stem = _VEHICLE_FIRST.get(holding_vehicle)
+        stem = _BANK_VEHICLE.get(holding_vehicle)
         if stem in ("AMC", "Insurance", "Pension Fund"):
             return f"{prefix} {stem}", f"banking group holding via {holding_vehicle}"
         return "Bank", f"banking group holding via {holding_vehicle or 'own book'}"
 
-    stem = _VEHICLE_FIRST.get(holding_vehicle) or _TYPE_FALLBACK.get(entity_type)
+    # Everyone else is classified by what the entity is.
+    stem = _TYPE_FALLBACK.get(entity_type)
     if stem is None:
         return None, f"unmapped entity_type={entity_type!r}"
 

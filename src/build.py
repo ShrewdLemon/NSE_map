@@ -65,7 +65,7 @@ def build(holders_path, registry_path, ticker, out_stem):
                        country=rec["country"], entity_type=rec["entity_type"],
                        holding_vehicle=rec["holding_vehicle"], reason=why,
                        source=rec.get("source") or rec.get("evidence"),
-                       needs_review=rec["confidence"] == "low" or cat is None)
+                       needs_review=rec["confidence"] in ("low", "medium") or cat is None)
             rows.append(row); continue
 
         r = rules.classify(name, normalize(name), btype)

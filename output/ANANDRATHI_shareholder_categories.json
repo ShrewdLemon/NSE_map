@@ -145,11 +145,15 @@
       "Q3/2026": 3365054
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "private_family_trust",
+    "holding_vehicle": "own_balance_sheet",
+    "reason": "private_family_trust treated as a corporate holder",
+    "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
   },
   {
     "holder_name": "Azeez Feroze",
@@ -221,11 +225,15 @@
       "Q3/2026": 1675800
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "operating_company",
+    "holding_vehicle": "operating_company_treasury",
+    "reason": "operating_company treated as a corporate holder",
+    "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
   },
   {
     "holder_name": "Blackrock Inc",
@@ -372,10 +380,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign Pension Fund",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "NO",
+    "entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "reason": "pension_fund holding via pension_assets",
+    "source": "https://www.investing.com/equities/anand-rathi-wealth-ownership"
   },
   {
     "holder_name": "Motilal Oswal Asset Management Co Ltd",
@@ -1220,11 +1232,15 @@
       "Q3/2026": 9800
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "JP",
+    "entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "reason": "banking group holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/Nomura_Holdings"
   },
   {
     "holder_name": "Nationwide Fund Advisors",
@@ -1237,11 +1253,15 @@
       "Q3/2026": 9682
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.federalregister.gov/documents/2018/03/13/2018-05039/nationwide-fund-advisors-and-etf-series-solutions"
   },
   {
     "holder_name": "UTI Asset Management Co Ltd",
@@ -1390,10 +1410,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "IN",
+    "entity_type": "broker",
+    "holding_vehicle": "custody_only",
+    "reason": "broker treated as a corporate holder",
+    "source": "https://inc42.com/buzz/angel-one-amc-gets-sebi-nod-to-start-mutual-fund-business"
   },
   {
     "holder_name": "Canara HSBC Life Insurance Co Ltd",
@@ -1425,11 +1449,15 @@
       "Q3/2026": 4328
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign Insurance",
+    "basis": "web",
+    "confidence": "high",
+    "country": "GB",
+    "entity_type": "insurer",
+    "holding_vehicle": "managed_funds",
+    "reason": "insurer holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/Legal_%26_General"
   },
   {
     "holder_name": "Franklin Templeton Inc",
@@ -1442,11 +1470,15 @@
       "Q3/2026": 3026
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.ipqwery.com/ipowner/en/owner/ip/485181-franklin-resources-inc.html"
   },
   {
     "holder_name": "ALPHAGREP INVESTMENT MGMT INDIA",
@@ -1478,11 +1510,15 @@
       "Q3/2026": 1476
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "exchange_traded_fund_trust",
+    "holding_vehicle": "managed_funds",
+    "reason": "exchange_traded_fund_trust holding via managed_funds",
+    "source": "https://www.flexshares.com/us/en/individual/press"
   },
   {
     "holder_name": "Canadian Imperial Bank of Commerce",
@@ -1496,10 +1532,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "CA",
+    "entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "reason": "banking group holding via managed_funds",
+    "source": "https://www.marketscreener.com/quote/stock/CANADIAN-IMPERIAL-BANK-OF-40530896/company-shareholders"
   },
   {
     "holder_name": "Bandhan Life Insurance Ltd",
@@ -1531,11 +1571,15 @@
       "Q3/2026": 190
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "FR",
+    "entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "reason": "banking group holding via managed_funds",
+    "source": "https://about.amundi.com/article/credit-agricole-sa-has-entered-exclusive-negotiations-societe-generale"
   },
   {
     "holder_name": "Deutsche Bank AG",
@@ -1548,11 +1592,15 @@
       "Q3/2026": 188
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "DE",
+    "entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "reason": "banking group holding via managed_funds",
+    "source": "https://www.reuters.com/world/india/deutsche-banks-dws-buy-40-stake-nippon-life-india-asset-management-2025-11-13"
   },
   {
     "holder_name": "Rathi Suresh",
@@ -1585,10 +1633,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign Insurance",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "US",
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "https://ad-hoc-news.de/boerse/news/ueberblick/prudential-financial-balances-insuran/69743267"
   },
   {
     "holder_name": "FIL Ltd",
@@ -1601,11 +1653,15 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "BM",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/Fidelity_International"
   },
   {
     "holder_name": "Russell Investments Group Ltd",
@@ -1619,10 +1675,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "GB",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://find-and-update.company-information.service.gov.uk/company/12595999"
   },
   {
     "holder_name": "Rathi Amit",
@@ -1749,11 +1809,15 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "reason": "banking group holding via managed_funds",
+    "source": "https://jpmorganchaseco.gcs-web.com/static-files/3d1cfdc0-b391-4c71-a055-cb09f463622e"
   },
   {
     "holder_name": "Sun Life Financial Inc",
@@ -1767,10 +1831,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign Insurance",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "CA",
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "https://en.wikipedia.org/wiki/Sun_Life_Financial"
   },
   {
     "holder_name": "Shriram Asset Management Co Ltd",
@@ -1802,11 +1870,15 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "private_family_trust",
+    "holding_vehicle": "own_balance_sheet",
+    "reason": "private_family_trust treated as a corporate holder",
+    "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
   },
   {
     "holder_name": "SUHAS GUPTA FAMILY TRUST",
@@ -1819,11 +1891,15 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "private_family_trust",
+    "holding_vehicle": "own_balance_sheet",
+    "reason": "private_family_trust treated as a corporate holder",
+    "source": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
   },
   {
     "holder_name": "Munix India Pvt Ltd",
@@ -1836,11 +1912,15 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "operating_company",
+    "holding_vehicle": "operating_company_treasury",
+    "reason": "operating_company treated as a corporate holder",
+    "source": "https://www.tofler.in/munix-india-private-limited/company/U00000PB2003PTC025986"
   },
   {
     "holder_name": "ANANDRATHI HOUSING FIN LTD",
@@ -1853,11 +1933,15 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "operating_company",
+    "holding_vehicle": "operating_company_treasury",
+    "reason": "operating_company treated as a corporate holder",
+    "source": "https://economictimes.indiatimes.com/company/anandrathi-housing-finance-limited/U67100MH2018PLC304174"
   },
   {
     "holder_name": "Wilshire Advisors LLC",
@@ -1870,10 +1954,14 @@
       "Q3/2026": 0
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.wilshire.com"
   }
 ]
