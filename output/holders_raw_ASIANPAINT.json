@@ -3,8 +3,8 @@
   "ticker": "ASIANPAINT",
   "isin": "INE021A01026",
   "as_of": "2026-06-30",
-  "shares_scrr": 95958083847,
-  "denominator_note": "stated 959,197,790 backed by 0 holders, implied 95,958,083,847 by 34; used the implied",
+  "shares_scrr": 959197790.0,
+  "denominator_note": "stated denominator agrees with 35 of 78 holders to 0.147%",
   "quarter_labels": [
     "Jun/2026"
   ],
@@ -1096,7 +1096,7 @@
   ],
   "notes": "Q1 FY27 SHP filed 18-Jul-2026. pr_and_prgrp=52.63%, public=47.29%. SCRR-denominator (A+B+C2)=959,197,790 equity shares. 115 promoter named entries (60 Individuals/HUF + 55 Bodies Corporate). Per filing note: PG accounts clubbed to 82 by first name + PAN; PG entities holding NIL shares ARE included (e.g., Amisha Vakil, Late Abhay Arvind Vakil, Nehal Abhay Vakil, Bhairavi Abhay Vakil etc.). Employee Trusts reported at 0.09% (~1.1L shares) \u2014 this is C2 EBT holding, NOT a public holder and not separately listed. Public named: Life Insurance Corporation of India 8.11%, HDFC MF - through various schemes 4.31%, Nippon India MF - through various schemes 2.50% (~rest minor), plus 2 NRI individuals (Malav A Dani, Ina Ashwin Dani) totalling 0.53%.",
   "corrections": [],
-  "promoter_reconciliation": "unreconciled",
-  "promoter_drift": -0.9901058193146874,
+  "promoter_reconciliation": "close",
+  "promoter_drift": -0.010186814756324651,
   "promoter_pct_filed": 52.63
 }

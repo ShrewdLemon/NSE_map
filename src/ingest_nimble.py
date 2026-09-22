@@ -220,6 +220,36 @@ def normalise(rec, sector=None):
     if promoters and not pct:
         warn.append(f"{ticker}: promoter names returned but no promoter_pct")
 
+    # The same fraction/percent confusion reaches individual holders: Adani
+    # Enterprises' holder percentages implied a base of 130 billion shares for
+    # a company with about 1.3 billion. The promoter block gives an anchor -
+    # its members' shares over its own percentage - and any holder whose
+    # implied base is a hundred times that is rescaled to match.
+    anchor = None
+    if pct and promoters:
+        filed = sum((p.get("shares_filed") or 0) for p in promoters)
+        if filed:
+            anchor = filed / (pct / 100)
+    if anchor:
+        rescaled = 0
+        for h in promoters:
+            if not (h.get("shares_filed") and h.get("pct")):
+                continue
+            implied = h["shares_filed"] / (h["pct"] / 100)
+            if abs(implied - 100 * anchor) / (100 * anchor) < 0.05:
+                h["pct"] *= 100
+                rescaled += 1
+        for h in publics:
+            if not (h.get("shares") and h.get("pct")):
+                continue
+            implied = h["shares"] / (h["pct"] / 100)
+            if abs(implied - 100 * anchor) / (100 * anchor) < 0.05:
+                h["pct"] *= 100
+                rescaled += 1
+        if rescaled:
+            warn.append(f"{ticker}: {rescaled} holder percentage(s) read as "
+                        f"fractions; rescaled against the promoter block")
+
     reg = {
         "ticker": ticker,
         "company": rec.get("company_name") or ticker,

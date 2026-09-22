@@ -17,13 +17,13 @@
     {
       "filed_name": "BAJAJ FINSERV LIMITED",
       "shares_filed": 3193661300.0,
-      "pct": 0.513,
+      "pct": 51.300000000000004,
       "holder_class": "Bodies Corporate"
     },
     {
       "filed_name": "MAHARASHTRA SCOOTERS LIMITED",
       "shares_filed": 190261600.0,
-      "pct": 0.0306,
+      "pct": 3.06,
       "holder_class": "Bodies Corporate"
     },
     {
@@ -35,13 +35,13 @@
     {
       "filed_name": "BAJAJ SEVASHRAM PRIVATE LIMITED",
       "shares_filed": 3085000.0,
-      "pct": 0.0005,
+      "pct": 0.05,
       "holder_class": "Bodies Corporate"
     },
     {
       "filed_name": "BAJAJ LIFE INSURANCE LIMITED",
       "shares_filed": 2470000.0,
-      "pct": 0.0004,
+      "pct": 0.04,
       "holder_class": "Bodies Corporate"
     },
     {
@@ -59,7 +59,7 @@
     {
       "filed_name": "JAMNALAL SONS PRIVATE LIMITED",
       "shares_filed": 1276400.0,
-      "pct": 0.0002,
+      "pct": 0.02,
       "holder_class": "Bodies Corporate"
     },
     {
@@ -83,19 +83,19 @@
     {
       "filed_name": "SHEFALI BAJAJ",
       "shares_filed": 631040.0,
-      "pct": 0.0001,
+      "pct": 0.01,
       "holder_class": "Individuals/HUF"
     },
     {
       "filed_name": "Nimisha Bajaj Family Trust (Kumud Bajaj)",
       "shares_filed": 610000.0,
-      "pct": 0.0001,
+      "pct": 0.01,
       "holder_class": "Bodies Corporate"
     },
     {
       "filed_name": "Neelima Bajaj Family Trust (Kumud Bajaj)",
       "shares_filed": 610000.0,
-      "pct": 0.0001,
+      "pct": 0.01,
       "holder_class": "Bodies Corporate"
     },
     {
@@ -667,37 +667,37 @@
     {
       "holder_name": "Life Insurance Corporation of India",
       "shares": 186656472.0,
-      "pct": 0.03,
+      "pct": 3.0,
       "holder_class": "Insurance Company"
     },
     {
       "holder_name": "SBI Mutual Fund",
       "shares": 160529667.0,
-      "pct": 0.0258,
+      "pct": 2.58,
       "holder_class": "Mutual Fund"
     },
     {
       "holder_name": "NPS Trust",
       "shares": 101157444.0,
-      "pct": 0.0162,
+      "pct": 1.6199999999999999,
       "holder_class": "Pension/Provident Fund"
     },
     {
       "holder_name": "GOVERNMENT OF SINGAPORE",
       "shares": 84389412.0,
-      "pct": 0.0136,
+      "pct": 1.3599999999999999,
       "holder_class": "Sovereign Wealth Fund"
     },
     {
       "holder_name": "UTI Mutual Fund",
       "shares": 68420514.0,
-      "pct": 0.011,
+      "pct": 1.0999999999999999,
       "holder_class": "Mutual Fund"
     },
     {
       "holder_name": "Nippon India Mutual Fund",
       "shares": 66621983.0,
-      "pct": 0.0107,
+      "pct": 1.0699999999999998,
       "holder_class": "Mutual Fund"
     },
     {
@@ -712,5 +712,6 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJFINANCE"
   ],
   "notes": "Q1 FY27 SHP filed 18-Jul-2026. pr_and_prgrp=54.67%, public=45.24%. SCRR-denominator (A+B+C2)=6,225,954,304 equity shares. Per remarks: 5 Bajaj Group subsidiaries renamed (Bajaj Finserv Asset Mgmt -> Bajaj Asset Mgmt Ltd; Bajaj Finserv Mutual Fund Trustee -> Bajaj Mutual Fund Trustee; Bajaj Allianz Financial Distributors -> Bajaj Financial Distributors; Bajaj Allianz General Insurance -> Bajaj General Insurance; Bajaj Allianz Life Insurance -> Bajaj Life Insurance) \u2014 name-change footnotes only, no impact on holdings. 108 promoter named entries (Bajaj group body corporates majority of stake, 27 promoter Individuals/HUF; Bajaj family trust + Anant Kumar Baid etc.). Employee Trust holding 0.08% (~1.0L shares) \u2014 filed in C2 (not Table III). Public named: SBI MUTUAL FUND - through various schemes 4.75%, LIFE INSURANCE CORPORATION OF INDIA 3.00%, NPS TRUST - through its various schemes 1.62%, GOVERNMENT OF SINGAPORE (Sovereign Wealth Fund) 1.36%, GOVERNMENT PENSION FUND GLOBAL FPI Cat I 1.36%, HDFC MF - through its various schemes, ICICI Pru MF - through its various schemes, Axis MF - through its various schemes, NPS Trust (FPIS) + minor. Note: pr_and_prgrp reported by NSE summary = 54.67%.",
-  "ingested_on": "2026-09-22"
+  "ingested_on": "2026-09-22",
+  "scale_note": "8 percentage(s) read as fractions; rescaled against the promoter block"
 }

@@ -17,67 +17,67 @@
     {
       "filed_name": "Gautambhai Shantilal Adani and Rajeshbhai Shantilal Adani (on behalf of S.B. Adani Family Trust)",
       "shares_filed": 642133511.0,
-      "pct": 0.4933,
+      "pct": 49.33,
       "holder_class": "Bodies Corporate"
     },
     {
       "filed_name": "Adani Tradeline Private Limited",
       "shares_filed": 120351663.0,
-      "pct": 0.0925,
+      "pct": 9.25,
       "holder_class": "Bodies Corporate"
     },
     {
       "filed_name": "Kempas Trade And Investment Ltd",
       "shares_filed": 41467216.0,
-      "pct": 0.0319,
+      "pct": 3.19,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Flourishing Trade And Investment Ltd",
       "shares_filed": 38010224.0,
-      "pct": 0.0292,
+      "pct": 2.92,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Afro Asia Trade And Investments Limited",
       "shares_filed": 33879664.0,
-      "pct": 0.026,
+      "pct": 2.6,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Worldwide Emerging Market Holding Limited",
       "shares_filed": 33879664.0,
-      "pct": 0.026,
+      "pct": 2.6,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Infinite Trade And Investment Ltd",
       "shares_filed": 27219584.0,
-      "pct": 0.0209,
+      "pct": 2.09,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Emerging Market Investment Dmcc",
       "shares_filed": 21498400.0,
-      "pct": 0.0165,
+      "pct": 1.6500000000000001,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Adani Infra (India) Limited",
       "shares_filed": 9000000.0,
-      "pct": 0.0069,
+      "pct": 0.69,
       "holder_class": "Bodies Corporate"
     },
     {
       "filed_name": "Spitze Trade And Investment Limited",
       "shares_filed": 4464320.0,
-      "pct": 0.0034,
+      "pct": 0.33999999999999997,
       "holder_class": "Foreign Body"
     },
     {
       "filed_name": "Hibiscus Trade And Investment Ltd",
       "shares_filed": 2240000.0,
-      "pct": 0.0017,
+      "pct": 0.16999999999999998,
       "holder_class": "Foreign Body"
     },
     {
@@ -145,31 +145,31 @@
     {
       "holder_name": "Life Insurance Corporation Of India",
       "shares": 45510920.0,
-      "pct": 0.035,
+      "pct": 3.5000000000000004,
       "holder_class": "Insurance Company"
     },
     {
       "holder_name": "Green Enterprises Investment Holding Rsc Limited",
       "shares": 40191038.0,
-      "pct": 0.0309,
+      "pct": 3.09,
       "holder_class": "Foreign Company"
     },
     {
       "holder_name": "Sbi Equity Hybrid Fund",
       "shares": 30799049.0,
-      "pct": 0.0237,
+      "pct": 2.37,
       "holder_class": "Mutual Fund"
     },
     {
       "holder_name": "Goldman Sachs Trust Ii - Goldman Sachs Gqg Partners International Opportunities Fund",
       "shares": 26765500.0,
-      "pct": 0.0206,
+      "pct": 2.06,
       "holder_class": "FPI Cat I"
     },
     {
       "holder_name": "Quant Mutual Fund - Quant Small Cap Fund",
       "shares": 15784577.0,
-      "pct": 0.0121,
+      "pct": 1.21,
       "holder_class": "Mutual Fund"
     }
   ],
@@ -179,5 +179,6 @@
   ],
   "notes": "Q1 FY27 SHP filed 10-Jul-2026. pr_and_prgrp=74.84%, public=25.16%. SCRR-denominator (A+B+C2)=1,301,693,464 equity shares (FullyPaid=1,300,920,098 + PartlyPaid=773,366). No DR/GDR issued. The 6 promoter individuals Gautambhai/Rajeshbhai/Pranav/Karan/Sagar/Jeet Adani hold 42 shares in aggregate (1 or 10 each \u2014 formal promoter-individual representation), with bulk of promoter holding concentrated in the S.B. Adani Family Trust (49.33%) and 9 Foreign Promoter Bodies (cumulative 15.57%); one nil-holder 'Gautam S. Adani Family Trust' included. Public named holders total ~12.18% (LIC+GQG+Quant+Green Enterprises+SBI Equity Hybrid). Partly-paid 773,366 shares all classed to Public. PAN/holder details are masked '******' in filing for promoter rows. Note from XBRL on nationality of Vinodbhai Shantilal Adani.",
   "ingested_on": "2026-09-22",
-  "promoter_pct_source": "NSE corporate-share-holdings-master API; the extracted value was 0.7484, which the exchange contradicts"
+  "promoter_pct_source": "NSE corporate-share-holdings-master API; the extracted value was 0.7484, which the exchange contradicts",
+  "scale_note": "11 percentage(s) read as fractions; rescaled against the promoter block"
 }

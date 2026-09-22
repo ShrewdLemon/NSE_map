@@ -412,9 +412,9 @@
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690795_10072026081131_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIENT"
       ],
-      "promoter_pct": 0.7484,
-      "reconciliation": "reconciled",
-      "drift": 2.802894359098344e-05
+      "promoter_pct": 71.97,
+      "reconciliation": "unreconciled",
+      "drift": -0.9896009312649523
     }
   },
   {
@@ -822,9 +822,9 @@
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690812_10072026084030_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIPORTS"
       ],
-      "promoter_pct": 0.6603,
-      "reconciliation": "reconciled",
-      "drift": -0.00030602169184521183
+      "promoter_pct": 66.03,
+      "reconciliation": "unreconciled",
+      "drift": -0.9900030602169184
     }
   },
   {
@@ -3222,9 +3222,9 @@
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696081_18072026032420_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ASIANPAINT"
       ],
-      "promoter_pct": 0.5263,
-      "reconciliation": "close",
-      "drift": -0.010581931468740542
+      "promoter_pct": 52.63,
+      "reconciliation": "unreconciled",
+      "drift": -0.9901058193146874
     }
   },
   {
@@ -3743,9 +3743,9 @@
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=AXISBANK"
       ],
-      "promoter_pct": 0.0787,
-      "reconciliation": "reconciled",
-      "drift": 0.000716658084640236
+      "promoter_pct": 7.870000000000001,
+      "reconciliation": "unreconciled",
+      "drift": -0.9899928334191536
     }
   },
   {
@@ -5239,9 +5239,9 @@
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696379_20072026090038_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJAJ-AUTO"
       ],
-      "promoter_pct": 0.5501,
-      "reconciliation": "close",
-      "drift": 0.015413872442331302
+      "promoter_pct": 55.010000000000005,
+      "reconciliation": "unreconciled",
+      "drift": -0.9898458612755767
     }
   },
   {
@@ -6993,9 +6993,9 @@
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696255_18072026055655_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJFINANCE"
       ],
-      "promoter_pct": 0.5467,
-      "reconciliation": "reconciled",
-      "drift": 0.0006922456129088742
+      "promoter_pct": 54.669999999999995,
+      "reconciliation": "unreconciled",
+      "drift": -0.9899930775438709
     }
   },
   {
@@ -11724,6 +11724,784 @@
       "promoter_pct": 60.88,
       "reconciliation": "reconciled",
       "drift": 0.0007121535190129781
+    }
+  },
+  {
+    "ticker": "HDFCBANK",
+    "company": "HDFC Bank Limited",
+    "sector": "Financial Services",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [
+      {
+        "holder_name": "SBI Nifty 50 ETF",
+        "quarters": {
+          "Jun/2026": 998537680
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "ICICI Prudential Large Cap Fund",
+        "quarters": {
+          "Jun/2026": 645891709
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Life Insurance Corporation of India",
+        "quarters": {
+          "Jun/2026": 637348790
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "NPS Trust- A/C HDFC Pension Fund Management Limited Scheme E - Tier I",
+        "quarters": {
+          "Jun/2026": 402675981
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "HDFC Trustee Co Ltd A/C HDFC Flexi Cap Fund",
+        "quarters": {
+          "Jun/2026": 407353907
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India ETF Nifty 50 BeES",
+        "quarters": {
+          "Jun/2026": 390887886
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "UTI Nifty 50 ETF",
+        "quarters": {
+          "Jun/2026": 328343588
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Government of Singapore",
+        "quarters": {
+          "Jun/2026": 290093188
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Foreign Government",
+        "basis": "web",
+        "confidence": "high",
+        "country": "SG",
+        "entity_type": "sovereign_wealth_fund",
+        "holding_vehicle": "sovereign_assets",
+        "reason": "sovereign/state capital",
+        "source": "https://ifswf.org/member-profiles/government-singapore-investment-corporation"
+      },
+      {
+        "holder_name": "Government Pension Fund Global",
+        "quarters": {
+          "Jun/2026": 179316154
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Foreign Government",
+        "basis": "web",
+        "confidence": "high",
+        "country": "NO",
+        "entity_type": "sovereign_wealth_fund",
+        "holding_vehicle": "sovereign_assets",
+        "reason": "sovereign/state capital",
+        "source": "https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway"
+      },
+      {
+        "holder_name": "Vanguard Total International Stock Index Fund",
+        "quarters": {
+          "Jun/2026": 167330626
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Foreign AMC",
+        "basis": "web",
+        "confidence": "high",
+        "country": "US",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "https://sec.gov/Archives/edgar/data/736054/000168386322001087/f11043d1.htm"
+      },
+      {
+        "holder_name": "Vanguard Emerging Markets Stock Index Fund",
+        "quarters": {
+          "Jun/2026": 158405284
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": "Foreign AMC",
+        "basis": "rule:foreign-fund-house",
+        "confidence": "medium",
+        "country": null,
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Parag Parikh Flexi Cap Fund",
+        "quarters": {
+          "Jun/2026": 159181542
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Kotak Flexicap Fund",
+        "quarters": {
+          "Jun/2026": 156637542
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Mirae Asset Large Cap Fund",
+        "quarters": {
+          "Jun/2026": 154630723
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      }
+    ],
+    "meta": {
+      "isin": "INE040A01034",
+      "as_of": "2026-06-30",
+      "shares_scrr": 13349933102.0,
+      "denominator_note": "stated denominator agrees with 14 of 14 holders to 0.044%",
+      "source_urls": [
+        "https://trendlyne.com/equity/share-holding/533/HDFCBANK/latest/hdfc-bank-ltd/"
+      ],
+      "promoter_pct": 0.0,
+      "reconciliation": "unchecked",
+      "drift": null
+    }
+  },
+  {
+    "ticker": "HDFCLIFE",
+    "company": "HDFC Life Insurance Company Limited",
+    "sector": "Financial Services",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [
+      {
+        "holder_name": "HDFC Bank Limited",
+        "quarters": {
+          "Jun/2026": 1097866178
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "HDFC Bank Limited"
+      },
+      {
+        "holder_name": "ICICI Prudential Mutual Fund",
+        "quarters": {
+          "Jun/2026": 97313586
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "SBI Mutual Fund",
+        "quarters": {
+          "Jun/2026": 91909908
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Exide Industries Limited",
+        "quarters": {
+          "Jun/2026": 87022222
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "Camas Investments Pte. Ltd",
+        "quarters": {
+          "Jun/2026": 36559723
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": "Foreign corporate",
+        "basis": "rule:foreign-legal-form",
+        "confidence": "medium",
+        "country": null,
+        "entity_type": "operating_company",
+        "holding_vehicle": "operating_company_treasury",
+        "reason": "operating_company treated as a corporate holder",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Nippon Life India Mutual Fund",
+        "quarters": {
+          "Jun/2026": 29678078
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "NPS Trust - A/C SBI Pension Fund",
+        "quarters": {
+          "Jun/2026": 25712136
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Government Pension Fund Global",
+        "quarters": {
+          "Jun/2026": 24822717
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Foreign Government",
+        "basis": "web",
+        "confidence": "high",
+        "country": "NO",
+        "entity_type": "sovereign_wealth_fund",
+        "holding_vehicle": "sovereign_assets",
+        "reason": "sovereign/state capital",
+        "source": "https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway"
+      },
+      {
+        "holder_name": "Quant Mutual Fund",
+        "quarters": {
+          "Jun/2026": 23056328
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      }
+    ],
+    "meta": {
+      "isin": "INE795G01014",
+      "as_of": "2026-06-30",
+      "shares_scrr": 2172474981.0,
+      "denominator_note": "stated denominator agrees with 9 of 9 holders to 0.015%",
+      "source_urls": [
+        "https://trendlyne.com/equity/share-holding/65394/HDFCLIFE/latest/",
+        "https://www.bseindia.com/xml-data/corpfiling/attachLive/...-7ef6d1e5.pdf"
+      ],
+      "promoter_pct": 50.54,
+      "reconciliation": "reconciled",
+      "drift": -9.35157649464831e-05
+    }
+  },
+  {
+    "ticker": "HINDALCO",
+    "company": "Hindalco Industries Limited",
+    "sector": "Metals & Mining",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [
+      {
+        "holder_name": "IGH Holdings Private Limited",
+        "quarters": {
+          "Jun/2026": 350088487
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "IGH Holdings Private Limited"
+      },
+      {
+        "holder_name": "Birla Group Holdings Private Limited",
+        "quarters": {
+          "Jun/2026": 255622668
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Birla Group Holdings Private Limited"
+      },
+      {
+        "holder_name": "Grasim Industries Limited",
+        "quarters": {
+          "Jun/2026": 88048812
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Grasim Industries Limited"
+      },
+      {
+        "holder_name": "Pilani Investment and Industries Corporation Limited",
+        "quarters": {
+          "Jun/2026": 29857969
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Pilani Investment and Industries Corporation Limited"
+      },
+      {
+        "holder_name": "BITS Investments Limited",
+        "quarters": {
+          "Jun/2026": 21583090
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "BITS Investments Limited"
+      },
+      {
+        "holder_name": "Trustee HIL/IGCL/IGFL Merger Trust",
+        "quarters": {
+          "Jun/2026": 16316130
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Trustee HIL/IGCL/IGFL Merger Trust"
+      },
+      {
+        "holder_name": "PT Indo Bharat Rayon",
+        "quarters": {
+          "Jun/2026": 9633890
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "PT Indo Bharat Rayon"
+      },
+      {
+        "holder_name": "PT Sunrise Bumi Textiles",
+        "quarters": {
+          "Jun/2026": 3004167
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "PT Sunrise Bumi Textiles"
+      },
+      {
+        "holder_name": "PT Elegant Textile Industry",
+        "quarters": {
+          "Jun/2026": 1902752
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "PT Elegant Textile Industry"
+      },
+      {
+        "holder_name": "Kumar Mangalam Birla",
+        "quarters": {
+          "Jun/2026": 1341635
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Kumar Mangalam Birla"
+      },
+      {
+        "holder_name": "Aditya Vikram Kumarmangalam Birla HUF",
+        "quarters": {
+          "Jun/2026": 648632
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Aditya Vikram Kumarmangalam Birla HUF"
+      },
+      {
+        "holder_name": "Rajashree Birla",
+        "quarters": {
+          "Jun/2026": 612470
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Rajashree Birla"
+      },
+      {
+        "holder_name": "Vasavadatta Bajaj",
+        "quarters": {
+          "Jun/2026": 121319
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Vasavadatta Bajaj"
+      },
+      {
+        "holder_name": "Neerja Birla",
+        "quarters": {
+          "Jun/2026": 114640
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Neerja Birla"
+      },
+      {
+        "holder_name": "Global Holdings Trading FZE",
+        "quarters": {
+          "Jun/2026": 6336
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Global Holdings Trading FZE"
+      },
+      {
+        "holder_name": "Surya Kiran Investments Pte Ltd",
+        "quarters": {
+          "Jun/2026": 1500
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Surya Kiran Investments Pte Ltd"
+      },
+      {
+        "holder_name": "Life Insurance Corporation of India",
+        "quarters": {
+          "Jun/2026": 103152710
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Morgan Guaranty Trust Company of New York (GDR depositary)",
+        "quarters": {
+          "Jun/2026": 93880883
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "Government of Singapore",
+        "quarters": {
+          "Jun/2026": 59446613
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Foreign Government",
+        "basis": "web",
+        "confidence": "high",
+        "country": "SG",
+        "entity_type": "sovereign_wealth_fund",
+        "holding_vehicle": "sovereign_assets",
+        "reason": "sovereign/state capital",
+        "source": "https://ifswf.org/member-profiles/government-singapore-investment-corporation"
+      },
+      {
+        "holder_name": "NPS Trust - A/C SBI Pension Fund State Government Scheme",
+        "quarters": {
+          "Jun/2026": 56668740
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "SBI Nifty 50 ETF",
+        "quarters": {
+          "Jun/2026": 51397571
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "ICICI Prudential Large & Mid Cap Fund",
+        "quarters": {
+          "Jun/2026": 30353511
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Aditya Birla Sun Life Trustee Pvt. Ltd. - A/C Aditya Birla Sun Life Equity Advantage Fund",
+        "quarters": {
+          "Jun/2026": 25024473
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-trustee",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      }
+    ],
+    "meta": {
+      "isin": "INE038A01020",
+      "as_of": "2026-06-30",
+      "shares_scrr": 2247579284.0,
+      "denominator_note": "stated denominator agrees with 13 of 21 holders to 0.072%",
+      "source_urls": [
+        "https://trendlyne.com/equity/share-holding/549/HINDALCO/latest/"
+      ],
+      "promoter_pct": 34.66,
+      "reconciliation": "reconciled",
+      "drift": -0.00013668977351586806
     }
   },
   {
@@ -18900,6 +19678,816 @@
       "promoter_pct": 25.0,
       "reconciliation": "reconciled",
       "drift": -0.0021782697826078228
+    }
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "company": "Sun Pharmaceutical Industries Limited",
+    "sector": "Healthcare",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [
+      {
+        "holder_name": "Dilip.S.Shanghvi",
+        "quarters": {
+          "Jun/2026": 230385155
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Dilip.S.Shanghvi"
+      },
+      {
+        "holder_name": "Sudhir vrundavandas valia",
+        "quarters": {
+          "Jun/2026": 14345019
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Sudhir vrundavandas valia"
+      },
+      {
+        "holder_name": "Vibha dilip shanghvi",
+        "quarters": {
+          "Jun/2026": 8840280
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Vibha dilip shanghvi"
+      },
+      {
+        "holder_name": "Aalok dilip shanghvi",
+        "quarters": {
+          "Jun/2026": 2877280
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Aalok dilip shanghvi"
+      },
+      {
+        "holder_name": "Vidhi dilip shanghvi",
+        "quarters": {
+          "Jun/2026": 2822427
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Vidhi dilip shanghvi"
+      },
+      {
+        "holder_name": "Kumud shantilal shanghvi",
+        "quarters": {
+          "Jun/2026": 85000
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Kumud shantilal shanghvi"
+      },
+      {
+        "holder_name": "Shanghvi Family & Friends Benefit Trust",
+        "quarters": {
+          "Jun/2026": 1276774
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Shanghvi Family & Friends Benefit Trust"
+      },
+      {
+        "holder_name": "Raksha Sudhir Valia",
+        "quarters": {
+          "Jun/2026": 28830352
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Raksha Sudhir Valia"
+      },
+      {
+        "holder_name": "Unimed Investments Limited",
+        "quarters": {
+          "Jun/2026": 10400850
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Unimed Investments Limited"
+      },
+      {
+        "holder_name": "Shanghvi Finance Private Limited",
+        "quarters": {
+          "Jun/2026": 967051732
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Shanghvi Finance Private Limited"
+      },
+      {
+        "holder_name": "Aditya Medisales Limited",
+        "quarters": {
+          "Jun/2026": 40153960
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Aditya Medisales Limited"
+      },
+      {
+        "holder_name": "Flamboyawer Finance Private Limited",
+        "quarters": {
+          "Jun/2026": 20865
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Flamboyawer Finance Private Limited"
+      },
+      {
+        "holder_name": "Shanghvi Universal Private Limited (formerly known as Sanghvi Properties Private Limited)",
+        "quarters": {
+          "Jun/2026": 15479
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Shanghvi Universal Private Limited (formerly known as Sanghvi Properties Private Limited)"
+      },
+      {
+        "holder_name": "Sun Petro Private Limited (formerly known as Gujarat Sun Pharmaceutical Industries Private Limited)",
+        "quarters": {
+          "Jun/2026": 14362
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Sun Petro Private Limited (formerly known as Gujarat Sun Pharmaceutical Industries Private Limited)"
+      },
+      {
+        "holder_name": "Icici Prudential Value Discovery Fund",
+        "quarters": {
+          "Jun/2026": 89198583
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Sbi Nifty 50 Etf",
+        "quarters": {
+          "Jun/2026": 56689578
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+        "quarters": {
+          "Jun/2026": 33125559
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Government Pension Fund Global",
+        "quarters": {
+          "Jun/2026": 24668240
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Foreign Government",
+        "basis": "web",
+        "confidence": "high",
+        "country": "NO",
+        "entity_type": "sovereign_wealth_fund",
+        "holding_vehicle": "sovereign_assets",
+        "reason": "sovereign/state capital",
+        "source": "https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway"
+      },
+      {
+        "holder_name": "Life Insurance Corporation of India",
+        "quarters": {
+          "Jun/2026": 132770818
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "NPS Trust- A/C HDFC Pension Fund Management Limited Scheme E - Tier I",
+        "quarters": {
+          "Jun/2026": 45178710
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Lakshdeep Investments & Finance (P) Ltd",
+        "quarters": {
+          "Jun/2026": 24418497
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      }
+    ],
+    "meta": {
+      "isin": "INE044A01036",
+      "as_of": "2026-06-30",
+      "shares_scrr": 2399334970.0,
+      "denominator_note": "stated denominator agrees with 14 of 17 holders to 0.021%",
+      "source_urls": [
+        "https://trendlyne.com/equity/share-holding/1316/SUNPHARMA/latest/sun-pharmaceutical-industries-ltd",
+        "https://sunpharma.com/wp-content/uploads/2025/07/Share-Holding-Pattern_30-June-2025.pdf",
+        "https://sunpharma.com/wp-content/uploads/2024/07/SPIL-AR2023-24-Annual-Return.pdf"
+      ],
+      "promoter_pct": 54.48,
+      "reconciliation": "reconciled",
+      "drift": -2.919055309352872e-05
+    }
+  },
+  {
+    "ticker": "TATACONSUM",
+    "company": "Tata Consumer Products Limited",
+    "sector": "FMCG",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [
+      {
+        "holder_name": "Tata Sons Private Limited",
+        "quarters": {
+          "Jun/2026": 283854264
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Sons Private Limited"
+      },
+      {
+        "holder_name": "Tata Investment Corporation Limited",
+        "quarters": {
+          "Jun/2026": 45975807
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Investment Corporation Limited"
+      },
+      {
+        "holder_name": "Ewart Investments Limited",
+        "quarters": {
+          "Jun/2026": 3876950
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Ewart Investments Limited"
+      },
+      {
+        "holder_name": "Tata Industries Limited",
+        "quarters": {
+          "Jun/2026": 851161
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Industries Limited"
+      },
+      {
+        "holder_name": "Voltas Limited",
+        "quarters": {
+          "Jun/2026": 237289
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Voltas Limited"
+      },
+      {
+        "holder_name": "Tata Capital Limited",
+        "quarters": {
+          "Jun/2026": 11468
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Capital Limited"
+      },
+      {
+        "holder_name": "Tata Securities Limited",
+        "quarters": {
+          "Jun/2026": 2
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Securities Limited"
+      },
+      {
+        "holder_name": "Titan Company Limited",
+        "quarters": {
+          "Jun/2026": 6893
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Titan Company Limited"
+      },
+      {
+        "holder_name": "Sbi-Nifty 50 Etf",
+        "quarters": {
+          "Jun/2026": 16692239
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+        "quarters": {
+          "Jun/2026": 15913283
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Life Insurance Corporation of India",
+        "quarters": {
+          "Jun/2026": 81469499
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Sbi Life Insurance Co. Ltd",
+        "quarters": {
+          "Jun/2026": 14121220
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "NPS Trust A/C UTI Pension Fund Limited - Scheme State Govt",
+        "quarters": {
+          "Jun/2026": 23896426
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      }
+    ],
+    "meta": {
+      "isin": "INE192A01025",
+      "as_of": "2026-06-30",
+      "shares_scrr": 989645268.0,
+      "denominator_note": "stated denominator agrees with 8 of 10 holders to 0.008%",
+      "source_urls": [
+        "https://trendlyne.com/equity/share-holding/1359/TATACONSUM/latest/tata-consumer-products-ltd",
+        "https://www.tataconsumer.com/shareholding-pattern-q1-2026-27",
+        "https://www.tataconsumer.com/shareholding-pattern-q1-2024-25",
+        "https://bseindia.com/xml-data/corpfiling/AttachLive/087ca5bf-e93e-4121-b4ba-0b4bd183a1cd.pdf"
+      ],
+      "promoter_pct": 33.83,
+      "reconciliation": "reconciled",
+      "drift": 5.0298646324612474e-05
+    }
+  },
+  {
+    "ticker": "TATASTEEL",
+    "company": "Tata Steel Limited",
+    "sector": "Metals & Mining",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [
+      {
+        "holder_name": "Tata Sons Private Limited",
+        "quarters": {
+          "Jun/2026": 3965081420
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Sons Private Limited"
+      },
+      {
+        "holder_name": "Tata Motors Passenger Vehicles Limited (formerly known as Tata Motors Limited)",
+        "quarters": {
+          "Jun/2026": 54962950
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Motors Passenger Vehicles Limited (formerly known as Tata Motors Limited)"
+      },
+      {
+        "holder_name": "Tata Investment Corporation Limited",
+        "quarters": {
+          "Jun/2026": 41984940
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Investment Corporation Limited"
+      },
+      {
+        "holder_name": "Ewart Investments Limited",
+        "quarters": {
+          "Jun/2026": 22259750
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Ewart Investments Limited"
+      },
+      {
+        "holder_name": "Rujuvalika Investments Limited",
+        "quarters": {
+          "Jun/2026": 11683930
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Rujuvalika Investments Limited"
+      },
+      {
+        "holder_name": "Tata Industries Limited",
+        "quarters": {
+          "Jun/2026": 10425450
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Industries Limited"
+      },
+      {
+        "holder_name": "Tata Capital Limited",
+        "quarters": {
+          "Jun/2026": 6270720
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Tata Capital Limited"
+      },
+      {
+        "holder_name": "Titan Company Limited",
+        "quarters": {
+          "Jun/2026": 25110
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Promoter",
+        "basis": "filing (token+numeric)",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "in filed promoter & promoter group",
+        "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+        "filed_as": "Titan Company Limited"
+      },
+      {
+        "holder_name": "Sbi Nifty 50 Etf",
+        "quarters": {
+          "Jun/2026": 496291004
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Icici Prudential Value Fund",
+        "quarters": {
+          "Jun/2026": 288722018
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Hdfc Trustee Company Limited - HDFC Flexi Cap Fund",
+        "quarters": {
+          "Jun/2026": 265169321
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Uti Nifty 50 Etf",
+        "quarters": {
+          "Jun/2026": 182768861
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:indian-fund-scheme",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "Life Insurance Corporation of India",
+        "quarters": {
+          "Jun/2026": 795486832
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic Insurance",
+        "basis": "rule:insurance+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "insurer",
+        "holding_vehicle": "insurance_float",
+        "reason": "insurer holding via insurance_float",
+        "source": "matched by deterministic name rule"
+      },
+      {
+        "holder_name": "NPS Trust- A/C LIC Pension Fund Scheme - State Govt",
+        "quarters": {
+          "Jun/2026": 236088522
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": false,
+        "category": "Domestic AMC",
+        "basis": "rule:amc+india",
+        "confidence": "high",
+        "country": "IN",
+        "entity_type": "asset_manager",
+        "holding_vehicle": "managed_funds",
+        "reason": "asset_manager holding via managed_funds",
+        "source": "matched by deterministic name rule"
+      }
+    ],
+    "meta": {
+      "isin": "INE081A01020",
+      "as_of": "2026-06-30",
+      "shares_scrr": 12485463449.0,
+      "denominator_note": "stated denominator agrees with 9 of 13 holders to 0.049%",
+      "source_urls": [
+        "https://trendlyne.com/equity/share-holding/1366/TATASTEEL/latest/tata-steel-ltd",
+        "https://www.tatasteel.com/investors/stock-exchange-compliances/shareholding-pattern/",
+        "https://www.tatasteel.com/media/26190/tsl-shp-june-30-2026.pdf",
+        "https://www.tatasteel.com/media/16164/shp-web.pdf",
+        "https://www.tatasteel.com/media/16718/2-post-amalgamation-shareholding-pattern.pdf",
+        "https://bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5abccd24a.pdf"
+      ],
+      "promoter_pct": 32.94,
+      "reconciliation": "reconciled",
+      "drift": -4.228378266455083e-06
     }
   },
   {
