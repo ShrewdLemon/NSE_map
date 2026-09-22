@@ -1,0 +1,1471 @@
+[
+  {
+    "holder_name": "Srichakra Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 1479199658
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Srichakra Commercials LLP"
+  },
+  {
+    "holder_name": "Devarshi Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 1091138920
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Devarshi Commercials LLP; Karuna Commercials LLP; Tattvam Enterprises LLP"
+  },
+  {
+    "holder_name": "Karuna Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 1091138920
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Devarshi Commercials LLP; Karuna Commercials LLP; Tattvam Enterprises LLP"
+  },
+  {
+    "holder_name": "Tattvam Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 1091138920
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Devarshi Commercials LLP; Karuna Commercials LLP; Tattvam Enterprises LLP"
+  },
+  {
+    "holder_name": "Life Insurance Corporation of India",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": 922278344,
+      "Dec/2025": 906331168,
+      "Mar/2026": 903673305,
+      "Jun/2026": 914304756
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Insurance",
+    "basis": "rule:insurance+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Reliance Industries Holding Private Ltd",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 608030142
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Reliance Industries Holding Private Ltd"
+  },
+  {
+    "holder_name": "Reliance Industrial Investments and Holdings Ltd",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 481884012
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Reliance Industrial Investments and Holdings Ltd"
+  },
+  {
+    "holder_name": "Reliance Services and Holdings Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 343765640
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Reliance Services and Holdings Limited"
+  },
+  {
+    "holder_name": "SBI Mutual Fund",
+    "quarters": {
+      "Jun/2025": 331701260,
+      "Sep/2025": 335820947,
+      "Dec/2025": 329707863,
+      "Mar/2026": 332232833,
+      "Jun/2026": 342332711
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Vanguard Group Inc/The",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 295667028
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.wikidata.org/wiki/Q849363"
+  },
+  {
+    "holder_name": "Blackrock Inc",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 255773102
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm"
+  },
+  {
+    "holder_name": "Samarjit Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 249250548
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Samarjit Enterprises LLP"
+  },
+  {
+    "holder_name": "ICICI Prudential Mutual Fund",
+    "quarters": {
+      "Jun/2025": 195485799,
+      "Sep/2025": 222330212,
+      "Dec/2025": 206914608,
+      "Mar/2026": 209705364,
+      "Jun/2026": 235353739
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "NPS Trust",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": 146182446,
+      "Dec/2025": 171432142,
+      "Mar/2026": 188708249,
+      "Jun/2026": 205984356
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic Pension Fund",
+    "basis": "web",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "reason": "pension_fund holding via pension_assets",
+    "source": "https://www.pfrda.org.in/web/pfrda/intermediaries/registered-intermediaries/nps-trust"
+  },
+  {
+    "holder_name": "HDFC Mutual Fund",
+    "quarters": {
+      "Jun/2025": 91430476,
+      "Sep/2025": 96613308,
+      "Dec/2025": 103922430,
+      "Mar/2026": 118407782,
+      "Jun/2026": 130102377
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "UTI Mutual Fund",
+    "quarters": {
+      "Jun/2025": 100068529,
+      "Sep/2025": 103789537,
+      "Dec/2025": 107776331,
+      "Mar/2026": 114553881,
+      "Jun/2026": 120268285
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Nippon India Mutual Fund",
+    "quarters": {
+      "Jun/2025": 102460606,
+      "Sep/2025": 107776331,
+      "Dec/2025": 109503942,
+      "Mar/2026": 113623629,
+      "Jun/2026": 116547278
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Government Pension Fund Global",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 105494998
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": true,
+    "category": "Foreign Pension Fund",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "NO",
+    "entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "reason": "pension_fund holding via pension_assets",
+    "source": "https://www.nbim.no/"
+  },
+  {
+    "holder_name": "Sikka Ports & Terminals Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 70000000
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Sikka Ports & Terminals Limited"
+  },
+  {
+    "holder_name": "Kotak Mahindra Mutual Fund",
+    "quarters": {
+      "Jun/2025": 45848131,
+      "Sep/2025": 52758574,
+      "Dec/2025": 42127123,
+      "Mar/2026": 44386306,
+      "Jun/2026": 52891467
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Mirae Asset Mutual Fund",
+    "quarters": {
+      "Jun/2025": 32691711,
+      "Sep/2025": 33090390,
+      "Dec/2025": 30299634,
+      "Mar/2026": 37741650,
+      "Jun/2026": 48107314
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Aditya Birla Sun Life Mutual Fund",
+    "quarters": {
+      "Jun/2025": 44120520,
+      "Sep/2025": 44120520,
+      "Dec/2025": 45316558,
+      "Mar/2026": 46246810,
+      "Jun/2026": 43987627
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Axis Mutual Fund",
+    "quarters": {
+      "Jun/2025": 36811398,
+      "Sep/2025": 34818001,
+      "Dec/2025": 39070581,
+      "Mar/2026": 36014039,
+      "Jun/2026": 33223283
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "K D Ambani",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 31482644
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "K D Ambani"
+  },
+  {
+    "holder_name": "Shrikrishna Tradecom LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 28675930
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Shreeji Comtrade LLP; Shrikrishna Tradecom LLP"
+  },
+  {
+    "holder_name": "Shreeji Comtrade LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 28675930
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Shreeji Comtrade LLP; Shrikrishna Tradecom LLP"
+  },
+  {
+    "holder_name": "Svar Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 27178734
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Svar Enterprises LLP"
+  },
+  {
+    "holder_name": "Franklin Templeton Mutual Fund",
+    "quarters": {
+      "Jun/2025": 21528688,
+      "Sep/2025": 20465542,
+      "Dec/2025": 20332649,
+      "Mar/2026": 22458939,
+      "Jun/2026": 23123405
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Tata Mutual Fund",
+    "quarters": {
+      "Jun/2025": 21661581,
+      "Sep/2025": 22326046,
+      "Dec/2025": 20598436,
+      "Mar/2026": 19136611,
+      "Jun/2026": 22591833
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Bandhan Mutual Fund",
+    "quarters": {
+      "Jun/2025": 21262901,
+      "Sep/2025": 20731329,
+      "Dec/2025": 20199756,
+      "Mar/2026": 20465542,
+      "Jun/2026": 22193153
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Canara Robeco Mutual Fund",
+    "quarters": {
+      "Jun/2025": 17940573,
+      "Sep/2025": 18605039,
+      "Dec/2025": 18870825,
+      "Mar/2026": 18073466,
+      "Jun/2026": 18737932
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "DSP Mutual Fund",
+    "quarters": {
+      "Jun/2025": 5714405,
+      "Sep/2025": 5980191,
+      "Dec/2025": 6113084,
+      "Mar/2026": 5847298,
+      "Jun/2026": 16611642
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Akash M Ambani",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 16104042
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Akash M Ambani; Anant M Ambani; Isha M Ambani; Nita M Ambani"
+  },
+  {
+    "holder_name": "Anant M Ambani",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 16104042
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Akash M Ambani; Anant M Ambani; Isha M Ambani; Nita M Ambani"
+  },
+  {
+    "holder_name": "Isha M Ambani",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 16104042
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Akash M Ambani; Anant M Ambani; Isha M Ambani; Nita M Ambani"
+  },
+  {
+    "holder_name": "Nita M Ambani",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 16104042
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Akash M Ambani; Anant M Ambani; Isha M Ambani; Nita M Ambani"
+  },
+  {
+    "holder_name": "Mukesh D Ambani",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 16104040
+    },
+    "bloomberg_holder_type": "Individual",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Mukesh D Ambani"
+  },
+  {
+    "holder_name": "Invesco Mutual Fund",
+    "quarters": {
+      "Jun/2025": 3322328,
+      "Sep/2025": 9302519,
+      "Dec/2025": 7973588,
+      "Mar/2026": 6777550,
+      "Jun/2026": 14352458
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Edelweiss Mutual Fund",
+    "quarters": {
+      "Jun/2025": 11960382,
+      "Sep/2025": 13289313,
+      "Dec/2025": 11960382,
+      "Mar/2026": 10099878,
+      "Jun/2026": 11163023
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Reliance Welfare Association",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 10689994
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Reliance Welfare Association"
+  },
+  {
+    "holder_name": "HSBC Mutual Fund",
+    "quarters": {
+      "Jun/2025": 9435412,
+      "Sep/2025": 10232771,
+      "Dec/2025": 10365664,
+      "Mar/2026": 15149817,
+      "Jun/2026": 10631451
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Sundaram Mutual Fund",
+    "quarters": {
+      "Jun/2025": 12491955,
+      "Sep/2025": 12491955,
+      "Dec/2025": 12226168,
+      "Mar/2026": 11960382,
+      "Jun/2026": 10631451
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Baroda BNP Paribas Mutual Fund",
+    "quarters": {
+      "Jun/2025": 7176229,
+      "Sep/2025": 7442015,
+      "Dec/2025": 7043336,
+      "Mar/2026": 7309122,
+      "Jun/2026": 6910443
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "PPFAS Mutual Fund",
+    "quarters": {
+      "Jun/2025": 7442015,
+      "Sep/2025": 7442015,
+      "Dec/2025": 7840695,
+      "Mar/2026": 3455221,
+      "Jun/2026": 5847298
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Domestic AMC",
+    "basis": "rule:amc+india",
+    "confidence": "high",
+    "country": "IN",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
+  },
+  {
+    "holder_name": "Vasuprada Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 2631850
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Vasuprada Enterprises LLP"
+  },
+  {
+    "holder_name": "Exotic Officeinfra Private Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 55348
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Exotic Officeinfra Private Limited"
+  },
+  {
+    "holder_name": "Carat Holdings and Trading Co Pvt Ltd",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 21902
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Carat Holdings and Trading Co Pvt Ltd"
+  },
+  {
+    "holder_name": "Neutron Enterprises Private Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 3698
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Neutron Enterprises Private Limited"
+  },
+  {
+    "holder_name": "Futura Commercials Private Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 3628
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Futura Commercials Private Limited"
+  },
+  {
+    "holder_name": "Shripal Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Vishatan Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Janardan Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Harinarayan Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Chhatrabhuj Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Chakresh Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Chakradhar Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Chakradev Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 432
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Chakradev Enterprises LLP; Chakradhar Commercials LLP; Chakresh Enterprises LLP; Chhatrabhuj Enterprises LLP; Harinarayan Enterprises LLP; Janardan Commercials LLP; Shripal Enterprises LLP; Vishatan Enterprises LLP"
+  },
+  {
+    "holder_name": "Bhuvanesh Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Kankhal Trading LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Pavana Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Pitambar Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Rishikesh Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Taran Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Trilokesh Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Badri Commercials LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Ajitesh Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Adisesh Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Abhayaprada Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 430
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Abhayaprada Enterprises LLP; Adisesh Enterprises LLP; Ajitesh Enterprises LLP; Badri Commercials LLP; Bhuvanesh Enterprises LLP; Kankhal Trading LLP; Pavana Enterprises LLP; Pitambar Enterprises LLP; Rishikesh Enterprises LLP; Taran Enterprises LLP; Trilokesh Commercials LLP"
+  },
+  {
+    "holder_name": "Kamalakar Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 426
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Kamalakar Enterprises LLP; Narahari Enterprises LLP"
+  },
+  {
+    "holder_name": "Narahari Enterprises LLP",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 426
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Kamalakar Enterprises LLP; Narahari Enterprises LLP"
+  },
+  {
+    "holder_name": "Pinakin Commercials Private Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 216
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Elakshi Commercials Private Limited; Pinakin Commercials Private Limited"
+  },
+  {
+    "holder_name": "Elakshi Commercials Private Limited",
+    "quarters": {
+      "Jun/2025": null,
+      "Sep/2025": null,
+      "Dec/2025": null,
+      "Mar/2026": null,
+      "Jun/2026": 216
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token+numeric)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Elakshi Commercials Private Limited; Pinakin Commercials Private Limited"
+  },
+  {
+    "holder_name": "Reliance Life Sciences Private Limited",
+    "quarters": {
+      "Jun/2025": 0,
+      "Sep/2025": 0,
+      "Dec/2025": 0,
+      "Mar/2026": 0,
+      "Jun/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Reliance Life Sciences Private Limited"
+  },
+  {
+    "holder_name": "Jamnagar Utilities and Power Private Limited",
+    "quarters": {
+      "Jun/2025": 0,
+      "Sep/2025": 0,
+      "Dec/2025": 0,
+      "Mar/2026": 0,
+      "Jun/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Jamnagar Utilities and Power Private Limited"
+  },
+  {
+    "holder_name": "Tiruttani Infralog Private Limited",
+    "quarters": {
+      "Jun/2025": 0,
+      "Sep/2025": 0,
+      "Dec/2025": 0,
+      "Mar/2026": 0,
+      "Jun/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Tiruttani Infralog Private Limited"
+  },
+  {
+    "holder_name": "Petroleum Trust through Trustees for sole beneficiary RIIHL",
+    "quarters": {
+      "Jun/2025": 0,
+      "Sep/2025": 0,
+      "Dec/2025": 0,
+      "Mar/2026": 0,
+      "Jun/2026": 0
+    },
+    "bloomberg_holder_type": "Institution",
+    "needs_review": false,
+    "category": "Promoter",
+    "basis": "filing (token)",
+    "confidence": "high",
+    "country": "IN",
+    "reason": "in filed promoter & promoter group",
+    "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+    "filed_as": "Petroleum Trust through Trustees for sole beneficiary RIIHL"
+  }
+]

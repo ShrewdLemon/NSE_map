@@ -97,5 +97,23 @@
     "confidence": "high",
     "evidence": "Bloomberg's own company profile (ticker 1307537D:US) describes WBC Holdings L.P. as providing investment management and broker-dealer services to institutional and individual clients through its subsidiaries, domiciled in the United States, founded 2008-11-21. Corrects an automated result that read the WBC ticker as Westpac and returned AU/bank.",
     "source_url": "https://www.bloomberg.com/profile/company/1307537D:US"
+  },
+  {
+    "holder_name": "NPS Trust",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "confidence": "high",
+    "evidence": "India's National Pension System Trust, established by PFRDA under the Indian Trusts Act 1882 on 27 Feb 2008. It is the registered owner of all assets under the NPS architecture; pension funds purchase securities on its behalf while subscribers remain beneficial owners.",
+    "source_url": "https://www.pfrda.org.in/web/pfrda/intermediaries/registered-intermediaries/nps-trust"
+  },
+  {
+    "holder_name": "Government Pension Fund Global",
+    "country_of_incorporation": "NO",
+    "legal_entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "confidence": "medium",
+    "evidence": "Norway's sovereign fund, managed by Norges Bank Investment Management. Aggregators book Norges Bank's equity holdings under this fund name. Classified consistently with the Norges Bank row; Foreign Government is the alternative if sovereign ownership is the deciding axis.",
+    "source_url": "https://www.nbim.no/"
   }
 ]

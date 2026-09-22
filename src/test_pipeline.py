@@ -82,6 +82,30 @@ check("every decision-table output is a valid category",
                     "operating_company_treasury")),
       True)
 
+# --- RELIANCE: a second company on the same pipeline ---------------------
+rel_holders = json.loads((ROOT / "output" / "holders_raw_RELIANCE.json").read_text())["holders"]
+rel_reg = json.loads((ROOT / "data" / "promoters_RELIANCE.json").read_text())
+rel_prom, rel_issues = match_promoters(rel_holders, rel_reg)
+
+check("bonus factor is per-company, not hard-coded",
+      (json.loads((ROOT / "data" / "promoters_ANANDRATHI.json").read_text())["bonus_factor"],
+       rel_reg["bonus_factor"]), (2, 1))
+check("all 51 filed promoter group members are matched", len(rel_prom), 51)
+check("registry reconciles to its stated total",
+      sum(p["shares_filed"] for p in rel_reg["promoter_group"]),
+      rel_reg["promoter_total_shares_filed"])
+check("no matcher disagreement on holders that actually hold", rel_issues, [])
+for nm in ("Life Insurance Corporation of India", "NPS Trust", "SBI Mutual Fund",
+           "Vanguard Group Inc/The"):
+    check(f"{nm} is not a promoter", nm in rel_prom, False)
+# Percentages are on the SCRR basis, which excludes shares underlying DRs.
+# Using the grand total instead would overstate every converted count.
+import build_reliance_register as brr
+check("percentage denominator excludes depository receipts",
+      brr.SHARES_OUT, 13_289_313_310)
+check("denominator reproduces a published share count within rounding",
+      abs(round(6.88 / 100 * brr.SHARES_OUT) - 915_033_063) / 915_033_063 < 0.001, True)
+
 if FAILURES:
     print(f"FAILED ({len(FAILURES)}):")
     for f in FAILURES:

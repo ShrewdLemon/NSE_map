@@ -1,0 +1,77 @@
+Company name,Share holder name,Share holder category,Jun/2025 No of shares,Sep/2025 No of shares,Dec/2025 No of shares,Mar/2026 No of shares,Jun/2026 No of shares,Basis,Confidence,Country,Entity type,Holding vehicle,Review?,Source
+RELIANCE INDUSTRIES LTD,Srichakra Commercials LLP,Promoter,,,,,1479199658,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Devarshi Commercials LLP,Promoter,,,,,1091138920,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Karuna Commercials LLP,Promoter,,,,,1091138920,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Tattvam Enterprises LLP,Promoter,,,,,1091138920,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Life Insurance Corporation of India,Domestic Insurance,,922278344,906331168,903673305,914304756,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Reliance Industries Holding Private Ltd,Promoter,,,,,608030142,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Reliance Industrial Investments and Holdings Ltd,Promoter,,,,,481884012,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Reliance Services and Holdings Limited,Promoter,,,,,343765640,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,SBI Mutual Fund,Domestic AMC,331701260,335820947,329707863,332232833,342332711,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Vanguard Group Inc/The,Foreign AMC,,,,,295667028,web,high,US,asset_manager,managed_funds,,https://www.wikidata.org/wiki/Q849363
+RELIANCE INDUSTRIES LTD,Blackrock Inc,Foreign AMC,,,,,255773102,web,high,US,asset_manager,managed_funds,,https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm
+RELIANCE INDUSTRIES LTD,Samarjit Enterprises LLP,Promoter,,,,,249250548,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,ICICI Prudential Mutual Fund,Domestic AMC,195485799,222330212,206914608,209705364,235353739,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,NPS Trust,Domestic Pension Fund,,146182446,171432142,188708249,205984356,web,high,IN,pension_fund,pension_assets,,https://www.pfrda.org.in/web/pfrda/intermediaries/registered-intermediaries/nps-trust
+RELIANCE INDUSTRIES LTD,HDFC Mutual Fund,Domestic AMC,91430476,96613308,103922430,118407782,130102377,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,UTI Mutual Fund,Domestic AMC,100068529,103789537,107776331,114553881,120268285,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Nippon India Mutual Fund,Domestic AMC,102460606,107776331,109503942,113623629,116547278,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Government Pension Fund Global,Foreign Pension Fund,,,,,105494998,web,medium,NO,pension_fund,pension_assets,REVIEW,https://www.nbim.no/
+RELIANCE INDUSTRIES LTD,Sikka Ports & Terminals Limited,Promoter,,,,,70000000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Kotak Mahindra Mutual Fund,Domestic AMC,45848131,52758574,42127123,44386306,52891467,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Mirae Asset Mutual Fund,Domestic AMC,32691711,33090390,30299634,37741650,48107314,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Aditya Birla Sun Life Mutual Fund,Domestic AMC,44120520,44120520,45316558,46246810,43987627,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Axis Mutual Fund,Domestic AMC,36811398,34818001,39070581,36014039,33223283,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,K D Ambani,Promoter,,,,,31482644,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Shrikrishna Tradecom LLP,Promoter,,,,,28675930,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Shreeji Comtrade LLP,Promoter,,,,,28675930,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Svar Enterprises LLP,Promoter,,,,,27178734,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Franklin Templeton Mutual Fund,Domestic AMC,21528688,20465542,20332649,22458939,23123405,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Tata Mutual Fund,Domestic AMC,21661581,22326046,20598436,19136611,22591833,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Bandhan Mutual Fund,Domestic AMC,21262901,20731329,20199756,20465542,22193153,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Canara Robeco Mutual Fund,Domestic AMC,17940573,18605039,18870825,18073466,18737932,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,DSP Mutual Fund,Domestic AMC,5714405,5980191,6113084,5847298,16611642,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Akash M Ambani,Promoter,,,,,16104042,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Anant M Ambani,Promoter,,,,,16104042,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Isha M Ambani,Promoter,,,,,16104042,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Nita M Ambani,Promoter,,,,,16104042,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Mukesh D Ambani,Promoter,,,,,16104040,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Invesco Mutual Fund,Domestic AMC,3322328,9302519,7973588,6777550,14352458,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Edelweiss Mutual Fund,Domestic AMC,11960382,13289313,11960382,10099878,11163023,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Reliance Welfare Association,Promoter,,,,,10689994,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,HSBC Mutual Fund,Domestic AMC,9435412,10232771,10365664,15149817,10631451,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Sundaram Mutual Fund,Domestic AMC,12491955,12491955,12226168,11960382,10631451,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Baroda BNP Paribas Mutual Fund,Domestic AMC,7176229,7442015,7043336,7309122,6910443,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,PPFAS Mutual Fund,Domestic AMC,7442015,7442015,7840695,3455221,5847298,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+RELIANCE INDUSTRIES LTD,Vasuprada Enterprises LLP,Promoter,,,,,2631850,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Exotic Officeinfra Private Limited,Promoter,,,,,55348,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Carat Holdings and Trading Co Pvt Ltd,Promoter,,,,,21902,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Neutron Enterprises Private Limited,Promoter,,,,,3698,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Futura Commercials Private Limited,Promoter,,,,,3628,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Shripal Enterprises LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Vishatan Enterprises LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Janardan Commercials LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Harinarayan Enterprises LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Chhatrabhuj Enterprises LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Chakresh Enterprises LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Chakradhar Commercials LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Chakradev Enterprises LLP,Promoter,,,,,432,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Bhuvanesh Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Kankhal Trading LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Pavana Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Pitambar Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Rishikesh Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Taran Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Trilokesh Commercials LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Badri Commercials LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Ajitesh Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Adisesh Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Abhayaprada Enterprises LLP,Promoter,,,,,430,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Kamalakar Enterprises LLP,Promoter,,,,,426,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Narahari Enterprises LLP,Promoter,,,,,426,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Pinakin Commercials Private Limited,Promoter,,,,,216,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Elakshi Commercials Private Limited,Promoter,,,,,216,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Reliance Life Sciences Private Limited,Promoter,0,0,0,0,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Jamnagar Utilities and Power Private Limited,Promoter,0,0,0,0,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Tiruttani Infralog Private Limited,Promoter,0,0,0,0,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
+RELIANCE INDUSTRIES LTD,Petroleum Trust through Trustees for sole beneficiary RIIHL,Promoter,0,0,0,0,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"

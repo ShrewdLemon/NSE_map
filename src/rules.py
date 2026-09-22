@@ -28,6 +28,11 @@ def domicile(normalised: str) -> str | None:
     """'IN' when the name itself proves Indian incorporation, else None."""
     if "india" in normalised or "indian" in normalised:
         return "IN"
+    # 'X Mutual Fund' is SEBI terminology: a mutual fund so named is a
+    # SEBI-registered Indian scheme by definition. Foreign managers appear
+    # under a group or asset-management name instead.
+    if normalised.endswith("mutual fund"):
+        return "IN"
     for marker in _INDIA_MARKERS:
         if marker in normalised:
             return "IN"
