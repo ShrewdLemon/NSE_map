@@ -15,6 +15,17 @@ _INDIA_MARKERS = (
     "max life", "aditya", "mirae asset investment managers",
 )
 
+# The Indian state holds listed equity under a handful of fixed legal names.
+# Each is decisive on its face: no private entity is called 'President of India'.
+# For a public sector undertaking these appear in Table II and the promoter
+# overlay catches them first; this rule is for the rest, above all SUUTI, which
+# holds public stakes in companies it never promoted.
+_INDIAN_STATE = re.compile(
+    r"^(?:the\s+)?(?:president of india|government of india|"
+    r"governor of [a-z ]+|union of india|"
+    r"administrator of the specified undertaking of the unit trust of india"
+    r"(?: ?- ?suuti)?|suuti)$", re.I)
+
 _AMC = re.compile(
     r"\b(asset manage\w*|amc|mutual funds?|money manage\w*|"
     r"funds? advisors?|funds? manage\w*|investment manage\w*|investment mgmt)\b", re.I
@@ -45,6 +56,9 @@ def classify(holder_name: str, normalised: str, bloomberg_type: str | None):
         return "Individual", "high", "bloomberg-holder-type"
 
     dom = domicile(normalised)
+
+    if _INDIAN_STATE.match(holder_name.strip()) or _INDIAN_STATE.match(normalised):
+        return "Government", "high", "rule:indian-state-entity"
 
     # An insurance BROKER is not an insurer - check before the insurer rule.
     if "insurance broker" in normalised:
