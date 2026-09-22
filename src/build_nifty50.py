@@ -19,6 +19,9 @@ import entity_master as em
 from write_workbook import write as write_workbook
 
 ROOT = Path(__file__).resolve().parent.parent
+# The quarter every company is reported against unless its own filing says
+# otherwise - the latest that had closed and been filed when this was built.
+FALLBACK_QUARTER = "Jun/2026"
 
 
 def load_index(path=ROOT / "data" / "nifty50.json"):
@@ -37,7 +40,19 @@ def run(index, only=None):
         if only and ticker not in only:
             continue
         if not (ROOT / "data" / "registers" / f"{ticker}.json").exists():
+            # A constituent with no register still belongs in the workbook:
+            # dropping it would quietly turn "the Nifty 50" into "the ones
+            # that worked". It appears with no holders and says so.
             diag["missing"].append(ticker)
+            companies.append({
+                "ticker": ticker, "company": c["company_name"],
+                "sector": c.get("sector"), "quarters": [FALLBACK_QUARTER],
+                "rows": [],
+                "meta": {"isin": None, "as_of": None, "shares_scrr": None,
+                         "denominator_note": "no shareholding data retrieved",
+                         "source_urls": [], "promoter_pct": None,
+                         "reconciliation": "no data", "drift": None},
+            })
             continue
 
         raw, registry = build_register.build(ticker)

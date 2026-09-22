@@ -200,6 +200,36 @@ position for that reason, and a filing whose captions and rows are interleaved
 by PDF extraction can still defeat it - which is what the reconciliation
 verdict is for.
 
+## Result for the NIFTY 50 (quarter ended 30 June 2026)
+
+All 50 constituents, 1,372 named holders, 7 unclassified.
+
+| Category | Rows | Companies | Shares held | Share |
+|---|---:|---:|---:|---:|
+| Promoter | 975 | 42 | 79,957,999,860 | 61.3% |
+| Domestic AMC | 210 | 43 | 22,903,478,076 | 17.6% |
+| Domestic Insurance | 66 | 42 | 13,565,487,353 | 10.4% |
+| Foreign corporate | 13 | 8 | 3,822,141,212 | 2.9% |
+| Foreign Government | 26 | 20 | 2,059,316,327 | 1.6% |
+| Foreign AMC | 20 | 13 | 1,813,570,582 | 1.4% |
+| Domestic corporate | 16 | 5 | 1,739,984,566 | 1.3% |
+| Individual | 26 | 8 | 1,596,272,912 | 1.2% |
+| Domestic Pension Fund | 10 | 10 | 1,521,469,793 | 1.2% |
+| Government | 1 | 1 | 974,531,427 | 0.7% |
+| Bank | 2 | 2 | 191,340,746 | 0.1% |
+| unclassified | 7 | 6 | 244,805,996 | 0.2% |
+
+Promoter reconciliation: 36 companies reconcile against their filed promoter
+percentage, 4 are close, 1 does not, 6 could not be checked for want of a
+published percentage, and 3 returned no holder data at all. Those three -
+Maruti Suzuki, Max Healthcare and Nestle India - appear in the workbook with
+no holders rather than being dropped, because dropping them would quietly turn
+"the Nifty 50" into "the ones that worked".
+
+How each row was settled: 975 from a filed promoter table, 276 by deterministic
+name rules, 54 from web-verified entity research, 26 from a holder type, and 41
+by the weaker legal-form fallbacks, which are flagged.
+
 ## Result for ANANDRATHI (Q2/2025 - Q3/2026)
 
 All 102 holders classified, none left unresolved.
