@@ -15,13 +15,15 @@
       "quarters": {
         "Jun/2026": 5569432140
       },
-      "filed_class": "Central Government/State Government(s) (Promoter)"
+      "filed_class": "Central Government/State Government(s) (Promoter)",
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0a5a276d-c1b7-467e-98be-90eb25ac93fe.pdf"
   ],
   "notes": "SEBI LODR Reg 31 shareholding-pattern PDF for the quarter ended 30 June 2026 could not be retrieved as an extractable text page during this run (PDFs/bseindia.com URLs returned chrome/iframe without parseable table content, and sbi.co.in share-holding-pattern index pages did not resolve to a queueable PDF link). The bseindia.com/xml-data/corpfiling/AttachHis/0a5a276d PDF retrieved is a separate South Indian Bank Reg 30 & 47 disclosure, not SBI's SHP. The bseindia.com/xml-data/corpfiling/AttachHis/fc5dad4d and AttachLive/aea34d64 PDFs retrieved are CRISIL rating and AGM material for SBI, not the SHP. As a result, ISIN, quarter_end, total_shares_scrr, promoter_group, and public_holders remain largely unsourced and null per 'never invent' rule. The 55.03% promoter holding is taken from the CRISIL rationale Note 4 in fc5dad4d which states 'GoI held 55.03% stake in the bank as on March 31, 2026' - this is an aggregator/learned value NOT from the filed SHP table, hence source is 'none' and shares are an inferential placeholder, not a filed Table II row. The shares_filed value above for the single promoter entity is also a marked estimate; the filed SHP Table II row is the authoritative source and was not extracted this run. The company operates as a PSU; the regulator is SBI Act 1955 + SEBI LODR, but for the SHP schema only the Q1 FY27 filed PDF is acceptable evidence.",
+  "corrections": [],
   "promoter_reconciliation": "unchecked",
   "promoter_drift": null,
   "promoter_pct_filed": 55.03

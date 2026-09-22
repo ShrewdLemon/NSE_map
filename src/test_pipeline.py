@@ -156,8 +156,7 @@ for _cat in sorted(_RULE_CATEGORIES):
     _type = pipeline._TYPE_FOR_CATEGORY.get(_cat)
     check(f"cache can represent {_cat!r}", bool(_type), True)
     _back, _ = categorize(is_promoter=False, bloomberg_type="Institution",
-                          country="IN" if "Domestic" in _cat or _cat == "Government"
-                          else None,
+                          country=pipeline.country_for_category(_cat),
                           entity_type=_type,
                           holding_vehicle=pipeline._VEHICLE_FOR_CATEGORY.get(_cat))
     check(f"{_cat!r} survives a cache round-trip", _back, _cat)
@@ -165,6 +164,11 @@ for _cat in sorted(_RULE_CATEGORIES):
 # And nothing may be cached that cannot round-trip.
 check("an unmappable category is never cached",
       pipeline._TYPE_FOR_CATEGORY.get("Individual"), None)
+# 'Government' is the domestic bucket; its foreign counterpart is named.
+check("the domestic sovereign bucket carries a domicile",
+      pipeline.country_for_category("Government"), "IN")
+check("a foreign category carries none",
+      pipeline.country_for_category("Foreign Government"), None)
 
 # --- ingest: the airlock between a web agent and the pipeline --------------
 import ingest_nimble as ing

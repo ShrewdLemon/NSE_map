@@ -23,7 +23,8 @@
         "Mar/2026": null,
         "Jun/2026": 31482644
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Akash M Ambani",
@@ -35,7 +36,8 @@
         "Mar/2026": null,
         "Jun/2026": 16104042
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Anant M Ambani",
@@ -47,7 +49,8 @@
         "Mar/2026": null,
         "Jun/2026": 16104042
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Isha M Ambani",
@@ -59,7 +62,8 @@
         "Mar/2026": null,
         "Jun/2026": 16104042
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Mukesh D Ambani",
@@ -71,7 +75,8 @@
         "Mar/2026": null,
         "Jun/2026": 16104040
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Nita M Ambani",
@@ -83,7 +88,8 @@
         "Mar/2026": null,
         "Jun/2026": 16104042
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Srichakra Commercials LLP",
@@ -95,7 +101,8 @@
         "Mar/2026": null,
         "Jun/2026": 1479199658
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Devarshi Commercials LLP",
@@ -107,7 +114,8 @@
         "Mar/2026": null,
         "Jun/2026": 1091138920
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Karuna Commercials LLP",
@@ -119,7 +127,8 @@
         "Mar/2026": null,
         "Jun/2026": 1091138920
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Tattvam Enterprises LLP",
@@ -131,7 +140,8 @@
         "Mar/2026": null,
         "Jun/2026": 1091138920
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Industries Holding Private Ltd",
@@ -143,7 +153,8 @@
         "Mar/2026": null,
         "Jun/2026": 608030142
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Industrial Investments and Holdings Ltd",
@@ -155,7 +166,8 @@
         "Mar/2026": null,
         "Jun/2026": 481884012
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Services and Holdings Limited",
@@ -167,7 +179,8 @@
         "Mar/2026": null,
         "Jun/2026": 343765640
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Samarjit Enterprises LLP",
@@ -179,7 +192,8 @@
         "Mar/2026": null,
         "Jun/2026": 249250548
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Sikka Ports & Terminals Limited",
@@ -191,7 +205,8 @@
         "Mar/2026": null,
         "Jun/2026": 70000000
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Shrikrishna Tradecom LLP",
@@ -203,7 +218,8 @@
         "Mar/2026": null,
         "Jun/2026": 28675930
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Shreeji Comtrade LLP",
@@ -215,7 +231,8 @@
         "Mar/2026": null,
         "Jun/2026": 28675930
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Svar Enterprises LLP",
@@ -227,7 +244,8 @@
         "Mar/2026": null,
         "Jun/2026": 27178734
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Welfare Association",
@@ -239,7 +257,8 @@
         "Mar/2026": null,
         "Jun/2026": 10689994
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Vasuprada Enterprises LLP",
@@ -251,7 +270,8 @@
         "Mar/2026": null,
         "Jun/2026": 2631850
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Exotic Officeinfra Private Limited",
@@ -263,7 +283,8 @@
         "Mar/2026": null,
         "Jun/2026": 55348
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Carat Holdings and Trading Co Pvt Ltd",
@@ -275,7 +296,8 @@
         "Mar/2026": null,
         "Jun/2026": 21902
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Neutron Enterprises Private Limited",
@@ -287,7 +309,8 @@
         "Mar/2026": null,
         "Jun/2026": 3698
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Futura Commercials Private Limited",
@@ -299,7 +322,8 @@
         "Mar/2026": null,
         "Jun/2026": 3628
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Shripal Enterprises LLP",
@@ -311,7 +335,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Vishatan Enterprises LLP",
@@ -323,7 +348,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Janardan Commercials LLP",
@@ -335,7 +361,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Harinarayan Enterprises LLP",
@@ -347,7 +374,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Chhatrabhuj Enterprises LLP",
@@ -359,7 +387,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Chakresh Enterprises LLP",
@@ -371,7 +400,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Chakradhar Commercials LLP",
@@ -383,7 +413,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Chakradev Enterprises LLP",
@@ -395,7 +426,8 @@
         "Mar/2026": null,
         "Jun/2026": 432
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Bhuvanesh Enterprises LLP",
@@ -407,7 +439,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Kankhal Trading LLP",
@@ -419,7 +452,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Pavana Enterprises LLP",
@@ -431,7 +465,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Pitambar Enterprises LLP",
@@ -443,7 +478,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Rishikesh Enterprises LLP",
@@ -455,7 +491,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Taran Enterprises LLP",
@@ -467,7 +504,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Trilokesh Commercials LLP",
@@ -479,7 +517,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Badri Commercials LLP",
@@ -491,7 +530,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Ajitesh Enterprises LLP",
@@ -503,7 +543,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Adisesh Enterprises LLP",
@@ -515,7 +556,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Abhayaprada Enterprises LLP",
@@ -527,7 +569,8 @@
         "Mar/2026": null,
         "Jun/2026": 430
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Kamalakar Enterprises LLP",
@@ -539,7 +582,8 @@
         "Mar/2026": null,
         "Jun/2026": 426
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Narahari Enterprises LLP",
@@ -551,7 +595,8 @@
         "Mar/2026": null,
         "Jun/2026": 426
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Pinakin Commercials Private Limited",
@@ -563,7 +608,8 @@
         "Mar/2026": null,
         "Jun/2026": 216
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Elakshi Commercials Private Limited",
@@ -575,7 +621,8 @@
         "Mar/2026": null,
         "Jun/2026": 216
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Life Sciences Private Limited",
@@ -587,7 +634,8 @@
         "Mar/2026": null,
         "Jun/2026": 0
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Jamnagar Utilities and Power Private Limited",
@@ -599,7 +647,8 @@
         "Mar/2026": null,
         "Jun/2026": 0
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Tiruttani Infralog Private Limited",
@@ -611,7 +660,8 @@
         "Mar/2026": null,
         "Jun/2026": 0
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Petroleum Trust through Trustees for sole beneficiary RIIHL",
@@ -623,7 +673,8 @@
         "Mar/2026": null,
         "Jun/2026": 0
       },
-      "filed_class": "Any Other"
+      "filed_class": "Any Other",
+      "doubtful": false
     },
     {
       "holder_name": "Life Insurance Corporation of India",
@@ -635,7 +686,8 @@
         "Mar/2026": 903673305,
         "Jun/2026": 914304756
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Mutual Fund",
@@ -647,7 +699,8 @@
         "Mar/2026": 332232833,
         "Jun/2026": 342332711
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Vanguard Group Inc/The",
@@ -659,7 +712,8 @@
         "Mar/2026": null,
         "Jun/2026": 295667028
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Blackrock Inc",
@@ -671,7 +725,8 @@
         "Mar/2026": null,
         "Jun/2026": 255773102
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "ICICI Prudential Mutual Fund",
@@ -683,7 +738,8 @@
         "Mar/2026": 209705364,
         "Jun/2026": 235353739
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "NPS Trust",
@@ -695,7 +751,8 @@
         "Mar/2026": 188708249,
         "Jun/2026": 205984356
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "HDFC Mutual Fund",
@@ -707,7 +764,8 @@
         "Mar/2026": 118407782,
         "Jun/2026": 130102377
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "UTI Mutual Fund",
@@ -719,7 +777,8 @@
         "Mar/2026": 114553881,
         "Jun/2026": 120268285
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Nippon India Mutual Fund",
@@ -731,7 +790,8 @@
         "Mar/2026": 113623629,
         "Jun/2026": 116547278
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Government Pension Fund Global",
@@ -743,7 +803,8 @@
         "Mar/2026": null,
         "Jun/2026": 105494998
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Kotak Mahindra Mutual Fund",
@@ -755,7 +816,8 @@
         "Mar/2026": 44386306,
         "Jun/2026": 52891467
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Mirae Asset Mutual Fund",
@@ -767,7 +829,8 @@
         "Mar/2026": 37741650,
         "Jun/2026": 48107314
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Aditya Birla Sun Life Mutual Fund",
@@ -779,7 +842,8 @@
         "Mar/2026": 46246810,
         "Jun/2026": 43987627
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Axis Mutual Fund",
@@ -791,7 +855,8 @@
         "Mar/2026": 36014039,
         "Jun/2026": 33223283
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Franklin Templeton Mutual Fund",
@@ -803,7 +868,8 @@
         "Mar/2026": 22458939,
         "Jun/2026": 23123405
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Mutual Fund",
@@ -815,7 +881,8 @@
         "Mar/2026": 19136611,
         "Jun/2026": 22591833
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Bandhan Mutual Fund",
@@ -827,7 +894,8 @@
         "Mar/2026": 20465542,
         "Jun/2026": 22193153
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Canara Robeco Mutual Fund",
@@ -839,7 +907,8 @@
         "Mar/2026": 18073466,
         "Jun/2026": 18737932
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "DSP Mutual Fund",
@@ -851,7 +920,8 @@
         "Mar/2026": 5847298,
         "Jun/2026": 16611642
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Invesco Mutual Fund",
@@ -863,7 +933,8 @@
         "Mar/2026": 6777550,
         "Jun/2026": 14352458
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Edelweiss Mutual Fund",
@@ -875,7 +946,8 @@
         "Mar/2026": 10099878,
         "Jun/2026": 11163023
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "HSBC Mutual Fund",
@@ -887,7 +959,8 @@
         "Mar/2026": 15149817,
         "Jun/2026": 10631451
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Sundaram Mutual Fund",
@@ -899,7 +972,8 @@
         "Mar/2026": 11960382,
         "Jun/2026": 10631451
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "Baroda BNP Paribas Mutual Fund",
@@ -911,7 +985,8 @@
         "Mar/2026": 7309122,
         "Jun/2026": 6910443
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     },
     {
       "holder_name": "PPFAS Mutual Fund",
@@ -923,7 +998,8 @@
         "Mar/2026": 3455221,
         "Jun/2026": 5847298
       },
-      "filed_class": "Institution"
+      "filed_class": "Institution",
+      "doubtful": false
     }
   ],
   "source_urls": [
@@ -931,6 +1007,7 @@
     "https://trendlyne.com/equity/share-holding/1127/RELIANCE/latest/reliance-industries-ltd/"
   ],
   "notes": "Percentages are on the SCRR basis (A)+(B)+(C2) = 13,289,313,310, which excludes the 243,159,324 shares underlying depository receipts. The 13,532,472,634 grand total would inflate every converted count by ~1.8%. Verified by backing the denominator out of holders publishing both a percentage and a share count.",
+  "corrections": [],
   "promoter_reconciliation": "reconciled",
   "promoter_drift": 0.0010510240055335502,
   "promoter_pct_filed": 50.48

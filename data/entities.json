@@ -1998,7 +1998,7 @@
     "specified undertaking of unit trust of india": {
       "basis": "rule:indian-state-entity",
       "confidence": "high",
-      "country": null,
+      "country": "IN",
       "display_name": "Specified Undertaking of the Unit Trust of India",
       "entity_type": "sovereign_wealth_fund",
       "evidence": "matched by deterministic name rule",

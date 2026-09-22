@@ -15,7 +15,8 @@
       "quarters": {
         "Jun/2026": 3737921934
       },
-      "filed_class": "Central Government/State Government(s)"
+      "filed_class": "Central Government/State Government(s)",
+      "doubtful": false
     },
     {
       "holder_name": "Kotak flexicap fund - various schemes",
@@ -23,7 +24,8 @@
       "quarters": {
         "Jun/2026": 165115111
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Nifty 50 ETF - various schemes",
@@ -31,7 +33,8 @@
       "quarters": {
         "Jun/2026": 155389527
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "CPSE exchange traded scheme - various schemes",
@@ -39,7 +42,8 @@
       "quarters": {
         "Jun/2026": 148831792
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "HDFC mutual fund - varuous schemes",
@@ -47,7 +51,8 @@
       "quarters": {
         "Jun/2026": 95557340
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "Motilal oswal - various schemes",
@@ -55,7 +60,8 @@
       "quarters": {
         "Jun/2026": 78382104
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "ICICI prudential nifty etf - various schemes",
@@ -63,7 +69,8 @@
       "quarters": {
         "Jun/2026": 75916177
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "Government of Singapore",
@@ -71,7 +78,8 @@
       "quarters": {
         "Jun/2026": 80899294
       },
-      "filed_class": "FPI Cat I"
+      "filed_class": "FPI Cat I",
+      "doubtful": false
     },
     {
       "holder_name": "Life insurance corporation of india (various schemes)",
@@ -79,7 +87,8 @@
       "quarters": {
         "Jun/2026": 82734308
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "NPS trust- a/c hdfc pension fund management limited scheme e - tier i (various schemes)",
@@ -87,13 +96,15 @@
       "quarters": {
         "Jun/2026": 167073789
       },
-      "filed_class": "Pension Fund"
+      "filed_class": "Pension Fund",
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://trendlyne.com/equity/share-holding/175/BEL/latest/bharat-electronics-ltd/"
   ],
   "notes": "FPI Cat I sub-categories aggregated at \u20b917.47% / 1,277,282,821 shares across 924 holders \u2014 only Government of Singapore listed individually above 1%. Insurance sub-category totals 3.58% / 261,995,995 shares across 38 holders; LIC alone is 1.13%. Total (A)+(B) computed by direct sum: 7,309,778,829 shares. The trendlyne shareholding pattern comes from the company's filed SEBI LODR Reg.31 PDF (latest is the BEL IR page at https://bel-india.in/shareholding-pattern linking to a June 30, 2026 PDF).",
+  "corrections": [],
   "promoter_reconciliation": "reconciled",
   "promoter_drift": -7.997364498917867e-05,
   "promoter_pct_filed": 51.14

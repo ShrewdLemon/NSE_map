@@ -1664,18 +1664,6 @@
         "filed_as": "Unclaimed or Suspense or Escrow Account"
       },
       {
-        "holder_name": "Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",
-        "quarters": {
-          "Jun/2026": 2291214
-        },
-        "bloomberg_holder_type": "Institution",
-        "needs_review": true,
-        "category": null,
-        "basis": "unresolved",
-        "confidence": "low",
-        "reason": "no filing match, no cached entity, no rule"
-      },
-      {
         "holder_name": "Shareholding (C) = (C)(1)+(C)(2)",
         "quarters": {
           "Jun/2026": 2291214
@@ -1685,7 +1673,399 @@
         "category": "Individual",
         "basis": "bloomberg-holder-type",
         "confidence": "high",
-        "country": null,
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "Promoter & Promoter Group*",
+        "quarters": {
+          "Jun/2026": 297672111
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "Public*",
+        "quarters": {
+          "Jun/2026": 380584412
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "Non promoter- Non",
+        "quarters": {
+          "Jun/2026": 2291214
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "1 Kumar Mangalam Birla",
+        "quarters": {
+          "Jun/2026": 1776589
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "2 Neerja Birla",
+        "quarters": {
+          "Jun/2026": 75967
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "3 Rajashree Birla",
+        "quarters": {
+          "Jun/2026": 574829
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "4 Vasavadatta Bajaj",
+        "quarters": {
+          "Jun/2026": 123249
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "Promoter group",
+        "quarters": {
+          "Jun/2026": 93287
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "6 Ananyashree Birla",
+        "quarters": {
+          "Jun/2026": 36800
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "7 Aryaman Vikram Birla",
+        "quarters": {
+          "Jun/2026": 36800
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "8 Advaitesha Birla",
+        "quarters": {
+          "Jun/2026": 36800
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "1 Birla Consultants Limited",
+        "quarters": {
+          "Jun/2026": 90856
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "2 Birla Industrial Finance (India) Limited",
+        "quarters": {
+          "Jun/2026": 90962
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "3 Birla Industrial Investments (India) Limited",
+        "quarters": {
+          "Jun/2026": 19400
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "4 Hindalco Industries Limited",
+        "quarters": {
+          "Jun/2026": 29168472
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "5 Birla Group Holdings Private Limited",
+        "quarters": {
+          "Jun/2026": 157782973
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "6 Rajratna Holdings Private Limited",
+        "quarters": {
+          "Jun/2026": 697
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "7 Vikram Holdings Pvt Ltd",
+        "quarters": {
+          "Jun/2026": 781
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "8 Vaibhav Holdings Private Limited",
+        "quarters": {
+          "Jun/2026": 697
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "9 Birla Institute of Technology and Science",
+        "quarters": {
+          "Jun/2026": 661205
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "10 Pilani Investment and Industries",
+        "quarters": {
+          "Jun/2026": 30335623
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "11 Renuka Ventures Limited",
+        "quarters": {
+          "Jun/2026": 250302
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "12 IGH Holdings Private Limited",
+        "quarters": {
+          "Jun/2026": 45195313
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "1 P.T. Indo Bharat Rayon",
+        "quarters": {
+          "Jun/2026": 20004020
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "2 PT. Sunrise Bumi Textiles",
+        "quarters": {
+          "Jun/2026": 1268750
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "3 PT. Elegant Textile Industry",
+        "quarters": {
+          "Jun/2026": 808750
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
+      },
+      {
+        "holder_name": "4 Thai Rayon Public Company Limited",
+        "quarters": {
+          "Jun/2026": 4774666
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "5 Surya Kiran Investments Pte Limited",
+        "quarters": {
+          "Jun/2026": 5000
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "6 Anatole Investments Pte Ltd",
+        "quarters": {
+          "Jun/2026": 4459323
+        },
+        "bloomberg_holder_type": "Institution",
+        "needs_review": true,
+        "category": null,
+        "basis": "unresolved",
+        "confidence": "low",
+        "reason": "no filing match, no cached entity, no rule"
+      },
+      {
+        "holder_name": "Group (A) = (A)(1) + (A)(2)",
+        "quarters": {
+          "Jun/2026": 297672111
+        },
+        "bloomberg_holder_type": "Individual",
+        "needs_review": false,
+        "category": "Individual",
+        "basis": "bloomberg-holder-type",
+        "confidence": "high",
+        "country": "IN",
         "reason": "name-based rule",
         "source": "deterministic rule"
       }
@@ -1693,14 +2073,14 @@
     "meta": {
       "isin": "INE047A01013",
       "as_of": "2026-06-30",
-      "shares_scrr": 680841760,
-      "denominator_note": "denominator recovered from 13 count/percentage pairs",
+      "shares_scrr": 680548951,
+      "denominator_note": "denominator recovered from 37 count/percentage pairs",
       "source_urls": [
         "https://www.grasim.com/Upload/PDF/shareholding-pattern-june-2026.pdf"
       ],
       "promoter_pct": 43.74,
       "reconciliation": "unreconciled",
-      "drift": -0.14601630184911593
+      "drift": -0.14564887183206215
     }
   },
   {
@@ -2641,7 +3021,7 @@
         "category": "Individual",
         "basis": "bloomberg-holder-type",
         "confidence": "high",
-        "country": null,
+        "country": "IN",
         "reason": "name-based rule",
         "source": "deterministic rule"
       },
@@ -2667,13 +3047,13 @@
         "category": "Individual",
         "basis": "bloomberg-holder-type",
         "confidence": "high",
-        "country": null,
+        "country": "IN",
         "reason": "name-based rule",
         "source": "deterministic rule"
       }
     ],
     "meta": {
-      "isin": "IN9860A01017",
+      "isin": "INE860A01027",
       "as_of": "2026-06-30",
       "shares_scrr": 2711788708,
       "denominator_note": "denominator recovered from 13 count/percentage pairs",
@@ -3171,14 +3551,12 @@
         },
         "bloomberg_holder_type": "Institution",
         "needs_review": false,
-        "category": "Foreign Government",
+        "category": "Government",
         "basis": "rule:indian-state-entity",
         "confidence": "high",
-        "country": null,
-        "entity_type": "sovereign_wealth_fund",
-        "holding_vehicle": "sovereign_assets",
-        "reason": "sovereign/state capital",
-        "source": "matched by deterministic name rule"
+        "country": "IN",
+        "reason": "name-based rule",
+        "source": "deterministic rule"
       },
       {
         "holder_name": "Tobacco Manufacturers (India) Limited",
@@ -7517,7 +7895,7 @@
           "Sep/2025": 555000000
         },
         "bloomberg_holder_type": "Institution",
-        "needs_review": false,
+        "needs_review": true,
         "category": "Promoter",
         "basis": "filing (token+numeric)",
         "confidence": "high",
@@ -8207,7 +8585,7 @@
           "Sep/2025": 150607989
         },
         "bloomberg_holder_type": "Institution",
-        "needs_review": false,
+        "needs_review": true,
         "category": "Domestic AMC",
         "basis": "rule:amc+india",
         "confidence": "high",
@@ -8223,7 +8601,7 @@
           "Sep/2025": 40680381
         },
         "bloomberg_holder_type": "Institution",
-        "needs_review": false,
+        "needs_review": true,
         "category": "Domestic AMC",
         "basis": "rule:amc+india",
         "confidence": "high",
@@ -8239,7 +8617,7 @@
           "Sep/2025": 40518952
         },
         "bloomberg_holder_type": "Institution",
-        "needs_review": false,
+        "needs_review": true,
         "category": "Domestic AMC",
         "basis": "rule:amc+india",
         "confidence": "high",
@@ -8294,18 +8672,6 @@
         "reason": "no filing match, no cached entity, no rule"
       },
       {
-        "holder_name": "Foreign Portfolio Investors Category II (collective)",
-        "quarters": {
-          "Sep/2025": 33520558
-        },
-        "bloomberg_holder_type": "Institution",
-        "needs_review": true,
-        "category": null,
-        "basis": "unresolved",
-        "confidence": "low",
-        "reason": "no filing match, no cached entity, no rule"
-      },
-      {
         "holder_name": "MACRITCHIE INVESTMENTS PTE LTD",
         "quarters": {
           "Sep/2025": 151000005
@@ -8321,14 +8687,14 @@
     "meta": {
       "isin": "INE123W01016",
       "as_of": "2025-09-30",
-      "shares_scrr": 1002568002.0,
-      "denominator_note": "stated denominator agrees with 9 holders to 0.104%",
+      "shares_scrr": 10000000331,
+      "denominator_note": "stated 1,002,568,002.0 disagreed with 8 holders by 897.44%; used the implied 10,000,000,331 (SCRR basis)",
       "source_urls": [
         "https://www.sbilife.co.in/documents/20118/589239/SBI+Life_SHP_Q2_FY2025-26_Website.pdf"
       ],
       "promoter_pct": 55.36,
-      "reconciliation": "reconciled",
-      "drift": -3.900011352637955e-05
+      "reconciliation": "unreconciled",
+      "drift": -0.8997471131449601
     }
   },
   {
@@ -8681,7 +9047,7 @@
         "category": "Individual",
         "basis": "bloomberg-holder-type",
         "confidence": "high",
-        "country": null,
+        "country": "IN",
         "reason": "name-based rule",
         "source": "deterministic rule"
       },

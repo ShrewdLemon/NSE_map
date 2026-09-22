@@ -15,7 +15,8 @@
       "quarters": {
         "Jun/2026": 4594849080
       },
-      "filed_class": "Central Government/ State Government(s)"
+      "filed_class": "Central Government/ State Government(s)",
+      "doubtful": false
     },
     {
       "holder_name": "ICICI PRUDENTIAL ESG EXCLUSIONARY STRATEGY FUND",
@@ -23,7 +24,8 @@
       "quarters": {
         "Jun/2026": 124293446
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "HDFC MUTUAL FUND - HDFC BSE 500 ETF",
@@ -31,7 +33,8 @@
       "quarters": {
         "Jun/2026": 164000693
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA CON",
@@ -39,7 +42,8 @@
       "quarters": {
         "Jun/2026": 173826129
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "UTI NIFTY 50 INDEX FUND",
@@ -47,7 +51,8 @@
       "quarters": {
         "Jun/2026": 101236594
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "SBI ARBITRAGE OPPORTUNITIES FUND",
@@ -55,7 +60,8 @@
       "quarters": {
         "Jun/2026": 198507686
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "PARAG PARIKH ARBITRAGE FUND",
@@ -63,7 +69,8 @@
       "quarters": {
         "Jun/2026": 330882158
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "GOVERNMENT OF SINGAPORE",
@@ -71,7 +78,8 @@
       "quarters": {
         "Jun/2026": 164016397
       },
-      "filed_class": "Foreign Portfolio Investors Category I"
+      "filed_class": "Foreign Portfolio Investors Category I",
+      "doubtful": false
     },
     {
       "holder_name": "LIFE INSURANCE CORPORATION OF INDIA - ULIF00420091",
@@ -79,7 +87,8 @@
       "quarters": {
         "Jun/2026": 420437004
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "NPS TRUST A/C UTI PENSION FUND LIMITED-SCHEME CENT",
@@ -87,13 +96,15 @@
       "quarters": {
         "Jun/2026": 143363520
       },
-      "filed_class": "Provident Funds / Pension Funds"
+      "filed_class": "Provident Funds / Pension Funds",
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://www.powergrid.in/sites/default/files/Investor_Relation/Reports_Filings/Share_Holding_Pattern/2026-27/SHP_2026-27_Q1.html"
   ],
   "notes": "Source is the company's own filed Q1 FY27 (quarter ended 30 June 2026) SEBI LODR Reg 31 shareholding pattern as HTML on powergrid.in. Promoter & Promoter Group comprises two PAN entries both filed under Central Government/State Government(s) promoter type, both labelled PRESIDENT OF INDIA. Total promoter equity = 4,774,884,280 (51.34%, 2 PAN entries). Public >1% named holders listed exactly as filed: 6 mutual funds (all >1%, total 11.75%), Government of Singapore FPI Cat I, LIC ULIF00420091, NPS Trust UTI Pension Scheme Central. Mutual Funds sub-total 1,266,526,340 (13.62%); Insurance sub-total 500,009,856 (5.38%); PF/Pension sub-total 143,363,520 (1.54%); FPI sub-totals 24.33%; No shares underlying DRs (C1=0) and no Employee Trust shares (C2=0), so the SCRR basis total (A+B+C2) is identical to the Grand Total. PSU company.",
+  "corrections": [],
   "promoter_reconciliation": "close",
   "promoter_drift": -0.03771383468431136,
   "promoter_pct_filed": 51.34

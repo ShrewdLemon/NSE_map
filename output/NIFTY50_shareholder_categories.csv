@@ -98,8 +98,37 @@ GRASIM,Grasim Industries Limited,"Citibank N.A. New York, NYADR Department",Prom
 GRASIM,Grasim Industries Limited,Gagandeep Credit Capital Pvt Ltd,Promoter,9923232,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 GRASIM,Grasim Industries Limited,Shamyak Investment Private Limited,Promoter,9754321,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 GRASIM,Grasim Industries Limited,Unclaimed or Suspense or Escrow Account,Promoter,107737,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
-GRASIM,Grasim Industries Limited,"Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",,2291214,,,,,unresolved,low,,,,REVIEW,
-GRASIM,Grasim Industries Limited,Shareholding (C) = (C)(1)+(C)(2),Individual,2291214,,,,,bloomberg-holder-type,high,,,,,deterministic rule
+GRASIM,Grasim Industries Limited,Shareholding (C) = (C)(1)+(C)(2),Individual,2291214,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,Promoter & Promoter Group*,Individual,297672111,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,Public*,Individual,380584412,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,Non promoter- Non,Individual,2291214,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,1 Kumar Mangalam Birla,Individual,1776589,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,2 Neerja Birla,Individual,75967,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,3 Rajashree Birla,Individual,574829,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,4 Vasavadatta Bajaj,Individual,123249,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,Promoter group,Individual,93287,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,6 Ananyashree Birla,Individual,36800,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,7 Aryaman Vikram Birla,Individual,36800,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,8 Advaitesha Birla,Individual,36800,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,1 Birla Consultants Limited,,90856,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,2 Birla Industrial Finance (India) Limited,,90962,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,3 Birla Industrial Investments (India) Limited,,19400,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,4 Hindalco Industries Limited,,29168472,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,5 Birla Group Holdings Private Limited,,157782973,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,6 Rajratna Holdings Private Limited,,697,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,7 Vikram Holdings Pvt Ltd,,781,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,8 Vaibhav Holdings Private Limited,,697,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,9 Birla Institute of Technology and Science,Individual,661205,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,10 Pilani Investment and Industries,,30335623,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,11 Renuka Ventures Limited,,250302,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,12 IGH Holdings Private Limited,,45195313,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,1 P.T. Indo Bharat Rayon,Individual,20004020,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,2 PT. Sunrise Bumi Textiles,Individual,1268750,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,3 PT. Elegant Textile Industry,Individual,808750,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
+GRASIM,Grasim Industries Limited,4 Thai Rayon Public Company Limited,,4774666,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,5 Surya Kiran Investments Pte Limited,,5000,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,6 Anatole Investments Pte Ltd,,4459323,,,,,unresolved,low,,,,REVIEW,
+GRASIM,Grasim Industries Limited,Group (A) = (A)(1) + (A)(2),Individual,297672111,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
 HCLTECH,HCL Technologies Limited,Mr. Shiv Nadar,Promoter,736,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 HCLTECH,HCL Technologies Limited,Mrs. Kiran Nadar,Promoter,494602,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 HCLTECH,HCL Technologies Limited,Mrs. Roshni Nadar Malhotra,Promoter,696,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -161,9 +190,9 @@ HCLTECH,HCL Technologies Limited,SBI Mutual Fund,Domestic AMC,37799809,,,,,rule:
 HCLTECH,HCL Technologies Limited,ICICI Prudential Mutual Fund,Domestic AMC,31964191,,,,,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 HCLTECH,HCL Technologies Limited,Parag Parikh Flexi Cap Fund,Domestic AMC,44231975,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 HCLTECH,HCL Technologies Limited,Life Insurance Corporation Of India,Domestic Insurance,193966713,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
-HCLTECH,HCL Technologies Limited,NPS,Individual,33729612,,,,,bloomberg-holder-type,high,,,,,deterministic rule
+HCLTECH,HCL Technologies Limited,NPS,Individual,33729612,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
 HCLTECH,HCL Technologies Limited,Artisan International Value Fund,,53387154,,,,,unresolved,low,,,,REVIEW,
-HCLTECH,HCL Technologies Limited,HCL Technologies Stock Options,Individual,7823946,,,,,bloomberg-holder-type,high,,,,,deterministic rule
+HCLTECH,HCL Technologies Limited,HCL Technologies Stock Options,Individual,7823946,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
 INDIGO,InterGlobe Aviation Limited,Interglobe Enterprises Private Limited,Promoter,137987201,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 INDIGO,InterGlobe Aviation Limited,The Chinkerpoo Family Trust (Trustee: Shobha Gangwal & J.P. Morgan Trust Company of Delaware),Promoter,5106413,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 INDIGO,InterGlobe Aviation Limited,Rakesh Gangwal,Promoter,17530493,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -193,7 +222,7 @@ ITC,ITC Limited,Life Insurance Corporation of India,Domestic Insurance,,,1965797
 ITC,ITC Limited,General Insurance Corporation of India,Domestic Insurance,,,217085508,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ITC,ITC Limited,The New India Assurance Company Limited,Domestic Insurance,,,180822832,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ITC,ITC Limited,NPS Trust (various Pension Funds),Domestic Pension Fund,,,202305296,,,rule:indian-pension-scheme,high,IN,pension_fund,pension_assets,,matched by deterministic name rule
-ITC,ITC Limited,Specified Undertaking of the Unit Trust of India,Foreign Government,,,974531427,,,rule:indian-state-entity,high,,sovereign_wealth_fund,sovereign_assets,,matched by deterministic name rule
+ITC,ITC Limited,Specified Undertaking of the Unit Trust of India,Government,,,974531427,,,rule:indian-state-entity,high,IN,,,,deterministic rule
 ITC,ITC Limited,Tobacco Manufacturers (India) Limited,,,,2228495863,,,unresolved,low,,,,REVIEW,
 ITC,ITC Limited,Myddleton Investment Company Limited,,,,486311940,,,unresolved,low,,,,REVIEW,
 ITC,ITC Limited,Rothmans International Enterprises Limited,,,,154954890,,,unresolved,low,,,,REVIEW,
@@ -449,7 +478,7 @@ RELIANCE,RELIANCE INDUSTRIES LTD,HSBC Mutual Fund,Domestic AMC,10631451,15149817
 RELIANCE,RELIANCE INDUSTRIES LTD,Sundaram Mutual Fund,Domestic AMC,10631451,11960382,12226168,12491955,12491955,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,Baroda BNP Paribas Mutual Fund,Domestic AMC,6910443,7309122,7043336,7176229,7442015,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 RELIANCE,RELIANCE INDUSTRIES LTD,PPFAS Mutual Fund,Domestic AMC,5847298,3455221,7840695,7442015,7442015,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,STATE BANK OF INDIA,Promoter,,,,,555000000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
+SBILIFE,SBI Life Insurance Company Limited,STATE BANK OF INDIA,Promoter,,,,,555000000,filing (token+numeric),high,IN,,,REVIEW,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,Arunachal Pradesh Rural Bank,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,C-Edge Technologies Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,Chhattisgarh Rajya Gramin Bank,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
@@ -495,13 +524,12 @@ SBILIFE,SBI Life Insurance Company Limited,State Bank Operations Support Service
 SBILIFE,SBI Life Insurance Company Limited,SBI Cards and Payment Services Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,SBI CDMDF Trustee Private Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
 SBILIFE,SBI Life Insurance Company Limited,SBI Funds International (IFSC) Limited,Promoter,,,,,0,filing (token),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30"
-SBILIFE,SBI Life Insurance Company Limited,ICICI PRUDENTIAL MUTUAL FUND SCHEMES,Domestic AMC,,,,,150607989,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,HDFC MUTUAL FUND SCHEMES,Domestic AMC,,,,,40680381,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-SBILIFE,SBI Life Insurance Company Limited,NIPPON LIFE INDIA MUTUAL FUND SCHEMES,Domestic AMC,,,,,40518952,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,ICICI PRUDENTIAL MUTUAL FUND SCHEMES,Domestic AMC,,,,,150607989,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,HDFC MUTUAL FUND SCHEMES,Domestic AMC,,,,,40680381,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
+SBILIFE,SBI Life Insurance Company Limited,NIPPON LIFE INDIA MUTUAL FUND SCHEMES,Domestic AMC,,,,,40518952,rule:amc+india,high,IN,asset_manager,managed_funds,REVIEW,matched by deterministic name rule
 SBILIFE,SBI Life Insurance Company Limited,SBI MUTUAL FUND SCHEMES,Domestic AMC,,,,,121567690,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 SBILIFE,SBI Life Insurance Company Limited,NPS TRUST SCHEMES,Domestic Pension Fund,,,,,137781580,rule:indian-pension-scheme,high,IN,pension_fund,pension_assets,,matched by deterministic name rule
 SBILIFE,SBI Life Insurance Company Limited,GOVERNMENT OF SINGAPORE,,,,,,2134450960,unresolved,low,,,,REVIEW,
-SBILIFE,SBI Life Insurance Company Limited,Foreign Portfolio Investors Category II (collective),,,,,,33520558,unresolved,low,,,,REVIEW,
 SBILIFE,SBI Life Insurance Company Limited,MACRITCHIE INVESTMENTS PTE LTD,,,,,,151000005,unresolved,low,,,,REVIEW,
 SBIN,State Bank of India,President of India,Promoter,5569432140,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
 SHRIRAMFIN,Shriram Finance Limited,Shriram Capital Limited,Promoter,80000000,,,,,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30"
@@ -522,5 +550,5 @@ TMPV,Tata Motors Passenger Vehicles Limited,"Lady Tata Memorial Trust - Dr. M. C
 TMPV,Tata Motors Passenger Vehicles Limited,Life Insurance Corporation Of India,Domestic Insurance,175104418,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 TMPV,Tata Motors Passenger Vehicles Limited,Icici Prudential Value Fund,Domestic AMC,105211286,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 TMPV,Tata Motors Passenger Vehicles Limited,Sbi Nifty 50 Etf,Domestic AMC,83539171,,,,,rule:indian-fund-scheme,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
-TMPV,Tata Motors Passenger Vehicles Limited,Rekha Jhunjhunwala,Individual,48798260,,,,,bloomberg-holder-type,high,,,,,deterministic rule
+TMPV,Tata Motors Passenger Vehicles Limited,Rekha Jhunjhunwala,Individual,48798260,,,,,bloomberg-holder-type,high,IN,,,,deterministic rule
 TMPV,Tata Motors Passenger Vehicles Limited,Tata AIA Life Insurance Company Limited,Domestic Insurance,8481963,,,,,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule

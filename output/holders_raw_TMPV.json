@@ -15,7 +15,8 @@
       "quarters": {
         "Jun/2026": 1478263541
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Industries Limited",
@@ -23,7 +24,8 @@
       "quarters": {
         "Jun/2026": 72203630
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Investment Corporation Limited",
@@ -31,7 +33,8 @@
       "quarters": {
         "Jun/2026": 11000000
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Ewart Investments Limited",
@@ -39,7 +42,8 @@
       "quarters": {
         "Jun/2026": 3383746
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Chemicals Limited",
@@ -47,7 +51,8 @@
       "quarters": {
         "Jun/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "The Tata Power Company Limited",
@@ -55,7 +60,8 @@
       "quarters": {
         "Jun/2026": 391803
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Steel Limited",
@@ -63,7 +69,8 @@
       "quarters": {
         "Jun/2026": 100000
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Simto Investment Company Limited",
@@ -71,7 +78,8 @@
       "quarters": {
         "Jun/2026": 59583
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Consumer Products Limited",
@@ -79,7 +87,8 @@
       "quarters": {
         "Jun/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tata Securities Limited",
@@ -87,7 +96,8 @@
       "quarters": {
         "Jun/2026": 400
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Sir Ratan Tata Trust- NN Tata, V Singh, VSrinivasan, JNTata, DKhambata, JehangirHC",
@@ -95,7 +105,8 @@
       "quarters": {
         "Jun/2026": 0
       },
-      "filed_class": "Trusts"
+      "filed_class": "Trusts",
+      "doubtful": false
     },
     {
       "holder_name": "Sir Dorabji Tata Trust- NN Tata, VSingh, VSrinivasan, P Jhaveri, Darius Khambata, Neville Tata, B Bhat",
@@ -103,7 +114,8 @@
       "quarters": {
         "Jun/2026": 0
       },
-      "filed_class": "Trusts"
+      "filed_class": "Trusts",
+      "doubtful": false
     },
     {
       "holder_name": "J R D Tata Trust - NN Tata, V Srinivasan, V Singh, Neville Tata",
@@ -111,7 +123,8 @@
       "quarters": {
         "Jun/2026": 0
       },
-      "filed_class": "Trusts"
+      "filed_class": "Trusts",
+      "doubtful": false
     },
     {
       "holder_name": "Lady Tata Memorial Trust - Dr. M. Chandy, S Sharma, Prof. K. VijayRaghavan",
@@ -119,7 +132,8 @@
       "quarters": {
         "Jun/2026": 0
       },
-      "filed_class": "Trusts"
+      "filed_class": "Trusts",
+      "doubtful": false
     },
     {
       "holder_name": "Life Insurance Corporation Of India",
@@ -127,7 +141,8 @@
       "quarters": {
         "Jun/2026": 175104418
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "Icici Prudential Value Fund",
@@ -135,7 +150,8 @@
       "quarters": {
         "Jun/2026": 105211286
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "Sbi Nifty 50 Etf",
@@ -143,7 +159,8 @@
       "quarters": {
         "Jun/2026": 83539171
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "Rekha Jhunjhunwala",
@@ -151,7 +168,8 @@
       "quarters": {
         "Jun/2026": 48798260
       },
-      "filed_class": "Resident Individual (in excess of Rs 2 lakh)"
+      "filed_class": "Resident Individual (in excess of Rs 2 lakh)",
+      "doubtful": false
     },
     {
       "holder_name": "Tata AIA Life Insurance Company Limited",
@@ -159,13 +177,15 @@
       "quarters": {
         "Jun/2026": 8481963
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698814_21072026073405_WEB.xml"
   ],
   "notes": "Q1 FY27 filed 21-Jul-2026. SCRR denominator (A)+(B)+(C2)=3,682,582,902. Named public holders total about 11.4%; the balance sits with unnamed individuals, funds and FPIs.",
+  "corrections": [],
   "promoter_reconciliation": "reconciled",
   "promoter_drift": -4.0427987920446415e-05,
   "promoter_pct_filed": 42.51
