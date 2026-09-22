@@ -1,0 +1,93 @@
+{
+  "company": "Tata Consultancy Services Limited",
+  "ticker": "TCS",
+  "isin": "INE467B01029",
+  "as_of": "2026-06-30",
+  "shares_scrr": 3617955693.0,
+  "denominator_note": "stated denominator agrees with 4 of 5 holders to 0.058%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Tata sons private limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2595499419
+      },
+      "filed_class": "Bodies Corporate (Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata investment corporation limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1004425
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata industries limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7220
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata steel limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 46798
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "The tata power company limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 766
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi nifty 50 etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 47277357
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Icici prudential value fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 38328180
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Lic of india",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 199698698
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1372/TCS/latest/tata-consultancy-services-ltd"
+  ],
+  "notes": "Trendlyne Jun 2026 quarter data carries Table II named promoter group members verbatim. Tata Sons Private Limited accounts for 71.74% (2,595,499,419 shares); four named Tata group entities (Tata Investment Corp 0.03%, Tata Industries 0.00%, Tata Steel 0.00%, Tata Power 0.00%) total 1,059,209 shares - all part of the Tata promoter group. Named public holders above 1%: SBI Nifty 50 ETF (1.31%, MF); ICICI Prudential Value Fund (1.06%, MF); LIC of India (5.52%, Insurance). FPI Category I (8.23%, 1,121 unnamed investors) and FPI Category II (0.84%, 84 unnamed investors) hold no individually-named entities above 1%. Total_shares_scrr back-calculated from institutional block (22.54% / 815,487,078 = 3,617,955,069); cross-checks with promoter block (71.77% / 2,596,558,628 = 3,617,838,063) within rounding. ISIN confirmed in TCS FY24 Annual Report (BSE source).",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -1.8552237513884023e-05,
+  "promoter_pct_filed": 71.77
+}

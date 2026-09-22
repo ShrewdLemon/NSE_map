@@ -1,0 +1,99 @@
+{
+  "ticker": "TRENT",
+  "company": "Trent Limited",
+  "sector": "Consumer Services",
+  "isin": "INE849A01020",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 533232301.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 37.01,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Tata Sons Private Limited",
+      "shares_filed": 173010511.0,
+      "pct": 32.45,
+      "holder_class": "Bodies Corporate (Any Other - Indian Promoter)"
+    },
+    {
+      "filed_name": "Tata Investment Corporation Limited",
+      "shares_filed": 22811310.0,
+      "pct": 4.28,
+      "holder_class": "Bodies Corporate (Any Other - Indian Promoter)"
+    },
+    {
+      "filed_name": "Ewart Investments Limited",
+      "shares_filed": 1500000.0,
+      "pct": 0.28,
+      "holder_class": "Bodies Corporate (Any Other - Indian Promoter)"
+    },
+    {
+      "filed_name": "Titan Company Limited",
+      "shares_filed": 4500.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate (Any Other - Indian Promoter)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Siddhartha Yog",
+      "shares": 24143271.0,
+      "pct": 4.53,
+      "holder_class": "Non-Resident Indian (Public - Individual)"
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "shares": 16140270.0,
+      "pct": 3.03,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "ICICI Prudential Balanced Advantage Fund",
+      "shares": 13823877.0,
+      "pct": 2.59,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Large Cap Fund",
+      "shares": 12619190.0,
+      "pct": 2.37,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "shares": 11365217.0,
+      "pct": 2.13,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "shares": 9377583.0,
+      "pct": 1.76,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS Trust A/C UTI Pension Fund Limited-Scheme State Govt",
+      "shares": 9023214.0,
+      "pct": 1.69,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "UTI Nifty 50 ETF",
+      "shares": 6979226.0,
+      "pct": 1.31,
+      "holder_class": "Mutual Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1412/TRENT/latest/trent-ltd/",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/98240cb7-61a0-4312-b6c0-780f9649a5f1.pdf",
+    "https://www.bseindia.com/stock-share-price/trent-ltd/TRENT/500251/corp-announcements/"
+  ],
+  "notes": "Quarter ended 30 June 2026 (latest filed). The Jun 5, 2026 1:2 bonus issue (allotment of 17,77,44,100 bonus equity shares of Rs 1 each, with 4 June 2026 as record date) raised paid-up equity capital from Rs 35,54,88,201 to Rs 53,32,32,301 - i.e. 533,232,301 fully paid-up equity shares of Rs 1 each - which is the SCRR percentage denominator for the Jun 2026 SHP. Trendlyne and valueresearchonline both show promoter holding at 37.01% (197,326,321 shares = 32.45%+4.28%+0.28%+0.00% from 4 promo entities). The 1.0SCRR+base number matches the bonus allotment filing. Promoter group (Table II 'Any Other - Indian') has 4 entities; Titan Company Limited's 4,500 shares round to 0.00%. The 8 named public holders listed by valueresearchonline exceed the 1% threshold (Siddhartha Yog, LIC, ICICI Prudential, Nippon India, SBI Nifty 50 ETF, SBI Life, NPS-UTI pension, UTI Nifty 50 ETF). Trent ISIN is INE849A01020; BSE 500251, NSE TRENT.",
+  "ingested_on": "2026-09-22"
+}

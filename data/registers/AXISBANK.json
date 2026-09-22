@@ -1,0 +1,218 @@
+{
+  "ticker": "AXISBANK",
+  "company": "Axis Bank Limited",
+  "sector": "Financial Services",
+  "isin": "INE238A01034",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 3110778129.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.0787,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "LIFE INSURANCE CORPORATION OF INDIA",
+      "shares_filed": 244860645.0,
+      "pct": 0.0787,
+      "holder_class": "Insurance Company (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Pension Fund Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Card Services Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC (Singapore) Pte Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC (Nepal) Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC(International) BSC (c) Bahrain",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC (Lanka) Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Bangladesh Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Housing Finance Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC HFL Asset Management Company Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Mutual Fund Asset Management Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "LIC Mutual Fund Trustee Company Pvt Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Insurance Group (Promoter Group)"
+    },
+    {
+      "filed_name": "IDBI Bank Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bank (Promoter Group)"
+    },
+    {
+      "filed_name": "IDBI Trusteeship Services Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bank (Promoter Group)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "ICICI Prudential Mutual Fund - Through its various Schemes",
+      "shares": 179703834.0,
+      "pct": 0.0578,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Mutual Fund - Through its various Schemes",
+      "shares": 162856558.0,
+      "pct": 0.0524,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Mutual Fund - Through its various Schemes",
+      "shares": 151842080.0,
+      "pct": 0.0488,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NIPPON Mutual Fund - Through its various Schemes",
+      "shares": 109026873.0,
+      "pct": 0.035,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS TRUST - Through its various Schemes",
+      "shares": 102310219.0,
+      "pct": 0.0329,
+      "holder_class": "Pension/Provident Fund"
+    },
+    {
+      "holder_name": "THE BANK OF NEW YORK MELLON",
+      "shares": 96096470.0,
+      "pct": 0.0309,
+      "holder_class": "Overseas Depository"
+    },
+    {
+      "holder_name": "UTI Mutual Fund - Through its various Schemes",
+      "shares": 58090514.0,
+      "pct": 0.0187,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "DODGE AND COX INTERNATIONAL STOCK FUND",
+      "shares": 57718650.0,
+      "pct": 0.0186,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "GOVERNMENT PENSION FUND GLOBAL",
+      "shares": 57654680.0,
+      "pct": 0.0185,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "GOVERNMENT OF SINGAPORE",
+      "shares": 49578669.0,
+      "pct": 0.0159,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "KOTAK Mutual Fund - Through its various Schemes",
+      "shares": 48072944.0,
+      "pct": 0.0155,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "DSP Mutual Fund - Through its various Schemes",
+      "shares": 43645553.0,
+      "pct": 0.014,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI LIFE INSURANCE CO. LTD",
+      "shares": 42192622.0,
+      "pct": 0.0136,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Aditya Birla Mutual Fund - Through its various Schemes",
+      "shares": 39174519.0,
+      "pct": 0.0126,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Parag Parikh Mutual Fund - Through its various Schemes",
+      "shares": 36423887.0,
+      "pct": 0.0117,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Mirae Asset Mutual Fund - Through its various Schemes",
+      "shares": 35977419.0,
+      "pct": 0.0116,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "VANGUARD TOTAL INTERNATIONAL STOCK INDEX FUND",
+      "shares": 33761498.0,
+      "pct": 0.0109,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "VANGUARD EMERGING MARKETS STOCK INDEX FUND, A SERI",
+      "shares": 31958815.0,
+      "pct": 0.0103,
+      "holder_class": "FPI Cat I"
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=AXISBANK"
+  ],
+  "notes": "Q1 FY27 SHP filed 13-Jul-2026. pr_and_prgrp=7.87%, public=92.13%. SCRR-denominator (A+B+C2)=3,110,778,129 equity shares. Filing's 'Promoter' = LIC group: LIFE INSURANCE CORPORATION OF INDIA = 7.87%; 13 LIC-group entities listed with 0 shares (LIC Pension Fund, LIC Card Services, LIC Singapore, LIC Nepal, LIC International Bahrain, LIC Lanka, LIC Bangladesh, LIC Housing Finance, LIC HFL AMC, LIC MF AMC, LIC MF Trustee, IDBI Bank, IDBI Trusteeship Services). 96,096,470 shares (3.09%) underlying outstanding GDRs held by THE BANK OF NEW YORK MELLON (custodian/DR-holder) \u2014 excluded from (A)+(B)+(C2). ESOP outstanding shown under 'Resident individuals upto Rs 2 lakhs'. Public named: 10 Mutual Funds (top ICICI Prudential 5.78%, SBI 5.24%, HDFC 4.88%, Nippon 3.50%, UTI 1.87%, Kotak 1.55%, DSP 1.40%, Aditya Birla 1.26%, Parag Parikh 1.17%, Mirae Asset 1.16%) + NPS Trust - UTI Pension Fund 3.29% + SBI Life Insurance Co 1.36% + 5 FPI Cat I (Dodge & Cox Intl 1.86%, GIC Singapore 1.59%, Government Pension Fund Global 1.85%, Vanguard Total Intl 1.09%, Vanguard Emerging Markets 1.03%) + FOREIGN INSTITUTIONAL INVESTORS 39k shares (legacy).",
+  "ingested_on": "2026-09-22"
+}

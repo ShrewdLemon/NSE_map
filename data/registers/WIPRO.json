@@ -1,0 +1,104 @@
+{
+  "ticker": "WIPRO",
+  "company": "Wipro Limited",
+  "sector": "Information Technology",
+  "isin": "INE075A01022",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 9665069035.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 72.59,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Azim H Premji",
+      "shares_filed": 407860044.0,
+      "pct": 4.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rishad Azim Premji",
+      "shares_filed": 12775239.0,
+      "pct": 0.13,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tariq Azim Premji",
+      "shares_filed": 12492749.0,
+      "pct": 0.13,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Yasmeen A Premji",
+      "shares_filed": 4830432.0,
+      "pct": 0.05,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr Azim Hasham Premji Partner Representing Zash Traders",
+      "shares_filed": 2078093874.0,
+      "pct": 20.98,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Mr Azim Hasham Premji Partner Representing Prazim Traders",
+      "shares_filed": 2038614716.0,
+      "pct": 20.58,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Mr Azim Hasham Premji Partner Representing Hasham Traders",
+      "shares_filed": 1780547328.0,
+      "pct": 17.98,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Azim Premji Trust",
+      "shares_filed": 642061825.0,
+      "pct": 6.48,
+      "holder_class": "Trusts"
+    },
+    {
+      "filed_name": "Prazim Trading and Investment Company Pvt Ltd",
+      "shares_filed": 182797240.0,
+      "pct": 1.85,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Azim Premji Philanthropic Initiatives Private Limited",
+      "shares_filed": 26163172.0,
+      "pct": 0.26,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hasham Investment and Trading Co Pvt Ltd",
+      "shares_filed": 2559153.0,
+      "pct": 0.03,
+      "holder_class": "Bodies Corporate"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Life Insurance Corporation of India - LIC Index Plus Flexi Smart Growth Fund",
+      "shares": 266202884.0,
+      "pct": 2.69,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1526/WIPRO/30-06-2026/wipro-ltd",
+    "https://trendlyne.com/equity/share-holding/1526/WIPRO/latest/wipro-ltd",
+    "https://screener.in/company/WIPRO/consolidated",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/08800bd4-a488-4593-8cfb-da456e1c55af.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/fd5b32d4-517c-45de-8ed8-f34783641709.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/0002c528-5c64-4bb5-a1f0-fdf82d27831806.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/846d0011-866a-4a47-a920-75dae1923c370b.pdf",
+    "https://nsearchives.nseindia.com/corporate/wipro_secretarial_15042026082838_reg30seintimation_f1f21f57.pdf"
+  ],
+  "notes": "Source: trendlyne.com aggregator view of June 2026 quarter SEBI LODR Reg 31 shareholding pattern. Trendlyne surfaces only one named public-holder row for this quarter - LIC Index Plus Flexi Smart Growth Fund. The filing's full Table III names 87 mutual fund schemes, 1,377 FPI Cat I, 95 FPI Cat II, 80 other foreign institutions, 8 banks/FIs, 6 insurance companies (LIC entities - Index Flexi Smart Growth, New Endowment Plus-Secured Fund, etc.), 4,11,532 resident individuals <=Rs 2L, 11 individuals >Rs 2L, 7,847 NRIs, 5,272 bodies corporate, 5 trusts, 2 qualified institutional buyers, 81 foreign nationals, 1 clearing member. Wipro has ADRs (NYSE: WIT) with each ADR representing 1 equity share; the ADR underlying is deposited with JP Morgan Chase Bank NA as depositary and reflected in (C1) Non Promoter-Non Public, therefore excluded from the (A)+(B)+(C2) SCRR denominator. June 2026 quarter reflects the June 2026 buyback completion: 60 crore equity shares extinguished (post-buyback ISC = 9,903,549,797 shares); pre-buyback ISC was 10,503,549,797. Post-buyback ADR underlying ~238,480,762 shares imply SCRR denominator (excl ADR) = 9,903,549,797 - 238,480,762 = 9,665,069,035. Promoter percent and shares above are as printed by trendlyne against filed shares and treasury/buyback-shifted capital; shares_filed in this table are the Filed in last quarter column values (which appear unchanged from the pre-buyback filing since holdings are tracked to record date).",
+  "ingested_on": "2026-09-22"
+}

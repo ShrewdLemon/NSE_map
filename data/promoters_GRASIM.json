@@ -7,7 +7,7 @@
   ],
   "as_of": "2026-06-30",
   "promoter_total_pct": 43.74,
-  "promoter_total_shares_filed": 254316504,
+  "promoter_total_shares_filed": 144557599,
   "bonus_adjustment_note": "Holder counts come straight from the filed table, so no bonus adjustment applies.",
   "bonus_factor": 1,
   "promoter_group": [
@@ -34,11 +34,6 @@
     {
       "filed_name": "NPS Trust - A/c UTI Pension Fund Limited - Scheme State 1 98,03,199 - - 98,03,199 1.44 98,03,199 -98,03,199",
       "shares_filed": 9803199,
-      "class": null
-    },
-    {
-      "filed_name": "Sub -Total (B)(1)",
-      "shares_filed": 109758905,
       "class": null
     },
     {

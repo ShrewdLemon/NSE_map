@@ -1,0 +1,716 @@
+{
+  "ticker": "BAJFINANCE",
+  "company": "Bajaj Finance Limited",
+  "sector": "Financial Services",
+  "isin": "INE296A01032",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 6225954304.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.5467,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "BAJAJ FINSERV LIMITED",
+      "shares_filed": 3193661300.0,
+      "pct": 0.513,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MAHARASHTRA SCOOTERS LIMITED",
+      "shares_filed": 190261600.0,
+      "pct": 0.0306,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ",
+      "shares_filed": 4676880.0,
+      "pct": 0.0008,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "BAJAJ SEVASHRAM PRIVATE LIMITED",
+      "shares_filed": 3085000.0,
+      "pct": 0.0005,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ LIFE INSURANCE LIMITED",
+      "shares_filed": 2470000.0,
+      "pct": 0.0004,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJALI BAJAJ",
+      "shares_filed": 1553540.0,
+      "pct": 0.0002,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SIDDHANTNAYAN BAJAJ",
+      "shares_filed": 1553040.0,
+      "pct": 0.0002,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "JAMNALAL SONS PRIVATE LIMITED",
+      "shares_filed": 1276400.0,
+      "pct": 0.0002,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BARODA INDUSTRIES PRIVATE LIMITED",
+      "shares_filed": 1176000.0,
+      "pct": 0.0002,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ GENERAL INSURANCE LIMITED",
+      "shares_filed": 921000.0,
+      "pct": 0.0001,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BACHHRAJ FACTORIES PRIVATE LIMITED",
+      "shares_filed": 720000.0,
+      "pct": 0.0001,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SHEFALI BAJAJ",
+      "shares_filed": 631040.0,
+      "pct": 0.0001,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nimisha Bajaj Family Trust (Kumud Bajaj)",
+      "shares_filed": 610000.0,
+      "pct": 0.0001,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Neelima Bajaj Family Trust (Kumud Bajaj)",
+      "shares_filed": 610000.0,
+      "pct": 0.0001,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Nimisha Jaipuria (A/c Kumud Neelima Family Trust)",
+      "shares_filed": 150000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Neelima Bajaj Swamy (A/c Kumud Nimisha Family Trust)",
+      "shares_filed": 150000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kumud Bajaj (A/c Madhur Neelima Family Trust)",
+      "shares_filed": 150000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kumud Bajaj (A/c Madhur Nimisha Family Trust)",
+      "shares_filed": 150000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SUMAN JAIN",
+      "shares_filed": 70150.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KUMUD BAJAJ",
+      "shares_filed": 40000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RISHABNAYAN BAJAJ",
+      "shares_filed": 20000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIRVAAN KEJRIWAL",
+      "shares_filed": 20000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RAJIVNAYAN BAJAJ",
+      "shares_filed": 10000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SHEKHAR BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIRAJ BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KIRAN BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MINAL BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "GEETIKA BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KRITI BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIRAV NAYAN BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "POOJA BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "VANRAJ BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "AARAV SWAMY",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "VIHAAN JAIPURIA",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ARYAN BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SHEETAL BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DEEPA BAJAJ",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NEELIMA BAJAJ SWAMY",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NIMISHA JAIPURIA",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RAJIVNAYAN BAJAJ HUF",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJIVNAYAN BAJAJ HUF",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "BACHHRAJ &amp; COMPANY PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KAMALNAYAN INVESTMENT &amp; TRADING PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RAHUL SECURITIES PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAJ HOLDINGS PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "MADHUR SECURITIES PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANRAJ NAYAN INVESTMENTS PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RUPA EQUITIES PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hercules Investments Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "INDEF MANUFACTURING LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SHEKHAR HOLDINGS PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "THE HINDUSTAN HOUSING COMPANY LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ AUTO LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ HOLDINGS &amp; INVESTMENT LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ INTERNATIONAL PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ROSE REALTORS PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EMERALD ACRES PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANKALP RESORTS PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ INTEGRATED HEALTH SYSTEM PVT. LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "HIND MUSAFIR AGENCY LTD",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "BAJAJ TRADING COMPANY",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ARYAN NAYAN REALTY LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RDR VENTURES LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIMISHA TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ARYAMAN TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRVAAN TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RISHAB TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "DEEPA TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SIDDHANT TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJALI TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAVNAYAN TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RAJIV TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJIV TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ANANT BAJAJ TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAV TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SANJALI FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SIDDHANT FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RISHAB FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ARYAMAN FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRVAAN FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NEELIMA BAJAJ SWAMY FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIMISHA JAIPURIA FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NIRAVNAYAN BAJAJ FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KRITI BAJAJ FAMILY TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "GEETIKA SHEKHAR BAJAJ TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "VANRAJ BAJAJ TRUST",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Estate of RahulKumar Bajaj",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vidal Health Insurance TPA Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "VH Medcare Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Financial Distributors Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vidal Healthcare Services Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Finserv Direct Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Finserv Health Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Finserv Ventures Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Finserv Mutual Fund Trustee Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Asset Management Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj AIF Trustee Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Alternate Investment Management Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Staffing Solutions Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "VH International LLC",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Technology Services Inc",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Housing Finance Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bajaj Financial Securities Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SRB &amp; Family LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "DRR &amp; Family LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NRB &amp; Family LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SRJB Family LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SNRS Family LLP",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 186656472.0,
+      "pct": 0.03,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "shares": 160529667.0,
+      "pct": 0.0258,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS Trust",
+      "shares": 101157444.0,
+      "pct": 0.0162,
+      "holder_class": "Pension/Provident Fund"
+    },
+    {
+      "holder_name": "GOVERNMENT OF SINGAPORE",
+      "shares": 84389412.0,
+      "pct": 0.0136,
+      "holder_class": "Sovereign Wealth Fund"
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "shares": 68420514.0,
+      "pct": 0.011,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon India Mutual Fund",
+      "shares": 66621983.0,
+      "pct": 0.0107,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ARYAMAN KEJRIWAL",
+      "shares": 20000.0,
+      "pct": 0.0,
+      "holder_class": "NRI / Foreign Individual"
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696255_18072026055655_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJFINANCE"
+  ],
+  "notes": "Q1 FY27 SHP filed 18-Jul-2026. pr_and_prgrp=54.67%, public=45.24%. SCRR-denominator (A+B+C2)=6,225,954,304 equity shares. Per remarks: 5 Bajaj Group subsidiaries renamed (Bajaj Finserv Asset Mgmt -> Bajaj Asset Mgmt Ltd; Bajaj Finserv Mutual Fund Trustee -> Bajaj Mutual Fund Trustee; Bajaj Allianz Financial Distributors -> Bajaj Financial Distributors; Bajaj Allianz General Insurance -> Bajaj General Insurance; Bajaj Allianz Life Insurance -> Bajaj Life Insurance) \u2014 name-change footnotes only, no impact on holdings. 108 promoter named entries (Bajaj group body corporates majority of stake, 27 promoter Individuals/HUF; Bajaj family trust + Anant Kumar Baid etc.). Employee Trust holding 0.08% (~1.0L shares) \u2014 filed in C2 (not Table III). Public named: SBI MUTUAL FUND - through various schemes 4.75%, LIFE INSURANCE CORPORATION OF INDIA 3.00%, NPS TRUST - through its various schemes 1.62%, GOVERNMENT OF SINGAPORE (Sovereign Wealth Fund) 1.36%, GOVERNMENT PENSION FUND GLOBAL FPI Cat I 1.36%, HDFC MF - through its various schemes, ICICI Pru MF - through its various schemes, Axis MF - through its various schemes, NPS Trust (FPIS) + minor. Note: pr_and_prgrp reported by NSE summary = 54.67%.",
+  "ingested_on": "2026-09-22"
+}

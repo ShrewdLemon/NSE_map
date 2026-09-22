@@ -1,0 +1,35 @@
+{
+  "company": "Tech Mahindra Limited",
+  "isin": "INE669C01036",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1374/TECHM/latest/tech-mahindra-ltd"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 34.97,
+  "promoter_total_shares_filed": 342699332,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Mahindra & mahindra limited",
+      "shares_filed": 248022598,
+      "class": "Bodies Corporate (Promoter)"
+    },
+    {
+      "filed_name": "Tml benefit trust through puneet renjhen",
+      "shares_filed": 94235629,
+      "class": "Trusts (Promoter Group)"
+    },
+    {
+      "filed_name": "Mahindra holdings ltd",
+      "shares_filed": 198201,
+      "class": "Bodies Corporate (Promoter Group)"
+    },
+    {
+      "filed_name": "Mahindra-bt investment company (mauritius) limited",
+      "shares_filed": 242904,
+      "class": "Foreign Bodies Corporate (Promoter Group)"
+    }
+  ]
+}

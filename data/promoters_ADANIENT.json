@@ -1,0 +1,121 @@
+{
+  "company": "Adani Enterprises Limited",
+  "isin": "INE423A01024",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690795_10072026081131_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIENT"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 0.7484,
+  "promoter_total_shares_filed": 974234554,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Gautambhai Shantilal Adani and Rajeshbhai Shantilal Adani (on behalf of S.B. Adani Family Trust)",
+      "shares_filed": 642133511,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Adani Tradeline Private Limited",
+      "shares_filed": 120351663,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kempas Trade And Investment Ltd",
+      "shares_filed": 41467216,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Flourishing Trade And Investment Ltd",
+      "shares_filed": 38010224,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Afro Asia Trade And Investments Limited",
+      "shares_filed": 33879664,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Worldwide Emerging Market Holding Limited",
+      "shares_filed": 33879664,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Infinite Trade And Investment Ltd",
+      "shares_filed": 27219584,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Emerging Market Investment Dmcc",
+      "shares_filed": 21498400,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Infra (India) Limited",
+      "shares_filed": 9000000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Spitze Trade And Investment Limited",
+      "shares_filed": 4464320,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Hibiscus Trade And Investment Ltd",
+      "shares_filed": 2240000,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Properties Private Limited",
+      "shares_filed": 90110,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Gelt Bery Trade And Investment Ltd",
+      "shares_filed": 156,
+      "class": "Foreign Body"
+    },
+    {
+      "filed_name": "Pranav Vinod Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Karan Gautam Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sagar Rajeshbhai Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Jeet Gautam Adani",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gautambhai Shantilal Adani",
+      "shares_filed": 1,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rajeshbhai Shantilal Adani",
+      "shares_filed": 1,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shri Gautam S. Adani/Smt.Priti G. Adani (on behalf of Gautam S. Adani Family Trust)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Ardour Investment Holding Ltd",
+      "shares_filed": 0,
+      "class": "Foreign Body"
+    }
+  ]
+}

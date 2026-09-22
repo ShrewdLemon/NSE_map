@@ -1,0 +1,15 @@
+{
+  "company": "Eternal Limited (formerly Zomato)",
+  "isin": "INE758T01015",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://www.trendlyne.com/equity/share-holding/589490/eternal/latest/eternal-ltd/",
+    "https://bseindia.com/xml-data/corpfiling/AttachLive/b267f096-3422-444f-83cc-4bf28ccd99cd.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 0.0,
+  "promoter_total_shares_filed": 0,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": []
+}

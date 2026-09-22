@@ -1,0 +1,129 @@
+{
+  "company": "Titan Company Limited",
+  "ticker": "TITAN",
+  "isin": "INE280A01028",
+  "as_of": "2026-06-30",
+  "shares_scrr": 887716295.0,
+  "denominator_note": "stated denominator agrees with 11 of 12 holders to 0.002%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Tamilnadu industrial development corporation ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 247476720
+      },
+      "filed_class": "Central Government/State Government(s) (Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata sons private limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 185058900
+      },
+      "filed_class": "Bodies Corporate (Promoter)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata investment corporation ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 17875640
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata chemicals limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13826180
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ewart investments limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4964480
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Piem hotels limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 400000
+      },
+      "filed_class": "Bodies Corporate (Promoter Group)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi nifty 50 etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15999057
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Icici prudential balanced advantage fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11184971
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Uti nifty 50 etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9851148
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life insurance corporation of india",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 19224672
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nps trust a/c uti pension fund limited-scheme state govt",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15386048
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rekha jhunjhunwala",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 47184470
+      },
+      "filed_class": "Individual (>Rs 2 lakh)",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1403/TITAN/latest/titan-company-ltd"
+  ],
+  "notes": "Trendlyne Jun 2026 quarter data. Tamilnadu Industrial Development Corporation (TIDCO) holds 27.88% as State Government promoter; TIDCO is wholly owned by the Government of Tamil Nadu. Tata Sons Private Limited holds 20.84% plus the 4 other Tata group entities (Tata Investment Corp 2.01%, Tata Chemicals 1.56%, Ewart Investments 0.56%, Piem Hotels 0.05%) are the Bodies Corporate promoter group. Named public holders above 1%: 3 mutual fund schemes (SBI Nifty 50 ETF 1.80%, ICICI Prudential Balanced Advantage Fund 1.26%, UTI Nifty 50 ETF 1.11%), 1 insurer (LIC of India 2.17%), 1 NPS pension fund (NPS Trust A/C UTI Pension Fund Limited-Scheme State Govt 1.73%), 1 named resident individual (Rekha Jhunjhunwala 5.31% - reported under 'Resident Individuals holding nominal share capital in excess of Rs 2 lakhs', consolidating 2 demat folios as 31 March 2026 BSE AGM Notice shows 4.24% + 1.07% = 5.31%). Total_shares_scrr back-calculated from promoter block (52.90% / 469,601,920 = 887,716,295); consistent with BSE Annual Report Paid-up Capital of INR 887.8 million. ISIN confirmed in TITAN 42nd AGM Notice filed with BSE.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -1.1712049036365896e-10,
+  "promoter_pct_filed": 52.9
+}

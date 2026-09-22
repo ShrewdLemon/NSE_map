@@ -1,0 +1,37 @@
+{
+  "company": "Trent Limited",
+  "isin": "INE849A01020",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1412/TRENT/latest/trent-ltd/",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/98240cb7-61a0-4312-b6c0-780f9649a5f1.pdf",
+    "https://www.bseindia.com/stock-share-price/trent-ltd/TRENT/500251/corp-announcements/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 37.01,
+  "promoter_total_shares_filed": 197326321,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Tata Sons Private Limited",
+      "shares_filed": 173010511,
+      "class": "Bodies Corporate (Any Other - Indian Promoter)"
+    },
+    {
+      "filed_name": "Tata Investment Corporation Limited",
+      "shares_filed": 22811310,
+      "class": "Bodies Corporate (Any Other - Indian Promoter)"
+    },
+    {
+      "filed_name": "Ewart Investments Limited",
+      "shares_filed": 1500000,
+      "class": "Bodies Corporate (Any Other - Indian Promoter)"
+    },
+    {
+      "filed_name": "Titan Company Limited",
+      "shares_filed": 4500,
+      "class": "Bodies Corporate (Any Other - Indian Promoter)"
+    }
+  ]
+}

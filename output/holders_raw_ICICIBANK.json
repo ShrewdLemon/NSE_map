@@ -1,0 +1,156 @@
+{
+  "company": "ICICI Bank Limited",
+  "ticker": "ICICIBANK",
+  "isin": null,
+  "as_of": "2026-06-30",
+  "shares_scrr": 7163891226,
+  "denominator_note": "stated 6,023,642,029 backed by 0 holders, implied 7,163,891,226 by 15; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "SBI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 450111904
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 315762005
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 311817010
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 256619648
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 242305251
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 182635211
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 158795689
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 107693000
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 102408001
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 102293052
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kotak Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 86519523
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 77861347
+      },
+      "filed_class": "FPI Cat II",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Axis Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 75937247
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 74293638
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vanguard Emerging Markets Stock Index Fund, A Series",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 73733631
+      },
+      "filed_class": "FPI Cat II",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/584/ICICIBANK/latest/icici-bank-ltd/"
+  ],
+  "notes": "ICICI Bank is professionally managed with NO promoter (filed under SEBI LODR Reg 31(1)(b); Table II is empty). Source: trendlyne latest shareholding page for ICICIBANK showing Jun 2026 quarter; promoted as `latest` based on the page index. No Holding for this category is shown for Promoter. Public holders listed above are all named shareholders >= about 1% as reported by trendlyne; Mutual Funds, FPI Cat I, FPI Cat II, and Insurance Companies category totals also disclosed. Note: ICICI Bank also has ADS underlying shares held by Deutsche Bank Trust Company Americas (1,149,973,715 shares / 16.03%) that trendlyne lists under insurance companies table but is actually the ADS custodian and appears in C1 (Shares underlying DRs) in the SCRR filing, not in (B) Public; it is excluded from the SCRR base. The Indian-listed SCRR base (A)+(B)+(C2) computed from trendlyne summary equals 6,023,642,029 shares (institutional + public sub-categories). The full Indian listed + DR total is ~7.17 billion. ISIN not directly found in fetched pages; ISIN is the standard NSE listing ISIN for ICICI Bank Limited (INE090A01021) but not present in extracted sources for this run and is left null.",
+  "corrections": [],
+  "promoter_reconciliation": "unchecked",
+  "promoter_drift": null,
+  "promoter_pct_filed": 0.0
+}

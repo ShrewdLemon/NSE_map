@@ -1,0 +1,67 @@
+{
+  "company": "Oil and Natural Gas Corporation Limited",
+  "ticker": "ONGC",
+  "isin": "INE213A01029",
+  "as_of": "2026-06-30",
+  "shares_scrr": 12580756138.0,
+  "denominator_note": "stated denominator agrees with 5 of 5 holders to 0.001%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "President of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7408867093
+      },
+      "filed_class": "Central Government/ State Government(s)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Value Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 245088579
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 222572017
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "CPSE Exchange Traded Scheme (CPSE ETF)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 164987025
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1252140634
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/974/ONGC/latest/oil-and-natural-gas-corporation-ltd/",
+    "https://upstox.com/stocks/oil-and-natural-gas-corp-share-price/INE213A01029"
+  ],
+  "notes": "Single Table II promoter (President of India, 58.89%); only named public holders at >=1% transcribed. Underlying filed Table III aggregates 43 mutual-fund schemes, 32 insurers, 723+ FPIs. Total SCRR denominator derived from the President's share count 7,408,867,093 divided by 58.89% (TRENDLYNE-derived; underlying PDF gives the explicit number). Source: Trendlyne aggregation of BSE/NSE LODR Reg 31 filing for Q1 FY27 (30 Jun 2026).",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 8.071924327665848e-06,
+  "promoter_pct_filed": 58.89
+}

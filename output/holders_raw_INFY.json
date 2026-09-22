@@ -1,0 +1,336 @@
+{
+  "company": "Infosys Limited",
+  "ticker": "INFY",
+  "isin": null,
+  "as_of": "2026-06-30",
+  "shares_scrr": 3742145156,
+  "denominator_note": "stated 3,715,719,937 backed by 9 holders, implied 3,742,145,156 by 24; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Sudha Gopalakrishnan",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 95357000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rohan Murty",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 60812892
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nandan M Nilekani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 40789562
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Akshata Murty",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 38957096
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Asha Dinesh",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 38579304
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rohini Nilekani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 34335092
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sudha N Murty",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 34550626
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Dinesh Krishnaswamy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 32479590
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "S Gopalakrishnan",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 31853808
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Meghana Gopalakrishnan",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 14834928
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Narayana Murthy",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 15145638
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nihar Nilekani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 12677752
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Janhavi Nilekani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8589721
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shruti Shibulal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8705651
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Deeksha Dinesh",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 7646684
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Divya Dinesh",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 7646684
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Milan Shibulal Manchanda",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6106302
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nikita Shibulal Manchanda",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6106302
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gaurav Manchanda",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5773233
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "S D Shibulal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5208673
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kumari Shibulal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4945935
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tanush Nilekani Chandra",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 3356017
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ekagrah Rohan Murty",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1500000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Shray Chandra",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 719424
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India - ULIF00220091",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 438775372
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 184057994
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 163266157
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "National Pension System Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 119748645
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life India Trustee",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 82365727
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 70607911
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 64677781
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 49872777
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 48903820
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vanguard Emerging Markets Stock Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 47240496
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Parag Parikh Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 42161076
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/630/INFY/latest/infosys-ltd/"
+  ],
+  "notes": "Source: trendlyne latest shareholding page for INFY showing Jun 2026 quarter. Promoter and promoter group is 24 named individuals (Individuals/HUF) including founders and their family members; the full list is verbatim from the trendlyne shareholding pattern page and matches the Infosys Mar 2026 PDF (clause35-march31-2026.pdf) promoter group names identified by the search snippet. Total (A)+(B)+(C2) per trendlyne summary = 3,715,719,937 shares (promoter 516,677,914 + institutions 2,617,470,261 + public 581,571,762). Infosys has ADR shares under C1 (Shares underlying Depository Receipts, held via Deutsche Bank Trust Company Americas); these are excluded from (A+B+C2) per SEBI LODR. The standard NSE listing ISIN for Infosys Limited is INE009A01021 (BSE 500209 / NSE INFY); ISIN was not directly found in fetched pages for this run and is left null.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -0.000940796586590454,
+  "promoter_pct_filed": 13.82
+}

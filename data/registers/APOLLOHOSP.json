@@ -1,0 +1,242 @@
+{
+  "ticker": "APOLLOHOSP",
+  "company": "Apollo Hospitals Enterprise Limited",
+  "sector": "Healthcare",
+  "isin": "INE437A01024",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 143779907.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 28.02,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Ms. Suneeta Reddy",
+      "shares_filed": 2937066.0,
+      "pct": 2.04,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Sangita Reddy",
+      "shares_filed": 2432508.0,
+      "pct": 1.69,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Shobana Kamineni",
+      "shares_filed": 2239952.0,
+      "pct": 1.56,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. K Vishweshwar Reddy",
+      "shares_filed": 1577350.0,
+      "pct": 1.1,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Preetha Reddy",
+      "shares_filed": 1043915.0,
+      "pct": 0.73,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Sindoori Reddy",
+      "shares_filed": 318600.0,
+      "pct": 0.22,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Anuspala Kamineni",
+      "shares_filed": 259174.0,
+      "pct": 0.18,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Dr. Prathap C Reddy",
+      "shares_filed": 245464.0,
+      "pct": 0.17,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Konda Anindith Reddy",
+      "shares_filed": 230200.0,
+      "pct": 0.16,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Karthik Anand",
+      "shares_filed": 236167.0,
+      "pct": 0.16,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Vijay Kumar Reddy",
+      "shares_filed": 228957.0,
+      "pct": 0.16,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Konda Vishwajit Reddy",
+      "shares_filed": 222300.0,
+      "pct": 0.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Upasana Konidela",
+      "shares_filed": 217276.0,
+      "pct": 0.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Puansh Kamineni",
+      "shares_filed": 212202.0,
+      "pct": 0.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Harshad Reddy",
+      "shares_filed": 217900.0,
+      "pct": 0.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Konda Viraj Madhav Reddy",
+      "shares_filed": 168224.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Sucharitha P Reddy",
+      "shares_filed": 169800.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Aditya Reddy",
+      "shares_filed": 10200.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Dwaraknath Reddy",
+      "shares_filed": 18000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Anil Kamineni",
+      "shares_filed": 20.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "M/s. PCR Investments Ltd",
+      "shares_filed": 27223124.0,
+      "pct": 18.93,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M/s. Indian Hospitals Corporation Ltd",
+      "shares_filed": 61704.0,
+      "pct": 0.04,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M/s. Obul Reddy Investments Pvt Ltd",
+      "shares_filed": 11200.0,
+      "pct": 0.01,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M/s. PPN Power Generating Company Private Ltd",
+      "shares_filed": 5827.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "shares": 3333586.0,
+      "pct": 2.32,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Axis Mutual Fund Trustee Limited",
+      "shares": 2578658.0,
+      "pct": 1.79,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Mirae Asset ELSS Tax Saver Fund",
+      "shares": 2157205.0,
+      "pct": 1.5,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Trustee Private Limited",
+      "shares": 1993863.0,
+      "pct": 1.39,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI Prudential Balanced Advantage Fund",
+      "shares": 1877338.0,
+      "pct": 1.31,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited",
+      "shares": 1705664.0,
+      "pct": 1.19,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd",
+      "shares": 1654510.0,
+      "pct": 1.15,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "shares": 2361960.0,
+      "pct": 1.64,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Employees Provident Fund Board - Internalmanaged 1",
+      "shares": 1992112.0,
+      "pct": 1.39,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "shares": 1581082.0,
+      "pct": 1.1,
+      "holder_class": "FPI Cat II"
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "shares": 1509918.0,
+      "pct": 1.05,
+      "holder_class": "FPI Cat II"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 2830488.0,
+      "pct": 1.97,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/93/APOLLOHOSP/latest/apollo-hospitals-enterprise-ltd/",
+    "https://trendlyne.com/equity/93/APOLLOHOSP/apollo-hospitals-enterprise-ltd/"
+  ],
+  "notes": "Quarter ended 30 June 2026; total SCRR share count computed as 40,287,130 / 0.2802 = ~143,779,907 shares (SCRR basis, excluding depository receipts). 20 named Individuals/HUF family members and 4 named bodies corporate in promoter group; M/s. PCR Investments Ltd alone holds 18.93%.",
+  "ingested_on": "2026-09-22"
+}

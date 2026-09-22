@@ -1,5 +1,20 @@
 {
   "entities": {
+    "aditya birla mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya Birla Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "aditya birla sun life asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -41,6 +56,51 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "aditya birla sun life trustee": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya Birla Sun Life Trustee Private Limited",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "APOLLOHOSP"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "aditya birla sun life trustee a": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya birla sun life trustee private limited a/c aditya birla sun life flexi cap fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "TECHM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "aditya birla sun life trustee absl large cap fund": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Aditya Birla Sun Life Trustee - ABSL Large Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -180,6 +240,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "axis mutual fund trustee": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Axis Mutual Fund Trustee Limited",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "APOLLOHOSP"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "axis mutual fund trustee a": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -191,6 +266,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "INDIGO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "axis mutual fund trustee axis large cap fund": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Axis Mutual Fund Trustee Ltd - Axis Large Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -360,6 +450,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "canara robeco mutual fund canara robeco large and mid cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Canara Robeco Mutual Fund - Canara Robeco Large And Mid Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "capitalmind asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -480,6 +585,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "dsp mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "DSP Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "dsp nifty 50 index fund": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -551,6 +671,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "employees provident fund board internalmanaged 1": {
+      "basis": "rule:indian-pension-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Employees Provident Fund Board - Internalmanaged 1",
+      "entity_type": "pension_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "APOLLOHOSP"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -856,6 +991,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "hdfc mutual fund hdfc hybrid debt fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC MUTUAL FUND-HDFC HYBRID DEBT FUND",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BAJAJ-AUTO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "hdfc mutual fund hdfc technology fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -882,6 +1032,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "SBILIFE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hdfc mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -991,6 +1156,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "icici prudential balanced advantage fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Balanced Advantage Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "TRENT"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "icici prudential bluechip fund with sub accounts": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -1047,6 +1227,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "POWERGRID"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential india opportunities fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential India Opportunities Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HINDUNILVR"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1111,6 +1306,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "icici prudential mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "icici prudential mutual funds": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1141,6 +1351,51 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "icici prudential nifty50 equal weight index fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Nifty50 Equal Weight Index Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BAJAJFINSV"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential sensex etf": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Sensex ETF",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ULTRACEMCO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential technology fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Icici prudential technology fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "TECHM"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "icici prudential transportation and logistics fund": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -1152,6 +1407,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "INDIGO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential value discovery fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Value Discovery Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "DRREDDY"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1291,6 +1561,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "kotak flexicap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak Flexicap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "kotak flexicap fund various schemes": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -1351,6 +1636,36 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "kotak mutual fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ICICIBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "kotak mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "KOTAK Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "l and t employees trust": {
       "basis": "web",
       "confidence": "high",
@@ -1379,6 +1694,51 @@
         "ANANDRATHI"
       ],
       "source": "https://en.wikipedia.org/wiki/Legal_%26_General",
+      "verified_on": "2026-09-22"
+    },
+    "lic of india": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Lic of india",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "TCS"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "lici asm non par": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "LICI ASM Non Par",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "BAJAJFINSV"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "lici new endowment plus secured fund": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "LICI New Endowment Plus-Secured Fund",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ULTRACEMCO"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "lici new pension plus secured fund": {
@@ -1441,6 +1801,51 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "life insurance of india lic index plus flexi smart growth fund": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Life Insurance Corporation of India - LIC Index Plus Flexi Smart Growth Fund",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "WIPRO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "life insurance of india p and gs fund": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Life Insurance Corporation of India P & GS Fund",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "DRREDDY"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "life insurance of india ulif00220091": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Life Insurance Corporation of India - ULIF00220091",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "INFY"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "life insurance of india ulif00420091": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -1486,6 +1891,21 @@
       "source": "https://www.crunchbase.com/organization/macritchie-investments",
       "verified_on": "2026-09-22"
     },
+    "mirae asset elss tax saver fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Mirae Asset ELSS Tax Saver Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "APOLLOHOSP"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "mirae asset financial": {
       "basis": "web",
       "confidence": "high",
@@ -1516,6 +1936,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "mirae asset mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Mirae Asset Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "mirae asset mutual funds": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -1542,6 +1977,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "motilal oswal midcap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Motilal Oswal Midcap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1604,6 +2054,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.nbc.ca/wealth-management/trust/institutional-services.html",
+      "verified_on": "2026-09-22"
+    },
+    "national pension system trust": {
+      "basis": "rule:indian-pension-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "National Pension System Trust",
+      "entity_type": "pension_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "INFY"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "nationwide fund advisors": {
@@ -1696,6 +2161,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "nippon life india mutual fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Nippon Life India Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ICICIBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "nippon life india mutual fund schemes": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1752,6 +2232,51 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ITC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nippon life india trustee nippon india etf nifty 50 bees": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Nippon Life India Trustee Ltd - Nippon India ETF Nifty 50 BeES",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nippon life mutual fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Nippon Life Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "KOTAKBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nippon mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "NIPPON Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1816,6 +2341,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "nps trust sbi pension fund scheme state govt": {
+      "basis": "rule:indian-pension-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "NPS Trust - SBI Pension Fund Scheme - State Govt",
+      "entity_type": "pension_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "ETERNAL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "nps trust schemes": {
       "basis": "rule:indian-pension-scheme",
       "confidence": "high",
@@ -1827,6 +2367,21 @@
       "holding_vehicle": "pension_assets",
       "seen_in": [
         "SBILIFE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nps trust through its various schemes": {
+      "basis": "rule:indian-pension-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "NPS TRUST - Through its various Schemes",
+      "entity_type": "pension_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "AXISBANK"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1906,6 +2461,36 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "parag parikh mutual fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Parag Parikh Mutual Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INFY"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "parag parikh mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Parag Parikh Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "pnb metlife india insurance": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -1962,6 +2547,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "quant mutual fund quant small cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Quant Mutual Fund - Quant Small Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ADANIENT"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -2056,6 +2656,36 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "sbi equity hybrid fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Equity Hybrid Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ADANIENT"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi equity minimum variance fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Equity Minimum Variance Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HINDUNILVR"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "sbi funds management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -2112,6 +2742,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "SBILIFE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -2187,6 +2832,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "M&M"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi nifty index fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Nifty Index Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "DRREDDY"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -2461,6 +3121,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "uti flexi cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI Flexi Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ETERNAL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "uti multi cap fund": {
       "basis": "rule:indian-fund-scheme",
       "confidence": "high",
@@ -2487,6 +3162,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "uti mutual fund through its various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI Mutual Fund - Through its various Schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "AXISBANK"
       ],
       "source": null,
       "verified_on": "2026-09-22"

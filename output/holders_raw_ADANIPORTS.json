@@ -1,0 +1,256 @@
+{
+  "company": "Adani Ports and Special Economic Zone Limited",
+  "ticker": "ADANIPORTS",
+  "isin": "INE742F01042",
+  "as_of": "2026-06-30",
+  "shares_scrr": 230471494444,
+  "denominator_note": "stated 2,303,959,098 backed by 0 holders, implied 230,471,494,444 by 12; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Gautambhai Shantilal Adani &amp; Rajeshbhai Shantilal Adani (on behalf of S. B. Adani Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 710753935
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Carmichael Rail And Port Singapore Holdings Pte. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 143820153
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Adani Tradeline Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 138193549
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Emerging Market Investment Dmcc",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 136235995
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Flourishing Trade And Investment Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 124454607
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Afro Asia Trade And Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 89945212
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Adani Rail Infra Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 70621469
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Resurgent Trade And Investment Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 53004718
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Worldwide Emerging Market Holding Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 40234093
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Spitze Trade And Investment Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 12358700
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Adani Properties Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1685000
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rajeshbhai Shantilal Adani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 30001
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gelt Bery Trade And Investment Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Jeet Gautam Adani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Karan Gautam Adani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pranav Vinod Adani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sagar Rajeshbhai Adani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gautambhai Shantilal Adani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Gautambhai Shantilal Adani &amp; Pritiben Gautambhai Adani (on behalf of Gautam S. Adani Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rajeshbhai Shantilal Adani &amp; Shilin Rajeshbhai Adani (on behalf of Rajesh S. Adani Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Infinite Trade and Investment Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Foreign Body",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 148072227
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Goldman Sachs Trust Ii - Goldman Sachs Gqg Partners International Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 44495892
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 32539379
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Body Corp-Ltd Liability Partnership",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1700937
+      },
+      "filed_class": "Other Non-Institution",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Trust (Employees)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 8744
+      },
+      "filed_class": "Other Non-Institution",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690812_10072026084030_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIPORTS"
+  ],
+  "notes": "Q1 FY27 SHP filed 10-Jul-2026. pr_and_prgrp=66.03%, public=33.97%. SCRR-denominator (A+B+C2)=2,303,959,098 equity shares (no partly-paid, no DR). 21 promoter named + 5 public named above 1%. S.B. Adani Family Trust holds 30.85% via Gautambhai & Rajeshbhai jointly. Public named: LIC (6.43%), Goldman Sachs Trust II - Goldman Sachs GQG Partners Intl Opp Fund FPI Cat I (1.93%), SBI Nifty 50 ETF (1.41%), Body Corp-LLP (0.07%) and Trust-Employees (0.0004% - Bajaj Auto). Filing remark: in SBO disclosures PAN is masked '******' / dummy PAN ZZZZZ9999Z used for non-disclosure.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -0.00030602169184521183,
+  "promoter_pct_filed": 0.6603
+}

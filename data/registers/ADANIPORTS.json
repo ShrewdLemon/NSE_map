@@ -1,0 +1,182 @@
+{
+  "ticker": "ADANIPORTS",
+  "company": "Adani Ports and Special Economic Zone Limited",
+  "sector": "Services",
+  "isin": "INE742F01042",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 2303959098.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.6603,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Gautambhai Shantilal Adani &amp; Rajeshbhai Shantilal Adani (on behalf of S. B. Adani Family Trust)",
+      "shares_filed": 710753935.0,
+      "pct": 0.3085,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Carmichael Rail And Port Singapore Holdings Pte. Ltd",
+      "shares_filed": 143820153.0,
+      "pct": 0.0624,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Tradeline Private Limited",
+      "shares_filed": 138193549.0,
+      "pct": 0.06,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Emerging Market Investment Dmcc",
+      "shares_filed": 136235995.0,
+      "pct": 0.0591,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Flourishing Trade And Investment Ltd",
+      "shares_filed": 124454607.0,
+      "pct": 0.054,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Afro Asia Trade And Investments Limited",
+      "shares_filed": 89945212.0,
+      "pct": 0.039,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Rail Infra Private Limited",
+      "shares_filed": 70621469.0,
+      "pct": 0.0307,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Resurgent Trade And Investment Ltd",
+      "shares_filed": 53004718.0,
+      "pct": 0.023,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Worldwide Emerging Market Holding Limited",
+      "shares_filed": 40234093.0,
+      "pct": 0.0175,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Spitze Trade And Investment Limited",
+      "shares_filed": 12358700.0,
+      "pct": 0.0054,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Adani Properties Private Limited",
+      "shares_filed": 1685000.0,
+      "pct": 0.0007,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rajeshbhai Shantilal Adani",
+      "shares_filed": 30001.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gelt Bery Trade And Investment Ltd",
+      "shares_filed": 100.0,
+      "pct": 0.0,
+      "holder_class": "Foreign Body"
+    },
+    {
+      "filed_name": "Jeet Gautam Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Karan Gautam Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Pranav Vinod Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sagar Rajeshbhai Adani",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gautambhai Shantilal Adani",
+      "shares_filed": 1.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gautambhai Shantilal Adani &amp; Pritiben Gautambhai Adani (on behalf of Gautam S. Adani Family Trust)",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rajeshbhai Shantilal Adani &amp; Shilin Rajeshbhai Adani (on behalf of Rajesh S. Adani Family Trust)",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Infinite Trade and Investment Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Foreign Body"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "shares": 148072227.0,
+      "pct": 0.0643,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Goldman Sachs Trust Ii - Goldman Sachs Gqg Partners International Opportunities Fund",
+      "shares": 44495892.0,
+      "pct": 0.0193,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "shares": 32539379.0,
+      "pct": 0.0141,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Body Corp-Ltd Liability Partnership",
+      "shares": 1700937.0,
+      "pct": 0.0007,
+      "holder_class": "Other Non-Institution"
+    },
+    {
+      "holder_name": "Trust (Employees)",
+      "shares": 8744.0,
+      "pct": 0.0,
+      "holder_class": "Other Non-Institution"
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690812_10072026084030_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIPORTS"
+  ],
+  "notes": "Q1 FY27 SHP filed 10-Jul-2026. pr_and_prgrp=66.03%, public=33.97%. SCRR-denominator (A+B+C2)=2,303,959,098 equity shares (no partly-paid, no DR). 21 promoter named + 5 public named above 1%. S.B. Adani Family Trust holds 30.85% via Gautambhai & Rajeshbhai jointly. Public named: LIC (6.43%), Goldman Sachs Trust II - Goldman Sachs GQG Partners Intl Opp Fund FPI Cat I (1.93%), SBI Nifty 50 ETF (1.41%), Body Corp-LLP (0.07%) and Trust-Employees (0.0004% - Bajaj Auto). Filing remark: in SBO disclosures PAN is masked '******' / dummy PAN ZZZZZ9999Z used for non-disclosure.",
+  "ingested_on": "2026-09-22"
+}

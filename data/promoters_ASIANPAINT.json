@@ -1,0 +1,591 @@
+{
+  "company": "Asian Paints Limited",
+  "isin": "INE021A01026",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696081_18072026032420_WEB.xml",
+    "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ASIANPAINT"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 0.5263,
+  "promoter_total_shares_filed": 499683230,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Sattva Holding and Trading Private Limited",
+      "shares_filed": 54789183,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Smiti Holding and Trading Company Private Limited",
+      "shares_filed": 51442638,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Geetanjali Trading and Investments Private Limited",
+      "shares_filed": 45706140,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Elcid Investments Limited",
+      "shares_filed": 28313860,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shubhit Holdings Private Limited",
+      "shares_filed": 23150730,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sudhanva Investments and Trading Company Private Limited",
+      "shares_filed": 19001760,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rupen Investment &amp; Industries Private Limited",
+      "shares_filed": 18849825,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Satyadharma Investments and Trading Company Private Ltd",
+      "shares_filed": 18334280,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Castle Investment &amp; Industries Private Limited",
+      "shares_filed": 15457470,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Lyon Investment &amp; Industries Private Limited",
+      "shares_filed": 14342060,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Dipika Amar Vakil",
+      "shares_filed": 12761340,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Jaldhar Investments and Trading Company Private Limited",
+      "shares_filed": 12428250,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Late Abhay Arvind Vakil",
+      "shares_filed": 12418060,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tru Trading and Investments Pvt Limited",
+      "shares_filed": 12176500,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Nehal Trading and Investments Private Limited",
+      "shares_filed": 11102530,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Asteroids Trading and Investments Private Limited",
+      "shares_filed": 10818530,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Jalaj Trading &amp; Investment Company Private Limited",
+      "shares_filed": 10776697,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Unnati Trading and Investments Private Limited",
+      "shares_filed": 10472600,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Doli Trading and Investments Private Limited",
+      "shares_filed": 9363440,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Centaurus Trading and Investments Pvt Ltd",
+      "shares_filed": 7408940,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vivek Abhay Vakil",
+      "shares_filed": 6812369,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Suptaswar Investments and Trading Company Limited",
+      "shares_filed": 6558310,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bhairavi Abhay Vakil",
+      "shares_filed": 6064322,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Lambodar Investments and Trading Company Limited",
+      "shares_filed": 6015130,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Murahar Investments and Trading Company Limited",
+      "shares_filed": 5743670,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Nehal Abhay Vakil",
+      "shares_filed": 5738489,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Upnishad Holdings Private Limited",
+      "shares_filed": 4098430,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hiren Holdings Private Limited",
+      "shares_filed": 3950310,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Prafullika Shailesh Choksi",
+      "shares_filed": 3874480,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Satyen Ashwin Gandhi",
+      "shares_filed": 3725954,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Hiren Ashwin Gandhi",
+      "shares_filed": 3706265,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vishal Shailesh Choksi",
+      "shares_filed": 3380865,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Hasit A Dani",
+      "shares_filed": 3150800,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "VAKIL HUF (VARUN AMAR VAKIL)",
+      "shares_filed": 3103290,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Amrita Amar Vakil",
+      "shares_filed": 2566680,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Jigish Shailesh Choksi",
+      "shares_filed": 2424825,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Manish Mahendra Choksi",
+      "shares_filed": 2381040,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Varun Amar Vakil",
+      "shares_filed": 2230590,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "AMAR ARVIND VAKIL HUF (VARUN AMAR VAKIL)",
+      "shares_filed": 2112190,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ELF Trading and Chemical Manufacturing Private Limited",
+      "shares_filed": 2108160,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ABHAY ARVIND VAKIL HUF (VIVEK ABHAY VAKIL)",
+      "shares_filed": 2076820,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rupal Anant Bhat",
+      "shares_filed": 1923770,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SHAILESH CHIMANLAL CHOKSI HUF (JIGISH SHAILESH CHOKSI)",
+      "shares_filed": 1749690,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mahendra Chimanlal Choksi",
+      "shares_filed": 1656380,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Jalaj A Dani",
+      "shares_filed": 1600200,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Late Asha Subhash Gujarathi",
+      "shares_filed": 1423400,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rita Mahendra Choksi",
+      "shares_filed": 980000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rayirth Holding and Trading Company Private Limited",
+      "shares_filed": 965910,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rupen Ashwin Choksi",
+      "shares_filed": 928607,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ashish Ashwin Choksi",
+      "shares_filed": 880840,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Urvashi Ashwin Choksi",
+      "shares_filed": 838110,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ACC AP TRUST (Urvashi Ashwin Choksi, Ashish Ashwin Choksi, Rupen Ashwin Choksi)",
+      "shares_filed": 785700,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rhea Amit Sethi",
+      "shares_filed": 702000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MAHENDRA CHIMANLAL CHOKSI HUF (MAHENDRA CHIMANLAL CHOKSI)",
+      "shares_filed": 539800,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ami Manish Choksi",
+      "shares_filed": 472200,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vita Jalaj Dani",
+      "shares_filed": 435260,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ishwara Hasit Dani",
+      "shares_filed": 410710,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "HASIT ASHWIN DANI HUF (HASIT ASHWIN DANI)",
+      "shares_filed": 392666,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "JALAJ A DANI HUF (JALAJ ASHWIN DANI)",
+      "shares_filed": 344666,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Richa Manish Choksi",
+      "shares_filed": 180450,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mudit Jalaj Dani",
+      "shares_filed": 159800,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Late Amar Arvind Vakil",
+      "shares_filed": 158770,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Smiti Jalaj Dani",
+      "shares_filed": 139110,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Binita Ashish Choksi",
+      "shares_filed": 131700,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anay Rupen Choksi",
+      "shares_filed": 130500,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Aashay Ashish Choksi",
+      "shares_filed": 125380,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vikatmev Containers Ltd",
+      "shares_filed": 111600,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Nysha Rupen Choksi (Minor)",
+      "shares_filed": 102750,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Druhi Ashish Choksi",
+      "shares_filed": 100000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ashwin Ramanlal Gandhi",
+      "shares_filed": 91860,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Meghna Satyen Gandhi",
+      "shares_filed": 75000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vaibhavi Hiren Gandhi",
+      "shares_filed": 75000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shubhlakshmi Hasit Dani",
+      "shares_filed": 59529,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Late Chandanben Chhotalal Shah",
+      "shares_filed": 20000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Dani Finlease Private Limited",
+      "shares_filed": 10930,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hrishav Varun Vakil (Minor)",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nyra Varun Vakil (Minor)",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ragini Varun Vakil",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MANISH MAHENDRA CHOKSI HUF (MANISH MAHENDRA CHOKSI)",
+      "shares_filed": 7500,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ASHISH ASHWIN CHOKSI HUF (ASHISH ASHWIN CHOKSI)",
+      "shares_filed": 5620,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ASHWIN SURYAKANT DANI HUF (ASHWIN SURYAKANT DANI)",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anant Raghuvir Bhat",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Arhaan Anant Bhat",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rehaan Anant Bhat (Minor)",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Priyanka Jigish Choksi",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Aryan Jigish Choksi N/G Jigish Shailesh Choksi (Minor)",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gayatri Subhash Gujarathi",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Amreen Sethi (Minor)",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S C Dani Research Foundation Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Haish Holding and Trading Company Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Avinash Holding and Trading Company Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Canes Venatici Trading Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hydra Trading Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hitech Specialities Solutions Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rituh Holding and Trading Company Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hitech Corporation Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Homevilla Yoga Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Riash Renewable Materials Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Stack Pack Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Dipika Chemicals Private Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Cronus Merchandise LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Mefree LLP",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "DANI FOUNDATION (Jalaj Dani, Vita Dani, Mudit Dani, Smiti Dani)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "PARAM-ARTH CHARITABLE TRUST (Hasit Dani, Shubhlakshmi Dani, Priyadarshini Kanodia)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ASHIYANA TRUST (Ina Ashwin Dani - Managing Trustee, Percy Jal Dajee - Trustee)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "CRONUS TRUST (Jalaj Dani, Vita Dani)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ISHWARA TRUST (Hasit Dani, Shubhlakshmi Dani)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NARADIYA TRUST (Malav Ashwin Dani - Managing Trustee, Ina Ashwin Dani)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RIG Trust (Jalaj Dani, Vita Dani)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "INAASHWIN TRUST (Ina Dani and Malav Dani-Managing Trustees,Viraf Mehta,Gautam Doshi,Vaishali Sharma)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Advaita Charitable Trust (Malav Ashwin Dani, Ina Ashwin Dani, Percy Jal Dajee)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sab Ka Mangal Ho Foundation (Ina Ashwin Dani, Malav Ashwin Dani, Percy Dajee, Mehernosh Mehta)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Dani Charitable Foundation (Ina Ashwin Dani, Jalaj Dani, Malav Ashwin Dani, Hasit Dani)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Homevilla Charitable Trust (Ina Ashwin Dani, Mahendra Sheth, Percy Jal Dajee, Homi Daruwalla)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Ashwin Ina Charitable Trust (Ina Ashwin Dani, Malav Ashwin Dani, Percy Jal Dajee)",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    }
+  ]
+}

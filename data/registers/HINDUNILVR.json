@@ -1,0 +1,85 @@
+{
+  "ticker": "HINDUNILVR",
+  "company": "Hindustan Unilever Limited",
+  "sector": "FMCG",
+  "isin": "INE030A01027",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 2349591262.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 61.9,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "UNILEVER PLC",
+      "shares_filed": 1114370148.0,
+      "pct": 47.43,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER GROUP HOLDINGS LIMITED",
+      "shares_filed": 106739460.0,
+      "pct": 4.54,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER OVERSEAS HOLDINGS AG",
+      "shares_filed": 68784320.0,
+      "pct": 2.93,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER UK&CN HOLDINGS LIMITED",
+      "shares_filed": 60086250.0,
+      "pct": 2.56,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER SOUTH INDIA ESTATES LIMITED",
+      "shares_filed": 52747200.0,
+      "pct": 2.24,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER ASSAM ESTATES LIMITED",
+      "shares_filed": 32820480.0,
+      "pct": 1.4,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    },
+    {
+      "filed_name": "UNILEVER OVERSEAS HOLDINGS B V",
+      "shares_filed": 18865000.0,
+      "pct": 0.8,
+      "holder_class": "Bodies Corporate (Foreign Promoter)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "ICICI Prudential India Opportunities Fund",
+      "shares": 41815213.0,
+      "pct": 1.78,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Equity Minimum Variance Fund",
+      "shares": 37746799.0,
+      "pct": 1.61,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 154902720.0,
+      "pct": 6.59,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/560/HINDUNILVR/latest/hindustan-unilever-ltd"
+  ],
+  "notes": "Quarter ended 30 June 2026 (Trendlyne Jun 2026 latest); HUL IR past-quarters-2026 archive page (805d6fd1) lists 'MQ 2026 - Shareholding Pattern for the past quarter' at /files/mq-2026-shareholding-pattern-for-the-past-quarter.pdf (March 2026 PDF, 158.3 KB) but the underlying PDF body did not extract in a rendered browser (chrome extension iframe). Trendlyne's June 2026 figures are the ones presented here; they are cross-validated against HUL's March 2026 PDF (ca2ac176) which confirms the identical promoter block (same 7 Unilever entities with same share counts 1,114,370,148 / 106,739,460 / 68,784,320 / 60,086,250 / 52,747,200 / 32,820,480 / 18,865,000 = 1,454,412,858). Total SCRR = (A)+(B)+(C2) = 1,454,412,858 + 895,178,404 + 0 = 2,349,591,262 (no DR custodian; no employee trust). The Unilever entities are foreign promoter group members listed under Table II category 'Bodies Corporate / Any Other'. ISIN INE030A01027 confirmed via NSE Archive Axis AMC portfolio (5ade50d0) and HUL IR PDF (ca2ac176 lists NSE Symbol HINDUNILVR, ISIN INE030A01027, Scrip 500696).",
+  "ingested_on": "2026-09-22"
+}

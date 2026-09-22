@@ -1,0 +1,235 @@
+{
+  "ticker": "INFY",
+  "company": "Infosys Limited",
+  "sector": "Information Technology",
+  "isin": null,
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 3715719937.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 13.82,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Sudha Gopalakrishnan",
+      "shares_filed": 95357000.0,
+      "pct": 2.55,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rohan Murty",
+      "shares_filed": 60812892.0,
+      "pct": 1.63,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nandan M Nilekani",
+      "shares_filed": 40789562.0,
+      "pct": 1.09,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Akshata Murty",
+      "shares_filed": 38957096.0,
+      "pct": 1.04,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Asha Dinesh",
+      "shares_filed": 38579304.0,
+      "pct": 1.03,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rohini Nilekani",
+      "shares_filed": 34335092.0,
+      "pct": 0.92,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sudha N Murty",
+      "shares_filed": 34550626.0,
+      "pct": 0.92,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Dinesh Krishnaswamy",
+      "shares_filed": 32479590.0,
+      "pct": 0.87,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S Gopalakrishnan",
+      "shares_filed": 31853808.0,
+      "pct": 0.85,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Meghana Gopalakrishnan",
+      "shares_filed": 14834928.0,
+      "pct": 0.4,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Narayana Murthy",
+      "shares_filed": 15145638.0,
+      "pct": 0.4,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nihar Nilekani",
+      "shares_filed": 12677752.0,
+      "pct": 0.34,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Janhavi Nilekani",
+      "shares_filed": 8589721.0,
+      "pct": 0.23,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shruti Shibulal",
+      "shares_filed": 8705651.0,
+      "pct": 0.23,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deeksha Dinesh",
+      "shares_filed": 7646684.0,
+      "pct": 0.2,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Divya Dinesh",
+      "shares_filed": 7646684.0,
+      "pct": 0.2,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Milan Shibulal Manchanda",
+      "shares_filed": 6106302.0,
+      "pct": 0.16,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nikita Shibulal Manchanda",
+      "shares_filed": 6106302.0,
+      "pct": 0.16,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gaurav Manchanda",
+      "shares_filed": 5773233.0,
+      "pct": 0.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S D Shibulal",
+      "shares_filed": 5208673.0,
+      "pct": 0.14,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kumari Shibulal",
+      "shares_filed": 4945935.0,
+      "pct": 0.13,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tanush Nilekani Chandra",
+      "shares_filed": 3356017.0,
+      "pct": 0.09,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ekagrah Rohan Murty",
+      "shares_filed": 1500000.0,
+      "pct": 0.04,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shray Chandra",
+      "shares_filed": 719424.0,
+      "pct": 0.02,
+      "holder_class": "Individuals/HUF"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Life Insurance Corporation of India - ULIF00220091",
+      "shares": 438775372.0,
+      "pct": 11.73,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "shares": 184057994.0,
+      "pct": 4.92,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "shares": 163266157.0,
+      "pct": 4.37,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "National Pension System Trust",
+      "shares": 119748645.0,
+      "pct": 3.2,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee",
+      "shares": 82365727.0,
+      "pct": 2.2,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "shares": 70607911.0,
+      "pct": 1.89,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "shares": 64677781.0,
+      "pct": 1.73,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "shares": 49872777.0,
+      "pct": 1.33,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "shares": 48903820.0,
+      "pct": 1.31,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Vanguard Emerging Markets Stock Index Fund",
+      "shares": 47240496.0,
+      "pct": 1.26,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Parag Parikh Mutual Fund",
+      "shares": 42161076.0,
+      "pct": 1.13,
+      "holder_class": "Mutual Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/630/INFY/latest/infosys-ltd/"
+  ],
+  "notes": "Source: trendlyne latest shareholding page for INFY showing Jun 2026 quarter. Promoter and promoter group is 24 named individuals (Individuals/HUF) including founders and their family members; the full list is verbatim from the trendlyne shareholding pattern page and matches the Infosys Mar 2026 PDF (clause35-march31-2026.pdf) promoter group names identified by the search snippet. Total (A)+(B)+(C2) per trendlyne summary = 3,715,719,937 shares (promoter 516,677,914 + institutions 2,617,470,261 + public 581,571,762). Infosys has ADR shares under C1 (Shares underlying Depository Receipts, held via Deutsche Bank Trust Company Americas); these are excluded from (A+B+C2) per SEBI LODR. The standard NSE listing ISIN for Infosys Limited is INE009A01021 (BSE 500209 / NSE INFY); ISIN was not directly found in fetched pages for this run and is left null.",
+  "ingested_on": "2026-09-22"
+}

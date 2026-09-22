@@ -1,0 +1,294 @@
+{
+  "company": "UltraTech Cement Limited",
+  "ticker": "ULTRACEMCO",
+  "isin": "INE481G01011",
+  "as_of": "2026-06-30",
+  "shares_scrr": 294297630,
+  "denominator_note": "stated 290,048,556 backed by 2 holders, implied 294,297,630 by 8; used the implied",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Shri Kumar Mangalam Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 611500
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Smt. Rajashree Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 41793
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Vikram Kumarmangalam Birla HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10228
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Advaitesha Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4300
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ananyashree Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4300
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aryaman Vikram Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4300
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Smt. Neerja Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8011
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Smt. Vasavadatta Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 13396
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Grasim Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 165335150
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pilani Investment and Industries Corporation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4405944
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hindalco Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1258515
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pt. Indo Bharat Rayon",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2286172
+      },
+      "filed_class": "Foreign Promoter",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Thai Rayon Public Co. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 219998
+      },
+      "filed_class": "Foreign Promoter",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aditya Birla Real Estate Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 146163
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pt. Sunrise Bumi Textiles",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 144998
+      },
+      "filed_class": "Foreign Promoter",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Birla Institute of Technology and Science",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 75566
+      },
+      "filed_class": "Trusts",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pt. Elegant Textile Industry",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 92428
+      },
+      "filed_class": "Foreign Promoter",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Padmavati Investment Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 56336
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Birla Group Holdings Pvt. Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 69963
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Century Enka Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 40105
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vaibhav Holdings Pvt. Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 76
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Vikram Holding Pvt. Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 85
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rajratna Holdings Pvt. Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 76
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "IGH Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Surya Kiran Investments Pte. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 572
+      },
+      "filed_class": "Foreign Promoter",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Sensex ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7591888
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust A/C UTI Pension Fund Limited-Scheme Central Government",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7568236
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5091349
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kotak Mahindra Trustee Co Ltd A/C Kotak Nifty 100 Equity Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3680222
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "LICI New Endowment Plus-Secured Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 8862483
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1443/ULTRACEMCO/30-06-2026/ultratech-cement-ltd",
+    "https://trendlyne.com/equity/share-holding/1443/ULTRACEMCO/latest/ultratech-cement-ltd",
+    "https://screener.in/company/ULTRACEMCO/consolidated",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/c833e46a-4141-427b-8f23-57286275cd72.pdf"
+  ],
+  "notes": "Source: trendlyne.com aggregator view of June 2026 quarter SEBI LODR Reg 31 shareholding pattern. Trendlyne names only entity-level rows seen in the aggregator output - the underlying BSE/NSE filed table lists promoters, mutual fund schemes and insurance entities with 1%+ holdings fully by name; smaller lots appear as category sub-totals only (156 MF schemes, 798 FPI Cat I, 54 FPI Cat II, 22 other foreign institutions, 93 banks/FIs, 387,873 resident individuals <=Rs 2L, 4 individuals >Rs 2L, 17,147 NRIs, 3,508 bodies corporate, 9 foreign companies, 1 IEPF, 6 insurance companies, 7 clearing members, 1 HUF). UltraTech has GDRs listed in Luxembourg (CUSIPs US90403E1038 and US90403E2028); the GDR underlying shares are recorded in (C1) Non Promoter-Non Public and are excluded from (A)+(B)+(C2). Total institutions 94,584,221 @ 32.60% and public 23,305,537 @ 7.92% are the remaining residuals. SCRR denominator implied by 172,085,808 promoter shares / 59.33% = ~290.05 million (matches sum of promoter 172,085,808 + institutions 94,584,221 + public 23,305,537 = 289,975,566 within rounding).",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.0012782557243290768,
+  "promoter_pct_filed": 59.33
+}

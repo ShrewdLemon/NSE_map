@@ -1,0 +1,135 @@
+{
+  "company": "Infosys Limited",
+  "isin": null,
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/630/INFY/latest/infosys-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 13.82,
+  "promoter_total_shares_filed": 516677914,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Sudha Gopalakrishnan",
+      "shares_filed": 95357000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rohan Murty",
+      "shares_filed": 60812892,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nandan M Nilekani",
+      "shares_filed": 40789562,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Akshata Murty",
+      "shares_filed": 38957096,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Asha Dinesh",
+      "shares_filed": 38579304,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rohini Nilekani",
+      "shares_filed": 34335092,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sudha N Murty",
+      "shares_filed": 34550626,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Dinesh Krishnaswamy",
+      "shares_filed": 32479590,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S Gopalakrishnan",
+      "shares_filed": 31853808,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Meghana Gopalakrishnan",
+      "shares_filed": 14834928,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Narayana Murthy",
+      "shares_filed": 15145638,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nihar Nilekani",
+      "shares_filed": 12677752,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Janhavi Nilekani",
+      "shares_filed": 8589721,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shruti Shibulal",
+      "shares_filed": 8705651,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deeksha Dinesh",
+      "shares_filed": 7646684,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Divya Dinesh",
+      "shares_filed": 7646684,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Milan Shibulal Manchanda",
+      "shares_filed": 6106302,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nikita Shibulal Manchanda",
+      "shares_filed": 6106302,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Gaurav Manchanda",
+      "shares_filed": 5773233,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S D Shibulal",
+      "shares_filed": 5208673,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Kumari Shibulal",
+      "shares_filed": 4945935,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tanush Nilekani Chandra",
+      "shares_filed": 3356017,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ekagrah Rohan Murty",
+      "shares_filed": 1500000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Shray Chandra",
+      "shares_filed": 719424,
+      "class": "Individuals/HUF"
+    }
+  ]
+}

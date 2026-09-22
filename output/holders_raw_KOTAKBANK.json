@@ -1,0 +1,184 @@
+{
+  "company": "Kotak Mahindra Bank Limited",
+  "ticker": "KOTAKBANK",
+  "isin": "INE237A01028",
+  "as_of": "2026-06-30",
+  "shares_scrr": 9946709153.0,
+  "denominator_note": "stated denominator agrees with 11 of 16 holders to 0.016%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Uday Suresh Kotak",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2555135500
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Indira Suresh Kotak",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10000000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Pallavi Kotak",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5557900
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Suresh A Kotak (HUF)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 550000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Suresh Amritlal Kotak",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 500000
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Janak Dinkarrai Desai",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 5
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Kotak Trustee Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1171780
+      },
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Aarti Neal Chandaria",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 286800
+      },
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 686048175
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 639029037
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 349582376
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 294002833
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "National Pension System Trust",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 227816490
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 199408544
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Parag Parikh Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 164740127
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Nippon Life Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 144419028
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 131586660
+      },
+      "filed_class": "FPI Cat I",
+      "doubtful": false
+    },
+    {
+      "holder_name": "SBI Life Insurance Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 104417644
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/758/KOTAKBANK/latest/kotak-mahindra-bank-ltd/",
+    "https://www.kotak.bank.in/en/investor-relations/investor-information/share-holding-pattern.html"
+  ],
+  "notes": "Source: trendlyne latest shareholding page for KOTAKBANK showing Jun 2026 quarter; primary IR shareholding-pattern PDF for FY-2027 Q1 (quarter ended 30 June 2026) is published on kotak.bank.in at kotak.bank.in/content/dam/Kotak/investor-relation/Financial-Result/shareholding-patterns/FY-2027/q1/ (extraction returned only the iframe wrapper, numerical tables not text-extracted in this run but URL is on the IR page). Uday Suresh Kotak is the controlling individual promoter at 25.69%; other named promoter group members are his relatives; the Kotak Trustee Company Private Limited trust holds 1.17 million shares. Total (A)+(B)+(C2) per trendlyne summary = 9,946,709,153 shares (promoter 2,573,201,985 + institutions 6,258,562,484 + public 1,114,944,684). No depository receipts (no GDR/ADR). ISIN INE237A01028 confirmed on the Kotak IR page.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -4.536304656999568e-06,
+  "promoter_pct_filed": 25.87
+}

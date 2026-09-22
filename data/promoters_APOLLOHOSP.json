@@ -1,0 +1,136 @@
+{
+  "company": "Apollo Hospitals Enterprise Limited",
+  "isin": "INE437A01024",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/93/APOLLOHOSP/latest/apollo-hospitals-enterprise-ltd/",
+    "https://trendlyne.com/equity/93/APOLLOHOSP/apollo-hospitals-enterprise-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 28.02,
+  "promoter_total_shares_filed": 40287130,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Ms. Suneeta Reddy",
+      "shares_filed": 2937066,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Sangita Reddy",
+      "shares_filed": 2432508,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Shobana Kamineni",
+      "shares_filed": 2239952,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. K Vishweshwar Reddy",
+      "shares_filed": 1577350,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Preetha Reddy",
+      "shares_filed": 1043915,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Sindoori Reddy",
+      "shares_filed": 318600,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Anuspala Kamineni",
+      "shares_filed": 259174,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Dr. Prathap C Reddy",
+      "shares_filed": 245464,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Konda Anindith Reddy",
+      "shares_filed": 230200,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Karthik Anand",
+      "shares_filed": 236167,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Vijay Kumar Reddy",
+      "shares_filed": 228957,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Konda Vishwajit Reddy",
+      "shares_filed": 222300,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Upasana Konidela",
+      "shares_filed": 217276,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Puansh Kamineni",
+      "shares_filed": 212202,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Harshad Reddy",
+      "shares_filed": 217900,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Konda Viraj Madhav Reddy",
+      "shares_filed": 168224,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Ms. Sucharitha P Reddy",
+      "shares_filed": 169800,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Aditya Reddy",
+      "shares_filed": 10200,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Dwaraknath Reddy",
+      "shares_filed": 18000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mr. Anil Kamineni",
+      "shares_filed": 20,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "M/s. PCR Investments Ltd",
+      "shares_filed": 27223124,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M/s. Indian Hospitals Corporation Ltd",
+      "shares_filed": 61704,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M/s. Obul Reddy Investments Pvt Ltd",
+      "shares_filed": 11200,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M/s. PPN Power Generating Company Private Ltd",
+      "shares_filed": 5827,
+      "class": "Bodies Corporate"
+    }
+  ]
+}

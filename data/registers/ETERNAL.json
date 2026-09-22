@@ -1,0 +1,127 @@
+{
+  "ticker": "ETERNAL",
+  "company": "Eternal Limited (formerly Zomato)",
+  "sector": "Consumer Services",
+  "isin": "INE758T01015",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 9648408250.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.0,
+  "has_promoter": false,
+  "promoter_group": [],
+  "public_holders": [
+    {
+      "holder_name": "Info Edge (India) Limited",
+      "shares": 1194687095.0,
+      "pct": 12.38,
+      "holder_class": "Public - Bodies Corporate"
+    },
+    {
+      "holder_name": "Deepinder Goyal",
+      "shares": 424238500.0,
+      "pct": 4.4,
+      "holder_class": "Public - Director"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited - HDFC Flexi Cap Fund",
+      "shares": 415464919.0,
+      "pct": 4.31,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "shares": 351503000.0,
+      "pct": 3.64,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Kotak Flexicap Fund",
+      "shares": 291909215.0,
+      "pct": 3.02,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI Prudential Balanced Advantage Fund",
+      "shares": 290434186.0,
+      "pct": 3.01,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd - Nippon India ETF Nifty 50 BeES",
+      "shares": 245933940.0,
+      "pct": 2.55,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Flexi Cap Fund",
+      "shares": 222340017.0,
+      "pct": 2.3,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Axis Mutual Fund Trustee Ltd - Axis Large Cap Fund",
+      "shares": 188564876.0,
+      "pct": 1.95,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS Trust - SBI Pension Fund Scheme - State Govt",
+      "shares": 180068400.0,
+      "pct": 1.87,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Motilal Oswal Midcap Fund",
+      "shares": 177041573.0,
+      "pct": 1.83,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Camas Investments Pte. Ltd",
+      "shares": 168084489.0,
+      "pct": 1.74,
+      "holder_class": "FPI"
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Trustee - ABSL Large Cap Fund",
+      "shares": 124349895.0,
+      "pct": 1.29,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Life Insurance Co. Ltd",
+      "shares": 110049667.0,
+      "pct": 1.14,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Dunearn Investments (Mauritius) Pte Ltd",
+      "shares": 109309341.0,
+      "pct": 1.13,
+      "holder_class": "FPI"
+    },
+    {
+      "holder_name": "Invesco India Focused Fund",
+      "shares": 104481474.0,
+      "pct": 1.08,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Canara Robeco Mutual Fund - Canara Robeco Large And Mid Cap Fund",
+      "shares": 101427948.0,
+      "pct": 1.05,
+      "holder_class": "Mutual Fund"
+    }
+  ],
+  "source_urls": [
+    "https://www.trendlyne.com/equity/share-holding/589490/eternal/latest/eternal-ltd/",
+    "https://bseindia.com/xml-data/corpfiling/AttachLive/b267f096-3422-444f-83cc-4bf28ccd99cd.pdf"
+  ],
+  "notes": "Q1 FY2027 (June 2026 quarter-end 30-Jun-2026) shareholding pattern. ETERNAL is professionally managed with NO PROMOTER (has_promoter=false, promoter_pct=0, empty promoter_group). Table II shows 'No Holding for this category'. Institutional Investors 68.41% / 6,600,476,084 shares (down from prior quarter); FII/FPI 29.09% (down from 32.61%); Mutual Funds 31.68% across 47 schemes / 3,057,374,853 shares; Insurance 4.21%; Public non-institutional 26.99% / 2,604,917,013 shares; Banks 0.03%. SCRR denominator (A)+(B)+(C2) = 9,648,408,250 shares (no GDRs). Info Edge (India) Limited at 12.38% / 1,194,687,095 shares is the single largest shareholder. Includes Deepinder Goyal (founder/CEO) at 4.40%.",
+  "ingested_on": "2026-09-22"
+}
