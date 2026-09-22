@@ -15,7 +15,8 @@
       "quarters": {
         "Sep/2025": 555000000
       },
-      "filed_class": "Central Government/State Government(s) (Promoter)"
+      "filed_class": "Central Government/State Government(s) (Promoter)",
+      "doubtful": false
     },
     {
       "holder_name": "Arunachal Pradesh Rural Bank",
@@ -23,7 +24,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "C-Edge Technologies Limited",
@@ -31,7 +33,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Chhattisgarh Rajya Gramin Bank",
@@ -39,7 +42,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Jharkhand Rajya Gramin Bank",
@@ -47,7 +51,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Meghalaya Rural Bank",
@@ -55,7 +60,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Mizoram Rural Bank",
@@ -63,7 +69,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Nagaland Rural Bank",
@@ -71,7 +78,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Oman India Joint Investment Fund Management Company Private Limited",
@@ -79,7 +87,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Oman India Joint Investment Fund-Trustee Company Private Limited",
@@ -87,7 +96,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Rajasthan Gramin Bank",
@@ -95,7 +105,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBICAP Securities Limited",
@@ -103,7 +114,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBICAP Trustee Company Limited",
@@ -111,7 +123,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Capital Markets Limited",
@@ -119,7 +132,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Ventures Limited (Formerly Known as SBICAP Ventures Limited)",
@@ -127,7 +141,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI DFHI Limited",
@@ -135,7 +150,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Foundation",
@@ -143,7 +159,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Funds Management Limited",
@@ -151,7 +168,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Funds Management (International) Private Limited",
@@ -159,7 +177,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI General Insurance Company Limited",
@@ -167,7 +186,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Factors Limited (Formerly Known as SBI Global Factors Limited)",
@@ -175,7 +195,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Macquarie Infrastructure Management Private Limited",
@@ -183,7 +204,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Macquarie Infrastructure Trustee Private Limited",
@@ -191,7 +213,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Mutual Fund Trustee Co. Private Limited",
@@ -199,7 +222,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Payments Services Private Limited",
@@ -207,7 +231,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Pension Funds Private Limited",
@@ -215,7 +240,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI-SG Global Securities Services Private Limited",
@@ -223,7 +249,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Telangana Grameena Bank",
@@ -231,7 +258,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Uttarakhand Gramin Bank",
@@ -239,7 +267,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Bank of Bhutan Limited",
@@ -247,7 +276,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Commercial Indo Bank LLc, Moscow",
@@ -255,7 +285,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Macquarie SBI Infrastructure Management Pte Ltd",
@@ -263,7 +294,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Macquarie SBI Infrastructure Trustee Limited",
@@ -271,7 +303,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Nepal SBI Bank Limited",
@@ -279,7 +312,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Nepal SBI Merchant Banking Limited",
@@ -287,7 +321,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "PT Bank SBI Indonesia",
@@ -295,7 +330,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI (Mauritius) Limited",
@@ -303,7 +339,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Canada Bank",
@@ -311,7 +348,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "State Bank of India (California)",
@@ -319,7 +357,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "State Bank of India (UK) Limited",
@@ -327,7 +366,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "State Bank of Servicos Limitada",
@@ -335,7 +375,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "Yes Bank Limited",
@@ -343,7 +384,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "State Bank Operations Support Services Private Limited",
@@ -351,7 +393,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Cards and Payment Services Limited",
@@ -359,7 +402,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI CDMDF Trustee Private Limited",
@@ -367,7 +411,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Funds International (IFSC) Limited",
@@ -375,7 +420,8 @@
       "quarters": {
         "Sep/2025": 0
       },
-      "filed_class": "Promoter group"
+      "filed_class": "Promoter group",
+      "doubtful": false
     },
     {
       "holder_name": "ICICI PRUDENTIAL MUTUAL FUND SCHEMES",
@@ -383,7 +429,8 @@
       "quarters": {
         "Sep/2025": 150607989
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "HDFC MUTUAL FUND SCHEMES",
@@ -391,7 +438,8 @@
       "quarters": {
         "Sep/2025": 40680381
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "NIPPON LIFE INDIA MUTUAL FUND SCHEMES",
@@ -399,7 +447,8 @@
       "quarters": {
         "Sep/2025": 40518952
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "SBI MUTUAL FUND SCHEMES",
@@ -407,7 +456,8 @@
       "quarters": {
         "Sep/2025": 121567690
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": true
     },
     {
       "holder_name": "NPS TRUST SCHEMES",
@@ -415,15 +465,17 @@
       "quarters": {
         "Sep/2025": 137781580
       },
-      "filed_class": "Provident Funds/Pension Funds"
+      "filed_class": "Provident Funds/Pension Funds",
+      "doubtful": true
     },
     {
       "holder_name": "GOVERNMENT OF SINGAPORE",
       "bloomberg_holder_type": "Institution",
       "quarters": {
-        "Sep/2025": 2134450960
+        "Sep/2025": 213446728
       },
-      "filed_class": "Foreign Portfolio Investors Category I"
+      "filed_class": "Foreign Portfolio Investors Category I",
+      "doubtful": true
     },
     {
       "holder_name": "Foreign Portfolio Investors Category II (collective)",
@@ -431,7 +483,8 @@
       "quarters": {
         "Sep/2025": 33520558
       },
-      "filed_class": "Foreign Portfolio Investors Category II"
+      "filed_class": "Foreign Portfolio Investors Category II",
+      "doubtful": false
     },
     {
       "holder_name": "MACRITCHIE INVESTMENTS PTE LTD",
@@ -439,13 +492,20 @@
       "quarters": {
         "Sep/2025": 151000005
       },
-      "filed_class": "Foreign Companies"
+      "filed_class": "Foreign Companies",
+      "doubtful": true
     }
   ],
   "source_urls": [
     "https://www.sbilife.co.in/documents/20118/589239/SBI+Life_SHP_Q2_FY2025-26_Website.pdf"
   ],
   "notes": "Source is SBILIFE's own filed PDF for quarter ended 30 September 2025 (Q2 FY 2025-26). The Q1 FY27 (30 June 2026) SHP PDF on sbilife.co.in was retrieved only as a base64 iframe stub from which the underlying table data could not be parsed during this run; so I report Q2 FY25-26 (30 Sept 2025) - the most recently filed quarter for which the table was extractable. Filed pattern: 1 promoter holding 55,000,000,00 (55.36%) - State Bank of India; 47 promoter-group entities each nil, all listed verbatim. Public sub-totals include Mutual Funds (18.69%), FPI Cat I 21.29% (Government of Singapore 21.29% being the dominant holder >1%), Insurance Companies 1.43%, Provident Funds/Pension Funds 1.37%, NPS Trust 1.37%. Foreign Companies Macritchie Investments 1.51%. Total (A+B+C2) = 1,00,25,68,002; no DRs (C1=0), no Employee Trust shares (C2=0).",
+  "corrections": [
+    "SBILIFE/SBI MUTUAL FUND SCHEMES: count 121,567,690 and 1.21% disagree (12,131,073); kept the count",
+    "SBILIFE/NPS TRUST SCHEMES: count 137,781,580 and 1.37% disagree (13,735,182); kept the count",
+    "SBILIFE/GOVERNMENT OF SINGAPORE: count 2,134,450,960 exceeds the 1,002,568,002 share base; used 21.29% (213,446,728)",
+    "SBILIFE/MACRITCHIE INVESTMENTS PTE LTD: count 151,000,005 and 1.51% disagree (15,138,777); kept the count"
+  ],
   "promoter_reconciliation": "reconciled",
   "promoter_drift": -3.900011352637955e-05,
   "promoter_pct_filed": 55.36

@@ -73,6 +73,8 @@ _CLASSES = r"""(?:
   | foreign\s*companies  | overseas?e?\s*corporate\s*bodies
   | foreign\s*[-–].*  | non\s*resident\s*indians?\s*\(nris?\)
   | .*not\s*applicable.*  | no\s*promoter.*
+  | employee\s*benefit\s*trusts?\s*/?\s*employee\s*welfare\s*trusts?.*
+  | .*under\s*sebi\s*\(share\s*based.*
 )"""
 
 _AGGREGATE = re.compile(
@@ -81,6 +83,9 @@ _AGGREGATE = re.compile(
     r"(?:" + _CLASSES + r"|" + _TOTAL_WORD + r")"
     r"\s*[-–,]?\s*"
     r"(?:\(?\s*" + _TOTAL_WORD + r"\s*\)?)?"          # 'Mutual Funds (total)'
+    # A trailing qualifier such as '(collective)' or '(various schemes)' does
+    # not make a category line into a shareholder.
+    r"(?:\s*\((?:collective|various[^)]*|aggregate[^)]*|[^)]{0,3})\))?"
     r"\s*" + _TABLE_REF + r"\s*$",
     re.I | re.X)
 

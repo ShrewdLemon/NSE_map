@@ -101,15 +101,189 @@
   ],
   "public_holders": [
     {
-      "holder_name": "Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",
+      "holder_name": "Shareholding (C) = (C)(1)+(C)(2)",
+      "shares": 2291214,
+      "pct": null,
+      "holder_class": null
+    },
+    {
+      "holder_name": "Promoter & Promoter Group*",
+      "shares": 297672111,
+      "pct": 43.74,
+      "holder_class": null
+    },
+    {
+      "holder_name": "Public*",
+      "shares": 380584412,
+      "pct": 56.11,
+      "holder_class": null
+    },
+    {
+      "holder_name": "Non promoter- Non",
       "shares": 2291214,
       "pct": 0.34,
       "holder_class": null
     },
     {
-      "holder_name": "Shareholding (C) = (C)(1)+(C)(2)",
-      "shares": 2291214,
+      "holder_name": "1 Kumar Mangalam Birla",
+      "shares": 1776589,
+      "pct": 0.26,
+      "holder_class": null
+    },
+    {
+      "holder_name": "2 Neerja Birla",
+      "shares": 75967,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "3 Rajashree Birla",
+      "shares": 574829,
+      "pct": 0.08,
+      "holder_class": null
+    },
+    {
+      "holder_name": "4 Vasavadatta Bajaj",
+      "shares": 123249,
+      "pct": 0.02,
+      "holder_class": null
+    },
+    {
+      "holder_name": "Promoter group",
+      "shares": 93287,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "6 Ananyashree Birla",
+      "shares": 36800,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "7 Aryaman Vikram Birla",
+      "shares": 36800,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "8 Advaitesha Birla",
+      "shares": 36800,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "1 Birla Consultants Limited",
+      "shares": 90856,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "2 Birla Industrial Finance (India) Limited",
+      "shares": 90962,
+      "pct": 0.01,
+      "holder_class": null
+    },
+    {
+      "holder_name": "3 Birla Industrial Investments (India) Limited",
+      "shares": 19400,
       "pct": null,
+      "holder_class": null
+    },
+    {
+      "holder_name": "4 Hindalco Industries Limited",
+      "shares": 29168472,
+      "pct": 4.29,
+      "holder_class": null
+    },
+    {
+      "holder_name": "5 Birla Group Holdings Private Limited",
+      "shares": 157782973,
+      "pct": 23.18,
+      "holder_class": null
+    },
+    {
+      "holder_name": "6 Rajratna Holdings Private Limited",
+      "shares": 697,
+      "pct": null,
+      "holder_class": null
+    },
+    {
+      "holder_name": "7 Vikram Holdings Pvt Ltd",
+      "shares": 781,
+      "pct": null,
+      "holder_class": null
+    },
+    {
+      "holder_name": "8 Vaibhav Holdings Private Limited",
+      "shares": 697,
+      "pct": null,
+      "holder_class": null
+    },
+    {
+      "holder_name": "9 Birla Institute of Technology and Science",
+      "shares": 661205,
+      "pct": 0.1,
+      "holder_class": null
+    },
+    {
+      "holder_name": "10 Pilani Investment and Industries",
+      "shares": 30335623,
+      "pct": 4.46,
+      "holder_class": null
+    },
+    {
+      "holder_name": "11 Renuka Ventures Limited",
+      "shares": 250302,
+      "pct": 0.04,
+      "holder_class": null
+    },
+    {
+      "holder_name": "12 IGH Holdings Private Limited",
+      "shares": 45195313,
+      "pct": 6.64,
+      "holder_class": null
+    },
+    {
+      "holder_name": "1 P.T. Indo Bharat Rayon",
+      "shares": 20004020,
+      "pct": 2.94,
+      "holder_class": null
+    },
+    {
+      "holder_name": "2 PT. Sunrise Bumi Textiles",
+      "shares": 1268750,
+      "pct": 0.19,
+      "holder_class": null
+    },
+    {
+      "holder_name": "3 PT. Elegant Textile Industry",
+      "shares": 808750,
+      "pct": 0.12,
+      "holder_class": null
+    },
+    {
+      "holder_name": "4 Thai Rayon Public Company Limited",
+      "shares": 4774666,
+      "pct": 0.7,
+      "holder_class": null
+    },
+    {
+      "holder_name": "5 Surya Kiran Investments Pte Limited",
+      "shares": 5000,
+      "pct": null,
+      "holder_class": null
+    },
+    {
+      "holder_name": "6 Anatole Investments Pte Ltd",
+      "shares": 4459323,
+      "pct": 0.66,
+      "holder_class": null
+    },
+    {
+      "holder_name": "Group (A) = (A)(1) + (A)(2)",
+      "shares": 297672111,
+      "pct": 43.74,
       "holder_class": null
     }
   ],
