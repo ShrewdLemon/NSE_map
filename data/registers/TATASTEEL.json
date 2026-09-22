@@ -1,0 +1,114 @@
+{
+  "ticker": "TATASTEEL",
+  "company": "Tata Steel Limited",
+  "sector": "Metals & Mining",
+  "isin": "INE081A01020",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 12485463449.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 32.94,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Tata Sons Private Limited",
+      "shares_filed": 3965081420.0,
+      "pct": 31.76,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Motors Passenger Vehicles Limited (formerly known as Tata Motors Limited)",
+      "shares_filed": 54962950.0,
+      "pct": 0.44,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Investment Corporation Limited",
+      "shares_filed": 41984940.0,
+      "pct": 0.34,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Ewart Investments Limited",
+      "shares_filed": 22259750.0,
+      "pct": 0.18,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Rujuvalika Investments Limited",
+      "shares_filed": 11683930.0,
+      "pct": 0.09,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other; wholly-owned subsidiary of Tata Steel w.e.f. 8 May 2015 - no voting rights)"
+    },
+    {
+      "filed_name": "Tata Industries Limited",
+      "shares_filed": 10425450.0,
+      "pct": 0.08,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Capital Limited",
+      "shares_filed": 6270720.0,
+      "pct": 0.05,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Titan Company Limited",
+      "shares_filed": 25110.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "shares": 496291004.0,
+      "pct": 3.98,
+      "holder_class": "Mutual Fund/ETF"
+    },
+    {
+      "holder_name": "Icici Prudential Value Fund",
+      "shares": 288722018.0,
+      "pct": 2.31,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Hdfc Trustee Company Limited - HDFC Flexi Cap Fund",
+      "shares": 265169321.0,
+      "pct": 2.12,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Uti Nifty 50 Etf",
+      "shares": 182768861.0,
+      "pct": 1.46,
+      "holder_class": "Mutual Fund/ETF"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 795486832.0,
+      "pct": 6.37,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS Trust- A/C LIC Pension Fund Scheme - State Govt",
+      "shares": 236088522.0,
+      "pct": 1.89,
+      "holder_class": "Pension Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1366/TATASTEEL/latest/tata-steel-ltd",
+    "https://www.tatasteel.com/investors/stock-exchange-compliances/shareholding-pattern/",
+    "https://www.tatasteel.com/media/26190/tsl-shp-june-30-2026.pdf",
+    "https://www.tatasteel.com/media/16164/shp-web.pdf",
+    "https://www.tatasteel.com/media/16718/2-post-amalgamation-shareholding-pattern.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5abccd24a.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2026 shareholding pattern (Q1 FY27). The SEBI LODR Reg.31 SHP for Tata Steel for 30 June 2026 is published on the company's investor site (media/26190/tsl-shp-june-30-2026.pdf) but the PDF was not directly decodable in the extract; the values here are from the trendlyne mirror of the same filing (shareholding/1366/TATASTEEL/latest on 30-06-2026). Named promoter group entities are all in the Any Other (Bodies Corporate) sub-category per the SEBI template; Tata Sons Private Limited is the lead promoter holding 31.76% and is the only promoter-entity above 1% as an individual. SCRR denominator 12,485,463,449 is computed as promoter 4,112,694,270 / 32.94% pct and is broadly consistent with the FY26 annual report disclosure of 12,410,485,302 Ordinary Shares dematerialised equal to 99.41% of paid-up capital (paid-up equity shares ~12.485 billion). Jun 2026 SHP is post the 8 Feb 2024 Tinplate Company of India Limited merger and post Jan 2024 Tata Motors Finance Limited merger reflected in the share count.",
+  "ingested_on": "2026-09-22"
+}

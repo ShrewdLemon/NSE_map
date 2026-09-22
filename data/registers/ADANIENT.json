@@ -11,7 +11,7 @@
   "shares_scrr": 1301693464.0,
   "bonus_factor": 1,
   "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
-  "promoter_pct": 0.7484,
+  "promoter_pct": 71.97,
   "has_promoter": true,
   "promoter_group": [
     {
@@ -178,5 +178,6 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIENT"
   ],
   "notes": "Q1 FY27 SHP filed 10-Jul-2026. pr_and_prgrp=74.84%, public=25.16%. SCRR-denominator (A+B+C2)=1,301,693,464 equity shares (FullyPaid=1,300,920,098 + PartlyPaid=773,366). No DR/GDR issued. The 6 promoter individuals Gautambhai/Rajeshbhai/Pranav/Karan/Sagar/Jeet Adani hold 42 shares in aggregate (1 or 10 each \u2014 formal promoter-individual representation), with bulk of promoter holding concentrated in the S.B. Adani Family Trust (49.33%) and 9 Foreign Promoter Bodies (cumulative 15.57%); one nil-holder 'Gautam S. Adani Family Trust' included. Public named holders total ~12.18% (LIC+GQG+Quant+Green Enterprises+SBI Equity Hybrid). Partly-paid 773,366 shares all classed to Public. PAN/holder details are masked '******' in filing for promoter rows. Note from XBRL on nationality of Vinodbhai Shantilal Adani.",
-  "ingested_on": "2026-09-22"
+  "ingested_on": "2026-09-22",
+  "promoter_pct_source": "NSE corporate-share-holdings-master API; the extracted value was 0.7484, which the exchange contradicts"
 }

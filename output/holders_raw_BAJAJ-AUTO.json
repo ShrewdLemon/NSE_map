@@ -898,7 +898,7 @@
   ],
   "notes": "Q1 FY27 SHP filed 20-Jul-2026. pr_and_prgrp=55.01%, public=44.99%. SCRR-denominator (A+B+C2)=279,497,838 equity shares. GDR issued (Overseas Depositories axis = 225 underlying shares \u2014 de minimis). 91 promoter named entries (Bajaj Holdings & Investment 34.19%, Jamnalal Sons 9.29%, Maharashtra Scooters 2.48%, Bajaj Sevashram 1.58%, Bachhraj & Co 1.30%, 60 other body corporates + Yamuna Trust 1.29% + 25 promoter Individuals/HUF). Many family members hold 1-100 shares each; Bajaj family total promoter ~55%. Public named: LICI ULIP-Growth Fund 4.88% + Jaya Hind Industries Private Ltd 3.56% (Bodies Corporate Public) + HDFC MF - HDFC Hybrid Debt Fund 1.60% + SBI NIFTY 50 Equal Weight Index Fund 1.35% + NPS Trust A/C UTI Pension 1.01% + Kriti Bajaj (NRI) + Aryaman Kejriwal (NRI) + small 'FOREIGN INSTITUTIONAL INVESTORS'/'FOREIGN BANK' legacy entries.",
   "corrections": [],
-  "promoter_reconciliation": "close",
-  "promoter_drift": 0.015413872442331302,
-  "promoter_pct_filed": 0.5501
+  "promoter_reconciliation": "unreconciled",
+  "promoter_drift": -0.9898458612755767,
+  "promoter_pct_filed": 55.010000000000005
 }

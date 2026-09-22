@@ -7,7 +7,7 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIPORTS"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 0.6603,
+  "promoter_total_pct": 66.03,
   "promoter_total_shares_filed": 1521337573,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,

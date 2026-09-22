@@ -7,7 +7,7 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJFINANCE"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 0.5467,
+  "promoter_total_pct": 54.669999999999995,
   "promoter_total_shares_filed": 3403965950,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,

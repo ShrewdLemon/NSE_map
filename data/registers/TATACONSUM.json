@@ -1,0 +1,106 @@
+{
+  "ticker": "TATACONSUM",
+  "company": "Tata Consumer Products Limited",
+  "sector": "FMCG",
+  "isin": "INE192A01025",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 989645268.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 33.83,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Tata Sons Private Limited",
+      "shares_filed": 283854264.0,
+      "pct": 28.68,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Investment Corporation Limited",
+      "shares_filed": 45975807.0,
+      "pct": 4.65,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Ewart Investments Limited",
+      "shares_filed": 3876950.0,
+      "pct": 0.39,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Industries Limited",
+      "shares_filed": 851161.0,
+      "pct": 0.09,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Voltas Limited",
+      "shares_filed": 237289.0,
+      "pct": 0.02,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Capital Limited",
+      "shares_filed": 11468.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Tata Securities Limited",
+      "shares_filed": 2.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    },
+    {
+      "filed_name": "Titan Company Limited",
+      "shares_filed": 6893.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate (Promoter Group - Any Other)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Sbi-Nifty 50 Etf",
+      "shares": 16692239.0,
+      "pct": 1.69,
+      "holder_class": "Mutual Fund/ETF"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Small Cap Fund",
+      "shares": 15913283.0,
+      "pct": 1.61,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 81469499.0,
+      "pct": 8.23,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Sbi Life Insurance Co. Ltd",
+      "shares": 14121220.0,
+      "pct": 1.43,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS Trust A/C UTI Pension Fund Limited - Scheme State Govt",
+      "shares": 23896426.0,
+      "pct": 2.41,
+      "holder_class": "Pension Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1359/TATACONSUM/latest/tata-consumer-products-ltd",
+    "https://www.tataconsumer.com/shareholding-pattern-q1-2026-27",
+    "https://www.tataconsumer.com/shareholding-pattern-q1-2024-25",
+    "https://bseindia.com/xml-data/corpfiling/AttachLive/087ca5bf-e93e-4121-b4ba-0b4bd183a1cd.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2026 shareholding pattern (Tata Consumer Q1 FY27). Trendlyne-derived SCRR denominator 989,645,268 = promoter 334,813,834 + institutional 446,333,454 + non-institutional public 208,497,980; consistent with paid-up equity capital of Rs 98.96 crore (999.60 lakh shares) per Q1 FY27 standalone results. Tata Sons Private Limited is the holding-company promoter; remaining Any-Other promoter group members are fellow Tata Group entities that all fall under the Bodies Corporate sub-category. Tata Securities Limited holds a nil-effect 2-share residual. No other Pension Fund/Insurance/MF/FPI row above 1% was shown beyond the 5 listed.",
+  "ingested_on": "2026-09-22"
+}

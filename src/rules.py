@@ -17,6 +17,9 @@ _INDIA_MARKERS = (
     "old bridge", "jm financial", "lici", "lic mf", "life insurance corporation",
     "new india assurance", "general insurance corporation", "gic housing",
     "trust mutual fund", "trust amc", "franklin india", "hsbc mutual fund",
+    # Names met in the index registers that carry no other Indian signal.
+    "hindalco", "grasim", "ultratech", "pilani", "jaya hind", "renuka ventures",
+    "info edge", "westbridge", "enam", "shamyak", "gagandeep",
 )
 # 'trust' alone was in this list and had to come out: it is a legal form, not
 # evidence of Indian incorporation, and it silently made every foreign entity
@@ -77,6 +80,35 @@ def domicile(normalised: str) -> str | None:
     return None
 
 
+# Fund houses whose schemes appear in Indian registers under the house name.
+# Only used to type a scheme, never to assert a domicile beyond "not India".
+_FOREIGN_HOUSE = re.compile(
+    r"\b(vanguard|blackrock|ishares|fidelity|fmr|capital group|t\.? ?rowe price|"
+    r"dodge ?(?:and|&) ?cox|artisan partners|artisan international|schroder|abrdn|"
+    r"aberdeen|amundi|gqg|wellington|baillie gifford|lazard|"
+    r"jupiter|janus henderson|franklin templeton|eastspring|matthews asia)\b", re.I)
+
+# Legal-form suffixes that place a company outside India. 'Pte' is Singapore,
+# 'B.V.'/'N.V.' the Netherlands, 'RSC' Abu Dhabi, and so on.
+_FOREIGN_FORM = re.compile(
+    r"\b(pte\.? ?ltd\.?|pte\.? ?limited|b\.? ?v\.?|n\.? ?v\.?|plc|"
+    r"inc\.?|llc|gmbh|s\.? ?a\.?|a\.? ?g\.?|s\.?p\.?a\.?|rsc limited|"
+    r"public company limited|sdn\.? ?bhd|pty\.? ?ltd)\s*$", re.I)
+
+# Indian corporate forms.
+_INDIAN_FORM = re.compile(
+    r"\b(private limited|pvt\.? ?ltd\.?|pvt\.? ?limited|llp)\s*$", re.I)
+# A bare 'Limited' or 'Ltd' is used the world over, so it only places a company
+# in India alongside some other Indian signal.
+_GENERIC_FORM = re.compile(r"\b(limited|ltd\.?)\s*$", re.I)
+
+# Signals that a company is a financial institution rather than a plain
+# corporate holder; those must not be swept up by the fallback.
+_FINANCIAL = re.compile(
+    r"\b(bank|banca|banque|insurance|assurance|mutual fund|asset manage\w*|"
+    r"pension|provident|sovereign|amc|securities|broking)\b", re.I)
+
+
 def classify(holder_name: str, normalised: str, bloomberg_type: str | None):
     """Name-only classification. None means 'needs research'."""
     if bloomberg_type == "Individual":
@@ -121,5 +153,29 @@ def classify(holder_name: str, normalised: str, bloomberg_type: str | None):
         if dom == "IN":
             return "Domestic Insurance", "high", "rule:insurance+india"
         return None
+
+    # --- fallbacks -------------------------------------------------------
+    # Everything below is weaker than the rules above: it reads a legal form
+    # rather than identifying the entity, so it returns medium confidence and
+    # the row is flagged for review. It exists so that a holder is placed with
+    # a stated basis rather than left blank.
+    if dom != "IN" and _FOREIGN_HOUSE.search(holder_name) and _SCHEME.search(holder_name):
+        return "Foreign AMC", "medium", "rule:foreign-fund-house"
+
+    if not _FINANCIAL.search(holder_name):
+        if _FOREIGN_FORM.search(holder_name.strip()):
+            return "Foreign corporate", "medium", "rule:foreign-legal-form"
+        name = holder_name.strip()
+        if _INDIAN_FORM.search(name):
+            return "Domestic corporate", "medium", "rule:indian-legal-form"
+        if dom == "IN" and _GENERIC_FORM.search(name):
+            return "Domestic corporate", "medium", "rule:indian-company"
+
+    # The taxonomy's 'Bank' bucket is domicile-neutral, so a bank can be placed
+    # without establishing where it is incorporated. The vehicle question -
+    # custody or own book - is what would need research, and the bucket does
+    # not turn on it.
+    if _BANK.search(holder_name):
+        return "Bank", "medium", "rule:bank-by-name"
 
     return None

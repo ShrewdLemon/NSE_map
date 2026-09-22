@@ -113,7 +113,8 @@ def classify(holders, registry, ticker, master):
             cat, conf, basis = r
             row.update(category=cat, basis=basis, confidence=conf,
                        country=country_for_category(cat),
-                       reason="name-based rule", source="deterministic rule")
+                       reason="name-based rule", source="deterministic rule",
+                       needs_review=(row["needs_review"] or conf != "high"))
             # Individuals are people, not entities - nothing worth caching.
             # A category with no inverse mapping is not cached either: writing a
             # null entity_type would override this very rule on the next run.

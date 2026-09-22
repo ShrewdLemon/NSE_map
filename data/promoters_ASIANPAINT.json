@@ -7,7 +7,7 @@
     "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ASIANPAINT"
   ],
   "as_of": "2026-06-30",
-  "promoter_total_pct": 0.5263,
+  "promoter_total_pct": 52.63,
   "promoter_total_shares_filed": 499683230,
   "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "bonus_factor": 1,

@@ -1,0 +1,152 @@
+{
+  "company": "Tata Steel Limited",
+  "ticker": "TATASTEEL",
+  "isin": "INE081A01020",
+  "as_of": "2026-06-30",
+  "shares_scrr": 12485463449.0,
+  "denominator_note": "stated denominator agrees with 9 of 13 holders to 0.049%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Tata Sons Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3965081420
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Motors Passenger Vehicles Limited (formerly known as Tata Motors Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 54962950
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Investment Corporation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 41984940
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Ewart Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 22259750
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Rujuvalika Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11683930
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other; wholly-owned subsidiary of Tata Steel w.e.f. 8 May 2015 - no voting rights)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10425450
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Tata Capital Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 6270720
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Titan Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 25110
+      },
+      "filed_class": "Bodies Corporate (Promoter Group - Any Other)",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 496291004
+      },
+      "filed_class": "Mutual Fund/ETF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Icici Prudential Value Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 288722018
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Hdfc Trustee Company Limited - HDFC Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 265169321
+      },
+      "filed_class": "Mutual Fund",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Uti Nifty 50 Etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 182768861
+      },
+      "filed_class": "Mutual Fund/ETF",
+      "doubtful": false
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 795486832
+      },
+      "filed_class": "Insurance Company",
+      "doubtful": false
+    },
+    {
+      "holder_name": "NPS Trust- A/C LIC Pension Fund Scheme - State Govt",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 236088522
+      },
+      "filed_class": "Pension Fund",
+      "doubtful": false
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1366/TATASTEEL/latest/tata-steel-ltd",
+    "https://www.tatasteel.com/investors/stock-exchange-compliances/shareholding-pattern/",
+    "https://www.tatasteel.com/media/26190/tsl-shp-june-30-2026.pdf",
+    "https://www.tatasteel.com/media/16164/shp-web.pdf",
+    "https://www.tatasteel.com/media/16718/2-post-amalgamation-shareholding-pattern.pdf",
+    "https://bseindia.com/xml-data/corpfiling/AttachHis/eb836c3a-cf5f-427d-bc71-e368d5abccd24a.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2026 shareholding pattern (Q1 FY27). The SEBI LODR Reg.31 SHP for Tata Steel for 30 June 2026 is published on the company's investor site (media/26190/tsl-shp-june-30-2026.pdf) but the PDF was not directly decodable in the extract; the values here are from the trendlyne mirror of the same filing (shareholding/1366/TATASTEEL/latest on 30-06-2026). Named promoter group entities are all in the Any Other (Bodies Corporate) sub-category per the SEBI template; Tata Sons Private Limited is the lead promoter holding 31.76% and is the only promoter-entity above 1% as an individual. SCRR denominator 12,485,463,449 is computed as promoter 4,112,694,270 / 32.94% pct and is broadly consistent with the FY26 annual report disclosure of 12,410,485,302 Ordinary Shares dematerialised equal to 99.41% of paid-up capital (paid-up equity shares ~12.485 billion). Jun 2026 SHP is post the 8 Feb 2024 Tinplate Company of India Limited merger and post Jan 2024 Tata Motors Finance Limited merger reflected in the share count.",
+  "corrections": [],
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -4.228378266455083e-06,
+  "promoter_pct_filed": 32.94
+}

@@ -75,6 +75,8 @@ _CLASSES = r"""(?:
   | .*not\s*applicable.*  | no\s*promoter.*
   | employee\s*benefit\s*trusts?\s*/?\s*employee\s*welfare\s*trusts?.*
   | .*under\s*sebi\s*\(share\s*based.*
+  | bod(?:y|ies)\s*corp\w*\s*[-–]?\s*(?:ltd|limited)?\s*liability\s*partnerships?
+  | trusts?\s*\(employees?\)  | employees?\s*trusts?
 )"""
 
 _AGGREGATE = re.compile(
@@ -198,6 +200,18 @@ def normalise(rec, sector=None):
                     f"duplicate a promoter name")
 
     pct = _num(rec.get("promoter_pct"))
+    # Six companies came back with the promoter holding as a fraction - Asian
+    # Paints as 0.5263 rather than 52.63 - which then dragged the recovered
+    # share base a hundredfold out. A promoter block below 1% is possible but
+    # rare; where the named promoters themselves imply percent-scale, the
+    # figure is rescaled and the assumption recorded.
+    if pct is not None and 0 < pct < 1 and promoters:
+        implied = sum((p.get("shares_filed") or 0) for p in promoters)
+        base = _num(rec.get("total_shares_scrr"))
+        if base and implied and implied / base > 0.01:
+            warn.append(f"{ticker}: promoter_pct {pct} read as a fraction; "
+                        f"rescaled to {pct * 100:.2f}%")
+            pct *= 100
     has_promoter = rec.get("has_promoter")
     if has_promoter is None:
         has_promoter = bool(promoters) or bool(pct)

@@ -304,7 +304,7 @@
   ],
   "notes": "Q1 FY27 SHP filed 13-Jul-2026. pr_and_prgrp=7.87%, public=92.13%. SCRR-denominator (A+B+C2)=3,110,778,129 equity shares. Filing's 'Promoter' = LIC group: LIFE INSURANCE CORPORATION OF INDIA = 7.87%; 13 LIC-group entities listed with 0 shares (LIC Pension Fund, LIC Card Services, LIC Singapore, LIC Nepal, LIC International Bahrain, LIC Lanka, LIC Bangladesh, LIC Housing Finance, LIC HFL AMC, LIC MF AMC, LIC MF Trustee, IDBI Bank, IDBI Trusteeship Services). 96,096,470 shares (3.09%) underlying outstanding GDRs held by THE BANK OF NEW YORK MELLON (custodian/DR-holder) \u2014 excluded from (A)+(B)+(C2). ESOP outstanding shown under 'Resident individuals upto Rs 2 lakhs'. Public named: 10 Mutual Funds (top ICICI Prudential 5.78%, SBI 5.24%, HDFC 4.88%, Nippon 3.50%, UTI 1.87%, Kotak 1.55%, DSP 1.40%, Aditya Birla 1.26%, Parag Parikh 1.17%, Mirae Asset 1.16%) + NPS Trust - UTI Pension Fund 3.29% + SBI Life Insurance Co 1.36% + 5 FPI Cat I (Dodge & Cox Intl 1.86%, GIC Singapore 1.59%, Government Pension Fund Global 1.85%, Vanguard Total Intl 1.09%, Vanguard Emerging Markets 1.03%) + FOREIGN INSTITUTIONAL INVESTORS 39k shares (legacy).",
   "corrections": [],
-  "promoter_reconciliation": "reconciled",
-  "promoter_drift": 0.000716658084640236,
-  "promoter_pct_filed": 0.0787
+  "promoter_reconciliation": "unreconciled",
+  "promoter_drift": -0.9899928334191536,
+  "promoter_pct_filed": 7.870000000000001
 }
