@@ -1,0 +1,661 @@
+{
+  "ticker": "RELIANCE",
+  "company": "RELIANCE INDUSTRIES LTD",
+  "sector": "Oil, Gas & Consumable Fuels",
+  "isin": "INE002A01018",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2025",
+    "Sep/2025",
+    "Dec/2025",
+    "Mar/2026",
+    "Jun/2026"
+  ],
+  "shares_scrr": 13289313310,
+  "bonus_factor": 1,
+  "bonus_note": "No adjustment needed: holder counts and filed counts come from the same post-bonus filings, so the bonus factor is 1. Reliance's 1:1 bonus issue of October 2024 predates every quarter in this window.",
+  "promoter_pct": 50.48,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "K D Ambani",
+      "shares_filed": 31482644,
+      "pct": 0.236902,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Akash M Ambani",
+      "shares_filed": 16104042,
+      "pct": 0.12118,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anant M Ambani",
+      "shares_filed": 16104042,
+      "pct": 0.12118,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Isha M Ambani",
+      "shares_filed": 16104042,
+      "pct": 0.12118,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mukesh D Ambani",
+      "shares_filed": 16104040,
+      "pct": 0.12118,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nita M Ambani",
+      "shares_filed": 16104042,
+      "pct": 0.12118,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Srichakra Commercials LLP",
+      "shares_filed": 1479199658,
+      "pct": 11.130746,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Devarshi Commercials LLP",
+      "shares_filed": 1091138920,
+      "pct": 8.210649,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Karuna Commercials LLP",
+      "shares_filed": 1091138920,
+      "pct": 8.210649,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Tattvam Enterprises LLP",
+      "shares_filed": 1091138920,
+      "pct": 8.210649,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Reliance Industries Holding Private Ltd",
+      "shares_filed": 608030142,
+      "pct": 4.575332,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Reliance Industrial Investments and Holdings Ltd",
+      "shares_filed": 481884012,
+      "pct": 3.626102,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Reliance Services and Holdings Limited",
+      "shares_filed": 343765640,
+      "pct": 2.586783,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Samarjit Enterprises LLP",
+      "shares_filed": 249250548,
+      "pct": 1.875571,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Sikka Ports & Terminals Limited",
+      "shares_filed": 70000000,
+      "pct": 0.526739,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Shrikrishna Tradecom LLP",
+      "shares_filed": 28675930,
+      "pct": 0.215782,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Shreeji Comtrade LLP",
+      "shares_filed": 28675930,
+      "pct": 0.215782,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Svar Enterprises LLP",
+      "shares_filed": 27178734,
+      "pct": 0.204516,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Reliance Welfare Association",
+      "shares_filed": 10689994,
+      "pct": 0.080441,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Vasuprada Enterprises LLP",
+      "shares_filed": 2631850,
+      "pct": 0.019804,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Exotic Officeinfra Private Limited",
+      "shares_filed": 55348,
+      "pct": 0.000416,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Carat Holdings and Trading Co Pvt Ltd",
+      "shares_filed": 21902,
+      "pct": 0.000165,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Neutron Enterprises Private Limited",
+      "shares_filed": 3698,
+      "pct": 2.8e-05,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Futura Commercials Private Limited",
+      "shares_filed": 3628,
+      "pct": 2.7e-05,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Shripal Enterprises LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Vishatan Enterprises LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Janardan Commercials LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Harinarayan Enterprises LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Chhatrabhuj Enterprises LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Chakresh Enterprises LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Chakradhar Commercials LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Chakradev Enterprises LLP",
+      "shares_filed": 432,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Bhuvanesh Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Kankhal Trading LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Pavana Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Pitambar Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Rishikesh Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Taran Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Trilokesh Commercials LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Badri Commercials LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Ajitesh Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Adisesh Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Abhayaprada Enterprises LLP",
+      "shares_filed": 430,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Kamalakar Enterprises LLP",
+      "shares_filed": 426,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Narahari Enterprises LLP",
+      "shares_filed": 426,
+      "pct": 3e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Pinakin Commercials Private Limited",
+      "shares_filed": 216,
+      "pct": 2e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Elakshi Commercials Private Limited",
+      "shares_filed": 216,
+      "pct": 2e-06,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Reliance Life Sciences Private Limited",
+      "shares_filed": 0,
+      "pct": null,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Jamnagar Utilities and Power Private Limited",
+      "shares_filed": 0,
+      "pct": null,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Tiruttani Infralog Private Limited",
+      "shares_filed": 0,
+      "pct": null,
+      "holder_class": "Any Other"
+    },
+    {
+      "filed_name": "Petroleum Trust through Trustees for sole beneficiary RIIHL",
+      "shares_filed": 0,
+      "pct": null,
+      "holder_class": "Any Other"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 914304756,
+      "pct": 6.88,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": null,
+        "Sep/2025": 6.94,
+        "Dec/2025": 6.82,
+        "Mar/2026": 6.8,
+        "Jun/2026": 6.88
+      }
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "shares": 342332711,
+      "pct": 2.576,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 2.496,
+        "Sep/2025": 2.527,
+        "Dec/2025": 2.481,
+        "Mar/2026": 2.5,
+        "Jun/2026": 2.576
+      }
+    },
+    {
+      "holder_name": "Vanguard Group Inc/The",
+      "shares": 295667028,
+      "pct": 2.224848,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 2.224848
+      }
+    },
+    {
+      "holder_name": "Blackrock Inc",
+      "shares": 255773102,
+      "pct": 1.924653,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 1.924653
+      }
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "shares": 235353739,
+      "pct": 1.771,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 1.471,
+        "Sep/2025": 1.673,
+        "Dec/2025": 1.557,
+        "Mar/2026": 1.578,
+        "Jun/2026": 1.771
+      }
+    },
+    {
+      "holder_name": "NPS Trust",
+      "shares": 205984356,
+      "pct": 1.55,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": null,
+        "Sep/2025": 1.1,
+        "Dec/2025": 1.29,
+        "Mar/2026": 1.42,
+        "Jun/2026": 1.55
+      }
+    },
+    {
+      "holder_name": "HDFC Mutual Fund",
+      "shares": 130102377,
+      "pct": 0.979,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.688,
+        "Sep/2025": 0.727,
+        "Dec/2025": 0.782,
+        "Mar/2026": 0.891,
+        "Jun/2026": 0.979
+      }
+    },
+    {
+      "holder_name": "UTI Mutual Fund",
+      "shares": 120268285,
+      "pct": 0.905,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.753,
+        "Sep/2025": 0.781,
+        "Dec/2025": 0.811,
+        "Mar/2026": 0.862,
+        "Jun/2026": 0.905
+      }
+    },
+    {
+      "holder_name": "Nippon India Mutual Fund",
+      "shares": 116547278,
+      "pct": 0.877,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.771,
+        "Sep/2025": 0.811,
+        "Dec/2025": 0.824,
+        "Mar/2026": 0.855,
+        "Jun/2026": 0.877
+      }
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "shares": 105494998,
+      "pct": 0.793833,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": null,
+        "Sep/2025": null,
+        "Dec/2025": null,
+        "Mar/2026": null,
+        "Jun/2026": 0.793833
+      }
+    },
+    {
+      "holder_name": "Kotak Mahindra Mutual Fund",
+      "shares": 52891467,
+      "pct": 0.398,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.345,
+        "Sep/2025": 0.397,
+        "Dec/2025": 0.317,
+        "Mar/2026": 0.334,
+        "Jun/2026": 0.398
+      }
+    },
+    {
+      "holder_name": "Mirae Asset Mutual Fund",
+      "shares": 48107314,
+      "pct": 0.362,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.246,
+        "Sep/2025": 0.249,
+        "Dec/2025": 0.228,
+        "Mar/2026": 0.284,
+        "Jun/2026": 0.362
+      }
+    },
+    {
+      "holder_name": "Aditya Birla Sun Life Mutual Fund",
+      "shares": 43987627,
+      "pct": 0.331,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.332,
+        "Sep/2025": 0.332,
+        "Dec/2025": 0.341,
+        "Mar/2026": 0.348,
+        "Jun/2026": 0.331
+      }
+    },
+    {
+      "holder_name": "Axis Mutual Fund",
+      "shares": 33223283,
+      "pct": 0.25,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.277,
+        "Sep/2025": 0.262,
+        "Dec/2025": 0.294,
+        "Mar/2026": 0.271,
+        "Jun/2026": 0.25
+      }
+    },
+    {
+      "holder_name": "Franklin Templeton Mutual Fund",
+      "shares": 23123405,
+      "pct": 0.174,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.162,
+        "Sep/2025": 0.154,
+        "Dec/2025": 0.153,
+        "Mar/2026": 0.169,
+        "Jun/2026": 0.174
+      }
+    },
+    {
+      "holder_name": "Tata Mutual Fund",
+      "shares": 22591833,
+      "pct": 0.17,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.163,
+        "Sep/2025": 0.168,
+        "Dec/2025": 0.155,
+        "Mar/2026": 0.144,
+        "Jun/2026": 0.17
+      }
+    },
+    {
+      "holder_name": "Bandhan Mutual Fund",
+      "shares": 22193153,
+      "pct": 0.167,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.16,
+        "Sep/2025": 0.156,
+        "Dec/2025": 0.152,
+        "Mar/2026": 0.154,
+        "Jun/2026": 0.167
+      }
+    },
+    {
+      "holder_name": "Canara Robeco Mutual Fund",
+      "shares": 18737932,
+      "pct": 0.141,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.135,
+        "Sep/2025": 0.14,
+        "Dec/2025": 0.142,
+        "Mar/2026": 0.136,
+        "Jun/2026": 0.141
+      }
+    },
+    {
+      "holder_name": "DSP Mutual Fund",
+      "shares": 16611642,
+      "pct": 0.125,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.043,
+        "Sep/2025": 0.045,
+        "Dec/2025": 0.046,
+        "Mar/2026": 0.044,
+        "Jun/2026": 0.125
+      }
+    },
+    {
+      "holder_name": "Invesco Mutual Fund",
+      "shares": 14352458,
+      "pct": 0.108,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.025,
+        "Sep/2025": 0.07,
+        "Dec/2025": 0.06,
+        "Mar/2026": 0.051,
+        "Jun/2026": 0.108
+      }
+    },
+    {
+      "holder_name": "Edelweiss Mutual Fund",
+      "shares": 11163023,
+      "pct": 0.084,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.09,
+        "Sep/2025": 0.1,
+        "Dec/2025": 0.09,
+        "Mar/2026": 0.076,
+        "Jun/2026": 0.084
+      }
+    },
+    {
+      "holder_name": "HSBC Mutual Fund",
+      "shares": 10631451,
+      "pct": 0.08,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.071,
+        "Sep/2025": 0.077,
+        "Dec/2025": 0.078,
+        "Mar/2026": 0.114,
+        "Jun/2026": 0.08
+      }
+    },
+    {
+      "holder_name": "Sundaram Mutual Fund",
+      "shares": 10631451,
+      "pct": 0.08,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.094,
+        "Sep/2025": 0.094,
+        "Dec/2025": 0.092,
+        "Mar/2026": 0.09,
+        "Jun/2026": 0.08
+      }
+    },
+    {
+      "holder_name": "Baroda BNP Paribas Mutual Fund",
+      "shares": 6910443,
+      "pct": 0.052,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.054,
+        "Sep/2025": 0.056,
+        "Dec/2025": 0.053,
+        "Mar/2026": 0.055,
+        "Jun/2026": 0.052
+      }
+    },
+    {
+      "holder_name": "PPFAS Mutual Fund",
+      "shares": 5847298,
+      "pct": 0.044,
+      "holder_class": "Institution",
+      "pct_series": {
+        "Jun/2025": 0.056,
+        "Sep/2025": 0.056,
+        "Dec/2025": 0.059,
+        "Mar/2026": 0.026,
+        "Jun/2026": 0.044
+      }
+    }
+  ],
+  "source_urls": [
+    "https://www.ril.com/sites/default/files/2025-07/SHP30062025.pdf",
+    "https://trendlyne.com/equity/share-holding/1127/RELIANCE/latest/reliance-industries-ltd/"
+  ],
+  "notes": "Percentages are on the SCRR basis (A)+(B)+(C2) = 13,289,313,310, which excludes the 243,159,324 shares underlying depository receipts. The 13,532,472,634 grand total would inflate every converted count by ~1.8%. Verified by backing the denominator out of holders publishing both a percentage and a share count.",
+  "provenance": "Migrated from the hand-built RELIANCE register; figures unchanged."
+}
