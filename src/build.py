@@ -59,9 +59,13 @@ def classify(holders, registry, ticker, master):
     for h in holders:
         name = h["holder_name"]
         btype = h["bloomberg_holder_type"]
+        # A holding the register could not reconcile is flagged whatever the
+        # classification turns out to be: the category may be right while the
+        # number beside it is not.
         row = {
             "holder_name": name, "quarters": h["quarters"],
-            "bloomberg_holder_type": btype, "needs_review": False,
+            "bloomberg_holder_type": btype,
+            "needs_review": bool(h.get("doubtful")),
         }
 
         if name in promoters:
@@ -83,7 +87,9 @@ def classify(holders, registry, ticker, master):
                        country=rec["country"], entity_type=rec["entity_type"],
                        holding_vehicle=rec["holding_vehicle"], reason=why,
                        source=rec.get("source") or rec.get("evidence"),
-                       needs_review=rec["confidence"] in ("low", "medium") or cat is None)
+                       needs_review=(row["needs_review"]
+                                     or rec["confidence"] in ("low", "medium")
+                                     or cat is None))
             rows.append(row); continue
 
         r = rules.classify(name, normalize(name), btype)

@@ -67,6 +67,56 @@ def resolve_denominator(reg):
     return stated, f"stated denominator kept; only {n} pair(s) disagreed by {drift:.2%}"
 
 
+# Below this a filed percentage is too coarse to check a share count against:
+# a holding rounded to 0.00% implies zero shares, which is not what it means.
+_PCT_FLOOR = 0.01
+_COUNT_TOLERANCE = 0.05
+
+
+def reconcile_count(shares, pct, total):
+    """Returns (count, note, doubtful) for one holding.
+
+    Both fields can be wrong, and differently. SBI Life came back with
+    Government of Singapore holding 2,134,450,960 shares against a base of
+    1,002,568,002 - 212% of the company, so the count is impossible and the
+    percentage beside it is right. In the same filing SBI Mutual Fund's count
+    is plausible and its percentage looks like 12.13 with a digit dropped.
+
+    So only the impossible is overridden: a holding cannot exceed the share
+    base. Where the two merely disagree the filed count stands and the row is
+    flagged, because picking a winner would be inventing data.
+
+    The tolerance scales with the rounding in the percentage itself. A holding
+    filed as 0.02% carries half a basis point of slack, which is 25% of the
+    figure - HCLTech's Kiran Nadar, filed at 494,602 shares and 0.018%, is
+    within that and must not be "corrected" to the rounder number.
+    """
+    if not total:
+        return shares, None, False
+
+    if shares and shares > total:
+        if pct and pct >= _PCT_FLOOR:
+            implied = round(pct / 100 * total)
+            return implied, (f"count {shares:,} exceeds the {total:,.0f} share "
+                             f"base; used {pct}% ({implied:,})"), True
+        return None, (f"count {shares:,} exceeds the {total:,.0f} share base "
+                      f"and no percentage to fall back on; dropped"), True
+
+    if pct is None or pct < _PCT_FLOOR:
+        return shares, None, False
+    implied = round(pct / 100 * total)
+    if not implied:
+        return shares, None, False
+    if shares is None:
+        return implied, None, False
+
+    slack = max(_COUNT_TOLERANCE, 0.005 / pct)
+    if abs(shares - implied) / implied > slack:
+        return shares, (f"count {shares:,} and {pct}% disagree "
+                        f"({implied:,}); kept the count"), True
+    return shares, None, False
+
+
 def _is_individual(name, holder_class):
     if holder_class and _PERSON_CLASS.search(holder_class):
         # 'Bodies Corporate' never matches; 'Individuals/HUF' does.
@@ -118,10 +168,13 @@ def build(ticker, quarter_label=None):
     latest = quarters[-1]
 
     holders, promoter_group = [], []
-    seen = set()
+    seen, corrections = set(), []
 
     for p in reg.get("promoter_group", []):
         shares = _shares(p, total, "shares_filed")
+        shares, note, doubt = reconcile_count(shares, p.get("pct"), total)
+        if note:
+            corrections.append(f"{ticker}/{p['filed_name']}: {note}")
         promoter_group.append({
             "filed_name": p["filed_name"],
             "shares_filed": shares or 0,
@@ -138,6 +191,7 @@ def build(ticker, quarter_label=None):
                 else "Institution"),
             "quarters": {q: (shares if q == latest else None) for q in quarters},
             "filed_class": p.get("holder_class"),
+            "doubtful": doubt,
         })
 
     for h in reg.get("public_holders", []):
@@ -158,6 +212,10 @@ def build(ticker, quarter_label=None):
                 qmap[q] = _shares(h, total)
             else:
                 qmap[q] = None
+        fixed, note, doubt = reconcile_count(qmap.get(latest), h.get("pct"), total)
+        if note:
+            corrections.append(f"{ticker}/{h['holder_name']}: {note}")
+            qmap[latest] = fixed
         holders.append({
             "holder_name": h["holder_name"],
             "bloomberg_holder_type": (
@@ -165,6 +223,7 @@ def build(ticker, quarter_label=None):
                 else "Institution"),
             "quarters": qmap,
             "filed_class": h.get("holder_class"),
+            "doubtful": doubt,
         })
 
     raw = {
@@ -178,6 +237,7 @@ def build(ticker, quarter_label=None):
         "holders": holders,
         "source_urls": reg.get("source_urls", []),
         "notes": reg.get("notes"),
+        "corrections": corrections,
     }
     promoter_shares = sum(p["shares_filed"] for p in promoter_group)
     status, drift = reconciliation(promoter_shares, reg.get("promoter_pct"), total)
@@ -252,7 +312,9 @@ def check(raw, registry):
         held = sum(v for h in raw["holders"] for v in [h["quarters"].get(
             raw["quarter_labels"][-1])] if v)
         if held > total * 1.001:
-            warn.append(f"{tick}: named holders exceed the share base")
+            warn.append(f"{tick}: named holders exceed the share base "
+                        f"({held:,} of {total:,.0f})")
+    warn += raw.get("corrections", [])
     return warn
 
 
