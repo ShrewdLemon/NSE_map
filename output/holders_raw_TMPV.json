@@ -1,0 +1,172 @@
+{
+  "company": "Tata Motors Passenger Vehicles Limited",
+  "ticker": "TMPV",
+  "isin": "INE155A01022",
+  "as_of": "2026-06-30",
+  "shares_scrr": 3682582902.0,
+  "denominator_note": "stated denominator agrees with 10 holders to 0.035%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Tata Sons Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1478263541
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tata Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 72203630
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tata Investment Corporation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 11000000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Ewart Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3383746
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tata Chemicals Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "The Tata Power Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 391803
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tata Steel Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Simto Investment Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 59583
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tata Consumer Products Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tata Securities Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 400
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Sir Ratan Tata Trust- NN Tata, V Singh, VSrinivasan, JNTata, DKhambata, JehangirHC",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Trusts"
+    },
+    {
+      "holder_name": "Sir Dorabji Tata Trust- NN Tata, VSingh, VSrinivasan, P Jhaveri, Darius Khambata, Neville Tata, B Bhat",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Trusts"
+    },
+    {
+      "holder_name": "J R D Tata Trust - NN Tata, V Srinivasan, V Singh, Neville Tata",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Trusts"
+    },
+    {
+      "holder_name": "Lady Tata Memorial Trust - Dr. M. Chandy, S Sharma, Prof. K. VijayRaghavan",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": "Trusts"
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 175104418
+      },
+      "filed_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Icici Prudential Value Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 105211286
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 83539171
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Rekha Jhunjhunwala",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 48798260
+      },
+      "filed_class": "Resident Individual (in excess of Rs 2 lakh)"
+    },
+    {
+      "holder_name": "Tata AIA Life Insurance Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 8481963
+      },
+      "filed_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698814_21072026073405_WEB.xml"
+  ],
+  "notes": "Q1 FY27 filed 21-Jul-2026. SCRR denominator (A)+(B)+(C2)=3,682,582,902. Named public holders total about 11.4%; the balance sits with unnamed individuals, funds and FPIs.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -4.0427987920446415e-05,
+  "promoter_pct_filed": 42.51
+}

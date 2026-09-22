@@ -1,0 +1,85 @@
+{
+  "company": "Tata Motors Passenger Vehicles Limited",
+  "isin": "INE155A01022",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698814_21072026073405_WEB.xml"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 42.51,
+  "promoter_total_shares_filed": 1565402703,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Tata Sons Private Limited",
+      "shares_filed": 1478263541,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tata Industries Limited",
+      "shares_filed": 72203630,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tata Investment Corporation Limited",
+      "shares_filed": 11000000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Ewart Investments Limited",
+      "shares_filed": 3383746,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tata Chemicals Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "The Tata Power Company Limited",
+      "shares_filed": 391803,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tata Steel Limited",
+      "shares_filed": 100000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Simto Investment Company Limited",
+      "shares_filed": 59583,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tata Consumer Products Limited",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tata Securities Limited",
+      "shares_filed": 400,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sir Ratan Tata Trust- NN Tata, V Singh, VSrinivasan, JNTata, DKhambata, JehangirHC",
+      "shares_filed": 0,
+      "class": "Trusts"
+    },
+    {
+      "filed_name": "Sir Dorabji Tata Trust- NN Tata, VSingh, VSrinivasan, P Jhaveri, Darius Khambata, Neville Tata, B Bhat",
+      "shares_filed": 0,
+      "class": "Trusts"
+    },
+    {
+      "filed_name": "J R D Tata Trust - NN Tata, V Srinivasan, V Singh, Neville Tata",
+      "shares_filed": 0,
+      "class": "Trusts"
+    },
+    {
+      "filed_name": "Lady Tata Memorial Trust - Dr. M. Chandy, S Sharma, Prof. K. VijayRaghavan",
+      "shares_filed": 0,
+      "class": "Trusts"
+    }
+  ]
+}

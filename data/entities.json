@@ -360,6 +360,36 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "cpse exchange traded scheme cpse etf": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "CPSE exchange traded scheme (CPSE ETF)",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "COALINDIA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "cpse exchange traded scheme various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "CPSE exchange traded scheme - various schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BEL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "credit agricole": {
       "basis": "web",
       "confidence": "medium",
@@ -431,6 +461,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "dsp nifty 50 index fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "DSP Nifty 50 Index Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "CIPLA"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -735,6 +780,66 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "hdfc trustee": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Trustee Company Limited",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "HCLTECH"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hdfc trustee a": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC TRUSTEE COMPANY LTD. A/C HDFC BALANCED ADVANTAGE FUND WITH SUB ACCOUNTS",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "M&M"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hdfc trustee hdfc flexi cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Trustee Company Limited-HDFC Flexi Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "CIPLA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "hdfc trustee hdfc tax saverfund": {
+      "basis": "rule:indian-fund-trustee",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Trustee Company Limited - HDFC Tax Saverfund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INDIGO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "hsbc mutual fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -761,6 +866,66 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential bluechip fund with sub accounts": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI PRUDENTIAL BLUECHIP FUND WITH SUB ACCOUNTS",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "M&M"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential equity and debt fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Icici Prudential Equity & Debt Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NTPC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential equity savings fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Equity Savings Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "CIPLA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential esg exclusionary strategy fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI PRUDENTIAL ESG EXCLUSIONARY STRATEGY FUND",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "POWERGRID"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -840,6 +1005,51 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "icici prudential nifty etf various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI prudential nifty etf - various schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BEL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential transportation and logistics fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Transportation and Logistics Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INDIGO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential value fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Icici Prudential Value Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "TMPV"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "indusind nippon life insurance": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -866,6 +1076,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "invesco india focused fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Invesco India Focused Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INDIGO"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -915,6 +1140,36 @@
       "source": "https://jpmorganchaseco.gcs-web.com/static-files/3d1cfdc0-b391-4c71-a055-cb09f463622e",
       "verified_on": "2026-09-22"
     },
+    "kotak arbitrage fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak Arbitrage Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "NTPC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "kotak flexicap fund various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak flexicap fund - various schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BEL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "kotak mahindra asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -945,6 +1200,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "kotak mahindra trustee a": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Kotak Mahindra Trustee Co Ltd A/C Kotak Services Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INDIGO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "legal and general": {
       "basis": "web",
       "confidence": "high",
@@ -958,6 +1228,36 @@
         "ANANDRATHI"
       ],
       "source": "https://en.wikipedia.org/wiki/Legal_%26_General",
+      "verified_on": "2026-09-22"
+    },
+    "lici new pension plus secured fund": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "LICi New Pension Plus Secured Fund",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "BHARTIARTL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "lici ulip growth fund": {
+      "basis": "rule:indian-insurer-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "LICI ULIP-Growth Fund",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "CIPLA"
+      ],
+      "source": null,
       "verified_on": "2026-09-22"
     },
     "life insurance of india": {
@@ -1050,6 +1350,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "mirae asset mutual funds": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Mirae Asset Mutual Funds",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ITC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "motilal oswal asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1061,6 +1376,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "motilal oswal various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Motilal oswal - various schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BEL"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1121,6 +1451,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "new india assurance": {
+      "basis": "rule:insurance+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "The New India Assurance Company Limited",
+      "entity_type": "insurer",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ITC"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1275,6 +1620,96 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "nps trust schemes": {
+      "basis": "rule:indian-pension-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "NPS TRUST SCHEMES",
+      "entity_type": "pension_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "SBILIFE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "nps trust various pension funds": {
+      "basis": "rule:indian-pension-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "NPS Trust (various Pension Funds)",
+      "entity_type": "pension_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "ITC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "parag parikh arbitrage fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Parag Parikh Arbitrage Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "CIPLA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "parag parikh flexi cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Parag parikh flexi cap fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "COALINDIA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "parag parikh flexi cap fund with sub accounts": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "PARAG PARIKH FLEXI CAP FUND WITH SUB ACCOUNTS",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "M&M"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "parag parikh flexi cap mutual funds": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "Parag Parikh Flexi Cap Mutual Funds",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ITC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "pnb metlife india insurance": {
       "basis": "rule:insurance+india",
       "confidence": "high",
@@ -1380,6 +1815,36 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "sbi arbitrage opportunities fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Arbitrage Opportunities Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "INDIGO"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi elss tax saver fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI ELSS Tax Saver Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BHARTIARTL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "sbi funds management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1455,6 +1920,66 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "sbi nifty 50 equal weight index fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Nifty 50 Equal Weight Index Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "CIPLA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi nifty 50 etf": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Nifty 50 ETF",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "COALINDIA"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi nifty 50 etf various schemes": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI Nifty 50 ETF - various schemes",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BEL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "sbi nifty 50 etf with sub accounts": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "SBI NIFTY 50 ETF WITH SUB ACCOUNTS",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "M&M"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "shriram asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1466,6 +1991,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "specified undertaking of unit trust of india": {
+      "basis": "rule:indian-state-entity",
+      "confidence": "high",
+      "country": null,
+      "display_name": "Specified Undertaking of the Unit Trust of India",
+      "entity_type": "sovereign_wealth_fund",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "sovereign_assets",
+      "seen_in": [
+        "ITC"
       ],
       "source": null,
       "verified_on": "2026-09-22"
@@ -1680,6 +2220,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "uti multi cap fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI Multi Cap Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BHARTIARTL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "uti mutual fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -1706,6 +2261,51 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ITC"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "uti nifty 50 etf": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI Nifty 50 ETF",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "EICHERMOT"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "uti nifty 50 etf with sub accounts": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI NIFTY 50 ETF WITH SUB ACCOUNTS",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "M&M"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "uti nifty 50 index fund": {
+      "basis": "rule:indian-fund-scheme",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "UTI NIFTY 50 INDEX FUND",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "POWERGRID"
       ],
       "source": null,
       "verified_on": "2026-09-22"
