@@ -406,15 +406,15 @@
     "meta": {
       "isin": "INE423A01024",
       "as_of": "2026-06-30",
-      "shares_scrr": 130172000000,
-      "denominator_note": "stated 1,301,693,464 backed by 0 holders, implied 130,172,000,000 by 14; used the implied",
+      "shares_scrr": 1301693464.0,
+      "denominator_note": "stated denominator agrees with 14 of 17 holders to 0.052%",
       "source_urls": [
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690795_10072026081131_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIENT"
       ],
       "promoter_pct": 71.97,
-      "reconciliation": "unreconciled",
-      "drift": -0.9896009312649523
+      "reconciliation": "close",
+      "drift": 0.039928072788287444
     }
   },
   {
@@ -816,15 +816,15 @@
     "meta": {
       "isin": "INE742F01042",
       "as_of": "2026-06-30",
-      "shares_scrr": 230471494444,
-      "denominator_note": "stated 2,303,959,098 backed by 0 holders, implied 230,471,494,444 by 12; used the implied",
+      "shares_scrr": 2303959098.0,
+      "denominator_note": "stated denominator agrees with 12 of 15 holders to 0.033%",
       "source_urls": [
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690812_10072026084030_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ADANIPORTS"
       ],
       "promoter_pct": 66.03,
-      "reconciliation": "unreconciled",
-      "drift": -0.9900030602169184
+      "reconciliation": "reconciled",
+      "drift": 2.19420880890011e-05
     }
   },
   {
@@ -3216,15 +3216,15 @@
     "meta": {
       "isin": "INE021A01026",
       "as_of": "2026-06-30",
-      "shares_scrr": 95958083847,
-      "denominator_note": "stated 959,197,790 backed by 0 holders, implied 95,958,083,847 by 34; used the implied",
+      "shares_scrr": 959197790.0,
+      "denominator_note": "stated denominator agrees with 35 of 78 holders to 0.147%",
       "source_urls": [
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696081_18072026032420_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=ASIANPAINT"
       ],
       "promoter_pct": 52.63,
-      "reconciliation": "unreconciled",
-      "drift": -0.9901058193146874
+      "reconciliation": "close",
+      "drift": -0.010186814756324651
     }
   },
   {
@@ -3737,15 +3737,15 @@
     "meta": {
       "isin": "INE238A01034",
       "as_of": "2026-06-30",
-      "shares_scrr": 310908880952,
-      "denominator_note": "stated 3,110,778,129 backed by 0 holders, implied 310,908,880,952 by 19; used the implied",
+      "shares_scrr": 3110778129.0,
+      "denominator_note": "stated denominator agrees with 19 of 19 holders to 0.054%",
       "source_urls": [
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=AXISBANK"
       ],
       "promoter_pct": 7.870000000000001,
-      "reconciliation": "unreconciled",
-      "drift": -0.9899928334191536
+      "reconciliation": "reconciled",
+      "drift": 0.0001732152306792852
     }
   },
   {
@@ -5233,15 +5233,15 @@
     "meta": {
       "isin": "INE917I01010",
       "as_of": "2026-06-30",
-      "shares_scrr": 28048938462,
-      "denominator_note": "stated 279,497,838 backed by 0 holders, implied 28,048,938,462 by 14; used the implied",
+      "shares_scrr": 279497838.0,
+      "denominator_note": "stated denominator kept: backed by 15 of 63 holders against 5 for the implied 284,881,875",
       "source_urls": [
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696379_20072026090038_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJAJ-AUTO"
       ],
       "promoter_pct": 55.010000000000005,
-      "reconciliation": "unreconciled",
-      "drift": -0.9898458612755767
+      "reconciliation": "close",
+      "drift": 0.019016155022854638
     }
   },
   {
@@ -6987,15 +6987,15 @@
     "meta": {
       "isin": "INE296A01032",
       "as_of": "2026-06-30",
-      "shares_scrr": 622208011628,
-      "denominator_note": "stated 6,225,954,304 backed by 0 holders, implied 622,208,011,628 by 8; used the implied",
+      "shares_scrr": 6225954304.0,
+      "denominator_note": "stated denominator agrees with 8 of 20 holders to 0.006%",
       "source_urls": [
         "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696255_18072026055655_WEB.xml",
         "https://www.nseindia.com/api/corporate-share-holdings-master?index=equities&symbol=BAJFINANCE"
       ],
       "promoter_pct": 54.669999999999995,
-      "reconciliation": "unreconciled",
-      "drift": -0.9899930775438709
+      "reconciliation": "reconciled",
+      "drift": 6.955077447064907e-05
     }
   },
   {
@@ -16836,6 +16836,63 @@
       "promoter_pct": 18.44,
       "reconciliation": "reconciled",
       "drift": -0.00012861672338904955
+    }
+  },
+  {
+    "ticker": "MARUTI",
+    "company": "Maruti Suzuki India Limited",
+    "sector": "Automobile",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [],
+    "meta": {
+      "isin": null,
+      "as_of": null,
+      "shares_scrr": null,
+      "denominator_note": "no shareholding data retrieved",
+      "source_urls": [],
+      "promoter_pct": null,
+      "reconciliation": "no data",
+      "drift": null
+    }
+  },
+  {
+    "ticker": "MAXHEALTH",
+    "company": "Max Healthcare Institute Limited",
+    "sector": "Healthcare",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [],
+    "meta": {
+      "isin": null,
+      "as_of": null,
+      "shares_scrr": null,
+      "denominator_note": "no shareholding data retrieved",
+      "source_urls": [],
+      "promoter_pct": null,
+      "reconciliation": "no data",
+      "drift": null
+    }
+  },
+  {
+    "ticker": "NESTLEIND",
+    "company": "Nestle India Limited",
+    "sector": "FMCG",
+    "quarters": [
+      "Jun/2026"
+    ],
+    "rows": [],
+    "meta": {
+      "isin": null,
+      "as_of": null,
+      "shares_scrr": null,
+      "denominator_note": "no shareholding data retrieved",
+      "source_urls": [],
+      "promoter_pct": null,
+      "reconciliation": "no data",
+      "drift": null
     }
   },
   {
