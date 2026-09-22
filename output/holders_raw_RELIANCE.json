@@ -930,5 +930,8 @@
     "https://www.ril.com/sites/default/files/2025-07/SHP30062025.pdf",
     "https://trendlyne.com/equity/share-holding/1127/RELIANCE/latest/reliance-industries-ltd/"
   ],
-  "notes": "Percentages are on the SCRR basis (A)+(B)+(C2) = 13,289,313,310, which excludes the 243,159,324 shares underlying depository receipts. The 13,532,472,634 grand total would inflate every converted count by ~1.8%. Verified by backing the denominator out of holders publishing both a percentage and a share count."
+  "notes": "Percentages are on the SCRR basis (A)+(B)+(C2) = 13,289,313,310, which excludes the 243,159,324 shares underlying depository receipts. The 13,532,472,634 grand total would inflate every converted count by ~1.8%. Verified by backing the denominator out of holders publishing both a percentage and a share count.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.0010510240055335502,
+  "promoter_pct_filed": 50.48
 }

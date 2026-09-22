@@ -1,0 +1,121 @@
+{
+  "ticker": "GRASIM",
+  "company": "Grasim Industries Limited",
+  "sector": "Construction Materials",
+  "isin": "INE047A01013",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": null,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts come straight from the filed table, so no bonus adjustment applies.",
+  "promoter_pct": 43.74,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "SBI Nifty 50 ETF",
+      "shares_filed": 10916925,
+      "pct": 1.6,
+      "holder_class": null
+    },
+    {
+      "filed_name": "ICICI Prudential Nifty ETF",
+      "shares_filed": 6900184,
+      "pct": 1.01,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Life Insurance Corporation of India",
+      "shares_filed": 44867472,
+      "pct": 6.59,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Provident funds / Pension Funds",
+      "shares_filed": 9803199,
+      "pct": 1.44,
+      "holder_class": null
+    },
+    {
+      "filed_name": "NPS Trust - A/c UTI Pension Fund Limited - Scheme State 1 98,03,199 - - 98,03,199 1.44 98,03,199 -98,03,199",
+      "shares_filed": 9803199,
+      "pct": 1.45,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Sub -Total (B)(1)",
+      "shares_filed": 109758905,
+      "pct": 16.13,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Theleme Master Fund Limited",
+      "shares_filed": 7976267,
+      "pct": 1.17,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Overseas Depositories (holding DRs) (balancing figure)",
+      "shares_filed": 17247309,
+      "pct": 2.53,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Citibank N.A. New York, NYADR Department",
+      "shares_filed": 17247309,
+      "pct": 2.53,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Gagandeep Credit Capital Pvt Ltd",
+      "shares_filed": 9923232,
+      "pct": 1.46,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Shamyak Investment Private Limited",
+      "shares_filed": 9754321,
+      "pct": 1.43,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Unclaimed or Suspense or Escrow Account",
+      "shares_filed": 107737,
+      "pct": 0.02,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Unclaimed or Suspense or Escrow Account",
+      "shares_filed": 9474,
+      "pct": null,
+      "holder_class": null
+    },
+    {
+      "filed_name": "Unclaimed or Suspense or Escrow Account",
+      "shares_filed": 971,
+      "pct": null,
+      "holder_class": null
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",
+      "shares": 2291214,
+      "pct": 0.34,
+      "holder_class": null
+    },
+    {
+      "holder_name": "Shareholding (C) = (C)(1)+(C)(2)",
+      "shares": 2291214,
+      "pct": null,
+      "holder_class": null
+    }
+  ],
+  "source_urls": [
+    "https://www.grasim.com/Upload/PDF/shareholding-pattern-june-2026.pdf"
+  ],
+  "notes": "Parsed from the filed SEBI Regulation 31 shareholding pattern.",
+  "ingested_on": "2026-09-22"
+}

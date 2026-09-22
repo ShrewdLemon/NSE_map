@@ -1,0 +1,141 @@
+{
+  "source": "NSE corporate-share-holdings-master API, per ticker",
+  "companies": {
+    "ADANIENT": {
+      "isin": null,
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694672_16072026082530_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 71.97,
+      "public_pct": 28.03,
+      "quarter_end": "2026-07-07"
+    },
+    "ADANIPORTS": {
+      "isin": "INE742F01042",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1690812_10072026084030_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 66.03,
+      "public_pct": 33.97,
+      "quarter_end": "2026-06-30"
+    },
+    "APOLLOHOSP": {
+      "isin": "INE437A01016",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1687831_03072026043226_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 28.02,
+      "public_pct": 71.98,
+      "quarter_end": "2026-06-30"
+    },
+    "ASIANPAINT": {
+      "isin": "INE021A01018",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696081_18072026032420_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 52.63,
+      "public_pct": 47.29,
+      "quarter_end": "2026-06-30"
+    },
+    "AXISBANK": {
+      "isin": "INE238A01018",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691686_13072026062029_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 7.87,
+      "public_pct": 92.13,
+      "quarter_end": "2026-06-30"
+    },
+    "BAJAJ-AUTO": {
+      "isin": "INE917I01010",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696379_20072026090038_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 55.01,
+      "public_pct": 44.99,
+      "quarter_end": "2026-06-30"
+    },
+    "BAJFINANCE": {
+      "isin": "INE296A01016",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696255_18072026055655_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 54.67,
+      "public_pct": 45.24,
+      "quarter_end": "2026-06-30"
+    },
+    "BAJAJFINSV": {
+      "isin": "INE918I01026",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696170_18072026044042_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 58.71,
+      "public_pct": 41.24,
+      "quarter_end": "2026-06-30"
+    },
+    "BEL": {
+      "isin": "INE263A01016",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1691499_13072026045050_WEB.xml",
+      "company_pdf_url": "https://bel-india.in/wp-content/uploads/2026/07/Shareholding-pattern-as-on-30.06.2026.pdf",
+      "promoter_pct": 51.14,
+      "public_pct": 48.86,
+      "quarter_end": "2026-06-30"
+    },
+    "BHARTIARTL": {
+      "isin": "INE397D01024",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1702388_27072026070346_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 50.07,
+      "public_pct": 49.89,
+      "quarter_end": "2026-06-30"
+    },
+    "CIPLA": {
+      "isin": null,
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698044_21072026022401_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 29.21,
+      "public_pct": 70.79,
+      "quarter_end": "2026-06-30"
+    },
+    "COALINDIA": {
+      "isin": "INE522F01014",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698873_21072026080407_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 61.13,
+      "public_pct": 38.87,
+      "quarter_end": "2026-06-30"
+    },
+    "DRREDDY": {
+      "isin": "INE089A01023",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698407_21072026050510_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 26.64,
+      "public_pct": 73.16,
+      "quarter_end": "2026-06-30"
+    },
+    "EICHERMOT": {
+      "isin": "INE066A01013",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696639_20072026020840_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 49.02,
+      "public_pct": 50.98,
+      "quarter_end": "2026-06-30"
+    },
+    "ETERNAL": {
+      "isin": "INE758T01015",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1689462_08072026071407_WEB.xml",
+      "company_pdf_url": null,
+      "promoter_pct": 0,
+      "public_pct": 95.39,
+      "quarter_end": "2026-06-30"
+    },
+    "GRASIM": {
+      "isin": "INE047A01013",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1694917_17072026125043_WEB.xml",
+      "company_pdf_url": "https://www.grasim.com/Upload/PDF/shareholding-pattern-june-2026.pdf",
+      "promoter_pct": 43.74,
+      "public_pct": 55.93,
+      "quarter_end": "2026-06-30"
+    },
+    "HCLTECH": {
+      "isin": "INE860A01027",
+      "xbrl_url": "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1696003_18072026013727_WEB.xml",
+      "company_pdf_url": "https://www.hcltech.com/sites/default/files/document/open/shareholding-pattern/2026-07/Shareholding-Pattern-30June2026.pdf",
+      "promoter_pct": 60.88,
+      "public_pct": 38.83,
+      "quarter_end": "2026-06-30"
+    }
+  }
+}

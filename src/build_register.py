@@ -89,6 +89,28 @@ def _shares(entry, total, key="shares"):
     return None
 
 
+def reconciliation(promoter_shares, promoter_pct, total):
+    """How well the parsed promoter rows agree with the filed headline figure.
+
+    Fifty filings mean fifty layouts, and a parse that silently drops rows is
+    worse than one that admits it. The filed promoter percentage is an
+    independent check on the rows: if they reconcile, the promoter side is
+    trustworthy; if they do not, the register says so rather than presenting a
+    partial table as complete.
+    """
+    if not (promoter_pct and total):
+        return "unchecked", None
+    expected = promoter_pct / 100 * total
+    if not expected:
+        return "unchecked", None
+    drift = (promoter_shares - expected) / expected
+    if abs(drift) <= 0.01:
+        return "reconciled", drift
+    if abs(drift) <= 0.10:
+        return "close", drift
+    return "unreconciled", drift
+
+
 def build(ticker, quarter_label=None):
     reg = json.loads((REGISTERS / f"{ticker}.json").read_text())
     total, denom_note = resolve_denominator(reg)
@@ -157,6 +179,12 @@ def build(ticker, quarter_label=None):
         "source_urls": reg.get("source_urls", []),
         "notes": reg.get("notes"),
     }
+    promoter_shares = sum(p["shares_filed"] for p in promoter_group)
+    status, drift = reconciliation(promoter_shares, reg.get("promoter_pct"), total)
+    raw["promoter_reconciliation"] = status
+    raw["promoter_drift"] = drift
+    raw["promoter_pct_filed"] = reg.get("promoter_pct")
+
     registry = {
         "company": reg["company"],
         "isin": reg.get("isin"),

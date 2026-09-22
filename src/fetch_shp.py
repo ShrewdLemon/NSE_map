@@ -58,6 +58,12 @@ def _pdf_text(raw):
     return "\n".join((p.extract_text() or "") for p in reader.pages), reader
 
 
+# An Indian equity ISIN is INE/INF/INA. An 'IN9' code is a different series -
+# partly paid shares, typically - so publishing it as the company's ISIN is
+# simply wrong. Better to carry nothing than the wrong identifier.
+_EQUITY_ISIN = re.compile(r"^IN[EFA][0-9A-Z]{9}$")
+
+
 def build_register(ticker, company, sector=None, as_of=None, source_url=None,
                    promoter_pct=None, isin=None):
     """Parse a cached filing into the register the pipeline consumes."""
@@ -79,6 +85,8 @@ def build_register(ticker, company, sector=None, as_of=None, source_url=None,
               for r in parsed["public"] + parsed["non_public"] if r["shares"]]
 
     lab = label(as_of)
+    if isin and not _EQUITY_ISIN.match(isin.strip().upper()):
+        isin = None
     reg = {
         "ticker": ticker, "company": company, "sector": sector, "isin": isin,
         "as_of": as_of, "as_of_label": lab, "quarters": [lab] if lab else [],

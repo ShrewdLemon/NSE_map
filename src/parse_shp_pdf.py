@@ -45,6 +45,44 @@ def split_row(line):
     return _ROLE.sub("", name).strip(" .,-"), nums
 
 
+def read_holding(nums):
+    """(shares, percentage) from a row's numeric columns.
+
+    Column positions are NOT stable across filings - Grasim puts fully paid-up
+    shares in column (III) where HCLTech puts it in (IV) - so reading by index
+    silently returns the wrong figure. What is stable is repetition: a filing
+    restates the same holding as fully paid-up, as total, as voting rights and
+    as dematerialised shares, and the same percentage two or three times, while
+    the shareholder count appears once. So the most frequent value wins, and
+    the largest breaks a tie.
+    """
+    ints, pcts = [], []
+    for tok in nums:
+        v = _to_num(tok)
+        if v is None:
+            continue
+        if tok.endswith("%") or ("." in tok and 0 < v <= 100):
+            pcts.append(round(v, 4))
+        elif v == int(v) and v > 0:
+            ints.append(int(v))
+
+    def mode(vals):
+        if not vals:
+            return None
+        best, seen = None, {}
+        for v in vals:
+            seen[v] = seen.get(v, 0) + 1
+        top = max(seen.values())
+        return max(v for v, n in seen.items() if n == top)
+
+    shares = mode(ints)
+    # A lone integer is the shareholder count, not a holding: a real holding is
+    # restated across columns. Treat an unrepeated single value as nil.
+    if shares is not None and len(ints) == 1 and shares < 1000:
+        shares = 0
+    return int(shares or 0), mode(pcts)
+
+
 def _sections(text):
     """Split the document into its SEBI tables, keyed by roman numeral."""
     marks = [(m.start(), m.group(1).upper())
@@ -79,17 +117,8 @@ def _rows(section, clean_name):
         clean = clean_name(_ROLE.sub("", name).strip(" .,-"))
         if not clean:
             return
-        shares = _to_num(nums[1]) if len(nums) > 1 else None
-        total = _to_num(nums[4]) if len(nums) > 4 else None
-        pct = _to_num(nums[5]) if len(nums) > 5 else None
-        got.append({
-            "name": clean,
-            # (IV) fully paid up is the headline count; (VII) total holding
-            # matches it unless partly paid or DR shares exist, and is the
-            # better figure when they do.
-            "shares": int(total if total not in (None, 0) else (shares or 0)),
-            "pct": pct,
-        })
+        shares, pct = read_holding(nums)
+        got.append({"name": clean, "shares": shares, "pct": pct})
 
     for raw in section.split("\n"):
         line = raw.strip()
@@ -111,14 +140,32 @@ def _rows(section, clean_name):
     return got
 
 
+_MIN_PUBLIC = 3     # below this the section boundaries are suspect
+
+
 def parse_text(text, clean_name):
-    """Returns {'promoters': [...], 'public': [...], 'non_public': [...]}."""
+    """Returns {'promoters': [...], 'public': [...], 'non_public': [...]}.
+
+    Section splitting relies on the table captions appearing in document order,
+    which PDF text extraction does not guarantee: Grasim's filing prints the
+    Table III caption and column headers, then Table IV's rows underneath. When
+    the public section comes back implausibly thin, the whole document is
+    rescanned and anything that is not already a promoter is taken as public.
+    Rows recovered that way are marked so their weaker provenance is visible.
+    """
     sec = _sections(text)
-    return {
-        "promoters": _rows(sec.get("II", ""), clean_name),
-        "public": _rows(sec.get("III", ""), clean_name),
-        "non_public": _rows(sec.get("IV", ""), clean_name),
-    }
+    promoters = _rows(sec.get("II", ""), clean_name)
+    public = _rows(sec.get("III", ""), clean_name)
+    non_public = _rows(sec.get("IV", ""), clean_name)
+
+    if len(public) < _MIN_PUBLIC:
+        known = {r["name"].lower() for r in promoters + public + non_public}
+        for r in _rows(text, clean_name):
+            if r["name"].lower() in known or not r["shares"]:
+                continue
+            known.add(r["name"].lower())
+            public.append({**r, "recovered": True})
+    return {"promoters": promoters, "public": public, "non_public": non_public}
 
 
 def parse_pdf(data, clean_name):
