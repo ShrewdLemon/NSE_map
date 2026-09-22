@@ -123,6 +123,39 @@ check("the override does not simply keep the grand total",
       recovered != GRAND_TOTAL_INCL_DRS, True)
 check("a correct stated denominator is left alone",
       build_register.resolve_denominator(rel_register)[0], SCRR)
+# A source can split into two clusters when some percentages read like a digit
+# was dropped. SBI Life did: four holders imply about a billion shares, three
+# imply ten times that. A plain median lands in whichever cluster is larger and,
+# having inflated the base tenfold, makes an impossible 212% holding look
+# ordinary. Support decides instead, and a tie keeps what the filing states.
+_two_cluster = {
+    "shares_scrr": 1_000_000_000, "promoter_group": [],
+    "public_holders": [
+        {"holder_name": "a", "shares": 550_000_000, "pct": 55.0},
+        {"holder_name": "b", "shares": 150_000_000, "pct": 15.0},
+        {"holder_name": "c", "shares": 40_000_000, "pct": 4.0},
+        {"holder_name": "d", "shares": 40_500_000, "pct": 4.05},
+        {"holder_name": "e", "shares": 2_130_000_000, "pct": 21.3},
+        {"holder_name": "f", "shares": 137_000_000, "pct": 1.37},
+        {"holder_name": "g", "shares": 121_000_000, "pct": 1.21},
+    ],
+}
+check("the better-supported denominator wins, not the median",
+      build_register.resolve_denominator(_two_cluster)[0], 1_000_000_000)
+# And with that base the impossible holding is caught.
+_fixed, _note, _doubt = build_register.reconcile_count(2_130_000_000, 21.3, 1_000_000_000)
+check("a holding larger than the company is replaced by its percentage",
+      _fixed, 213_000_000)
+check("and flagged", _doubt, True)
+# A plausible disagreement keeps the filed count rather than guessing.
+_kept, _, _flag = build_register.reconcile_count(121_000_000, 1.21, 1_000_000_000)
+check("a merely doubtful count is kept", _kept, 121_000_000)
+check("but flagged", _flag, True)
+# Rounding slack scales with the percentage's own precision.
+_ok, _, _clean = build_register.reconcile_count(494_602, 0.02, 2_711_788_708)
+check("a count within the percentage's rounding is left alone", _ok, 494_602)
+check("and not flagged", _clean, False)
+
 # Too few disagreeing holders must not be enough to move it.
 check("one outlier cannot move the denominator",
       build_register.resolve_denominator(
