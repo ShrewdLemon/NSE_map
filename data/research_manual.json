@@ -1,0 +1,56 @@
+[
+  {
+    "holder_name": "Azeez Family Trust",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "private_family_trust",
+    "holding_vehicle": "own_balance_sheet",
+    "confidence": "high",
+    "evidence": "SEBI shareholding pattern lists it under Public > Non-Institutions > Trusts as 'Azeez family trust acting through Feroze Azeez'. A private family trust, not a pooled fund. Feroze Azeez is Joint CEO; the trust is public category, not promoter group.",
+    "source_url": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
+  },
+  {
+    "holder_name": "Rawal Family Trust",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "private_family_trust",
+    "holding_vehicle": "own_balance_sheet",
+    "confidence": "high",
+    "evidence": "SEBI shareholding pattern lists it under Public > Non-Institutions > Trusts as 'Rawal family trust acting through Rakesh Rawal'. Named an 'Other Selling Shareholder' in the IPO DRHP, distinct from the Promoter Selling Shareholders.",
+    "source_url": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
+  },
+  {
+    "holder_name": "SUHAS GUPTA FAMILY TRUST",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "private_family_trust",
+    "holding_vehicle": "own_balance_sheet",
+    "confidence": "high",
+    "evidence": "SEBI shareholding pattern lists it under Public > Non-Institutions > Trusts as 'Suhas gupta family trust acting through Preeti Rawal'. A private family trust, not a pooled fund.",
+    "source_url": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
+  },
+  {
+    "holder_name": "Echjay Industries Pvt Ltd",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "operating_company",
+    "holding_vehicle": "operating_company_treasury",
+    "confidence": "high",
+    "evidence": "SEBI shareholding pattern lists 'Echjay industries private limited' under Public > Non-Institutions > Bodies corporate. An Indian forging and engineering group holding the stake on its own book.",
+    "source_url": "https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/"
+  },
+  {
+    "holder_name": "ANANDRATHI HOUSING FIN LTD",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "operating_company",
+    "holding_vehicle": "operating_company_treasury",
+    "confidence": "high",
+    "evidence": "MCA register: Anandrathi Housing Finance Limited, CIN U67100MH2018PLC304174, an Indian non-government public company in the Finance business, registered in Mumbai. An Anand Rathi group entity but NOT in the filed promoter group of Anand Rathi Wealth Ltd. Distinct from Anand Rathi Global Finance Ltd (CIN U67190MH1982PLC140380).",
+    "source_url": "https://economictimes.indiatimes.com/company/anandrathi-housing-finance-limited/U67100MH2018PLC304174"
+  },
+  {
+    "holder_name": "Norges Bank",
+    "country_of_incorporation": "NO",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "holding_vehicle": "sovereign_assets",
+    "confidence": "high",
+    "evidence": "The holding is reported as 'Government Pension Fund Global' - Norway's sovereign wealth fund, managed by Norges Bank Investment Management. Sovereign capital rather than central-bank reserves or a commercial banking book.",
+    "source_url": "https://www.investing.com/equities/anand-rathi-wealth-ownership"
+  }
+]
