@@ -3,8 +3,8 @@
   "ticker": "ADANIPORTS",
   "isin": "INE742F01042",
   "as_of": "2026-06-30",
-  "shares_scrr": 230471494444,
-  "denominator_note": "stated 2,303,959,098 backed by 0 holders, implied 230,471,494,444 by 12; used the implied",
+  "shares_scrr": 2303959098.0,
+  "denominator_note": "stated denominator agrees with 12 of 15 holders to 0.033%",
   "quarter_labels": [
     "Jun/2026"
   ],
@@ -250,7 +250,7 @@
   ],
   "notes": "Q1 FY27 SHP filed 10-Jul-2026. pr_and_prgrp=66.03%, public=33.97%. SCRR-denominator (A+B+C2)=2,303,959,098 equity shares (no partly-paid, no DR). 21 promoter named + 5 public named above 1%. S.B. Adani Family Trust holds 30.85% via Gautambhai & Rajeshbhai jointly. Public named: LIC (6.43%), Goldman Sachs Trust II - Goldman Sachs GQG Partners Intl Opp Fund FPI Cat I (1.93%), SBI Nifty 50 ETF (1.41%), Body Corp-LLP (0.07%) and Trust-Employees (0.0004% - Bajaj Auto). Filing remark: in SBO disclosures PAN is masked '******' / dummy PAN ZZZZZ9999Z used for non-disclosure.",
   "corrections": [],
-  "promoter_reconciliation": "unreconciled",
-  "promoter_drift": -0.9900030602169184,
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 2.19420880890011e-05,
   "promoter_pct_filed": 66.03
 }
