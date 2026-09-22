@@ -1,0 +1,20 @@
+{
+  "company": "Bharat Electronics Limited",
+  "isin": "INE263A01024",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/175/BEL/latest/bharat-electronics-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 51.14,
+  "promoter_total_shares_filed": 3737921934,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "President of India",
+      "shares_filed": 3737921934,
+      "class": "Central Government/State Government(s)"
+    }
+  ]
+}

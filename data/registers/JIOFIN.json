@@ -1,0 +1,313 @@
+{
+  "ticker": "JIOFIN",
+  "company": "Jio Financial Services Limited",
+  "sector": "Financial Services",
+  "isin": "INE758E01017",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 6603141623.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 49.13,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "K D Ambani",
+      "shares_filed": 15741322.0,
+      "pct": 0.24,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anant M Ambani",
+      "shares_filed": 8052021.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Isha M Ambani",
+      "shares_filed": 8052021.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mukesh D Ambani",
+      "shares_filed": 8052020.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nita M Ambani",
+      "shares_filed": 8052021.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Akash M Ambani",
+      "shares_filed": 8052021.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Srichakra Commercials LLP",
+      "shares_filed": 739599829.0,
+      "pct": 11.2,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Karuna Commercials LLP",
+      "shares_filed": 545569460.0,
+      "pct": 8.26,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tattvam Enterprises LLP",
+      "shares_filed": 545569460.0,
+      "pct": 8.26,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Devarshi Commercials LLP",
+      "shares_filed": 545569460.0,
+      "pct": 8.26,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Jamnagar Utilities And Power Private Limited",
+      "shares_filed": 253464144.0,
+      "pct": 3.84,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sikka Ports & Terminals Limited",
+      "shares_filed": 193500000.0,
+      "pct": 2.93,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Reliance Industries Holding Private Ltd",
+      "shares_filed": 191015071.0,
+      "pct": 2.89,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Samarjit Enterprises LLP",
+      "shares_filed": 124625274.0,
+      "pct": 1.89,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shreeji Comtrade LLP",
+      "shares_filed": 14337965.0,
+      "pct": 0.22,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shrikrishna Tradecom LLP",
+      "shares_filed": 14337965.0,
+      "pct": 0.22,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Svar Enterprises LLP",
+      "shares_filed": 13589367.0,
+      "pct": 0.21,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Reliance Welfare Association",
+      "shares_filed": 5344997.0,
+      "pct": 0.08,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Vasuprada Enterprises LLP",
+      "shares_filed": 1315925.0,
+      "pct": 0.02,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kamalakar Enterprises LLP",
+      "shares_filed": 213.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kankhal Trading LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Narahari Enterprises LLP",
+      "shares_filed": 213.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Neutron Enterprises Private Limited",
+      "shares_filed": 1849.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pavana Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pinakin Commercials Private Limited",
+      "shares_filed": 108.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pitambar Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rishikesh Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shripal Enterprises LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bhuvanesh Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Taran Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Trilokesh Commercials LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vishatan Enterprises LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Janardan Commercials LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Harinarayan Enterprises LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Futura Commercials Private Limited",
+      "shares_filed": 1814.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Exotic Officeinfra Private Limited",
+      "shares_filed": 27674.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Elakshi Commercials Private Limited",
+      "shares_filed": 108.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chhatrabhuj Enterprises LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chakresh Enterprises LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chakradhar Commercials LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chakradev Enterprises LLP",
+      "shares_filed": 216.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Carat Holdings And Trading Co Pvt Ltd",
+      "shares_filed": 10951.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Badri Commercials LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Ajitesh Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Adisesh Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Abhayaprada Enterprises LLP",
+      "shares_filed": 215.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "SBI Mutual Funds",
+      "shares": 83191090.0,
+      "pct": 1.26,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 453797523.0,
+      "pct": 6.87,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1564869/JIOFIN/latest/jio-financial-services-ltd/"
+  ],
+  "notes": "Trendlyne transcription of the SEBI LODR Reg. 31 shareholding pattern for quarter ended 30 June 2026. Promoter and promoter-group has a long tail of LLP and Pvt Ltd entities (~30 of them) with sub-share-count filings of 108 to 27,674 shares; included verbatim. Mutual Fund holdings 4.95% total - SBI Mutual Funds is the only scheme above 1% (the trendlyne row collapses the multiple SBI schemes to a single client-cum figure); 47 other schemes below 1%. FPI Cat I 10.84% (609 holders) and Cat II 0.37% (39 holders) - no individual named FPI above 1%. Other Foreign Institutions 0.00% category (7 holders, 23,956 shares total). Insurance Companies 7.49% - LIC is the only named insurer above 1%. Public 26.15% is dominated by retail individuals (18.33%) which is a category subtotal; no individual named public holder above 1% outside Mutual Funds and LIC. Total shares scrr reconciled; the three section subtotals add to 6,603,141,623 shares (\u2248100% of SCRR basis). Depository receipt shares disclosed as zero, not separately tracked.",
+  "ingested_on": "2026-09-22"
+}

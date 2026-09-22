@@ -1,0 +1,133 @@
+[
+  {
+    "isin": "INE155A01022",
+    "ticker": "TMPV",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://nsearchives.nseindia.com/corporate/xbrl/SHP_1698814_21072026073405_WEB.xml"
+    ],
+    "company_name": "Tata Motors Passenger Vehicles Limited",
+    "has_promoter": true,
+    "promoter_pct": 42.51,
+    "total_shares_scrr": 3682582902,
+    "promoter_group": [
+      {
+        "filed_name": "Tata Sons Private Limited",
+        "shares_filed": 1478263541,
+        "pct": 40.14,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Tata Industries Limited",
+        "shares_filed": 72203630,
+        "pct": 1.96,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Tata Investment Corporation Limited",
+        "shares_filed": 11000000,
+        "pct": 0.3,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Ewart Investments Limited",
+        "shares_filed": 3383746,
+        "pct": 0.09,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Tata Chemicals Limited",
+        "shares_filed": 0,
+        "pct": 0,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "The Tata Power Company Limited",
+        "shares_filed": 391803,
+        "pct": 0.01,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Tata Steel Limited",
+        "shares_filed": 100000,
+        "pct": 0,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Simto Investment Company Limited",
+        "shares_filed": 59583,
+        "pct": 0,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Tata Consumer Products Limited",
+        "shares_filed": 0,
+        "pct": 0,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Tata Securities Limited",
+        "shares_filed": 400,
+        "pct": 0,
+        "holder_class": "Bodies Corporate"
+      },
+      {
+        "filed_name": "Sir Ratan Tata Trust- NN Tata, V Singh, VSrinivasan, JNTata, DKhambata, JehangirHC",
+        "shares_filed": 0,
+        "pct": 0,
+        "holder_class": "Trusts"
+      },
+      {
+        "filed_name": "Sir Dorabji Tata Trust- NN Tata, VSingh, VSrinivasan, P Jhaveri, Darius Khambata, Neville Tata, B Bhat",
+        "shares_filed": 0,
+        "pct": 0,
+        "holder_class": "Trusts"
+      },
+      {
+        "filed_name": "J R D Tata Trust - NN Tata, V Srinivasan, V Singh, Neville Tata",
+        "shares_filed": 0,
+        "pct": 0,
+        "holder_class": "Trusts"
+      },
+      {
+        "filed_name": "Lady Tata Memorial Trust - Dr. M. Chandy, S Sharma, Prof. K. VijayRaghavan",
+        "shares_filed": 0,
+        "pct": 0,
+        "holder_class": "Trusts"
+      }
+    ],
+    "public_holders": [
+      {
+        "holder_name": "Life Insurance Corporation Of India",
+        "shares": 175104418,
+        "pct": 4.75,
+        "holder_class": "Insurance Company"
+      },
+      {
+        "holder_name": "Icici Prudential Value Fund",
+        "shares": 105211286,
+        "pct": 2.86,
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "holder_name": "Sbi Nifty 50 Etf",
+        "shares": 83539171,
+        "pct": 2.27,
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "holder_name": "Rekha Jhunjhunwala",
+        "shares": 48798260,
+        "pct": 1.33,
+        "holder_class": "Resident Individual (in excess of Rs 2 lakh)"
+      },
+      {
+        "holder_name": "Tata AIA Life Insurance Company Limited",
+        "shares": 8481963,
+        "pct": 0.23,
+        "holder_class": "Insurance Company"
+      }
+    ],
+    "extraction_notes": "Q1 FY27 filed 21-Jul-2026. SCRR denominator (A)+(B)+(C2)=3,682,582,902. Named public holders total about 11.4%; the balance sits with unnamed individuals, funds and FPIs."
+  }
+]

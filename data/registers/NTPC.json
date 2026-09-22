@@ -1,0 +1,79 @@
+{
+  "ticker": "NTPC",
+  "company": "NTPC Limited",
+  "sector": "Power",
+  "isin": "INE733E01010",
+  "as_of": "2025-09-30",
+  "as_of_label": "Sep/2025",
+  "quarters": [
+    "Sep/2025"
+  ],
+  "shares_scrr": 9696666134.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 51.1,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "President Of India",
+      "shares_filed": 4955346251.0,
+      "pct": 51.1,
+      "holder_class": "Central Government"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Cpse Exchange Traded Scheme (cpse Etf)",
+      "shares": 378287954.0,
+      "pct": 3.9,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Hdfc Trustee Company Ltd. A/c Hdfc Balanced Advantage Fund",
+      "shares": 156664687.0,
+      "pct": 1.62,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Icici Prudential Equity & Debt Fund",
+      "shares": 493526515.0,
+      "pct": 5.09,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Kotak Arbitrage Fund",
+      "shares": 102190136.0,
+      "pct": 1.05,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Sbi Nifty 50 Etf",
+      "shares": 216099483.0,
+      "pct": 2.23,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "shares": 479314529.0,
+      "pct": 4.94,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "Nps Trust- A/c Hdfc Pension Fund Management Limited Scheme E-Tier I",
+      "shares": 207550566.0,
+      "pct": 2.14,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Government Of Singapore",
+      "shares": 197673526.0,
+      "pct": 2.04,
+      "holder_class": "FPI Category I"
+    }
+  ],
+  "source_urls": [
+    "https://ntpc.co.in/sites/default/files/shareholding_pattrens/2026/Shareholding%20Pattern%20(1).pdf"
+  ],
+  "notes": "NTPC is a Public Sector Undertaking (PSU); the President of India is the sole promoter. The most recently filed shareholding pattern on NTPC's website is for quarter ended 30-09-2025. Total SCRR denominator = (A)+(B)+(C2) = 4,955,346,251 + 4,741,319,883 + 0 = 9,696,666,134. Public holders represent institutional/non-institutional categories plus named funds crossing 1% threshold.",
+  "ingested_on": "2026-09-22"
+}

@@ -1,0 +1,275 @@
+{
+  "company": "JSW Steel Limited",
+  "isin": "INE019A01038",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/699/JSWSTEEL/latest/jsw-steel-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 44.29,
+  "promoter_total_shares_filed": 1083203750,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Tanvi Shete",
+      "shares_filed": 4963630,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tarini Jindal Handa",
+      "shares_filed": 4993890,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Parth Jindal",
+      "shares_filed": 1770000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Seema Jajodia",
+      "shares_filed": 1441650,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deepika Jindal",
+      "shares_filed": 148650,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nirmala Goel",
+      "shares_filed": 173000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Saroj Bhartia",
+      "shares_filed": 237827,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Urmila Bhuwalka",
+      "shares_filed": 300000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Saket Kanoria",
+      "shares_filed": 7600,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Urmila Kailashkumar Kanoria",
+      "shares_filed": 110000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tripti Jindal Arya",
+      "shares_filed": 50660,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sminu Jindal",
+      "shares_filed": 55970,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Savitri Devi Jindal",
+      "shares_filed": 75300,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sangita Jindal",
+      "shares_filed": 1000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S K Jindal And Sons HUF",
+      "shares_filed": 58000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "P R Jindal HUF",
+      "shares_filed": 45550,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Naveen Jindal HUF",
+      "shares_filed": 27790,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Naveen Jindal",
+      "shares_filed": 27200,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Arti Jindal",
+      "shares_filed": 10,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sajjan Jindal",
+      "shares_filed": 31000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Aiyush Bhuwalka",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Karnataka State Industrial & Infrastructure Development Corporation",
+      "shares_filed": 9079520,
+      "class": "Central Government / State Government(s)"
+    },
+    {
+      "filed_name": "JSW Techno Projects Management Ltd",
+      "shares_filed": 264605920,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Holdings Limited",
+      "shares_filed": 181402230,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vividh Finvest Private Limited",
+      "shares_filed": 143370690,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sahyog Holdings Private Limited",
+      "shares_filed": 112067860,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Siddeshwari Tradex Private Limited",
+      "shares_filed": 84550760,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JTPM Metal Traders Limited",
+      "shares_filed": 83267143,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Virtuous Tradecorp Private Limited",
+      "shares_filed": 60368250,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Nalwa Sons Investments Ltd",
+      "shares_filed": 45486370,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Energy Limited",
+      "shares_filed": 45038350,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSL Overseas Limited",
+      "shares_filed": 21026090,
+      "class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Nacho Investments Limited",
+      "shares_filed": 4207380,
+      "class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Mendeza Holdings Limited",
+      "shares_filed": 4218090,
+      "class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Estrela Investment Company Limited",
+      "shares_filed": 4160070,
+      "class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Beaufield Holdings Limited",
+      "shares_filed": 4227970,
+      "class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Sangita Jindal Family Trust)",
+      "shares_filed": 1060100,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Prj Family Management Company Private Limited",
+      "shares_filed": 312120,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Tarini Jindal Family Trust)",
+      "shares_filed": 100,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "South West Mining Limited",
+      "shares_filed": 61300,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Tanvi Jindal Family Trust)",
+      "shares_filed": 100,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Sajjan Jindal Lineage Trust)",
+      "shares_filed": 100,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Sajjan Jindal Family Trust)",
+      "shares_filed": 100,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Parth Jindal Family Trust)",
+      "shares_filed": 100,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Rohit Tower Building Ltd",
+      "shares_filed": 90,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Reynold Traders Private Limited",
+      "shares_filed": 1000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Narmada Fintrade Private Limited",
+      "shares_filed": 65000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Projects Limited",
+      "shares_filed": 21300,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Investments Private Limited",
+      "shares_filed": 1000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hexa Tradex Limited",
+      "shares_filed": 13620,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Accuraform Pvt Ltd",
+      "shares_filed": 20800,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sarika Jhunjhnuwala",
+      "shares_filed": 41500,
+      "class": "Individuals/HUF (Foreign)"
+    }
+  ]
+}

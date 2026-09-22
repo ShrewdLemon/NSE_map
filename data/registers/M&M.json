@@ -1,0 +1,235 @@
+{
+  "ticker": "M&M",
+  "company": "Mahindra & Mahindra Limited",
+  "sector": "Automobile",
+  "isin": "INE101A01026",
+  "as_of": "2025-06-30",
+  "as_of_label": "Jun/2025",
+  "quarters": [
+    "Jun/2025"
+  ],
+  "shares_scrr": 1223463475.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 18.44,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "ANAND GOPAL MAHINDRA",
+      "shares_filed": 1430008.0,
+      "pct": 0.12,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANJALI K MAHINDRA",
+      "shares_filed": 172962.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANURADHA MAHINDRA",
+      "shares_filed": 457090.0,
+      "pct": 0.04,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DEVESHWAR JAGAT SHARMA",
+      "shares_filed": 30000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DHRUV S SHARMA",
+      "shares_filed": 30000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "GAUTAM P KHANDELWAL",
+      "shares_filed": 4600.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "LEENA S LABROO",
+      "shares_filed": 1561166.0,
+      "pct": 0.13,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NISHEETA LABROO",
+      "shares_filed": 170500.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANEESHA LABROO",
+      "shares_filed": 170000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RADHIKA NATH",
+      "shares_filed": 93616.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJAY MOHAN LABROO",
+      "shares_filed": 289440.0,
+      "pct": 0.02,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "UMA R MALHOTRA",
+      "shares_filed": 1550164.0,
+      "pct": 0.13,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANUJA P SHARMA",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MARTHAND SINGH MAHINDRA",
+      "shares_filed": 70000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KABIR MALHOTRA",
+      "shares_filed": 10000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANJALI MALHOTRA",
+      "shares_filed": 10000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DEEPAK VARDE@",
+      "shares_filed": 88720.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "AALIKA NISHITA MAHINDRA",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DIVYA ANAND MAHINDRA",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Geeta Premnath Khandelwal",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Preeti Khandelwal",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "PRUDENTIAL MANAGEMENT & SERVICES PRIVATE LIMITED",
+      "shares_filed": 132221940.0,
+      "pct": 10.81,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KEMA SERVICES INTERNATIONAL PVT LTD",
+      "shares_filed": 734832.0,
+      "pct": 0.06,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M&M BENEFIT TRUST (Bharat N Doshi, A.K.Nanda, Anand Mahindra, M.M.Murugappan,Padmini Khare, Haigreve Khaitan, Vikram Singh Mehta & Ranjan Pant - Trustees)",
+      "shares_filed": 84470428.0,
+      "pct": 6.9,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Yuthica Mahindra Family Trust (Uma Malhotra, Leena Labroo & Yuthica Mahindra- Trustees)",
+      "shares_filed": 992638.0,
+      "pct": 0.08,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "YUTHICA KESHUB MAHINDRA *",
+      "shares_filed": 644744.0,
+      "pct": 0.05,
+      "holder_class": "Foreign Individuals"
+    },
+    {
+      "filed_name": "CHETAN VARDE",
+      "shares_filed": 374800.0,
+      "pct": 0.03,
+      "holder_class": "Foreign Individuals"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "SBI NIFTY 50 ETF WITH SUB ACCOUNTS",
+      "shares": 37188730.0,
+      "pct": 3.04,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI PRUDENTIAL BLUECHIP FUND WITH SUB ACCOUNTS",
+      "shares": 21594488.0,
+      "pct": 1.77,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI NIFTY 50 ETF WITH SUB ACCOUNTS",
+      "shares": 15813862.0,
+      "pct": 1.29,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA ETF NIFTY 50 BEES WITH SUB ACCOUNTS",
+      "shares": 13656619.0,
+      "pct": 1.12,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "PARAG PARIKH FLEXI CAP FUND WITH SUB ACCOUNTS",
+      "shares": 13080033.0,
+      "pct": 1.07,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC TRUSTEE COMPANY LTD. A/C HDFC BALANCED ADVANTAGE FUND WITH SUB ACCOUNTS",
+      "shares": 12805372.0,
+      "pct": 1.05,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND A/C AXIS LARGE CAP FUND WITH SUB ACCOUNTS",
+      "shares": 12753802.0,
+      "pct": 1.04,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "LIFE INSURANCE CORPORATION OF INDIA ALONG WITH ITS SUB ACCOUNTS",
+      "shares": 103908436.0,
+      "pct": 8.6,
+      "holder_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://mahindra.com/sites/default/files/2025-07/Shareholding%20Pattern%20reg%2031b%2030%20June%202025.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2025 was the most recently filed shareholding pattern on the M&M investor relations site. Total SCRR denominator = (A)+(B)+(C2) = 225,577,648 + 954,063,727 + 43,822,100 = 1,223,463,475. The filing excludes 20,065,356 depository receipts (JP Morgan Chase Bank, NA custodian) from the SCRR denominator per SEBI rules. Many small promoter-group entities listed in filing have nil holdings; only the top holders were transcribed to keep within scope.",
+  "ingested_on": "2026-09-22"
+}

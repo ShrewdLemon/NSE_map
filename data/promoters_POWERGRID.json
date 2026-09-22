@@ -1,0 +1,20 @@
+{
+  "company": "Power Grid Corporation of India Limited",
+  "isin": "INE752E01010",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://www.powergrid.in/sites/default/files/Investor_Relation/Reports_Filings/Share_Holding_Pattern/2026-27/SHP_2026-27_Q1.html"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 51.34,
+  "promoter_total_shares_filed": 4594849080,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "PRESIDENT OF INDIA",
+      "shares_filed": 4594849080,
+      "class": "Central Government/ State Government(s)"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "company": "Mahindra & Mahindra Limited",
+  "isin": "INE101A01026",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-06-30",
+  "source_urls": [
+    "https://mahindra.com/sites/default/files/2025-07/Shareholding%20Pattern%20reg%2031b%2030%20June%202025.pdf"
+  ],
+  "as_of": "2025-06-30",
+  "promoter_total_pct": 18.44,
+  "promoter_total_shares_filed": 225577648,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "ANAND GOPAL MAHINDRA",
+      "shares_filed": 1430008,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANJALI K MAHINDRA",
+      "shares_filed": 172962,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANURADHA MAHINDRA",
+      "shares_filed": 457090,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DEVESHWAR JAGAT SHARMA",
+      "shares_filed": 30000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DHRUV S SHARMA",
+      "shares_filed": 30000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "GAUTAM P KHANDELWAL",
+      "shares_filed": 4600,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "LEENA S LABROO",
+      "shares_filed": 1561166,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "NISHEETA LABROO",
+      "shares_filed": 170500,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANEESHA LABROO",
+      "shares_filed": 170000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "RADHIKA NATH",
+      "shares_filed": 93616,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "SANJAY MOHAN LABROO",
+      "shares_filed": 289440,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "UMA R MALHOTRA",
+      "shares_filed": 1550164,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANUJA P SHARMA",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "MARTHAND SINGH MAHINDRA",
+      "shares_filed": 70000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KABIR MALHOTRA",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "ANJALI MALHOTRA",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DEEPAK VARDE@",
+      "shares_filed": 88720,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "AALIKA NISHITA MAHINDRA",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "DIVYA ANAND MAHINDRA",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Geeta Premnath Khandelwal",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Preeti Khandelwal",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "PRUDENTIAL MANAGEMENT & SERVICES PRIVATE LIMITED",
+      "shares_filed": 132221940,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "KEMA SERVICES INTERNATIONAL PVT LTD",
+      "shares_filed": 734832,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "M&M BENEFIT TRUST (Bharat N Doshi, A.K.Nanda, Anand Mahindra, M.M.Murugappan,Padmini Khare, Haigreve Khaitan, Vikram Singh Mehta & Ranjan Pant - Trustees)",
+      "shares_filed": 84470428,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Yuthica Mahindra Family Trust (Uma Malhotra, Leena Labroo & Yuthica Mahindra- Trustees)",
+      "shares_filed": 992638,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "YUTHICA KESHUB MAHINDRA *",
+      "shares_filed": 644744,
+      "class": "Foreign Individuals"
+    },
+    {
+      "filed_name": "CHETAN VARDE",
+      "shares_filed": 374800,
+      "class": "Foreign Individuals"
+    }
+  ]
+}

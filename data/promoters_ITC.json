@@ -1,0 +1,14 @@
+{
+  "company": "ITC Limited",
+  "isin": "INE154A01025",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-12-31",
+  "source_urls": [
+    "https://itcportal.com/content/dam/itc-corporate/pdfs/shareholding-pattern/shareholding-pattern-31-dec-25.pdf"
+  ],
+  "as_of": "2025-12-31",
+  "promoter_total_pct": 0.0,
+  "promoter_total_shares_filed": 0,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": []
+}

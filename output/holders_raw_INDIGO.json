@@ -1,0 +1,172 @@
+{
+  "company": "InterGlobe Aviation Limited",
+  "ticker": "INDIGO",
+  "isin": "INE646L01027",
+  "as_of": "2026-06-30",
+  "shares_scrr": 386657498.0,
+  "denominator_note": "stated denominator agrees with 17 holders to 0.044%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Interglobe Enterprises Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 137987201
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "The Chinkerpoo Family Trust (Trustee: Shobha Gangwal & J.P. Morgan Trust Company of Delaware)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5106413
+      },
+      "filed_class": "Trust (Foreign)"
+    },
+    {
+      "holder_name": "Rakesh Gangwal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 17530493
+      },
+      "filed_class": "Individuals/HUF (Foreign)"
+    },
+    {
+      "holder_name": "Kapil Bhatia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 50000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Rahul Bhatia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 40000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Alok Mehta",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8440
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Rohini Bhatia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "ICICI Prudential Transportation and Logistics Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 20304967
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited - HDFC Tax Saverfund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 16319674
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13190837
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Invesco India Focused Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5936646
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Kotak Mahindra Trustee Co Ltd A/C Kotak Services Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5595678
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Axis Mutual Fund Trustee Limited A/C Axis Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5226614
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Nifty 50 ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4610253
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4215194
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 8213760
+      },
+      "filed_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4775432
+      },
+      "filed_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "NPS Trust- A/C ICICI Prudential Pension Fund Scheme",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7914050
+      },
+      "filed_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Westbridge AIF I",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7439090
+      },
+      "filed_class": "Alternative Investment Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1784/INDIGO/latest/interglobe-aviation-ltd/"
+  ],
+  "notes": "Promoter group covers Table II entries named in the filed quarterly shareholding pattern as transcribed by Trendlyne. Trendlyne lists named holders down to very low share counts (single-digit shares for nil holders) within individuals/HUF; the four named individuals are included. No additional named Individuals/HUF zero-share holders were shown. Public (Non-Institutional) section contains category subtotals only (no named bodies corporate above 1%). FPI Cat II category had 57 holders and 1.07% total but no individual named holder above 1% was listed. Mutual Funds listed: all 8 schemes \u22651% out of 46 schemes total; remaining holdings are below 1%. Trendlyne denotes Foreign Portfolio Investors as FPI / FII.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -6.0654341941609224e-06,
+  "promoter_pct_filed": 41.57
+}

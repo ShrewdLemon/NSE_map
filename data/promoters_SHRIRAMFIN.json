@@ -1,0 +1,20 @@
+{
+  "company": "Shriram Finance Limited",
+  "isin": "INE721A01047",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://cdn.shriramfinance.in/sfl-kalam/files/2026-07/Shareholding%20Pattern%20for%20the%20Quarter%20Ended%20_June%2030,2026.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 25.0,
+  "promoter_total_shares_filed": 80000000,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Shriram Capital Limited",
+      "shares_filed": 80000000,
+      "class": "Bodies Corporate / Promoter Group"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "company": "Mahindra & Mahindra Limited",
+  "ticker": "M&M",
+  "isin": "INE101A01026",
+  "as_of": "2025-06-30",
+  "shares_scrr": 1223463475.0,
+  "denominator_note": "stated denominator agrees with 25 holders to 0.026%",
+  "quarter_labels": [
+    "Jun/2025"
+  ],
+  "holders": [
+    {
+      "holder_name": "ANAND GOPAL MAHINDRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 1430008
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "ANJALI K MAHINDRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 172962
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "ANURADHA MAHINDRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 457090
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "DEVESHWAR JAGAT SHARMA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 30000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "DHRUV S SHARMA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 30000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "GAUTAM P KHANDELWAL",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 4600
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "LEENA S LABROO",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 1561166
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "NISHEETA LABROO",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 170500
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "ANEESHA LABROO",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 170000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "RADHIKA NATH",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 93616
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "SANJAY MOHAN LABROO",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 289440
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "UMA R MALHOTRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 1550164
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "ANUJA P SHARMA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 0
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "MARTHAND SINGH MAHINDRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 70000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "KABIR MALHOTRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 10000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "ANJALI MALHOTRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 10000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "DEEPAK VARDE@",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 88720
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "AALIKA NISHITA MAHINDRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 0
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "DIVYA ANAND MAHINDRA",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 0
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Geeta Premnath Khandelwal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 0
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Preeti Khandelwal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 0
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "PRUDENTIAL MANAGEMENT & SERVICES PRIVATE LIMITED",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 132221940
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "KEMA SERVICES INTERNATIONAL PVT LTD",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 734832
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "M&M BENEFIT TRUST (Bharat N Doshi, A.K.Nanda, Anand Mahindra, M.M.Murugappan,Padmini Khare, Haigreve Khaitan, Vikram Singh Mehta & Ranjan Pant - Trustees)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 84470428
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Yuthica Mahindra Family Trust (Uma Malhotra, Leena Labroo & Yuthica Mahindra- Trustees)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 992638
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "YUTHICA KESHUB MAHINDRA *",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 644744
+      },
+      "filed_class": "Foreign Individuals"
+    },
+    {
+      "holder_name": "CHETAN VARDE",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2025": 374800
+      },
+      "filed_class": "Foreign Individuals"
+    },
+    {
+      "holder_name": "SBI NIFTY 50 ETF WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 37188730
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI PRUDENTIAL BLUECHIP FUND WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 21594488
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI NIFTY 50 ETF WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 15813862
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NIPPON LIFE INDIA TRUSTEE LTD-A/C NIPPON INDIA ETF NIFTY 50 BEES WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 13656619
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "PARAG PARIKH FLEXI CAP FUND WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 13080033
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC TRUSTEE COMPANY LTD. A/C HDFC BALANCED ADVANTAGE FUND WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 12805372
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "AXIS MUTUAL FUND TRUSTEE LIMITED A/C AXIS MUTUAL FUND A/C AXIS LARGE CAP FUND WITH SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 12753802
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "LIFE INSURANCE CORPORATION OF INDIA ALONG WITH ITS SUB ACCOUNTS",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2025": 103908436
+      },
+      "filed_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://mahindra.com/sites/default/files/2025-07/Shareholding%20Pattern%20reg%2031b%2030%20June%202025.pdf"
+  ],
+  "notes": "Quarter ended 30 June 2025 was the most recently filed shareholding pattern on the M&M investor relations site. Total SCRR denominator = (A)+(B)+(C2) = 225,577,648 + 954,063,727 + 43,822,100 = 1,223,463,475. The filing excludes 20,065,356 depository receipts (JP Morgan Chase Bank, NA custodian) from the SCRR denominator per SEBI rules. Many small promoter-group entities listed in filing have nil holdings; only the top holders were transcribed to keep within scope.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -0.00012861672338904955,
+  "promoter_pct_filed": 18.44
+}

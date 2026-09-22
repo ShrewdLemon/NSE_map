@@ -1,0 +1,500 @@
+{
+  "company": "JSW Steel Limited",
+  "ticker": "JSWSTEEL",
+  "isin": "INE019A01038",
+  "as_of": "2026-06-30",
+  "shares_scrr": 2440978228.0,
+  "denominator_note": "stated denominator agrees with 33 holders to 0.230%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Tanvi Shete",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4963630
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Tarini Jindal Handa",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 4993890
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Parth Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1770000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Seema Jajodia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1441650
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Deepika Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 148650
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Nirmala Goel",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 173000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Saroj Bhartia",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 237827
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Urmila Bhuwalka",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 300000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Saket Kanoria",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 7600
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Urmila Kailashkumar Kanoria",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 110000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Tripti Jindal Arya",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 50660
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Sminu Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 55970
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Savitri Devi Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 75300
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Sangita Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "S K Jindal And Sons HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 58000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "P R Jindal HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 45550
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Naveen Jindal HUF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 27790
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Naveen Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 27200
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Arti Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Sajjan Jindal",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 31000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Aiyush Bhuwalka",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10000
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Karnataka State Industrial & Infrastructure Development Corporation",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9079520
+      },
+      "filed_class": "Central Government / State Government(s)"
+    },
+    {
+      "holder_name": "JSW Techno Projects Management Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 264605920
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "JSW Holdings Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 181402230
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Vividh Finvest Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 143370690
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Sahyog Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 112067860
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Siddeshwari Tradex Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 84550760
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "JTPM Metal Traders Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 83267143
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Virtuous Tradecorp Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 60368250
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Nalwa Sons Investments Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 45486370
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "JSW Energy Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 45038350
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "JSL Overseas Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 21026090
+      },
+      "filed_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "holder_name": "Nacho Investments Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4207380
+      },
+      "filed_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "holder_name": "Mendeza Holdings Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4218090
+      },
+      "filed_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "holder_name": "Estrela Investment Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4160070
+      },
+      "filed_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "holder_name": "Beaufield Holdings Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4227970
+      },
+      "filed_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "holder_name": "Sajjan Jindal (Sangita Jindal Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1060100
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Prj Family Management Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 312120
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Sajjan Jindal (Tarini Jindal Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "South West Mining Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 61300
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Sajjan Jindal (Tanvi Jindal Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Sajjan Jindal (Sajjan Jindal Lineage Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Sajjan Jindal (Sajjan Jindal Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Sajjan Jindal (Parth Jindal Family Trust)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 100
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Rohit Tower Building Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 90
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Reynold Traders Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Narmada Fintrade Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 65000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "JSW Projects Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 21300
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "JSW Investments Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Hexa Tradex Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13620
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Accuraform Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 20800
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Sarika Jhunjhnuwala",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 41500
+      },
+      "filed_class": "Individuals/HUF (Foreign)"
+    },
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 41003306
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited - HDFC Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 25612860
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "GQG Partners Emerging Markets Equity Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 24902245
+      },
+      "filed_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 120872101
+      },
+      "filed_class": "Insurance Company"
+    },
+    {
+      "holder_name": "JFE Steel International Europe B.V",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 366818095
+      },
+      "filed_class": "Foreign Direct Investment"
+    },
+    {
+      "holder_name": "Gagandeep Credit Capital Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 49550000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Enam Securities Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 27985121
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Shamyak Investment Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 26533230
+      },
+      "filed_class": "Bodies Corporate"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/699/JSWSTEEL/latest/jsw-steel-ltd/"
+  ],
+  "notes": "Trendlyne tables all named filings within the promoter and promoter-group section down to very small share counts, including nil-Share-holding trusts (e.g. Sajjan Jindal family trusts with 100 shares each); the Adani-style nil-share public trust lines are included. Total shares scrr reconciled from the three top-level subtotals (~2.441 billion). FPI Cat I / FPI Cat II had 559 / 35 holders respectively of which only GQG Partners is named above 1%. Mutual Funds (55 schemes named) \u2014 only the two with \u22651% are listed. The foreign direct investment line JFE Steel Europe B.V. is reported under Table III by trendlyne as a 15.00% holder. Financial Institutions / Banks category had 17 holders; none named above 1%. Bodies Corporate in the public section had 1,792 holders, of which only three named bodies are \u22651%. HUF/Trusts and NRIs categories were category totals.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.0019373553643051672,
+  "promoter_pct_filed": 44.29
+}

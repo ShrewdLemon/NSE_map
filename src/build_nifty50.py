@@ -111,6 +111,8 @@ def write_flat(companies, path):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
+    ap.add_argument("--coverage", action="store_true",
+                    help="report what data exists per company, then stop")
     ap.add_argument("--unresolved", action="store_true",
                     help="list holders still needing research, then stop")
     ap.add_argument("--only", nargs="*", help="restrict to these tickers")
@@ -119,6 +121,25 @@ if __name__ == "__main__":
 
     index = load_index()
     companies, categories, diag = run(index, only=set(a.only) if a.only else None)
+
+    if a.coverage:
+        print(f"{'TICKER':<12} {'HOLDERS':>7} {'PROM':>5} {'PUBLIC':>6} "
+              f"{'BASE':>16} {'PROM%':>7}  RECONCILES")
+        for c in companies:
+            m, rows = c["meta"], c["rows"]
+            prom = sum(1 for r in rows if r["category"] == "Promoter")
+            base = m.get("shares_scrr")
+            d = m.get("drift")
+            print(f"{c['ticker']:<12} {len(rows):>7} {prom:>5} {len(rows)-prom:>6} "
+                  f"{(f'{base:,}' if base else '-'):>16} "
+                  f"{(m.get('promoter_pct') or 0):>7} "
+                  f" {m.get('reconciliation')}"
+                  f"{'' if d is None else f' ({d:+.1%})'}")
+        missing = diag["missing"]
+        print(f"\nwith data: {len(companies)}/50   no register yet: {len(missing)}")
+        if missing:
+            print("  " + ", ".join(missing))
+        raise SystemExit(0)
 
     if a.unresolved:
         pend = unresolved(companies)

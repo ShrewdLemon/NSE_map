@@ -1,0 +1,385 @@
+{
+  "ticker": "JSWSTEEL",
+  "company": "JSW Steel Limited",
+  "sector": "Metals & Mining",
+  "isin": "INE019A01038",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 2440978228.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 44.29,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Tanvi Shete",
+      "shares_filed": 4963630.0,
+      "pct": 0.2,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tarini Jindal Handa",
+      "shares_filed": 4993890.0,
+      "pct": 0.2,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Parth Jindal",
+      "shares_filed": 1770000.0,
+      "pct": 0.07,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Seema Jajodia",
+      "shares_filed": 1441650.0,
+      "pct": 0.06,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Deepika Jindal",
+      "shares_filed": 148650.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nirmala Goel",
+      "shares_filed": 173000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Saroj Bhartia",
+      "shares_filed": 237827.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Urmila Bhuwalka",
+      "shares_filed": 300000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Saket Kanoria",
+      "shares_filed": 7600.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Urmila Kailashkumar Kanoria",
+      "shares_filed": 110000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Tripti Jindal Arya",
+      "shares_filed": 50660.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sminu Jindal",
+      "shares_filed": 55970.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Savitri Devi Jindal",
+      "shares_filed": 75300.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sangita Jindal",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "S K Jindal And Sons HUF",
+      "shares_filed": 58000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "P R Jindal HUF",
+      "shares_filed": 45550.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Naveen Jindal HUF",
+      "shares_filed": 27790.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Naveen Jindal",
+      "shares_filed": 27200.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Arti Jindal",
+      "shares_filed": 10.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Sajjan Jindal",
+      "shares_filed": 31000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Aiyush Bhuwalka",
+      "shares_filed": 10000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Karnataka State Industrial & Infrastructure Development Corporation",
+      "shares_filed": 9079520.0,
+      "pct": 0.37,
+      "holder_class": "Central Government / State Government(s)"
+    },
+    {
+      "filed_name": "JSW Techno Projects Management Ltd",
+      "shares_filed": 264605920.0,
+      "pct": 10.82,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Holdings Limited",
+      "shares_filed": 181402230.0,
+      "pct": 7.42,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vividh Finvest Private Limited",
+      "shares_filed": 143370690.0,
+      "pct": 5.86,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sahyog Holdings Private Limited",
+      "shares_filed": 112067860.0,
+      "pct": 4.58,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Siddeshwari Tradex Private Limited",
+      "shares_filed": 84550760.0,
+      "pct": 3.46,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JTPM Metal Traders Limited",
+      "shares_filed": 83267143.0,
+      "pct": 3.4,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Virtuous Tradecorp Private Limited",
+      "shares_filed": 60368250.0,
+      "pct": 2.47,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Nalwa Sons Investments Ltd",
+      "shares_filed": 45486370.0,
+      "pct": 1.86,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Energy Limited",
+      "shares_filed": 45038350.0,
+      "pct": 1.84,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSL Overseas Limited",
+      "shares_filed": 21026090.0,
+      "pct": 0.86,
+      "holder_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Nacho Investments Limited",
+      "shares_filed": 4207380.0,
+      "pct": 0.17,
+      "holder_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Mendeza Holdings Limited",
+      "shares_filed": 4218090.0,
+      "pct": 0.17,
+      "holder_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Estrela Investment Company Limited",
+      "shares_filed": 4160070.0,
+      "pct": 0.17,
+      "holder_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Beaufield Holdings Limited",
+      "shares_filed": 4227970.0,
+      "pct": 0.17,
+      "holder_class": "Bodies Corporate (Foreign)"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Sangita Jindal Family Trust)",
+      "shares_filed": 1060100.0,
+      "pct": 0.04,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Prj Family Management Company Private Limited",
+      "shares_filed": 312120.0,
+      "pct": 0.01,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Tarini Jindal Family Trust)",
+      "shares_filed": 100.0,
+      "pct": 0.0,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "South West Mining Limited",
+      "shares_filed": 61300.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Tanvi Jindal Family Trust)",
+      "shares_filed": 100.0,
+      "pct": 0.0,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Sajjan Jindal Lineage Trust)",
+      "shares_filed": 100.0,
+      "pct": 0.0,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Sajjan Jindal Family Trust)",
+      "shares_filed": 100.0,
+      "pct": 0.0,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Sajjan Jindal (Parth Jindal Family Trust)",
+      "shares_filed": 100.0,
+      "pct": 0.0,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "Rohit Tower Building Ltd",
+      "shares_filed": 90.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Reynold Traders Private Limited",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Narmada Fintrade Private Limited",
+      "shares_filed": 65000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Projects Limited",
+      "shares_filed": 21300.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "JSW Investments Private Limited",
+      "shares_filed": 1000.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Hexa Tradex Limited",
+      "shares_filed": 13620.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Accuraform Pvt Ltd",
+      "shares_filed": 20800.0,
+      "pct": 0.0,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sarika Jhunjhnuwala",
+      "shares_filed": 41500.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF (Foreign)"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "shares": 41003306.0,
+      "pct": 1.68,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited - HDFC Flexi Cap Fund",
+      "shares": 25612860.0,
+      "pct": 1.05,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "GQG Partners Emerging Markets Equity Fund",
+      "shares": 24902245.0,
+      "pct": 1.02,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "shares": 120872101.0,
+      "pct": 4.94,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "JFE Steel International Europe B.V",
+      "shares": 366818095.0,
+      "pct": 15.0,
+      "holder_class": "Foreign Direct Investment"
+    },
+    {
+      "holder_name": "Gagandeep Credit Capital Pvt Ltd",
+      "shares": 49550000.0,
+      "pct": 2.03,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Enam Securities Pvt Ltd",
+      "shares": 27985121.0,
+      "pct": 1.14,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Shamyak Investment Private Limited",
+      "shares": 26533230.0,
+      "pct": 1.09,
+      "holder_class": "Bodies Corporate"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/699/JSWSTEEL/latest/jsw-steel-ltd/"
+  ],
+  "notes": "Trendlyne tables all named filings within the promoter and promoter-group section down to very small share counts, including nil-Share-holding trusts (e.g. Sajjan Jindal family trusts with 100 shares each); the Adani-style nil-share public trust lines are included. Total shares scrr reconciled from the three top-level subtotals (~2.441 billion). FPI Cat I / FPI Cat II had 559 / 35 holders respectively of which only GQG Partners is named above 1%. Mutual Funds (55 schemes named) \u2014 only the two with \u22651% are listed. The foreign direct investment line JFE Steel Europe B.V. is reported under Table III by trendlyne as a 15.00% holder. Financial Institutions / Banks category had 17 holders; none named above 1%. Bodies Corporate in the public section had 1,792 holders, of which only three named bodies are \u22651%. HUF/Trusts and NRIs categories were category totals.",
+  "ingested_on": "2026-09-22"
+}

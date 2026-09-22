@@ -1,0 +1,245 @@
+{
+  "company": "Jio Financial Services Limited",
+  "isin": "INE758E01017",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1564869/JIOFIN/latest/jio-financial-services-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 49.13,
+  "promoter_total_shares_filed": 3243887366,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "K D Ambani",
+      "shares_filed": 15741322,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anant M Ambani",
+      "shares_filed": 8052021,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Isha M Ambani",
+      "shares_filed": 8052021,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Mukesh D Ambani",
+      "shares_filed": 8052020,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Nita M Ambani",
+      "shares_filed": 8052021,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Akash M Ambani",
+      "shares_filed": 8052021,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Srichakra Commercials LLP",
+      "shares_filed": 739599829,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Karuna Commercials LLP",
+      "shares_filed": 545569460,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Tattvam Enterprises LLP",
+      "shares_filed": 545569460,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Devarshi Commercials LLP",
+      "shares_filed": 545569460,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Jamnagar Utilities And Power Private Limited",
+      "shares_filed": 253464144,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Sikka Ports & Terminals Limited",
+      "shares_filed": 193500000,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Reliance Industries Holding Private Ltd",
+      "shares_filed": 191015071,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Samarjit Enterprises LLP",
+      "shares_filed": 124625274,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shreeji Comtrade LLP",
+      "shares_filed": 14337965,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shrikrishna Tradecom LLP",
+      "shares_filed": 14337965,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Svar Enterprises LLP",
+      "shares_filed": 13589367,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Reliance Welfare Association",
+      "shares_filed": 5344997,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "Vasuprada Enterprises LLP",
+      "shares_filed": 1315925,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kamalakar Enterprises LLP",
+      "shares_filed": 213,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Kankhal Trading LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Narahari Enterprises LLP",
+      "shares_filed": 213,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Neutron Enterprises Private Limited",
+      "shares_filed": 1849,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pavana Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pinakin Commercials Private Limited",
+      "shares_filed": 108,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pitambar Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Rishikesh Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Shripal Enterprises LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Bhuvanesh Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Taran Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Trilokesh Commercials LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Vishatan Enterprises LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Janardan Commercials LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Harinarayan Enterprises LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Futura Commercials Private Limited",
+      "shares_filed": 1814,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Exotic Officeinfra Private Limited",
+      "shares_filed": 27674,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Elakshi Commercials Private Limited",
+      "shares_filed": 108,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chhatrabhuj Enterprises LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chakresh Enterprises LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chakradhar Commercials LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Chakradev Enterprises LLP",
+      "shares_filed": 216,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Carat Holdings And Trading Co Pvt Ltd",
+      "shares_filed": 10951,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Badri Commercials LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Ajitesh Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Adisesh Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Abhayaprada Enterprises LLP",
+      "shares_filed": 215,
+      "class": "Bodies Corporate"
+    }
+  ]
+}

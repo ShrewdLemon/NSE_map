@@ -1,0 +1,139 @@
+{
+  "ticker": "INDIGO",
+  "company": "InterGlobe Aviation Limited",
+  "sector": "Services",
+  "isin": "INE646L01027",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 386657498.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 41.57,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Interglobe Enterprises Private Limited",
+      "shares_filed": 137987201.0,
+      "pct": 35.69,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "The Chinkerpoo Family Trust (Trustee: Shobha Gangwal & J.P. Morgan Trust Company of Delaware)",
+      "shares_filed": 5106413.0,
+      "pct": 1.32,
+      "holder_class": "Trust (Foreign)"
+    },
+    {
+      "filed_name": "Rakesh Gangwal",
+      "shares_filed": 17530493.0,
+      "pct": 4.53,
+      "holder_class": "Individuals/HUF (Foreign)"
+    },
+    {
+      "filed_name": "Kapil Bhatia",
+      "shares_filed": 50000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rahul Bhatia",
+      "shares_filed": 40000.0,
+      "pct": 0.01,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Alok Mehta",
+      "shares_filed": 8440.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rohini Bhatia",
+      "shares_filed": 10000.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "ICICI Prudential Transportation and Logistics Fund",
+      "shares": 20304967.0,
+      "pct": 5.25,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited - HDFC Tax Saverfund",
+      "shares": 16319674.0,
+      "pct": 4.22,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Arbitrage Opportunities Fund",
+      "shares": 13190837.0,
+      "pct": 3.41,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Invesco India Focused Fund",
+      "shares": 5936646.0,
+      "pct": 1.54,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Kotak Mahindra Trustee Co Ltd A/C Kotak Services Fund",
+      "shares": 5595678.0,
+      "pct": 1.45,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Axis Mutual Fund Trustee Limited A/C Axis Mutual Fund",
+      "shares": 5226614.0,
+      "pct": 1.35,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Nifty 50 ETF",
+      "shares": 4610253.0,
+      "pct": 1.19,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Flexi Cap Fund",
+      "shares": 4215194.0,
+      "pct": 1.09,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "shares": 8213760.0,
+      "pct": 2.12,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "shares": 4775432.0,
+      "pct": 1.24,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "NPS Trust- A/C ICICI Prudential Pension Fund Scheme",
+      "shares": 7914050.0,
+      "pct": 2.05,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Westbridge AIF I",
+      "shares": 7439090.0,
+      "pct": 1.92,
+      "holder_class": "Alternative Investment Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1784/INDIGO/latest/interglobe-aviation-ltd/"
+  ],
+  "notes": "Promoter group covers Table II entries named in the filed quarterly shareholding pattern as transcribed by Trendlyne. Trendlyne lists named holders down to very low share counts (single-digit shares for nil holders) within individuals/HUF; the four named individuals are included. No additional named Individuals/HUF zero-share holders were shown. Public (Non-Institutional) section contains category subtotals only (no named bodies corporate above 1%). FPI Cat II category had 57 holders and 1.07% total but no individual named holder above 1% was listed. Mutual Funds listed: all 8 schemes \u22651% out of 46 schemes total; remaining holdings are below 1%. Trendlyne denotes Foreign Portfolio Investors as FPI / FII.",
+  "ingested_on": "2026-09-22"
+}

@@ -1,0 +1,14 @@
+{
+  "company": "Dr. Reddy's Laboratories Limited",
+  "isin": "INE089A01023",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://www.screener.in/company/DRREDDY/consolidated/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 26.63,
+  "promoter_total_shares_filed": 0,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": []
+}

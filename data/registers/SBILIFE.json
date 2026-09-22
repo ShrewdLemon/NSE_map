@@ -1,0 +1,349 @@
+{
+  "ticker": "SBILIFE",
+  "company": "SBI Life Insurance Company Limited",
+  "sector": "Financial Services",
+  "isin": "INE123W01016",
+  "as_of": "2025-09-30",
+  "as_of_label": "Sep/2025",
+  "quarters": [
+    "Sep/2025"
+  ],
+  "shares_scrr": 1002568002.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 55.36,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "STATE BANK OF INDIA",
+      "shares_filed": 555000000.0,
+      "pct": 55.36,
+      "holder_class": "Central Government/State Government(s) (Promoter)"
+    },
+    {
+      "filed_name": "Arunachal Pradesh Rural Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "C-Edge Technologies Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Chhattisgarh Rajya Gramin Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Jharkhand Rajya Gramin Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Meghalaya Rural Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Mizoram Rural Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Nagaland Rural Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Oman India Joint Investment Fund Management Company Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Oman India Joint Investment Fund-Trustee Company Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Rajasthan Gramin Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBICAP Securities Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBICAP Trustee Company Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Capital Markets Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Ventures Limited (Formerly Known as SBICAP Ventures Limited)",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI DFHI Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Foundation",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Funds Management Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Funds Management (International) Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI General Insurance Company Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Factors Limited (Formerly Known as SBI Global Factors Limited)",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Macquarie Infrastructure Management Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Macquarie Infrastructure Trustee Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Mutual Fund Trustee Co. Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Payments Services Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Pension Funds Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI-SG Global Securities Services Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Telangana Grameena Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Uttarakhand Gramin Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Bank of Bhutan Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Commercial Indo Bank LLc, Moscow",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Macquarie SBI Infrastructure Management Pte Ltd",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Macquarie SBI Infrastructure Trustee Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Nepal SBI Bank Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Nepal SBI Merchant Banking Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "PT Bank SBI Indonesia",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI (Mauritius) Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Canada Bank",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank of India (California)",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank of India (UK) Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank of Servicos Limitada",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "Yes Bank Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank Operations Support Services Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Cards and Payment Services Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI CDMDF Trustee Private Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Funds International (IFSC) Limited",
+      "shares_filed": 0.0,
+      "pct": 0.0,
+      "holder_class": "Promoter group"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "ICICI PRUDENTIAL MUTUAL FUND SCHEMES",
+      "shares": 150607989.0,
+      "pct": 15.02,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC MUTUAL FUND SCHEMES",
+      "shares": 40680381.0,
+      "pct": 4.06,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NIPPON LIFE INDIA MUTUAL FUND SCHEMES",
+      "shares": 40518952.0,
+      "pct": 4.04,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI MUTUAL FUND SCHEMES",
+      "shares": 121567690.0,
+      "pct": 1.21,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS TRUST SCHEMES",
+      "shares": 137781580.0,
+      "pct": 1.37,
+      "holder_class": "Provident Funds/Pension Funds"
+    },
+    {
+      "holder_name": "GOVERNMENT OF SINGAPORE",
+      "shares": 2134450960.0,
+      "pct": 21.29,
+      "holder_class": "Foreign Portfolio Investors Category I"
+    },
+    {
+      "holder_name": "Foreign Portfolio Investors Category II (collective)",
+      "shares": 33520558.0,
+      "pct": 3.34,
+      "holder_class": "Foreign Portfolio Investors Category II"
+    },
+    {
+      "holder_name": "MACRITCHIE INVESTMENTS PTE LTD",
+      "shares": 151000005.0,
+      "pct": 1.51,
+      "holder_class": "Foreign Companies"
+    }
+  ],
+  "source_urls": [
+    "https://www.sbilife.co.in/documents/20118/589239/SBI+Life_SHP_Q2_FY2025-26_Website.pdf"
+  ],
+  "notes": "Source is SBILIFE's own filed PDF for quarter ended 30 September 2025 (Q2 FY 2025-26). The Q1 FY27 (30 June 2026) SHP PDF on sbilife.co.in was retrieved only as a base64 iframe stub from which the underlying table data could not be parsed during this run; so I report Q2 FY25-26 (30 Sept 2025) - the most recently filed quarter for which the table was extractable. Filed pattern: 1 promoter holding 55,000,000,00 (55.36%) - State Bank of India; 47 promoter-group entities each nil, all listed verbatim. Public sub-totals include Mutual Funds (18.69%), FPI Cat I 21.29% (Government of Singapore 21.29% being the dominant holder >1%), Insurance Companies 1.43%, Provident Funds/Pension Funds 1.37%, NPS Trust 1.37%. Foreign Companies Macritchie Investments 1.51%. Total (A+B+C2) = 1,00,25,68,002; no DRs (C1=0), no Employee Trust shares (C2=0).",
+  "ingested_on": "2026-09-22"
+}

@@ -1,0 +1,20 @@
+{
+  "company": "Coal India Limited",
+  "isin": "INE522F01014",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/275/COALINDIA/latest/coal-india-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 61.13,
+  "promoter_total_shares_filed": 3767456372,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "President of India",
+      "shares_filed": 3767456372,
+      "class": "Central Government/State Government(s)"
+    }
+  ]
+}
