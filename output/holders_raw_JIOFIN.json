@@ -15,7 +15,8 @@
       "quarters": {
         "Jun/2026": 15741322
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Anant M Ambani",
@@ -23,7 +24,8 @@
       "quarters": {
         "Jun/2026": 8052021
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Isha M Ambani",
@@ -31,7 +33,8 @@
       "quarters": {
         "Jun/2026": 8052021
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Mukesh D Ambani",
@@ -39,7 +42,8 @@
       "quarters": {
         "Jun/2026": 8052020
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Nita M Ambani",
@@ -47,7 +51,8 @@
       "quarters": {
         "Jun/2026": 8052021
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Akash M Ambani",
@@ -55,7 +60,8 @@
       "quarters": {
         "Jun/2026": 8052021
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Srichakra Commercials LLP",
@@ -63,7 +69,8 @@
       "quarters": {
         "Jun/2026": 739599829
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Karuna Commercials LLP",
@@ -71,7 +78,8 @@
       "quarters": {
         "Jun/2026": 545569460
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Tattvam Enterprises LLP",
@@ -79,7 +87,8 @@
       "quarters": {
         "Jun/2026": 545569460
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Devarshi Commercials LLP",
@@ -87,7 +96,8 @@
       "quarters": {
         "Jun/2026": 545569460
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Jamnagar Utilities And Power Private Limited",
@@ -95,7 +105,8 @@
       "quarters": {
         "Jun/2026": 253464144
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Sikka Ports & Terminals Limited",
@@ -103,7 +114,8 @@
       "quarters": {
         "Jun/2026": 193500000
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Industries Holding Private Ltd",
@@ -111,7 +123,8 @@
       "quarters": {
         "Jun/2026": 191015071
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Samarjit Enterprises LLP",
@@ -119,7 +132,8 @@
       "quarters": {
         "Jun/2026": 124625274
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Shreeji Comtrade LLP",
@@ -127,7 +141,8 @@
       "quarters": {
         "Jun/2026": 14337965
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Shrikrishna Tradecom LLP",
@@ -135,7 +150,8 @@
       "quarters": {
         "Jun/2026": 14337965
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Svar Enterprises LLP",
@@ -143,7 +159,8 @@
       "quarters": {
         "Jun/2026": 13589367
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Reliance Welfare Association",
@@ -151,7 +168,8 @@
       "quarters": {
         "Jun/2026": 5344997
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "Vasuprada Enterprises LLP",
@@ -159,7 +177,8 @@
       "quarters": {
         "Jun/2026": 1315925
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Kamalakar Enterprises LLP",
@@ -167,7 +186,8 @@
       "quarters": {
         "Jun/2026": 213
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Kankhal Trading LLP",
@@ -175,7 +195,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Narahari Enterprises LLP",
@@ -183,7 +204,8 @@
       "quarters": {
         "Jun/2026": 213
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Neutron Enterprises Private Limited",
@@ -191,7 +213,8 @@
       "quarters": {
         "Jun/2026": 1849
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Pavana Enterprises LLP",
@@ -199,7 +222,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Pinakin Commercials Private Limited",
@@ -207,7 +231,8 @@
       "quarters": {
         "Jun/2026": 108
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Pitambar Enterprises LLP",
@@ -215,7 +240,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Rishikesh Enterprises LLP",
@@ -223,7 +249,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Shripal Enterprises LLP",
@@ -231,7 +258,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Bhuvanesh Enterprises LLP",
@@ -239,7 +267,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Taran Enterprises LLP",
@@ -247,7 +276,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Trilokesh Commercials LLP",
@@ -255,7 +285,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Vishatan Enterprises LLP",
@@ -263,7 +294,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Janardan Commercials LLP",
@@ -271,7 +303,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Harinarayan Enterprises LLP",
@@ -279,7 +312,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Futura Commercials Private Limited",
@@ -287,7 +321,8 @@
       "quarters": {
         "Jun/2026": 1814
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Exotic Officeinfra Private Limited",
@@ -295,7 +330,8 @@
       "quarters": {
         "Jun/2026": 27674
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Elakshi Commercials Private Limited",
@@ -303,7 +339,8 @@
       "quarters": {
         "Jun/2026": 108
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Chhatrabhuj Enterprises LLP",
@@ -311,7 +348,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Chakresh Enterprises LLP",
@@ -319,7 +357,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Chakradhar Commercials LLP",
@@ -327,7 +366,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Chakradev Enterprises LLP",
@@ -335,7 +375,8 @@
       "quarters": {
         "Jun/2026": 216
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Carat Holdings And Trading Co Pvt Ltd",
@@ -343,7 +384,8 @@
       "quarters": {
         "Jun/2026": 10951
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Badri Commercials LLP",
@@ -351,7 +393,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Ajitesh Enterprises LLP",
@@ -359,7 +402,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Adisesh Enterprises LLP",
@@ -367,7 +411,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "Abhayaprada Enterprises LLP",
@@ -375,7 +420,8 @@
       "quarters": {
         "Jun/2026": 215
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Mutual Funds",
@@ -383,7 +429,8 @@
       "quarters": {
         "Jun/2026": 83191090
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "Life Insurance Corporation of India",
@@ -391,13 +438,15 @@
       "quarters": {
         "Jun/2026": 453797523
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://trendlyne.com/equity/share-holding/1564869/JIOFIN/latest/jio-financial-services-ltd/"
   ],
   "notes": "Trendlyne transcription of the SEBI LODR Reg. 31 shareholding pattern for quarter ended 30 June 2026. Promoter and promoter-group has a long tail of LLP and Pvt Ltd entities (~30 of them) with sub-share-count filings of 108 to 27,674 shares; included verbatim. Mutual Fund holdings 4.95% total - SBI Mutual Funds is the only scheme above 1% (the trendlyne row collapses the multiple SBI schemes to a single client-cum figure); 47 other schemes below 1%. FPI Cat I 10.84% (609 holders) and Cat II 0.37% (39 holders) - no individual named FPI above 1%. Other Foreign Institutions 0.00% category (7 holders, 23,956 shares total). Insurance Companies 7.49% - LIC is the only named insurer above 1%. Public 26.15% is dominated by retail individuals (18.33%) which is a category subtotal; no individual named public holder above 1% outside Mutual Funds and LIC. Total shares scrr reconciled; the three section subtotals add to 6,603,141,623 shares (\u2248100% of SCRR basis). Depository receipt shares disclosed as zero, not separately tracked.",
+  "corrections": [],
   "promoter_reconciliation": "reconciled",
   "promoter_drift": -7.278187202205715e-05,
   "promoter_pct_filed": 49.13

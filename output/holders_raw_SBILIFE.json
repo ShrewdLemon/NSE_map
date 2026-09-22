@@ -3,8 +3,8 @@
   "ticker": "SBILIFE",
   "isin": "INE123W01016",
   "as_of": "2025-09-30",
-  "shares_scrr": 1002568002.0,
-  "denominator_note": "stated denominator agrees with 9 holders to 0.104%",
+  "shares_scrr": 10000000331,
+  "denominator_note": "stated 1,002,568,002.0 disagreed with 8 holders by 897.44%; used the implied 10,000,000,331 (SCRR basis)",
   "quarter_labels": [
     "Sep/2025"
   ],
@@ -16,7 +16,7 @@
         "Sep/2025": 555000000
       },
       "filed_class": "Central Government/State Government(s) (Promoter)",
-      "doubtful": false
+      "doubtful": true
     },
     {
       "holder_name": "Arunachal Pradesh Rural Bank",
@@ -430,7 +430,7 @@
         "Sep/2025": 150607989
       },
       "filed_class": "Mutual Fund",
-      "doubtful": false
+      "doubtful": true
     },
     {
       "holder_name": "HDFC MUTUAL FUND SCHEMES",
@@ -439,7 +439,7 @@
         "Sep/2025": 40680381
       },
       "filed_class": "Mutual Fund",
-      "doubtful": false
+      "doubtful": true
     },
     {
       "holder_name": "NIPPON LIFE INDIA MUTUAL FUND SCHEMES",
@@ -448,7 +448,7 @@
         "Sep/2025": 40518952
       },
       "filed_class": "Mutual Fund",
-      "doubtful": false
+      "doubtful": true
     },
     {
       "holder_name": "SBI MUTUAL FUND SCHEMES",
@@ -457,7 +457,7 @@
         "Sep/2025": 121567690
       },
       "filed_class": "Mutual Fund",
-      "doubtful": true
+      "doubtful": false
     },
     {
       "holder_name": "NPS TRUST SCHEMES",
@@ -466,24 +466,15 @@
         "Sep/2025": 137781580
       },
       "filed_class": "Provident Funds/Pension Funds",
-      "doubtful": true
+      "doubtful": false
     },
     {
       "holder_name": "GOVERNMENT OF SINGAPORE",
       "bloomberg_holder_type": "Institution",
       "quarters": {
-        "Sep/2025": 213446728
+        "Sep/2025": 2134450960
       },
       "filed_class": "Foreign Portfolio Investors Category I",
-      "doubtful": true
-    },
-    {
-      "holder_name": "Foreign Portfolio Investors Category II (collective)",
-      "bloomberg_holder_type": "Institution",
-      "quarters": {
-        "Sep/2025": 33520558
-      },
-      "filed_class": "Foreign Portfolio Investors Category II",
       "doubtful": false
     },
     {
@@ -493,7 +484,7 @@
         "Sep/2025": 151000005
       },
       "filed_class": "Foreign Companies",
-      "doubtful": true
+      "doubtful": false
     }
   ],
   "source_urls": [
@@ -501,12 +492,12 @@
   ],
   "notes": "Source is SBILIFE's own filed PDF for quarter ended 30 September 2025 (Q2 FY 2025-26). The Q1 FY27 (30 June 2026) SHP PDF on sbilife.co.in was retrieved only as a base64 iframe stub from which the underlying table data could not be parsed during this run; so I report Q2 FY25-26 (30 Sept 2025) - the most recently filed quarter for which the table was extractable. Filed pattern: 1 promoter holding 55,000,000,00 (55.36%) - State Bank of India; 47 promoter-group entities each nil, all listed verbatim. Public sub-totals include Mutual Funds (18.69%), FPI Cat I 21.29% (Government of Singapore 21.29% being the dominant holder >1%), Insurance Companies 1.43%, Provident Funds/Pension Funds 1.37%, NPS Trust 1.37%. Foreign Companies Macritchie Investments 1.51%. Total (A+B+C2) = 1,00,25,68,002; no DRs (C1=0), no Employee Trust shares (C2=0).",
   "corrections": [
-    "SBILIFE/SBI MUTUAL FUND SCHEMES: count 121,567,690 and 1.21% disagree (12,131,073); kept the count",
-    "SBILIFE/NPS TRUST SCHEMES: count 137,781,580 and 1.37% disagree (13,735,182); kept the count",
-    "SBILIFE/GOVERNMENT OF SINGAPORE: count 2,134,450,960 exceeds the 1,002,568,002 share base; used 21.29% (213,446,728)",
-    "SBILIFE/MACRITCHIE INVESTMENTS PTE LTD: count 151,000,005 and 1.51% disagree (15,138,777); kept the count"
+    "SBILIFE/STATE BANK OF INDIA: count 555,000,000 and 55.36% disagree (5,536,000,183); kept the count",
+    "SBILIFE/ICICI PRUDENTIAL MUTUAL FUND SCHEMES: count 150,607,989 and 15.02% disagree (1,502,000,050); kept the count",
+    "SBILIFE/HDFC MUTUAL FUND SCHEMES: count 40,680,381 and 4.06% disagree (406,000,013); kept the count",
+    "SBILIFE/NIPPON LIFE INDIA MUTUAL FUND SCHEMES: count 40,518,952 and 4.04% disagree (404,000,013); kept the count"
   ],
-  "promoter_reconciliation": "reconciled",
-  "promoter_drift": -3.900011352637955e-05,
+  "promoter_reconciliation": "unreconciled",
+  "promoter_drift": -0.8997471131449601,
   "promoter_pct_filed": 55.36
 }

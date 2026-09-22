@@ -46,6 +46,22 @@ _VEHICLE_FOR_CATEGORY = {
 }
 
 
+def country_for_category(cat):
+    """The domicile a rule's category implies, for caching it faithfully.
+
+    'Government' is the domestic sovereign bucket - its foreign counterpart is
+    named 'Foreign Government' - so inferring domicile from the word 'Domestic'
+    alone cached SUUTI with no country, and the next run read it back as
+    Foreign Government. Both the emitted row and the cached record are derived
+    here so they cannot drift apart again.
+    """
+    if not cat or cat.startswith("Foreign"):
+        return None
+    if cat.startswith("Domestic") or cat in ("Government", "Individual"):
+        return "IN"
+    return None
+
+
 def classify(holders, registry, ticker, master):
     """Classify holder rows against a promoter registry and the entity master.
 
@@ -96,14 +112,14 @@ def classify(holders, registry, ticker, master):
         if r:
             cat, conf, basis = r
             row.update(category=cat, basis=basis, confidence=conf,
-                       country="IN" if "Domestic" in cat else None,
+                       country=country_for_category(cat),
                        reason="name-based rule", source="deterministic rule")
             # Individuals are people, not entities - nothing worth caching.
             # A category with no inverse mapping is not cached either: writing a
             # null entity_type would override this very rule on the next run.
             if btype != "Individual" and _TYPE_FOR_CATEGORY.get(cat):
                 em.upsert(master, name,
-                          country="IN" if "Domestic" in cat else None,
+                          country=country_for_category(cat),
                           entity_type=_TYPE_FOR_CATEGORY.get(cat),
                           holding_vehicle=_VEHICLE_FOR_CATEGORY.get(cat),
                           confidence=conf, basis=basis,

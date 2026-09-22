@@ -3,8 +3,8 @@
   "ticker": "GRASIM",
   "isin": "INE047A01013",
   "as_of": "2026-06-30",
-  "shares_scrr": 680841760,
-  "denominator_note": "denominator recovered from 13 count/percentage pairs",
+  "shares_scrr": 680548951,
+  "denominator_note": "denominator recovered from 37 count/percentage pairs",
   "quarter_labels": [
     "Jun/2026"
   ],
@@ -15,7 +15,8 @@
       "quarters": {
         "Jun/2026": 10916925
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "ICICI Prudential Nifty ETF",
@@ -23,7 +24,8 @@
       "quarters": {
         "Jun/2026": 6900184
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Life Insurance Corporation of India",
@@ -31,7 +33,8 @@
       "quarters": {
         "Jun/2026": 44867472
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Provident funds / Pension Funds",
@@ -39,7 +42,8 @@
       "quarters": {
         "Jun/2026": 9803199
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "NPS Trust - A/c UTI Pension Fund Limited - Scheme State 1 98,03,199 - - 98,03,199 1.44 98,03,199 -98,03,199",
@@ -47,7 +51,8 @@
       "quarters": {
         "Jun/2026": 9803199
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Sub -Total (B)(1)",
@@ -55,7 +60,8 @@
       "quarters": {
         "Jun/2026": 109758905
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Theleme Master Fund Limited",
@@ -63,7 +69,8 @@
       "quarters": {
         "Jun/2026": 7976267
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Overseas Depositories (holding DRs) (balancing figure)",
@@ -71,7 +78,8 @@
       "quarters": {
         "Jun/2026": 17247309
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Citibank N.A. New York, NYADR Department",
@@ -79,7 +87,8 @@
       "quarters": {
         "Jun/2026": 17247309
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Gagandeep Credit Capital Pvt Ltd",
@@ -87,7 +96,8 @@
       "quarters": {
         "Jun/2026": 9923232
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Shamyak Investment Private Limited",
@@ -95,7 +105,8 @@
       "quarters": {
         "Jun/2026": 9754321
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Unclaimed or Suspense or Escrow Account",
@@ -103,15 +114,8 @@
       "quarters": {
         "Jun/2026": 107737
       },
-      "filed_class": null
-    },
-    {
-      "holder_name": "Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",
-      "bloomberg_holder_type": "Institution",
-      "quarters": {
-        "Jun/2026": 2291214
-      },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
     },
     {
       "holder_name": "Shareholding (C) = (C)(1)+(C)(2)",
@@ -119,14 +123,286 @@
       "quarters": {
         "Jun/2026": 2291214
       },
-      "filed_class": null
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "Promoter & Promoter Group*",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 297672111
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "Public*",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 380584412
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "Non promoter- Non",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2291214
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "1 Kumar Mangalam Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1776589
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "2 Neerja Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 75967
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "3 Rajashree Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 574829
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "4 Vasavadatta Bajaj",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 123249
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "Promoter group",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 93287
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "6 Ananyashree Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 36800
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "7 Aryaman Vikram Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 36800
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "8 Advaitesha Birla",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 36800
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "1 Birla Consultants Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 90856
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "2 Birla Industrial Finance (India) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 90962
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "3 Birla Industrial Investments (India) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 19400
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "4 Hindalco Industries Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 29168472
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "5 Birla Group Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 157782973
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "6 Rajratna Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 697
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "7 Vikram Holdings Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 781
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "8 Vaibhav Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 697
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "9 Birla Institute of Technology and Science",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 661205
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "10 Pilani Investment and Industries",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 30335623
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "11 Renuka Ventures Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 250302
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "12 IGH Holdings Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 45195313
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "1 P.T. Indo Bharat Rayon",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 20004020
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "2 PT. Sunrise Bumi Textiles",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 1268750
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "3 PT. Elegant Textile Industry",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 808750
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "4 Thai Rayon Public Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4774666
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "5 Surya Kiran Investments Pte Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5000
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "6 Anatole Investments Pte Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 4459323
+      },
+      "filed_class": null,
+      "doubtful": false
+    },
+    {
+      "holder_name": "Group (A) = (A)(1) + (A)(2)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 297672111
+      },
+      "filed_class": null,
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://www.grasim.com/Upload/PDF/shareholding-pattern-june-2026.pdf"
   ],
   "notes": "Parsed from the filed SEBI Regulation 31 shareholding pattern.",
+  "corrections": [],
   "promoter_reconciliation": "unreconciled",
-  "promoter_drift": -0.14601630184911593,
+  "promoter_drift": -0.14564887183206215,
   "promoter_pct_filed": 43.74
 }

@@ -15,7 +15,8 @@
       "quarters": {
         "Mar/2026": 3152410
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Vikram Lal",
@@ -23,7 +24,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Anita Lal",
@@ -31,7 +33,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Raul Rai",
@@ -39,7 +42,8 @@
       "quarters": {
         "Mar/2026": 350
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Raghavendra Rai",
@@ -47,7 +51,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "Arjuna Lal Rai",
@@ -55,7 +60,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Individuals/HUF"
+      "filed_class": "Individuals/HUF",
+      "doubtful": false
     },
     {
       "holder_name": "KARVANSARAI INVESTMENTS PRIVATE LIMITED",
@@ -63,7 +69,8 @@
       "quarters": {
         "Mar/2026": 151430
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "EICHER GOODEARTH PRIVATE LIMITED",
@@ -71,7 +78,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "EICHER FOOTWEAR LIMITED",
@@ -79,7 +87,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "SHAMBHALA GOODEARTH PRIVATE LIMITED",
@@ -87,7 +96,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "ROSABAGH PERFUMERIE PRIVATE LIMITED",
@@ -95,7 +105,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "LEAN MANAGEMENT INSTITUTE OF INDIA",
@@ -103,7 +114,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "GOOD EARTH EDUCATION FOUNDATION",
@@ -111,7 +123,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "GOODEARTH DESIGN STUDIO PRIVATE LIMITED",
@@ -119,7 +132,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "SST HOLIDAY HOMES PRIVATE LIMITED",
@@ -127,7 +141,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "NICOBAR DESIGN STUDIO PRIVATE LIMITED",
@@ -135,7 +150,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "EICHER GOODEARTH INDIA PRIVATE LIMITED",
@@ -143,7 +159,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "NICOBAR DESIGN PRIVATE LIMITED",
@@ -151,7 +168,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "RUAR HIMALAYA PRIVATE LIMITED",
@@ -159,7 +177,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Bodies Corporate"
+      "filed_class": "Bodies Corporate",
+      "doubtful": false
     },
     {
       "holder_name": "THE SIMRAN SIDDHARTHA TARA BENEFIT TRUST (Name of trustees are mentioned in Note-4)",
@@ -167,7 +186,8 @@
       "quarters": {
         "Mar/2026": 120306480
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "THE BRINDA LAL TRUST (Mrs Anita Lal, Mr. Vikram Lal & Mr. Ravi Prakash)",
@@ -175,7 +195,8 @@
       "quarters": {
         "Mar/2026": 4857070
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "THE LAL FAMILY TRUST (Mr Vikram Lal, Mrs Anita Lal, Ms Simran Lal, Mr Siddhartha Lal & Ms Tara Lal)",
@@ -183,7 +204,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "EICHER GOODEARTH TRUST (Mr. Vikram Lal & Mrs. Anita Lal)",
@@ -191,7 +213,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "SIDDHARTHA LAL TRUST (Mr. Vikram Lal, Mr. Siddhartha Lal & Mrs. Natasha Jamal)",
@@ -199,7 +222,8 @@
       "quarters": {
         "Mar/2026": 61470
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "TARA LAL TRUST (Mr. Vikram Lal, Ms. Tara Lal, Ms. Simran Lal & Ms. Mahima Puri)",
@@ -207,7 +231,8 @@
       "quarters": {
         "Mar/2026": 324
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "LEILA NOOR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
@@ -215,7 +240,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "ZORAVAR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
@@ -223,7 +249,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "GOODEARTH MASTER TRUST (Ms. Simran Lal, Mr. Siddhartha Lal & Ms. Tara Lal)",
@@ -231,7 +258,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "SIMRAN LAL TRUST (Ms. Simran Lal, Mr. Raul Rai & Ms. Tara Lal)",
@@ -239,7 +267,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "ZORAVAR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
@@ -247,7 +276,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "LEILA NOOR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
@@ -255,7 +285,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "RAGHAVENDRA RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
@@ -263,7 +294,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "ARJUN RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
@@ -271,7 +303,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "NATASHA JAMAL TRUST (Mr. Siddhartha Lal, Ms. Natasha Jamal, Mrs. Sunita Jamal & Mr. Vikram Lal)",
@@ -279,7 +312,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     },
     {
       "holder_name": "TARA LAL",
@@ -287,7 +321,8 @@
       "quarters": {
         "Mar/2026": 3149940
       },
-      "filed_class": "NRI/Foreign Individuals"
+      "filed_class": "NRI/Foreign Individuals",
+      "doubtful": false
     },
     {
       "holder_name": "SIDDHARTHA VIKRAM LAL",
@@ -295,7 +330,8 @@
       "quarters": {
         "Mar/2026": 2885470
       },
-      "filed_class": "NRI/Foreign Individuals"
+      "filed_class": "NRI/Foreign Individuals",
+      "doubtful": false
     },
     {
       "holder_name": "NATASHA JAMAL",
@@ -303,7 +339,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "NRI/Foreign Individuals"
+      "filed_class": "NRI/Foreign Individuals",
+      "doubtful": false
     },
     {
       "holder_name": "ZORAVAR LAL",
@@ -311,7 +348,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "NRI/Foreign Individuals"
+      "filed_class": "NRI/Foreign Individuals",
+      "doubtful": false
     },
     {
       "holder_name": "LEILA NOOR LAL",
@@ -319,7 +357,8 @@
       "quarters": {
         "Mar/2026": 0
       },
-      "filed_class": "NRI/Foreign Individuals"
+      "filed_class": "NRI/Foreign Individuals",
+      "doubtful": false
     },
     {
       "holder_name": "Hdfc Trustee Company Limited-Hdfc Flexi Cap Fund",
@@ -327,7 +366,8 @@
       "quarters": {
         "Mar/2026": 7648381
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "SBI Nifty 50 ETF",
@@ -335,7 +375,8 @@
       "quarters": {
         "Mar/2026": 7465418
       },
-      "filed_class": "Mutual Fund / ETF"
+      "filed_class": "Mutual Fund / ETF",
+      "doubtful": false
     },
     {
       "holder_name": "UTI Nifty 50 ETF",
@@ -343,7 +384,8 @@
       "quarters": {
         "Mar/2026": 3688364
       },
-      "filed_class": "Mutual Fund / ETF"
+      "filed_class": "Mutual Fund / ETF",
+      "doubtful": false
     },
     {
       "holder_name": "NPS Trust- A/C SBI Pension Fund Scheme-State Govt",
@@ -351,7 +393,8 @@
       "quarters": {
         "Mar/2026": 3407097
       },
-      "filed_class": "Pension Fund"
+      "filed_class": "Pension Fund",
+      "doubtful": false
     },
     {
       "holder_name": "Life Insurance Corporation Of India",
@@ -359,7 +402,8 @@
       "quarters": {
         "Mar/2026": 3127333
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "New World Fund Inc",
@@ -367,7 +411,8 @@
       "quarters": {
         "Mar/2026": 3706104
       },
-      "filed_class": "FPI Category I"
+      "filed_class": "FPI Category I",
+      "doubtful": false
     },
     {
       "holder_name": "Government Of Singapore",
@@ -375,7 +420,8 @@
       "quarters": {
         "Mar/2026": 2923691
       },
-      "filed_class": "FPI / Sovereign Wealth"
+      "filed_class": "FPI / Sovereign Wealth",
+      "doubtful": false
     }
   ],
   "source_urls": [
@@ -383,6 +429,7 @@
     "https://www.screener.in/company/EICHERMOT/consolidated/"
   ],
   "notes": "The eicher.in host publishes quarterly PDFs and 31-03-2026 was the most recent PDF I retrieved. Screener shows Jun 2026 Promoter 49.03% (down marginally from 49.06% on 31-03-2026), but the latest filed company PDF I retrieved is 31-03-2026; I therefore fill the row with the more recent quarterly column but use the 31-03-2026 PDF to populate detailed Table II/III fields as instructed to prefer the company's own filed PDF. Total (A+B+C2) = 274,314,204 (no DRs; prompt asks for SCRR basis). Sanity check: Bharti Telecom 100% locked-in excluded from DR but here all Eicher data check out: 134,564,944 / 274,314,204 = 49.06% and Simran 3,152,410 / 274,314,204 = 1.149% confirming the SCRR denominator. Screener indicates the company filed for 30 June 2026 as well (showing 49.03% Promoter) \u2014 that filing was not directly retrieved as a PDF in this run; my detailed table figures thus reflect 31-03-2026.",
+  "corrections": [],
   "promoter_reconciliation": "reconciled",
   "promoter_drift": -0.00010108953138084463,
   "promoter_pct_filed": 49.06

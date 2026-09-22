@@ -15,7 +15,8 @@
       "quarters": {
         "Jun/2026": 63888040
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "ICICI PRUDENTIAL MUTUAL FUND",
@@ -23,7 +24,8 @@
       "quarters": {
         "Jun/2026": 48751101
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "HDFC MUTUAL FUND",
@@ -31,7 +33,8 @@
       "quarters": {
         "Jun/2026": 29165638
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "NIPPON LIFE INDIA TRUSTEE LTD",
@@ -39,7 +42,8 @@
       "quarters": {
         "Jun/2026": 23009267
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "UTI MUTUAL FUND",
@@ -47,7 +51,8 @@
       "quarters": {
         "Jun/2026": 21520120
       },
-      "filed_class": "Mutual Fund"
+      "filed_class": "Mutual Fund",
+      "doubtful": false
     },
     {
       "holder_name": "LIFE INSURANCE CORPORATION OF INDIA",
@@ -55,7 +60,8 @@
       "quarters": {
         "Jun/2026": 169241807
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "GENERAL INSURANCE CORPORATION OF INDIA",
@@ -63,7 +69,8 @@
       "quarters": {
         "Jun/2026": 19990650
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "SBI LIFE INSURANCE CO. LTD",
@@ -71,7 +78,8 @@
       "quarters": {
         "Jun/2026": 15125714
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED",
@@ -79,7 +87,8 @@
       "quarters": {
         "Jun/2026": 13878775
       },
-      "filed_class": "Insurance Company"
+      "filed_class": "Insurance Company",
+      "doubtful": false
     },
     {
       "holder_name": "NPS TRUST A/C UTI PENSION FUND LIMITED",
@@ -87,7 +96,8 @@
       "quarters": {
         "Jun/2026": 47085621
       },
-      "filed_class": "Pension Fund"
+      "filed_class": "Pension Fund",
+      "doubtful": false
     },
     {
       "holder_name": "GOVERNMENT OF SINGAPORE",
@@ -95,7 +105,8 @@
       "quarters": {
         "Jun/2026": 21502855
       },
-      "filed_class": "FPI Category I"
+      "filed_class": "FPI Category I",
+      "doubtful": false
     },
     {
       "holder_name": "L&T EMPLOYEES TRUST",
@@ -103,13 +114,15 @@
       "quarters": {
         "Jun/2026": 198679507
       },
-      "filed_class": "Trust"
+      "filed_class": "Trust",
+      "doubtful": false
     }
   ],
   "source_urls": [
     "https://investors.larsentoubro.com/ShareholdingPattern.aspx"
   ],
   "notes": "Larsen & Toubro has no promoter (L&T is a professionally managed company). Quarter ended 30 June 2026. Total SCRR shares = (A)+(B)+(C2) = 0 + 1,363,411,493 + 0 = 1,363,411,493; an additional 12,317,685 DR (Citibank N.A. NY ADR) shares under (C1) are excluded from the SCRR denominator. Filing is publicly available from L&T Investor Relations website. ISIN not stated on extracted page but is well-known for L&T as INE018A01030.",
+  "corrections": [],
   "promoter_reconciliation": "unchecked",
   "promoter_drift": null,
   "promoter_pct_filed": 0.0
