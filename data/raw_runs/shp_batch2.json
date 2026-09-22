@@ -1,0 +1,463 @@
+[
+  {
+    "isin": "INE918I01018",
+    "ticker": "BAJAJFINSV",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://choiceindia.com/stocks/bajaj-finserv-ltd-shareholding-pattern",
+      "https://www.screener.in/company/BAJAJFINSV/consolidated/"
+    ],
+    "company_name": "Bajaj Finserv Limited",
+    "has_promoter": true,
+    "promoter_pct": 58.72,
+    "promoter_group": [],
+    "public_holders": [],
+    "extraction_notes": "Quarter end 2026-06-30 is the most recent quarter shown on screener.in (Jun 2026 column). Detailed Table II promoter and Table III public-holder names with individual share counts were not located in the aggregated sources I retrieved; only category totals are available. Choice India shows Bajaj Finserv promoter 58.71% / Mutual Fund 8.46% / Insurance 2.83% / FII 6.90% / DII 0.82% / Retail 22.28% as of 09-2026. Screener Jun 2026 column shows Promoters 58.72%, FIIs [cumulative], DIIs [cumulative], Government 0.16%, Public 19.52% (approx). The company's own PDF filing for the quarter ended 30 June 2026 was not directly retrieved from BSE/NSE/Bajaj Finserv IR pages.",
+    "total_shares_scrr": null
+  },
+  {
+    "isin": "INE263A01024",
+    "ticker": "BEL",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://www.screener.in/company/BEL/consolidated/"
+    ],
+    "company_name": "Bharat Electronics Limited",
+    "has_promoter": true,
+    "promoter_pct": 51.14,
+    "promoter_group": [],
+    "public_holders": [],
+    "extraction_notes": "BEL is a public-sector undertaking (Government of India is the promoter; Central Government holds through the President of India/Ministry of Defence). Screener Jun 2026 column shows Promoters 51.14%, FIIs 18.02%, DIIs 21.02%, Public 9.82%. Detailed Table II promoter names with individual share counts (the Government of India entity) and Table III named public shareholders above 1% were not located in the retrieved corpus. The company's own filed PDF for the quarter ended 30 June 2026 was not directly retrievable from the BEL IR site/BSE/NSE filings list captured during this run.",
+    "total_shares_scrr": null
+  },
+  {
+    "isin": "INE397D01024",
+    "ticker": "BHARTIARTL",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://www.screener.in/company/BHARTIARTL/consolidated/",
+      "https://trendlyne.com/equity/share-holding/187/BHARTIARTL/latest/bharti-airtel-ltd/",
+      "https://nsearchives.nseindia.com/corporate/BHARTIARTL_23062026092348_STXDislcosureAllotmenttoICIL.pdf"
+    ],
+    "company_name": "Bharti Airtel Limited",
+    "has_promoter": true,
+    "promoter_pct": 48.87,
+    "promoter_group": [
+      {
+        "pct": 40.47,
+        "filed_name": "Bharti telecom limited",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 2466133527
+      },
+      {
+        "pct": 7.49,
+        "filed_name": "Pastel limited",
+        "holder_class": "Foreign Bodies Corporate",
+        "shares_filed": 456228212
+      },
+      {
+        "pct": 0.92,
+        "filed_name": "Indian continent investment limited",
+        "holder_class": "Foreign Bodies Corporate",
+        "shares_filed": 55967792
+      }
+    ],
+    "public_holders": [
+      {
+        "pct": 12.14,
+        "shares": 739757857,
+        "holder_name": "Mutual Funds (total)",
+        "holder_class": "Mutual Funds"
+      },
+      {
+        "pct": 2.59,
+        "shares": 157976816,
+        "holder_name": "SBI ELSS Tax Saver Fund",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.72,
+        "shares": 104981853,
+        "holder_name": "ICICI Prudential Mutual Fund - ICICI Prudential NI",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.39,
+        "shares": 84667934,
+        "holder_name": "HDFC Mutual Fund - HDFC Technology Fund",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.08,
+        "shares": 66082158,
+        "holder_name": "UTI Multi Cap Fund",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 24.86,
+        "shares": 1514801787,
+        "holder_name": "Foreign Portfolio Investors Category I",
+        "holder_class": "FPI Category I"
+      },
+      {
+        "pct": 1.17,
+        "shares": 71176839,
+        "holder_name": "Google International LLC",
+        "holder_class": "FPI Category I"
+      },
+      {
+        "pct": 1.06,
+        "shares": 64377450,
+        "holder_name": "Government of Singapore - E",
+        "holder_class": "FPI Category I"
+      },
+      {
+        "pct": 1,
+        "shares": 61036886,
+        "holder_name": "Government Pension Fund Global",
+        "holder_class": "FPI Category I"
+      },
+      {
+        "pct": 2.27,
+        "shares": 138048304,
+        "holder_name": "Foreign Portfolio Investors Category II",
+        "holder_class": "FPI Category II"
+      },
+      {
+        "pct": 6.51,
+        "shares": 396974051,
+        "holder_name": "Insurance Companies (total)",
+        "holder_class": "Insurance Company"
+      },
+      {
+        "pct": 4.24,
+        "shares": 258208931,
+        "holder_name": "LICi New Pension Plus Secured Fund",
+        "holder_class": "Insurance/Pension Fund"
+      },
+      {
+        "pct": 1.9,
+        "shares": 115630605,
+        "holder_name": "NPS Trust A/C - SBI PF NPS Jeevan Swarna Retirement",
+        "holder_class": "Pension Fund"
+      },
+      {
+        "pct": 0.06,
+        "shares": 3602632,
+        "holder_name": "Banks (total)",
+        "holder_class": "Banks"
+      }
+    ],
+    "extraction_notes": "Quarter end 2026-06-30 (filing 23 June 2026 was interim post ICIL preferential allotment; the latest filed pattern per trendlyne is the June 30 quarter-end filing). Total promoter shares = 2,978,329,531 (Bharti Telecom 2,466,133,527 + Pastel 456,228,212 + ICIL 55,967,792). Total shares (A+B+C2) implied by 48.87% = ~6,094,493,820; total shares including DR/C2 not separately available on the trendlyne table. As-FII above 1% and Insurance above 1% are reported as individual names with share counts and percentages exactly as published by trendlyne (an aggregator of BSE/NSE filings). All promoter_group shareholders are non-zero except ICIL which carries 100% locked-in per the filing.",
+    "total_shares_scrr": 6094493820
+  },
+  {
+    "isin": "INE248A01017",
+    "ticker": "CIPLA",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://www.screener.in/company/CIPLA/consolidated/"
+    ],
+    "company_name": "Cipla Limited",
+    "has_promoter": true,
+    "promoter_pct": 29.22,
+    "promoter_group": [],
+    "public_holders": [],
+    "extraction_notes": "Cinla is a Mumbai-based pharmaceutical company. Screener Jun 2026 column shows Promoters 29.22%, FIIs 20.20%, DIIs 34.35%, Government 0.28%, Public 15.93% (totals reconcile to ~100%). Detailed Table II promoter-group member names with individual share counts (e.g. Yusuf Khwaja Hamied, Mustafa Khwaja Hamied) and Table III named mutual fund / insurer / FPI shareholders above 1% were not retrieved from filings directly; only the older Sept 2022 PDF was located at cipla.com. The most recent June 2026 quarter ended PDF is referenced by screener as having been filed but its BSE/NSE URL was not directly retrieved during this run; total_shares_scrr is null because the exact denominator is not in the captured source.",
+    "total_shares_scrr": null
+  },
+  {
+    "isin": "INE522F01014",
+    "ticker": "COALINDIA",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://www.screener.in/company/COALINDIA/consolidated/"
+    ],
+    "company_name": "Coal India Limited",
+    "has_promoter": true,
+    "promoter_pct": 61.13,
+    "promoter_group": [],
+    "public_holders": [],
+    "extraction_notes": "COALINDIA is a public-sector coal mining PSU; the promoter is the President of India / Government of India (held through the Ministry of Coal). Screener Jun 2026 column shows Promoters 61.13% (down from 63.13% prior quarter, suggesting government disinvestment), FIIs 10.37%, DIIs 22.20%, Government 0.10%, Public 6.18%. Detailed Table II promoter group member name(s) and Table III named shareholders above 1% were not retrieved \u2014 the corporates filings index page on BSE redirects to a JS-rendered list that returned no body content via this collector. Total_shares_scrr not directly available from the captured sources; the company's own filed PDF was not located at coalindia.in or via BSE/NSE archives during this run.",
+    "total_shares_scrr": null
+  },
+  {
+    "isin": "INE089A01023",
+    "ticker": "DRREDDY",
+    "quarter_end": "2026-06-30",
+    "source_urls": [
+      "https://www.screener.in/company/DRREDDY/consolidated/"
+    ],
+    "company_name": "Dr. Reddy's Laboratories Limited",
+    "has_promoter": true,
+    "promoter_pct": 26.63,
+    "promoter_group": [],
+    "public_holders": [],
+    "extraction_notes": "Dr Reddy's is one of the Indian pharma companies whose founder family (Reddy family) holds promoter shares. Screener Jun 2026 column shows Promoters 26.63%, FIIs 20.67%, DIIs 31.75%, Others 0.20%, Public 20.76%. Detailed Table II promoter group member names with individual share counts and Table III named mutual fund / insurer / FPI shareholders above 1% were not retrieved \u2014 the company's own filed PDF for the quarter ended 30 June 2026 was not directly located on drreddys.com or via BSE/NSE archives during this run. Total_shares_scrr is null because the exact denominator is not in the captured source.",
+    "total_shares_scrr": null
+  },
+  {
+    "isin": "INE066A01021",
+    "ticker": "EICHERMOT",
+    "quarter_end": "2026-03-31",
+    "source_urls": [
+      "https://eicher.in/content/dam/eicher-motors/investor/shareholder's-information/shareholding-pattern/shareholding-pattern-as-on-31-03-26.pdf",
+      "https://www.screener.in/company/EICHERMOT/consolidated/"
+    ],
+    "company_name": "Eicher Motors Limited",
+    "has_promoter": true,
+    "promoter_pct": 49.06,
+    "promoter_group": [
+      {
+        "pct": 1.15,
+        "filed_name": "Simran Lal",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 3152410
+      },
+      {
+        "filed_name": "Vikram Lal",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "Anita Lal",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 0
+      },
+      {
+        "pct": 0,
+        "filed_name": "Raul Rai",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 350
+      },
+      {
+        "filed_name": "Raghavendra Rai",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "Arjuna Lal Rai",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 0
+      },
+      {
+        "pct": 0.06,
+        "filed_name": "KARVANSARAI INVESTMENTS PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 151430
+      },
+      {
+        "filed_name": "EICHER GOODEARTH PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "EICHER FOOTWEAR LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "SHAMBHALA GOODEARTH PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "ROSABAGH PERFUMERIE PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "LEAN MANAGEMENT INSTITUTE OF INDIA",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "GOOD EARTH EDUCATION FOUNDATION",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "GOODEARTH DESIGN STUDIO PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "SST HOLIDAY HOMES PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "NICOBAR DESIGN STUDIO PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "EICHER GOODEARTH INDIA PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "NICOBAR DESIGN PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "RUAR HIMALAYA PRIVATE LIMITED",
+        "holder_class": "Bodies Corporate",
+        "shares_filed": 0
+      },
+      {
+        "pct": 43.86,
+        "filed_name": "THE SIMRAN SIDDHARTHA TARA BENEFIT TRUST (Name of trustees are mentioned in Note-4)",
+        "holder_class": "Trust",
+        "shares_filed": 120306480
+      },
+      {
+        "pct": 1.77,
+        "filed_name": "THE BRINDA LAL TRUST (Mrs Anita Lal, Mr. Vikram Lal & Mr. Ravi Prakash)",
+        "holder_class": "Trust",
+        "shares_filed": 4857070
+      },
+      {
+        "filed_name": "THE LAL FAMILY TRUST (Mr Vikram Lal, Mrs Anita Lal, Ms Simran Lal, Mr Siddhartha Lal & Ms Tara Lal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "EICHER GOODEARTH TRUST (Mr. Vikram Lal & Mrs. Anita Lal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "pct": 0.02,
+        "filed_name": "SIDDHARTHA LAL TRUST (Mr. Vikram Lal, Mr. Siddhartha Lal & Mrs. Natasha Jamal)",
+        "holder_class": "Trust",
+        "shares_filed": 61470
+      },
+      {
+        "pct": 0,
+        "filed_name": "TARA LAL TRUST (Mr. Vikram Lal, Ms. Tara Lal, Ms. Simran Lal & Ms. Mahima Puri)",
+        "holder_class": "Trust",
+        "shares_filed": 324
+      },
+      {
+        "filed_name": "LEILA NOOR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "ZORAVAR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "GOODEARTH MASTER TRUST (Ms. Simran Lal, Mr. Siddhartha Lal & Ms. Tara Lal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "SIMRAN LAL TRUST (Ms. Simran Lal, Mr. Raul Rai & Ms. Tara Lal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "ZORAVAR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "LEILA NOOR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "RAGHAVENDRA RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "ARJUN RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "NATASHA JAMAL TRUST (Mr. Siddhartha Lal, Ms. Natasha Jamal, Mrs. Sunita Jamal & Mr. Vikram Lal)",
+        "holder_class": "Trust",
+        "shares_filed": 0
+      },
+      {
+        "pct": 1.15,
+        "filed_name": "TARA LAL",
+        "holder_class": "NRI/Foreign Individuals",
+        "shares_filed": 3149940
+      },
+      {
+        "pct": 1.05,
+        "filed_name": "SIDDHARTHA VIKRAM LAL",
+        "holder_class": "NRI/Foreign Individuals",
+        "shares_filed": 2885470
+      },
+      {
+        "filed_name": "NATASHA JAMAL",
+        "holder_class": "NRI/Foreign Individuals",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "ZORAVAR LAL",
+        "holder_class": "NRI/Foreign Individuals",
+        "shares_filed": 0
+      },
+      {
+        "filed_name": "LEILA NOOR LAL",
+        "holder_class": "NRI/Foreign Individuals",
+        "shares_filed": 0
+      }
+    ],
+    "public_holders": [
+      {
+        "pct": 2.79,
+        "shares": 7648381,
+        "holder_name": "Hdfc Trustee Company Limited-Hdfc Flexi Cap Fund",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 2.72,
+        "shares": 7465418,
+        "holder_name": "SBI Nifty 50 ETF",
+        "holder_class": "Mutual Fund / ETF"
+      },
+      {
+        "pct": 1.34,
+        "shares": 3688364,
+        "holder_name": "UTI Nifty 50 ETF",
+        "holder_class": "Mutual Fund / ETF"
+      },
+      {
+        "pct": 1.24,
+        "shares": 3407097,
+        "holder_name": "NPS Trust- A/C SBI Pension Fund Scheme-State Govt",
+        "holder_class": "Pension Fund"
+      },
+      {
+        "pct": 1.14,
+        "shares": 3127333,
+        "holder_name": "Life Insurance Corporation Of India",
+        "holder_class": "Insurance Company"
+      },
+      {
+        "pct": 1.35,
+        "shares": 3706104,
+        "holder_name": "New World Fund Inc",
+        "holder_class": "FPI Category I"
+      },
+      {
+        "pct": 1.07,
+        "shares": 2923691,
+        "holder_name": "Government Of Singapore",
+        "holder_class": "FPI / Sovereign Wealth"
+      }
+    ],
+    "extraction_notes": "The eicher.in host publishes quarterly PDFs and 31-03-2026 was the most recent PDF I retrieved. Screener shows Jun 2026 Promoter 49.03% (down marginally from 49.06% on 31-03-2026), but the latest filed company PDF I retrieved is 31-03-2026; I therefore fill the row with the more recent quarterly column but use the 31-03-2026 PDF to populate detailed Table II/III fields as instructed to prefer the company's own filed PDF. Total (A+B+C2) = 274,314,204 (no DRs; prompt asks for SCRR basis). Sanity check: Bharti Telecom 100% locked-in excluded from DR but here all Eicher data check out: 134,564,944 / 274,314,204 = 49.06% and Simran 3,152,410 / 274,314,204 = 1.149% confirming the SCRR denominator. Screener indicates the company filed for 30 June 2026 as well (showing 49.03% Promoter) \u2014 that filing was not directly retrieved as a PDF in this run; my detailed table figures thus reflect 31-03-2026.",
+    "total_shares_scrr": 274314204
+  }
+]

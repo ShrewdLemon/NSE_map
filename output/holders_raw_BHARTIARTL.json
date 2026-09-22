@@ -1,0 +1,115 @@
+{
+  "company": "Bharti Airtel Limited",
+  "ticker": "BHARTIARTL",
+  "isin": "INE397D01024",
+  "as_of": "2026-06-30",
+  "shares_scrr": 6094493820.0,
+  "denominator_note": "stated denominator agrees with 12 holders to 0.054%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Bharti telecom limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2466133527
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Pastel limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 456228212
+      },
+      "filed_class": "Foreign Bodies Corporate"
+    },
+    {
+      "holder_name": "Indian continent investment limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 55967792
+      },
+      "filed_class": "Foreign Bodies Corporate"
+    },
+    {
+      "holder_name": "SBI ELSS Tax Saver Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 157976816
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund - ICICI Prudential NI",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 104981853
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC Mutual Fund - HDFC Technology Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 84667934
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Multi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 66082158
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Google International LLC",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 71176839
+      },
+      "filed_class": "FPI Category I"
+    },
+    {
+      "holder_name": "Government of Singapore - E",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 64377450
+      },
+      "filed_class": "FPI Category I"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 61036886
+      },
+      "filed_class": "FPI Category I"
+    },
+    {
+      "holder_name": "LICi New Pension Plus Secured Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 258208931
+      },
+      "filed_class": "Insurance/Pension Fund"
+    },
+    {
+      "holder_name": "NPS Trust A/C - SBI PF NPS Jeevan Swarna Retirement",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 115630605
+      },
+      "filed_class": "Pension Fund"
+    }
+  ],
+  "source_urls": [
+    "https://www.screener.in/company/BHARTIARTL/consolidated/",
+    "https://trendlyne.com/equity/share-holding/187/BHARTIARTL/latest/bharti-airtel-ltd/",
+    "https://nsearchives.nseindia.com/corporate/BHARTIARTL_23062026092348_STXDislcosureAllotmenttoICIL.pdf"
+  ],
+  "notes": "Quarter end 2026-06-30 (filing 23 June 2026 was interim post ICIL preferential allotment; the latest filed pattern per trendlyne is the June 30 quarter-end filing). Total promoter shares = 2,978,329,531 (Bharti Telecom 2,466,133,527 + Pastel 456,228,212 + ICIL 55,967,792). Total shares (A+B+C2) implied by 48.87% = ~6,094,493,820; total shares including DR/C2 not separately available on the trendlyne table. As-FII above 1% and Insurance above 1% are reported as individual names with share counts and percentages exactly as published by trendlyne (an aggregator of BSE/NSE filings). All promoter_group shareholders are non-zero except ICIL which carries 100% locked-in per the filing."
+}

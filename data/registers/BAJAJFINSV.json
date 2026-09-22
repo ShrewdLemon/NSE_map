@@ -1,0 +1,24 @@
+{
+  "ticker": "BAJAJFINSV",
+  "company": "Bajaj Finserv Limited",
+  "sector": "Financial Services",
+  "isin": "INE918I01018",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": null,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 58.72,
+  "has_promoter": true,
+  "promoter_group": [],
+  "public_holders": [],
+  "source_urls": [
+    "https://choiceindia.com/stocks/bajaj-finserv-ltd-shareholding-pattern",
+    "https://www.screener.in/company/BAJAJFINSV/consolidated/"
+  ],
+  "notes": "Quarter end 2026-06-30 is the most recent quarter shown on screener.in (Jun 2026 column). Detailed Table II promoter and Table III public-holder names with individual share counts were not located in the aggregated sources I retrieved; only category totals are available. Choice India shows Bajaj Finserv promoter 58.71% / Mutual Fund 8.46% / Insurance 2.83% / FII 6.90% / DII 0.82% / Retail 22.28% as of 09-2026. Screener Jun 2026 column shows Promoters 58.72%, FIIs [cumulative], DIIs [cumulative], Government 0.16%, Public 19.52% (approx). The company's own PDF filing for the quarter ended 30 June 2026 was not directly retrieved from BSE/NSE/Bajaj Finserv IR pages.",
+  "ingested_on": "2026-09-22"
+}

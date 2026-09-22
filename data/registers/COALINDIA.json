@@ -1,0 +1,23 @@
+{
+  "ticker": "COALINDIA",
+  "company": "Coal India Limited",
+  "sector": "Oil, Gas & Consumable Fuels",
+  "isin": "INE522F01014",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": null,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 61.13,
+  "has_promoter": true,
+  "promoter_group": [],
+  "public_holders": [],
+  "source_urls": [
+    "https://www.screener.in/company/COALINDIA/consolidated/"
+  ],
+  "notes": "COALINDIA is a public-sector coal mining PSU; the promoter is the President of India / Government of India (held through the Ministry of Coal). Screener Jun 2026 column shows Promoters 61.13% (down from 63.13% prior quarter, suggesting government disinvestment), FIIs 10.37%, DIIs 22.20%, Government 0.10%, Public 6.18%. Detailed Table II promoter group member name(s) and Table III named shareholders above 1% were not retrieved \u2014 the corporates filings index page on BSE redirects to a JS-rendered list that returned no body content via this collector. Total_shares_scrr not directly available from the captured sources; the company's own filed PDF was not located at coalindia.in or via BSE/NSE archives during this run.",
+  "ingested_on": "2026-09-22"
+}

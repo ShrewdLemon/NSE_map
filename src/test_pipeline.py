@@ -148,14 +148,28 @@ check("a malformed date yields no label", ing.label("Q1 FY27"), None)
 for junk in ("Total", "Sub-Total (A)(1)", "Promoter & Promoter Group",
              "Mutual Funds", "Bodies Corporate", "Public", "Any Other (specify)",
              "Foreign Portfolio Investors", "Resident Individuals", "12,345",
-             "Total (A)+(B)+(C)", "Total (A)+(B)+(C2)", "(A)(1) Sub-Total", "Sub Total - (B)(3)",
-             "Mutual Funds (i)"):
+             "Total (A)+(B)+(C)", "Total (A)+(B)+(C2)", "(A)(1) Sub-Total",
+             "Sub Total - (B)(3)", "Mutual Funds (i)",
+             # A category total wearing a holder's clothes. Bharti Airtel came
+             # back with these above the named funds inside them, which pushed
+             # its named holders to 111% of the share base.
+             "Mutual Funds (total)", "Insurance Companies (total)", "Banks (total)",
+             "Foreign Portfolio Investors Category I",
+             "Foreign Portfolio Investors - Cat II", "Total Mutual Funds",
+             "Alternate Investment Funds", "NBFCs registered with RBI",
+             "Central Government/President of India", "Clearing Members",
+             "Institutions - Domestic", "Non-Institutions", "FPIs", "DIIs"):
     check(f"aggregate row rejected: {junk!r}", ing._clean_name(junk), None)
 # A real name may carry parentheses too; only a single letter, roman numeral
 # or digit inside them reads as a table reference.
 for real in ("SBI Mutual Fund", "Life Insurance Corporation of India",
              "Vanguard Group Inc/The", "Rekha Rakesh Jhunjhunwala",
-             "Alpha Holdings (India) Pvt Ltd", "Nestle (Deutschland) AG"):
+             "Alpha Holdings (India) Pvt Ltd", "Nestle (Deutschland) AG",
+             # Scheme-level names contain a class word but are real holders.
+             "SBI ELSS Tax Saver Fund", "UTI Multi Cap Fund",
+             "HDFC Mutual Fund - HDFC Technology Fund",
+             "LICi New Pension Plus Secured Fund", "Government of Singapore - E",
+             "NPS Trust A/C - SBI PF NPS Jeevan Swarna Retirement"):
     check(f"real holder kept: {real!r}", ing._clean_name(real), real)
 
 # 'Trusts' is a category heading; a named trust is a holder.

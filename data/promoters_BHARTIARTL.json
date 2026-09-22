@@ -1,0 +1,32 @@
+{
+  "company": "Bharti Airtel Limited",
+  "isin": "INE397D01024",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://www.screener.in/company/BHARTIARTL/consolidated/",
+    "https://trendlyne.com/equity/share-holding/187/BHARTIARTL/latest/bharti-airtel-ltd/",
+    "https://nsearchives.nseindia.com/corporate/BHARTIARTL_23062026092348_STXDislcosureAllotmenttoICIL.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 48.87,
+  "promoter_total_shares_filed": 2978329531,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Bharti telecom limited",
+      "shares_filed": 2466133527,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "Pastel limited",
+      "shares_filed": 456228212,
+      "class": "Foreign Bodies Corporate"
+    },
+    {
+      "filed_name": "Indian continent investment limited",
+      "shares_filed": 55967792,
+      "class": "Foreign Bodies Corporate"
+    }
+  ]
+}

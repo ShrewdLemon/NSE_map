@@ -3,6 +3,7 @@
 Sheets:
     Summary       one row per company, category counts across the taxonomy
     Index totals  the whole index rolled up by category
+    Provenance    per company: source, as-of date, share base and how it settled
     All holders   every row, Book1 layout with a ticker column in front
     <TICKER>      one sheet per company, exactly the single-company layout
 """
@@ -167,6 +168,33 @@ def write(companies, categories, path, index_name="NIFTY 50"):
             cell.number_format = "0.00%"
     for col, w in {1: 26, 2: 13, 3: 18, 4: 26, 5: 20}.items():
         ws.column_dimensions[get_column_letter(col)].width = w
+
+    # --- Provenance --------------------------------------------------------
+    # Fifty companies read out of filings by machine need their sources on the
+    # face of the workbook, not buried in a repository.
+    ws = wb.create_sheet("Provenance")
+    head = ["Ticker", "Company name", "ISIN", "As at", "Quarters",
+            "Shares (SCRR base)", "How the share base was settled",
+            "Promoter % filed", "Holders named", "Source"]
+    ws.append(head)
+    _style_header(ws, 1, len(head))
+    for c in companies:
+        m = c["meta"]
+        ws.append([c["ticker"], c["company"], m.get("isin"), m.get("as_of"),
+                   ", ".join(c["quarters"]), m.get("shares_scrr"),
+                   m.get("denominator_note"), m.get("promoter_pct"),
+                   len(c["rows"]), "\n".join(m.get("source_urls") or [])])
+    for row in ws.iter_rows(min_row=2, min_col=6, max_col=6):
+        for cell in row:
+            cell.number_format = "#,##0"
+    for row in ws.iter_rows(min_row=2, min_col=7, max_col=10):
+        for cell in row:
+            cell.alignment = Alignment(wrap_text=True, vertical="top")
+    for col, w in {1: 13, 2: 40, 3: 15, 4: 12, 5: 34, 6: 20, 7: 52,
+                   8: 15, 9: 14, 10: 60}.items():
+        ws.column_dimensions[get_column_letter(col)].width = w
+    ws.freeze_panes = "C2"
+    ws.auto_filter.ref = f"A1:{get_column_letter(len(head))}{ws.max_row}"
 
     # --- All holders -------------------------------------------------------
     ws = wb.create_sheet("All holders")

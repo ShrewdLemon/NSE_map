@@ -1,0 +1,302 @@
+{
+  "ticker": "EICHERMOT",
+  "company": "Eicher Motors Limited",
+  "sector": "Automobile",
+  "isin": "INE066A01021",
+  "as_of": "2026-03-31",
+  "as_of_label": "Mar/2026",
+  "quarters": [
+    "Mar/2026"
+  ],
+  "shares_scrr": 274314204.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 49.06,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Simran Lal",
+      "shares_filed": 3152410.0,
+      "pct": 1.15,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vikram Lal",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anita Lal",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Raul Rai",
+      "shares_filed": 350.0,
+      "pct": 0.0,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Raghavendra Rai",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Arjuna Lal Rai",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KARVANSARAI INVESTMENTS PRIVATE LIMITED",
+      "shares_filed": 151430.0,
+      "pct": 0.06,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EICHER GOODEARTH PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EICHER FOOTWEAR LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SHAMBHALA GOODEARTH PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ROSABAGH PERFUMERIE PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "LEAN MANAGEMENT INSTITUTE OF INDIA",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "GOOD EARTH EDUCATION FOUNDATION",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "GOODEARTH DESIGN STUDIO PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SST HOLIDAY HOMES PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NICOBAR DESIGN STUDIO PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EICHER GOODEARTH INDIA PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NICOBAR DESIGN PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RUAR HIMALAYA PRIVATE LIMITED",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "THE SIMRAN SIDDHARTHA TARA BENEFIT TRUST (Name of trustees are mentioned in Note-4)",
+      "shares_filed": 120306480.0,
+      "pct": 43.86,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "THE BRINDA LAL TRUST (Mrs Anita Lal, Mr. Vikram Lal & Mr. Ravi Prakash)",
+      "shares_filed": 4857070.0,
+      "pct": 1.77,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "THE LAL FAMILY TRUST (Mr Vikram Lal, Mrs Anita Lal, Ms Simran Lal, Mr Siddhartha Lal & Ms Tara Lal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "EICHER GOODEARTH TRUST (Mr. Vikram Lal & Mrs. Anita Lal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "SIDDHARTHA LAL TRUST (Mr. Vikram Lal, Mr. Siddhartha Lal & Mrs. Natasha Jamal)",
+      "shares_filed": 61470.0,
+      "pct": 0.02,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "TARA LAL TRUST (Mr. Vikram Lal, Ms. Tara Lal, Ms. Simran Lal & Ms. Mahima Puri)",
+      "shares_filed": 324.0,
+      "pct": 0.0,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "LEILA NOOR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "ZORAVAR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "GOODEARTH MASTER TRUST (Ms. Simran Lal, Mr. Siddhartha Lal & Ms. Tara Lal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "SIMRAN LAL TRUST (Ms. Simran Lal, Mr. Raul Rai & Ms. Tara Lal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "ZORAVAR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "LEILA NOOR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "RAGHAVENDRA RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "ARJUN RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "NATASHA JAMAL TRUST (Mr. Siddhartha Lal, Ms. Natasha Jamal, Mrs. Sunita Jamal & Mr. Vikram Lal)",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "Trust"
+    },
+    {
+      "filed_name": "TARA LAL",
+      "shares_filed": 3149940.0,
+      "pct": 1.15,
+      "holder_class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "SIDDHARTHA VIKRAM LAL",
+      "shares_filed": 2885470.0,
+      "pct": 1.05,
+      "holder_class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "NATASHA JAMAL",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "ZORAVAR LAL",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "LEILA NOOR LAL",
+      "shares_filed": 0.0,
+      "pct": null,
+      "holder_class": "NRI/Foreign Individuals"
+    }
+  ],
+  "public_holders": [
+    {
+      "holder_name": "Hdfc Trustee Company Limited-Hdfc Flexi Cap Fund",
+      "shares": 7648381.0,
+      "pct": 2.79,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "shares": 7465418.0,
+      "pct": 2.72,
+      "holder_class": "Mutual Fund / ETF"
+    },
+    {
+      "holder_name": "UTI Nifty 50 ETF",
+      "shares": 3688364.0,
+      "pct": 1.34,
+      "holder_class": "Mutual Fund / ETF"
+    },
+    {
+      "holder_name": "NPS Trust- A/C SBI Pension Fund Scheme-State Govt",
+      "shares": 3407097.0,
+      "pct": 1.24,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "shares": 3127333.0,
+      "pct": 1.14,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "New World Fund Inc",
+      "shares": 3706104.0,
+      "pct": 1.35,
+      "holder_class": "FPI Category I"
+    },
+    {
+      "holder_name": "Government Of Singapore",
+      "shares": 2923691.0,
+      "pct": 1.07,
+      "holder_class": "FPI / Sovereign Wealth"
+    }
+  ],
+  "source_urls": [
+    "https://eicher.in/content/dam/eicher-motors/investor/shareholder's-information/shareholding-pattern/shareholding-pattern-as-on-31-03-26.pdf",
+    "https://www.screener.in/company/EICHERMOT/consolidated/"
+  ],
+  "notes": "The eicher.in host publishes quarterly PDFs and 31-03-2026 was the most recent PDF I retrieved. Screener shows Jun 2026 Promoter 49.03% (down marginally from 49.06% on 31-03-2026), but the latest filed company PDF I retrieved is 31-03-2026; I therefore fill the row with the more recent quarterly column but use the 31-03-2026 PDF to populate detailed Table II/III fields as instructed to prefer the company's own filed PDF. Total (A+B+C2) = 274,314,204 (no DRs; prompt asks for SCRR basis). Sanity check: Bharti Telecom 100% locked-in excluded from DR but here all Eicher data check out: 134,564,944 / 274,314,204 = 49.06% and Simran 3,152,410 / 274,314,204 = 1.149% confirming the SCRR denominator. Screener indicates the company filed for 30 June 2026 as well (showing 49.03% Promoter) \u2014 that filing was not directly retrieved as a PDF in this run; my detailed table figures thus reflect 31-03-2026.",
+  "ingested_on": "2026-09-22"
+}

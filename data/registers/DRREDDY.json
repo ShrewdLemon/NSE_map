@@ -1,0 +1,23 @@
+{
+  "ticker": "DRREDDY",
+  "company": "Dr. Reddy's Laboratories Limited",
+  "sector": "Healthcare",
+  "isin": "INE089A01023",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": null,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 26.63,
+  "has_promoter": true,
+  "promoter_group": [],
+  "public_holders": [],
+  "source_urls": [
+    "https://www.screener.in/company/DRREDDY/consolidated/"
+  ],
+  "notes": "Dr Reddy's is one of the Indian pharma companies whose founder family (Reddy family) holds promoter shares. Screener Jun 2026 column shows Promoters 26.63%, FIIs 20.67%, DIIs 31.75%, Others 0.20%, Public 20.76%. Detailed Table II promoter group member names with individual share counts and Table III named mutual fund / insurer / FPI shareholders above 1% were not retrieved \u2014 the company's own filed PDF for the quarter ended 30 June 2026 was not directly located on drreddys.com or via BSE/NSE archives during this run. Total_shares_scrr is null because the exact denominator is not in the captured source.",
+  "ingested_on": "2026-09-22"
+}
