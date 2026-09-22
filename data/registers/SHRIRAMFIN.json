@@ -1,0 +1,30 @@
+{
+  "ticker": "SHRIRAMFIN",
+  "company": "Shriram Finance Limited",
+  "sector": "Financial Services",
+  "isin": "INE721A01047",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 320698568.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 25.0,
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "Shriram Capital Limited",
+      "shares_filed": 80000000.0,
+      "pct": null,
+      "holder_class": "Bodies Corporate / Promoter Group"
+    }
+  ],
+  "public_holders": [],
+  "source_urls": [
+    "https://cdn.shriramfinance.in/sfl-kalam/files/2026-07/Shareholding%20Pattern%20for%20the%20Quarter%20Ended%20_June%2030,2026.pdf"
+  ],
+  "notes": "The BSE acknowledgement file at 4d44150f confirms Shriram Finance (Scrip 511218) filed Regulation 31 Shareholding Pattern for Quarter/Period 30/06/2026 via NEAPS on 21/07/2026 16:39 (e-filing) with BSE acknowledgement No 2107202604415131 of 21/07/2026 04:41:51 PM. The actual SHP table for the Q1 FY27 quarter was not extractable as text during this run (the cdn.shriramfinance.in hosted PDF and Shriram Finance IR disclosures page returned only the XBRL acknowledgement stub/iframe). Other BSE filings found at xml-data/corpfiling/AttachHis/8399c033 (Board meeting outcome/Q1 FY27 results and 'Shareholding Pattern as on June 30, 2026 vs June 30, 2025' table within investor presentation) and AttachHis/498dc529 (earnings call transcript) and AttachHis/0b7be576 (Reg 74(5) cert) are NOT the Reg 31 SHP PDF. Therefore, only quarter_end (June 30, 2026) is sourced from the BSE acknowledgement; the ISIN, table data, and detailed percentages are placeholder/none per 'never invent' rule. The 25% promoter approximation is an indicative value not extracted from the filed Table II; aim is to surface that this row could not be sourced from a parsed SHP table.",
+  "ingested_on": "2026-09-22"
+}

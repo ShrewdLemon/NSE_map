@@ -1,0 +1,85 @@
+{
+  "company": "Grasim Industries Limited",
+  "isin": "INE047A01013",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://www.grasim.com/Upload/PDF/shareholding-pattern-june-2026.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 43.74,
+  "promoter_total_shares_filed": 254316504,
+  "bonus_adjustment_note": "Holder counts come straight from the filed table, so no bonus adjustment applies.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "SBI Nifty 50 ETF",
+      "shares_filed": 10916925,
+      "class": null
+    },
+    {
+      "filed_name": "ICICI Prudential Nifty ETF",
+      "shares_filed": 6900184,
+      "class": null
+    },
+    {
+      "filed_name": "Life Insurance Corporation of India",
+      "shares_filed": 44867472,
+      "class": null
+    },
+    {
+      "filed_name": "Provident funds / Pension Funds",
+      "shares_filed": 9803199,
+      "class": null
+    },
+    {
+      "filed_name": "NPS Trust - A/c UTI Pension Fund Limited - Scheme State 1 98,03,199 - - 98,03,199 1.44 98,03,199 -98,03,199",
+      "shares_filed": 9803199,
+      "class": null
+    },
+    {
+      "filed_name": "Sub -Total (B)(1)",
+      "shares_filed": 109758905,
+      "class": null
+    },
+    {
+      "filed_name": "Theleme Master Fund Limited",
+      "shares_filed": 7976267,
+      "class": null
+    },
+    {
+      "filed_name": "Overseas Depositories (holding DRs) (balancing figure)",
+      "shares_filed": 17247309,
+      "class": null
+    },
+    {
+      "filed_name": "Citibank N.A. New York, NYADR Department",
+      "shares_filed": 17247309,
+      "class": null
+    },
+    {
+      "filed_name": "Gagandeep Credit Capital Pvt Ltd",
+      "shares_filed": 9923232,
+      "class": null
+    },
+    {
+      "filed_name": "Shamyak Investment Private Limited",
+      "shares_filed": 9754321,
+      "class": null
+    },
+    {
+      "filed_name": "Unclaimed or Suspense or Escrow Account",
+      "shares_filed": 107737,
+      "class": null
+    },
+    {
+      "filed_name": "Unclaimed or Suspense or Escrow Account",
+      "shares_filed": 9474,
+      "class": null
+    },
+    {
+      "filed_name": "Unclaimed or Suspense or Escrow Account",
+      "shares_filed": 971,
+      "class": null
+    }
+  ]
+}

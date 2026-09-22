@@ -1,0 +1,50 @@
+{
+  "company": "InterGlobe Aviation Limited",
+  "isin": "INE646L01027",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1784/INDIGO/latest/interglobe-aviation-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 41.57,
+  "promoter_total_shares_filed": 160732547,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Interglobe Enterprises Private Limited",
+      "shares_filed": 137987201,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "The Chinkerpoo Family Trust (Trustee: Shobha Gangwal & J.P. Morgan Trust Company of Delaware)",
+      "shares_filed": 5106413,
+      "class": "Trust (Foreign)"
+    },
+    {
+      "filed_name": "Rakesh Gangwal",
+      "shares_filed": 17530493,
+      "class": "Individuals/HUF (Foreign)"
+    },
+    {
+      "filed_name": "Kapil Bhatia",
+      "shares_filed": 50000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rahul Bhatia",
+      "shares_filed": 40000,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Alok Mehta",
+      "shares_filed": 8440,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Rohini Bhatia",
+      "shares_filed": 10000,
+      "class": "Individuals/HUF"
+    }
+  ]
+}

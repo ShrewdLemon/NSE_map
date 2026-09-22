@@ -1,0 +1,132 @@
+{
+  "company": "Grasim Industries Limited",
+  "ticker": "GRASIM",
+  "isin": "INE047A01013",
+  "as_of": "2026-06-30",
+  "shares_scrr": 680841760,
+  "denominator_note": "denominator recovered from 13 count/percentage pairs",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10916925
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "ICICI Prudential Nifty ETF",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 6900184
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 44867472
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Provident funds / Pension Funds",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 9803199
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "NPS Trust - A/c UTI Pension Fund Limited - Scheme State 1 98,03,199 - - 98,03,199 1.44 98,03,199 -98,03,199",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9803199
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Sub -Total (B)(1)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 109758905
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Theleme Master Fund Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 7976267
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Overseas Depositories (holding DRs) (balancing figure)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 17247309
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Citibank N.A. New York, NYADR Department",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 17247309
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Gagandeep Credit Capital Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9923232
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Shamyak Investment Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 9754321
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Unclaimed or Suspense or Escrow Account",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 107737
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Employee Benefit Trust / Employee Welfare Trust under SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 2291214
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Shareholding (C) = (C)(1)+(C)(2)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2291214
+      },
+      "filed_class": null
+    }
+  ],
+  "source_urls": [
+    "https://www.grasim.com/Upload/PDF/shareholding-pattern-june-2026.pdf"
+  ],
+  "notes": "Parsed from the filed SEBI Regulation 31 shareholding pattern.",
+  "promoter_reconciliation": "unreconciled",
+  "promoter_drift": -0.14601630184911593,
+  "promoter_pct_filed": 43.74
+}

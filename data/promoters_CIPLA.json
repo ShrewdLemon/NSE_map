@@ -1,0 +1,35 @@
+{
+  "company": "Cipla Limited",
+  "isin": "INE059A01026",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/268/CIPLA/latest/cipla-ltd/"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 29.21,
+  "promoter_total_shares_filed": 235287003,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Yusuf Khwaja Hamied",
+      "shares_filed": 150521183,
+      "class": "Foreign Promoter (NRI Director)"
+    },
+    {
+      "filed_name": "Sophie Ahmed",
+      "shares_filed": 45982000,
+      "class": "Individuals/HUF (Indian Promoter)"
+    },
+    {
+      "filed_name": "M K Hamied",
+      "shares_filed": 27844320,
+      "class": "Individuals/HUF (Indian Promoter)"
+    },
+    {
+      "filed_name": "Kamil Hamied",
+      "shares_filed": 10939500,
+      "class": "Foreign Promoter (NRI Relative of Director)"
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "company": "SBI Life Insurance Company Limited",
+  "ticker": "SBILIFE",
+  "isin": "INE123W01016",
+  "as_of": "2025-09-30",
+  "shares_scrr": 1002568002.0,
+  "denominator_note": "stated denominator agrees with 9 holders to 0.104%",
+  "quarter_labels": [
+    "Sep/2025"
+  ],
+  "holders": [
+    {
+      "holder_name": "STATE BANK OF INDIA",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 555000000
+      },
+      "filed_class": "Central Government/State Government(s) (Promoter)"
+    },
+    {
+      "holder_name": "Arunachal Pradesh Rural Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "C-Edge Technologies Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Chhattisgarh Rajya Gramin Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Jharkhand Rajya Gramin Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Meghalaya Rural Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Mizoram Rural Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Nagaland Rural Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Oman India Joint Investment Fund Management Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Oman India Joint Investment Fund-Trustee Company Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Rajasthan Gramin Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBICAP Securities Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBICAP Trustee Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Capital Markets Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Ventures Limited (Formerly Known as SBICAP Ventures Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI DFHI Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Foundation",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Funds Management Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Funds Management (International) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI General Insurance Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Factors Limited (Formerly Known as SBI Global Factors Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Macquarie Infrastructure Management Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Macquarie Infrastructure Trustee Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Mutual Fund Trustee Co. Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Payments Services Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Pension Funds Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI-SG Global Securities Services Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Telangana Grameena Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Uttarakhand Gramin Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Bank of Bhutan Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Commercial Indo Bank LLc, Moscow",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Macquarie SBI Infrastructure Management Pte Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Macquarie SBI Infrastructure Trustee Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Nepal SBI Bank Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Nepal SBI Merchant Banking Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "PT Bank SBI Indonesia",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI (Mauritius) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Canada Bank",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "State Bank of India (California)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "State Bank of India (UK) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "State Bank of Servicos Limitada",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "Yes Bank Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "State Bank Operations Support Services Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Cards and Payment Services Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI CDMDF Trustee Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "SBI Funds International (IFSC) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 0
+      },
+      "filed_class": "Promoter group"
+    },
+    {
+      "holder_name": "ICICI PRUDENTIAL MUTUAL FUND SCHEMES",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 150607989
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC MUTUAL FUND SCHEMES",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 40680381
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NIPPON LIFE INDIA MUTUAL FUND SCHEMES",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 40518952
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI MUTUAL FUND SCHEMES",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 121567690
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NPS TRUST SCHEMES",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 137781580
+      },
+      "filed_class": "Provident Funds/Pension Funds"
+    },
+    {
+      "holder_name": "GOVERNMENT OF SINGAPORE",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 2134450960
+      },
+      "filed_class": "Foreign Portfolio Investors Category I"
+    },
+    {
+      "holder_name": "Foreign Portfolio Investors Category II (collective)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 33520558
+      },
+      "filed_class": "Foreign Portfolio Investors Category II"
+    },
+    {
+      "holder_name": "MACRITCHIE INVESTMENTS PTE LTD",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Sep/2025": 151000005
+      },
+      "filed_class": "Foreign Companies"
+    }
+  ],
+  "source_urls": [
+    "https://www.sbilife.co.in/documents/20118/589239/SBI+Life_SHP_Q2_FY2025-26_Website.pdf"
+  ],
+  "notes": "Source is SBILIFE's own filed PDF for quarter ended 30 September 2025 (Q2 FY 2025-26). The Q1 FY27 (30 June 2026) SHP PDF on sbilife.co.in was retrieved only as a base64 iframe stub from which the underlying table data could not be parsed during this run; so I report Q2 FY25-26 (30 Sept 2025) - the most recently filed quarter for which the table was extractable. Filed pattern: 1 promoter holding 55,000,000,00 (55.36%) - State Bank of India; 47 promoter-group entities each nil, all listed verbatim. Public sub-totals include Mutual Funds (18.69%), FPI Cat I 21.29% (Government of Singapore 21.29% being the dominant holder >1%), Insurance Companies 1.43%, Provident Funds/Pension Funds 1.37%, NPS Trust 1.37%. Foreign Companies Macritchie Investments 1.51%. Total (A+B+C2) = 1,00,25,68,002; no DRs (C1=0), no Employee Trust shares (C2=0).",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -3.900011352637955e-05,
+  "promoter_pct_filed": 55.36
+}

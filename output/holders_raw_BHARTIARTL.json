@@ -111,5 +111,8 @@
     "https://trendlyne.com/equity/share-holding/187/BHARTIARTL/latest/bharti-airtel-ltd/",
     "https://nsearchives.nseindia.com/corporate/BHARTIARTL_23062026092348_STXDislcosureAllotmenttoICIL.pdf"
   ],
-  "notes": "Quarter end 2026-06-30 (filing 23 June 2026 was interim post ICIL preferential allotment; the latest filed pattern per trendlyne is the June 30 quarter-end filing). Total promoter shares = 2,978,329,531 (Bharti Telecom 2,466,133,527 + Pastel 456,228,212 + ICIL 55,967,792). Total shares (A+B+C2) implied by 48.87% = ~6,094,493,820; total shares including DR/C2 not separately available on the trendlyne table. As-FII above 1% and Insurance above 1% are reported as individual names with share counts and percentages exactly as published by trendlyne (an aggregator of BSE/NSE filings). All promoter_group shareholders are non-zero except ICIL which carries 100% locked-in per the filing."
+  "notes": "Quarter end 2026-06-30 (filing 23 June 2026 was interim post ICIL preferential allotment; the latest filed pattern per trendlyne is the June 30 quarter-end filing). Total promoter shares = 2,978,329,531 (Bharti Telecom 2,466,133,527 + Pastel 456,228,212 + ICIL 55,967,792). Total shares (A+B+C2) implied by 48.87% = ~6,094,493,820; total shares including DR/C2 not separately available on the trendlyne table. As-FII above 1% and Insurance above 1% are reported as individual names with share counts and percentages exactly as published by trendlyne (an aggregator of BSE/NSE filings). All promoter_group shareholders are non-zero except ICIL which carries 100% locked-in per the filing.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -1.6652961841831797e-05,
+  "promoter_pct_filed": 48.87
 }

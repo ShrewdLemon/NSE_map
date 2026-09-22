@@ -1,0 +1,96 @@
+{
+  "ticker": "LT",
+  "company": "Larsen & Toubro Limited",
+  "sector": "Construction",
+  "isin": "INE018A01030",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": 1363411493.0,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 0.0,
+  "has_promoter": false,
+  "promoter_group": [],
+  "public_holders": [
+    {
+      "holder_name": "SBI MUTUAL FUND",
+      "shares": 63888040.0,
+      "pct": 4.69,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI PRUDENTIAL MUTUAL FUND",
+      "shares": 48751101.0,
+      "pct": 3.58,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC MUTUAL FUND",
+      "shares": 29165638.0,
+      "pct": 2.14,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "NIPPON LIFE INDIA TRUSTEE LTD",
+      "shares": 23009267.0,
+      "pct": 1.69,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI MUTUAL FUND",
+      "shares": 21520120.0,
+      "pct": 1.58,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "LIFE INSURANCE CORPORATION OF INDIA",
+      "shares": 169241807.0,
+      "pct": 12.41,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "GENERAL INSURANCE CORPORATION OF INDIA",
+      "shares": 19990650.0,
+      "pct": 1.47,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "SBI LIFE INSURANCE CO. LTD",
+      "shares": 15125714.0,
+      "pct": 1.11,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED",
+      "shares": 13878775.0,
+      "pct": 1.02,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS TRUST A/C UTI PENSION FUND LIMITED",
+      "shares": 47085621.0,
+      "pct": 3.45,
+      "holder_class": "Pension Fund"
+    },
+    {
+      "holder_name": "GOVERNMENT OF SINGAPORE",
+      "shares": 21502855.0,
+      "pct": 1.58,
+      "holder_class": "FPI Category I"
+    },
+    {
+      "holder_name": "L&T EMPLOYEES TRUST",
+      "shares": 198679507.0,
+      "pct": 14.57,
+      "holder_class": "Trust"
+    }
+  ],
+  "source_urls": [
+    "https://investors.larsentoubro.com/ShareholdingPattern.aspx"
+  ],
+  "notes": "Larsen & Toubro has no promoter (L&T is a professionally managed company). Quarter ended 30 June 2026. Total SCRR shares = (A)+(B)+(C2) = 0 + 1,363,411,493 + 0 = 1,363,411,493; an additional 12,317,685 DR (Citibank N.A. NY ADR) shares under (C1) are excluded from the SCRR denominator. Filing is publicly available from L&T Investor Relations website. ISIN not stated on extracted page but is well-known for L&T as INE018A01030.",
+  "ingested_on": "2026-09-22"
+}

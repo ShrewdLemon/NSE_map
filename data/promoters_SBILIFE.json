@@ -1,0 +1,245 @@
+{
+  "company": "SBI Life Insurance Company Limited",
+  "isin": "INE123W01016",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30",
+  "source_urls": [
+    "https://www.sbilife.co.in/documents/20118/589239/SBI+Life_SHP_Q2_FY2025-26_Website.pdf"
+  ],
+  "as_of": "2025-09-30",
+  "promoter_total_pct": 55.36,
+  "promoter_total_shares_filed": 555000000,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "STATE BANK OF INDIA",
+      "shares_filed": 555000000,
+      "class": "Central Government/State Government(s) (Promoter)"
+    },
+    {
+      "filed_name": "Arunachal Pradesh Rural Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "C-Edge Technologies Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Chhattisgarh Rajya Gramin Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Jharkhand Rajya Gramin Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Meghalaya Rural Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Mizoram Rural Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Nagaland Rural Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Oman India Joint Investment Fund Management Company Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Oman India Joint Investment Fund-Trustee Company Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Rajasthan Gramin Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBICAP Securities Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBICAP Trustee Company Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Capital Markets Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Ventures Limited (Formerly Known as SBICAP Ventures Limited)",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI DFHI Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Foundation",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Funds Management Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Funds Management (International) Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI General Insurance Company Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Factors Limited (Formerly Known as SBI Global Factors Limited)",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Macquarie Infrastructure Management Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Macquarie Infrastructure Trustee Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Mutual Fund Trustee Co. Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Payments Services Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Pension Funds Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI-SG Global Securities Services Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Telangana Grameena Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Uttarakhand Gramin Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Bank of Bhutan Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Commercial Indo Bank LLc, Moscow",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Macquarie SBI Infrastructure Management Pte Ltd",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Macquarie SBI Infrastructure Trustee Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Nepal SBI Bank Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Nepal SBI Merchant Banking Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "PT Bank SBI Indonesia",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI (Mauritius) Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Canada Bank",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank of India (California)",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank of India (UK) Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank of Servicos Limitada",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "Yes Bank Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "State Bank Operations Support Services Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Cards and Payment Services Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI CDMDF Trustee Private Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    },
+    {
+      "filed_name": "SBI Funds International (IFSC) Limited",
+      "shares_filed": 0,
+      "class": "Promoter group"
+    }
+  ]
+}

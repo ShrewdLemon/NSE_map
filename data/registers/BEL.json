@@ -2,22 +2,84 @@
   "ticker": "BEL",
   "company": "Bharat Electronics Limited",
   "sector": "Capital Goods",
-  "isin": "INE263A01016",
+  "isin": "INE263A01024",
   "as_of": "2026-06-30",
   "as_of_label": "Jun/2026",
   "quarters": [
     "Jun/2026"
   ],
-  "shares_scrr": null,
+  "shares_scrr": 7309778829.0,
   "bonus_factor": 1,
-  "bonus_note": "Holder counts come straight from the filed table, so no bonus adjustment applies.",
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
   "promoter_pct": 51.14,
-  "has_promoter": false,
-  "promoter_group": [],
-  "public_holders": [],
-  "source_urls": [
-    "https://bel-india.in/wp-content/uploads/2026/07/Shareholding-pattern-as-on-30.06.2026.pdf"
+  "has_promoter": true,
+  "promoter_group": [
+    {
+      "filed_name": "President of India",
+      "shares_filed": 3737921934.0,
+      "pct": 51.14,
+      "holder_class": "Central Government/State Government(s)"
+    }
   ],
-  "notes": "Parsed from the filed SEBI Regulation 31 shareholding pattern.",
+  "public_holders": [
+    {
+      "holder_name": "Kotak flexicap fund - various schemes",
+      "shares": 165115111.0,
+      "pct": 2.26,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF - various schemes",
+      "shares": 155389527.0,
+      "pct": 2.13,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "CPSE exchange traded scheme - various schemes",
+      "shares": 148831792.0,
+      "pct": 2.04,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "HDFC mutual fund - varuous schemes",
+      "shares": 95557340.0,
+      "pct": 1.31,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Motilal oswal - various schemes",
+      "shares": 78382104.0,
+      "pct": 1.07,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI prudential nifty etf - various schemes",
+      "shares": 75916177.0,
+      "pct": 1.04,
+      "holder_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Government of Singapore",
+      "shares": 80899294.0,
+      "pct": 1.11,
+      "holder_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Life insurance corporation of india (various schemes)",
+      "shares": 82734308.0,
+      "pct": 1.13,
+      "holder_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS trust- a/c hdfc pension fund management limited scheme e - tier i (various schemes)",
+      "shares": 167073789.0,
+      "pct": 2.29,
+      "holder_class": "Pension Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/175/BEL/latest/bharat-electronics-ltd/"
+  ],
+  "notes": "FPI Cat I sub-categories aggregated at \u20b917.47% / 1,277,282,821 shares across 924 holders \u2014 only Government of Singapore listed individually above 1%. Insurance sub-category totals 3.58% / 261,995,995 shares across 38 holders; LIC alone is 1.13%. Total (A)+(B) computed by direct sum: 7,309,778,829 shares. The trendlyne shareholding pattern comes from the company's filed SEBI LODR Reg.31 PDF (latest is the BEL IR page at https://bel-india.in/shareholding-pattern linking to a June 30, 2026 PDF).",
   "ingested_on": "2026-09-22"
 }

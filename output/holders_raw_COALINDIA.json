@@ -1,0 +1,60 @@
+{
+  "company": "Coal India Limited",
+  "ticker": "COALINDIA",
+  "isin": "INE522F01014",
+  "as_of": "2026-06-30",
+  "shares_scrr": 6162728327.0,
+  "denominator_note": "stated denominator agrees with 5 holders to 0.081%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "President of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 3767456372
+      },
+      "filed_class": "Central Government/State Government(s)"
+    },
+    {
+      "holder_name": "Parag parikh flexi cap fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 186881004
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "CPSE exchange traded scheme (CPSE ETF)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 96936016
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 ETF",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 85175109
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life insurance corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 631121984
+      },
+      "filed_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/275/COALINDIA/latest/coal-india-ltd/"
+  ],
+  "notes": "Promoter holding dropped from 63.13% in Mar 2026 to 61.13% in Jun 2026 \u2014 decline reflects the Offer for Sale (OFS) by Ministry of Coal, Government of India confirmed in BSE insider trading disclosure dated 01.06.2026. FPI Cat I sub-categories aggregate 9.38% / 577,886,502 shares across 537 holders \u2014 no individual FPI named above 1%. Insurance sub-category totals 11.40% / 702,712,872 shares across 41 holders; LIC alone is 10.24%. Total (A)+(B) computed by direct sum of trendlyne totals: 6,162,728,327 shares.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 4.792473745606895e-05,
+  "promoter_pct_filed": 61.13
+}

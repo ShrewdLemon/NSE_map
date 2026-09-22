@@ -1,0 +1,148 @@
+{
+  "company": "ITC Limited",
+  "ticker": "ITC",
+  "isin": "INE154A01025",
+  "as_of": "2025-12-31",
+  "shares_scrr": 12525855706.0,
+  "denominator_note": "stated denominator agrees with 16 holders to 0.007%",
+  "quarter_labels": [
+    "Dec/2025"
+  ],
+  "holders": [
+    {
+      "holder_name": "SBI Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 411952887
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 388251802
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life india Trustee Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 180914514
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "UTI Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 173282184
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Parag Parikh Flexi Cap Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 158616643
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Mirae Asset Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 135548063
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 1965797370
+      },
+      "filed_class": "Insurance Company"
+    },
+    {
+      "holder_name": "General Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 217085508
+      },
+      "filed_class": "Insurance Company"
+    },
+    {
+      "holder_name": "The New India Assurance Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 180822832
+      },
+      "filed_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS Trust (various Pension Funds)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 202305296
+      },
+      "filed_class": "Pension Fund"
+    },
+    {
+      "holder_name": "Specified Undertaking of the Unit Trust of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 974531427
+      },
+      "filed_class": "Other Financial Institutions"
+    },
+    {
+      "holder_name": "Tobacco Manufacturers (India) Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 2228495863
+      },
+      "filed_class": "Bodies Corporate (Foreign Direct Investment)"
+    },
+    {
+      "holder_name": "Myddleton Investment Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 486311940
+      },
+      "filed_class": "Bodies Corporate (Foreign Direct Investment)"
+    },
+    {
+      "holder_name": "Rothmans International Enterprises Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 154954890
+      },
+      "filed_class": "Bodies Corporate (Foreign Direct Investment)"
+    },
+    {
+      "holder_name": "GQG Partners Emerging Markets Equity Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 223800530
+      },
+      "filed_class": "FPI Category I"
+    },
+    {
+      "holder_name": "Goldman Sachs Trust II-Goldman Sachs GQG Partners International Opportunities Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Dec/2025": 177285000
+      },
+      "filed_class": "FPI Category I"
+    }
+  ],
+  "source_urls": [
+    "https://itcportal.com/content/dam/itc-corporate/pdfs/shareholding-pattern/shareholding-pattern-31-dec-25.pdf"
+  ],
+  "notes": "Most recent filed shareholding pattern available is for quarter ended 31 December 2025. Total SCRR basis (A+B+C2) excludes 3,104,065 depository receipt shares shown under C1; the filing's grand total including DRs is 12,528,959,771 which is NOT the percentage denominator. ITC has no promoter; Table II is empty.",
+  "promoter_reconciliation": "unchecked",
+  "promoter_drift": null,
+  "promoter_pct_filed": 0.0
+}

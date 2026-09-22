@@ -1,0 +1,20 @@
+{
+  "company": "NTPC Limited",
+  "isin": "INE733E01010",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2025-09-30",
+  "source_urls": [
+    "https://ntpc.co.in/sites/default/files/shareholding_pattrens/2026/Shareholding%20Pattern%20(1).pdf"
+  ],
+  "as_of": "2025-09-30",
+  "promoter_total_pct": 51.1,
+  "promoter_total_shares_filed": 4955346251,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "President Of India",
+      "shares_filed": 4955346251,
+      "class": "Central Government"
+    }
+  ]
+}

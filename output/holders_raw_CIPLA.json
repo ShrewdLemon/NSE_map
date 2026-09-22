@@ -1,0 +1,132 @@
+{
+  "company": "Cipla Limited",
+  "ticker": "CIPLA",
+  "isin": "INE059A01026",
+  "as_of": "2026-06-30",
+  "shares_scrr": 805418551.0,
+  "denominator_note": "stated denominator agrees with 14 holders to 0.067%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Yusuf Khwaja Hamied",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 150521183
+      },
+      "filed_class": "Foreign Promoter (NRI Director)"
+    },
+    {
+      "holder_name": "Sophie Ahmed",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 45982000
+      },
+      "filed_class": "Individuals/HUF (Indian Promoter)"
+    },
+    {
+      "holder_name": "M K Hamied",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 27844320
+      },
+      "filed_class": "Individuals/HUF (Indian Promoter)"
+    },
+    {
+      "holder_name": "Kamil Hamied",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 10939500
+      },
+      "filed_class": "Foreign Promoter (NRI Relative of Director)"
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited-HDFC Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 36089803
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "SBI Nifty 50 Equal Weight Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 26078195
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "ICICI Prudential Equity Savings Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 18982812
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Nippon Life India Trustee Ltd-A/C Nippon India Arb",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15766895
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "DSP Nifty 50 Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15292938
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Parag Parikh Arbitrage Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 15050570
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Government Pension Fund Global",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10431209
+      },
+      "filed_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "Vanguard Total International Stock Index Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 8394985
+      },
+      "filed_class": "FPI Cat I"
+    },
+    {
+      "holder_name": "LICI ULIP-Growth Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 78556781
+      },
+      "filed_class": "Insurance Company"
+    },
+    {
+      "holder_name": "NPS Trust A/C - LIC Pension Fund - UPS - CG Scheme",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13742847
+      },
+      "filed_class": "Pension Fund"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/268/CIPLA/latest/cipla-ltd/"
+  ],
+  "notes": "Trendlyne shows trendlyne lists 4 named promoter entities (Yusuf Khwaja Hamied, Sophie Ahmed, M K Hamied, Kamil Hamied) totaling 29.21% / 235,287,003 shares. Yusuf Khwaja Hamied is shown in trendlyne's foreign promoter section (NRI Director); Kamil Hamied also shown as foreign (NRI relative). The Indian promoter group 'Individuals / Hindu Undivided Family' is split between Sophie Ahmed (Indian) and M K Hamied (Indian). Earlier Cipla filings (2018, 2023) listed additional Hamied family members (Rumana, Samina, Shirin, Farida) \u2014 they do not appear in the Jun 2026 trendlyne view, suggesting their holdings were below the named-holders threshold or consolidated. FPI Cat I totals 19.61% / 157,965,980 shares across 754 holders (Government Pension Fund Global and Vanguard Total International Stock Index Fund are the only individually-named FPIs above 1%). Insurance totals 11.76% / 94,728,380 shares across 31 holders. Sum of all named promoter entries reconciles to 235,287,003 shares (29.21%). Total (A)+(B) computed by direct sum of trendlyne totals: 805,418,551 shares. The Sept 2024 OFS diluted Hamied-family holdings from 33.47% to 29.21%.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.00010305180908822201,
+  "promoter_pct_filed": 29.21
+}

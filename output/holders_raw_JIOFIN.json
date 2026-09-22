@@ -1,0 +1,404 @@
+{
+  "company": "Jio Financial Services Limited",
+  "ticker": "JIOFIN",
+  "isin": "INE758E01017",
+  "as_of": "2026-06-30",
+  "shares_scrr": 6603141623.0,
+  "denominator_note": "stated denominator agrees with 21 holders to 0.027%",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "K D Ambani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 15741322
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Anant M Ambani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8052021
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Isha M Ambani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8052021
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Mukesh D Ambani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8052020
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Nita M Ambani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8052021
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Akash M Ambani",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 8052021
+      },
+      "filed_class": "Individuals/HUF"
+    },
+    {
+      "holder_name": "Srichakra Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 739599829
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Karuna Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 545569460
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Tattvam Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 545569460
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Devarshi Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 545569460
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Jamnagar Utilities And Power Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 253464144
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Sikka Ports & Terminals Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 193500000
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Reliance Industries Holding Private Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 191015071
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Samarjit Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 124625274
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Shreeji Comtrade LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 14337965
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Shrikrishna Tradecom LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 14337965
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Svar Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 13589367
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Reliance Welfare Association",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 5344997
+      },
+      "filed_class": "Trust"
+    },
+    {
+      "holder_name": "Vasuprada Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1315925
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Kamalakar Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 213
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Kankhal Trading LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Narahari Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 213
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Neutron Enterprises Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1849
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Pavana Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Pinakin Commercials Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 108
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Pitambar Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Rishikesh Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Shripal Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Bhuvanesh Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Taran Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Trilokesh Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Vishatan Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Janardan Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Harinarayan Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Futura Commercials Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1814
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Exotic Officeinfra Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 27674
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Elakshi Commercials Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 108
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Chhatrabhuj Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Chakresh Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Chakradhar Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Chakradev Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 216
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Carat Holdings And Trading Co Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 10951
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Badri Commercials LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Ajitesh Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Adisesh Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "Abhayaprada Enterprises LLP",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 215
+      },
+      "filed_class": "Bodies Corporate"
+    },
+    {
+      "holder_name": "SBI Mutual Funds",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 83191090
+      },
+      "filed_class": "Mutual Fund"
+    },
+    {
+      "holder_name": "Life Insurance Corporation of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 453797523
+      },
+      "filed_class": "Insurance Company"
+    }
+  ],
+  "source_urls": [
+    "https://trendlyne.com/equity/share-holding/1564869/JIOFIN/latest/jio-financial-services-ltd/"
+  ],
+  "notes": "Trendlyne transcription of the SEBI LODR Reg. 31 shareholding pattern for quarter ended 30 June 2026. Promoter and promoter-group has a long tail of LLP and Pvt Ltd entities (~30 of them) with sub-share-count filings of 108 to 27,674 shares; included verbatim. Mutual Fund holdings 4.95% total - SBI Mutual Funds is the only scheme above 1% (the trendlyne row collapses the multiple SBI schemes to a single client-cum figure); 47 other schemes below 1%. FPI Cat I 10.84% (609 holders) and Cat II 0.37% (39 holders) - no individual named FPI above 1%. Other Foreign Institutions 0.00% category (7 holders, 23,956 shares total). Insurance Companies 7.49% - LIC is the only named insurer above 1%. Public 26.15% is dominated by retail individuals (18.33%) which is a category subtotal; no individual named public holder above 1% outside Mutual Funds and LIC. Total shares scrr reconciled; the three section subtotals add to 6,603,141,623 shares (\u2248100% of SCRR basis). Depository receipt shares disclosed as zero, not separately tracked.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": -7.278187202205715e-05,
+  "promoter_pct_filed": 49.13
+}
