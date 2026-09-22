@@ -1,0 +1,211 @@
+{
+  "company": "Eicher Motors Limited",
+  "isin": "INE066A01021",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-03-31",
+  "source_urls": [
+    "https://eicher.in/content/dam/eicher-motors/investor/shareholder's-information/shareholding-pattern/shareholding-pattern-as-on-31-03-26.pdf",
+    "https://www.screener.in/company/EICHERMOT/consolidated/"
+  ],
+  "as_of": "2026-03-31",
+  "promoter_total_pct": 49.06,
+  "promoter_total_shares_filed": 134564944,
+  "bonus_adjustment_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Simran Lal",
+      "shares_filed": 3152410,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Vikram Lal",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Anita Lal",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Raul Rai",
+      "shares_filed": 350,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Raghavendra Rai",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "Arjuna Lal Rai",
+      "shares_filed": 0,
+      "class": "Individuals/HUF"
+    },
+    {
+      "filed_name": "KARVANSARAI INVESTMENTS PRIVATE LIMITED",
+      "shares_filed": 151430,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EICHER GOODEARTH PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EICHER FOOTWEAR LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SHAMBHALA GOODEARTH PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "ROSABAGH PERFUMERIE PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "LEAN MANAGEMENT INSTITUTE OF INDIA",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "GOOD EARTH EDUCATION FOUNDATION",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "GOODEARTH DESIGN STUDIO PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "SST HOLIDAY HOMES PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NICOBAR DESIGN STUDIO PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "EICHER GOODEARTH INDIA PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "NICOBAR DESIGN PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "RUAR HIMALAYA PRIVATE LIMITED",
+      "shares_filed": 0,
+      "class": "Bodies Corporate"
+    },
+    {
+      "filed_name": "THE SIMRAN SIDDHARTHA TARA BENEFIT TRUST (Name of trustees are mentioned in Note-4)",
+      "shares_filed": 120306480,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "THE BRINDA LAL TRUST (Mrs Anita Lal, Mr. Vikram Lal & Mr. Ravi Prakash)",
+      "shares_filed": 4857070,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "THE LAL FAMILY TRUST (Mr Vikram Lal, Mrs Anita Lal, Ms Simran Lal, Mr Siddhartha Lal & Ms Tara Lal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "EICHER GOODEARTH TRUST (Mr. Vikram Lal & Mrs. Anita Lal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "SIDDHARTHA LAL TRUST (Mr. Vikram Lal, Mr. Siddhartha Lal & Mrs. Natasha Jamal)",
+      "shares_filed": 61470,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "TARA LAL TRUST (Mr. Vikram Lal, Ms. Tara Lal, Ms. Simran Lal & Ms. Mahima Puri)",
+      "shares_filed": 324,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "LEILA NOOR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "ZORAVAR LAL BENEFIT TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "GOODEARTH MASTER TRUST (Ms. Simran Lal, Mr. Siddhartha Lal & Ms. Tara Lal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "SIMRAN LAL TRUST (Ms. Simran Lal, Mr. Raul Rai & Ms. Tara Lal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "ZORAVAR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "LEILA NOOR LAL TRUST (Mr. Siddhartha Lal & Ms. Natasha Jamal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "RAGHAVENDRA RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "ARJUN RAI TRUST (Ms. Simran Lal & Mr. Raul Rai)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "NATASHA JAMAL TRUST (Mr. Siddhartha Lal, Ms. Natasha Jamal, Mrs. Sunita Jamal & Mr. Vikram Lal)",
+      "shares_filed": 0,
+      "class": "Trust"
+    },
+    {
+      "filed_name": "TARA LAL",
+      "shares_filed": 3149940,
+      "class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "SIDDHARTHA VIKRAM LAL",
+      "shares_filed": 2885470,
+      "class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "NATASHA JAMAL",
+      "shares_filed": 0,
+      "class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "ZORAVAR LAL",
+      "shares_filed": 0,
+      "class": "NRI/Foreign Individuals"
+    },
+    {
+      "filed_name": "LEILA NOOR LAL",
+      "shares_filed": 0,
+      "class": "NRI/Foreign Individuals"
+    }
+  ]
+}

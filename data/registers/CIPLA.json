@@ -1,0 +1,23 @@
+{
+  "ticker": "CIPLA",
+  "company": "Cipla Limited",
+  "sector": "Healthcare",
+  "isin": "INE248A01017",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": null,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 29.22,
+  "has_promoter": true,
+  "promoter_group": [],
+  "public_holders": [],
+  "source_urls": [
+    "https://www.screener.in/company/CIPLA/consolidated/"
+  ],
+  "notes": "Cinla is a Mumbai-based pharmaceutical company. Screener Jun 2026 column shows Promoters 29.22%, FIIs 20.20%, DIIs 34.35%, Government 0.28%, Public 15.93% (totals reconcile to ~100%). Detailed Table II promoter-group member names with individual share counts (e.g. Yusuf Khwaja Hamied, Mustafa Khwaja Hamied) and Table III named mutual fund / insurer / FPI shareholders above 1% were not retrieved from filings directly; only the older Sept 2022 PDF was located at cipla.com. The most recent June 2026 quarter ended PDF is referenced by screener as having been filed but its BSE/NSE URL was not directly retrieved during this run; total_shares_scrr is null because the exact denominator is not in the captured source.",
+  "ingested_on": "2026-09-22"
+}

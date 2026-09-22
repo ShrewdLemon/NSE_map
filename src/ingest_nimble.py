@@ -17,27 +17,55 @@ _MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
            "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 # Subtotal and section-heading rows a filing table carries alongside real
-# holders. Letting one through would double-count a whole category.
-# A table reference can sit on either side of the label - '(A)(1) Sub-Total'
-# and 'Sub-Total (A)(1)' are the same row. _TABLE_REF strips it from both ends
-# before the label itself is matched.
-# References chain with '+' in the grand-total row: 'Total (A)+(B)+(C)'.
-# A reference is a single letter (optionally with a digit, as in the SCRR
-# base '(A)+(B)+(C2)'), a roman numeral or a digit, so a real name
-# like 'Alpha Holdings (India) Pvt Ltd' is never mistaken for one.
+# holders. Letting one through double-counts a whole category: Bharti Airtel
+# came back with 'Mutual Funds (total)' at 12.14% sitting above the named funds
+# inside it, which pushed the named holders to 111% of the share base.
+#
+# A reference can sit on either side of the label - '(A)(1) Sub-Total' and
+# 'Sub-Total (A)(1)' are the same row - and a total may be marked by a suffix
+# instead: 'Mutual Funds (total)'. Both are stripped before the label itself is
+# matched. A reference is a single letter (optionally with a digit, as in the
+# SCRR base '(A)+(B)+(C2)'), a roman numeral or a digit, so a real name like
+# 'Alpha Holdings (India) Pvt Ltd' is never mistaken for one.
 _TABLE_REF = r"(?:[-\s+]*\((?:[A-Za-z]\d?|[ivx]+|\d)\))*"
+_TOTAL_WORD = r"(?:sub[\s-]?total|grand\s*total|total|aggregate|combined)"
+
+# The classes a shareholding pattern groups holders under. A row whose whole
+# name is one of these is the group's own line, never a shareholder.
+_CLASSES = r"""(?:
+    promoters?(?:\s*(?:and|&)\s*promoter\s*group)?
+  | public(?:\s*shareholding)?
+  | non[\s-]?promoter[\s-]?non[\s-]?public
+  | institutions?(?:\s*[-–]?\s*(?:domestic|foreign))?
+  | non[\s-]?institutions?
+  | (?:domestic|foreign)\s*institutional\s*investors?
+  | foreign\s*(?:portfolio|institutional)\s*investors?
+      (?:\s*[-–,]?\s*(?:category|cat\.?)?\s*[-–]?\s*(?:[ivx]+|[1-3]))?
+  | fiis?  | fpis?  | diis?
+  | mutual\s*funds?
+  | insurance\s*(?:companies|company)
+  | alternat(?:e|ive)\s*investment\s*funds?
+  | banks?  | financial\s*institutions?(?:\s*/\s*banks?)?
+  | nbfcs?(?:\s*registered\s*with\s*rbi)?
+  | (?:central|state)\s*government(?:\s*/\s*president\s*of\s*india)?s?
+  | bodies\s*corporate
+  | (?:resident\s*)?individuals?(?:\s*shareholders?)?(?:\s*holding.*)?
+  | huf  | trusts?  | clearing\s*members?
+  | foreign\s*nationals?  | non\s*resident\s*indians?  | nris?
+  | key\s*managerial\s*personnel  | directors\s*and\s*their\s*relatives
+  | employee\s*(?:benefit\s*)?trusts?  | shares\s*held\s*by\s*employee\s*trusts?
+  | any\s*other.*  | others?  | overseas\s*(?:corporate\s*)?bodies?
+  | qualified\s*institutional\s*buyers?  | investor\s*education.*
+)"""
+
 _AGGREGATE = re.compile(
-    r"^\s*" + _TABLE_REF + r"\s*(?:sub[\s-]?total|total|grand total|"
-    r"promoter(?:s)?(?: (?:and|&) promoter group)?|public(?: shareholding)?|"
-    r"non[\s-]?promoter[\s-]?non[\s-]?public|institutions?|non[\s-]?institutions?|"
-    r"foreign portfolio investors?|mutual funds?|insurance companies|"
-    r"bodies corporate|banks|alternate investment funds|"
-    r"individual shareholders?.*|any other.*|others?|nbfcs registered with rbi|"
-    r"central government.*|state government.*|shares held by employee trusts?|"
-    r"foreign institutional investors?|resident individuals?|"
-    r"clearing members?|trusts?|huf|foreign nationals?|"
-    r"key managerial personnel|directors and their relatives)"
-    r"\s*" + _TABLE_REF + r"\s*$", re.I)
+    r"^\s*" + _TABLE_REF + r"\s*"
+    r"(?:" + _TOTAL_WORD + r"\s*(?:of|for)?\s*)?"      # 'Total Mutual Funds'
+    r"(?:" + _CLASSES + r"|" + _TOTAL_WORD + r")"
+    r"\s*[-–,]?\s*"
+    r"(?:\(?\s*" + _TOTAL_WORD + r"\s*\)?)?"          # 'Mutual Funds (total)'
+    r"\s*" + _TABLE_REF + r"\s*$",
+    re.I | re.X)
 
 _NOISE_SUFFIX = re.compile(r"\s*[\(\[]\s*(?:nil|nan|n/?a|-{1,2})\s*[\)\]]\s*$", re.I)
 

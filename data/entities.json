@@ -645,6 +645,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "hdfc mutual fund hdfc technology fund": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "HDFC Mutual Fund - HDFC Technology Fund",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BHARTIARTL"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
     "hsbc mutual fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -701,6 +716,21 @@
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "RELIANCE"
+      ],
+      "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "icici prudential mutual fund icici prudential ni": {
+      "basis": "rule:amc+india",
+      "confidence": "high",
+      "country": "IN",
+      "display_name": "ICICI Prudential Mutual Fund - ICICI Prudential NI",
+      "entity_type": "asset_manager",
+      "evidence": "matched by deterministic name rule",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "BHARTIARTL"
       ],
       "source": null,
       "verified_on": "2026-09-22"

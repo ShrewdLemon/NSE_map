@@ -1,0 +1,23 @@
+{
+  "ticker": "BEL",
+  "company": "Bharat Electronics Limited",
+  "sector": "Capital Goods",
+  "isin": "INE263A01024",
+  "as_of": "2026-06-30",
+  "as_of_label": "Jun/2026",
+  "quarters": [
+    "Jun/2026"
+  ],
+  "shares_scrr": null,
+  "bonus_factor": 1,
+  "bonus_note": "Holder counts and filed counts come from the same shareholding pattern, so the bonus factor is 1.",
+  "promoter_pct": 51.14,
+  "has_promoter": true,
+  "promoter_group": [],
+  "public_holders": [],
+  "source_urls": [
+    "https://www.screener.in/company/BEL/consolidated/"
+  ],
+  "notes": "BEL is a public-sector undertaking (Government of India is the promoter; Central Government holds through the President of India/Ministry of Defence). Screener Jun 2026 column shows Promoters 51.14%, FIIs 18.02%, DIIs 21.02%, Public 9.82%. Detailed Table II promoter names with individual share counts (the Government of India entity) and Table III named public shareholders above 1% were not located in the retrieved corpus. The company's own filed PDF for the quarter ended 30 June 2026 was not directly retrievable from the BEL IR site/BSE/NSE filings list captured during this run.",
+  "ingested_on": "2026-09-22"
+}
