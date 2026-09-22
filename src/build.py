@@ -19,6 +19,16 @@ from write_output import write as write_xlsx
 
 ROOT = Path(__file__).resolve().parent.parent
 
+# Inverse of the decision table, for caching what the rules settle.
+_TYPE_FOR_CATEGORY = {
+    "Domestic AMC": "asset_manager", "Foreign AMC": "asset_manager",
+    "Domestic Insurance": "insurer", "Foreign Insurance": "insurer",
+}
+_VEHICLE_FOR_CATEGORY = {
+    "Domestic AMC": "managed_funds", "Foreign AMC": "managed_funds",
+    "Domestic Insurance": "insurance_float", "Foreign Insurance": "insurance_float",
+}
+
 
 def build(holders_path, registry_path, ticker, out_stem):
     data = json.loads(Path(holders_path).read_text())
@@ -60,9 +70,19 @@ def build(holders_path, registry_path, ticker, out_stem):
 
         r = rules.classify(name, normalize(name), btype)
         if r:
-            row.update(category=r[0], basis=r[2], confidence=r[1],
-                       country="IN" if "Domestic" in r[0] else None,
+            cat, conf, basis = r
+            row.update(category=cat, basis=basis, confidence=conf,
+                       country="IN" if "Domestic" in cat else None,
                        reason="name-based rule", source="deterministic rule")
+            # Individuals are people, not entities - nothing worth caching.
+            if btype != "Individual":
+                em.upsert(master, name,
+                          country="IN" if "Domestic" in cat else None,
+                          entity_type=_TYPE_FOR_CATEGORY.get(cat),
+                          holding_vehicle=_VEHICLE_FOR_CATEGORY.get(cat),
+                          confidence=conf, basis=basis,
+                          evidence="matched by deterministic name rule",
+                          ticker=ticker)
         else:
             row.update(category=None, basis="unresolved", confidence="low",
                        reason="no filing match, no cached entity, no rule",
@@ -86,6 +106,7 @@ def build(holders_path, registry_path, ticker, out_stem):
                           "REVIEW" if r["needs_review"] else "", r.get("source")])
 
     (ROOT / "output" / f"{out_stem}.json").write_text(json.dumps(rows, indent=2))
+    em.save(master)
     return rows, promoter_issues
 
 
