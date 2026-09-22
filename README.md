@@ -151,6 +151,55 @@ both a share count and a percentage, and overrides the stated figure only when
 at least three of them disagree by more than half a percent. One stale row
 cannot move it.
 
+## What the numbers are checked against
+
+Reading fifty filings by machine produces wrong numbers sometimes. The point
+of the checks below is that a wrong number should be visible rather than
+plausible.
+
+**The promoter rows against the filed percentage.** Every company's filed
+promoter percentage is an independent check on the promoter rows parsed out of
+its filing: multiply it by the share base and it should equal their sum. Each
+company carries the verdict - `reconciled` (within 1%), `close` (within 10%),
+`unreconciled`, or `unchecked` - on the Provenance sheet. A partial promoter
+table is never presented as a complete one.
+
+**The share base against the holders.** `shares_scrr` is a hint, not gospel.
+The real denominator is recovered from holders that publish both a count and a
+percentage, and the stated figure is overridden only when at least three of
+them disagree by more than half a percent, so one stale row cannot move it.
+
+**Each holding against its own percentage.** A count that exceeds the share
+base is impossible, and there the percentage wins: SBI Life came back with
+Government of Singapore holding 212% of the company. Where the two merely
+disagree the filed count stands and the row is flagged, because either field
+can be the wrong one - in that same filing SBI Mutual Fund's count is fine and
+its percentage looks like 12.13 with a digit dropped. Guessing which to trust
+would be inventing data.
+
+The tolerance scales with the rounding in the percentage: a holding filed as
+0.02% carries half a basis point of slack, which is a quarter of the figure.
+
+## Known limits
+
+**A shareholding pattern names every promoter but only public holders above
+1%.** The long tail of smaller funds and FPIs is not in the filing, so named
+holders cover well under 100% of each company's shares. The Provenance sheet
+gives the covered fraction per company. A Bloomberg `OWN` export names that
+tail, and the pipeline ingests one unchanged.
+
+**The two promoter matchers are not independent here.** For a company built
+from its filing, the register and the promoter registry are cut from the same
+document, so the numeric matcher confirms arithmetic rather than corroborating
+a second source. Only a separately sourced register - the Anand Rathi
+Bloomberg export, for instance - makes the two genuinely independent.
+
+**Layouts differ per company.** SEBI fixes the tables, not the column order or
+the PDF's internal text order. Columns are read by repetition rather than
+position for that reason, and a filing whose captions and rows are interleaved
+by PDF extraction can still defeat it - which is what the reconciliation
+verdict is for.
+
 ## Result for ANANDRATHI (Q2/2025 - Q3/2026)
 
 All 102 holders classified, none left unresolved.
