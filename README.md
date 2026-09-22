@@ -104,3 +104,34 @@ Outputs land in `output/` as `.xlsx` (Book1 layout), `.csv`, and `.json`.
    Bloomberg counts are adjusted and the filing is not.
 3. Run `build.py`. Names already in the entity master resolve for free;
    only genuinely new entities need research.
+
+## Result for ANANDRATHI (Q2/2025 - Q3/2026)
+
+All 102 holders classified, none left unresolved.
+
+| Basis | Holders |
+|---|---|
+| Web-verified entity facts | 39 |
+| Deterministic name rules | 38 |
+| Filed shareholding pattern (promoter) | 17 |
+| Bloomberg holder type (individuals) | 8 |
+
+11 rows carry `REVIEW` — contestable calls surfaced rather than buried. The
+`Bank` bucket is empty, which is a direct consequence of the holding-vehicle
+ruling: every banking group on this register holds through its
+asset-management arm rather than on its own book.
+
+Two corrections worth noting, both caught by cross-checking automated research
+against primary sources:
+
+* Web research returned `managed_funds` for **Rawal Family Trust**, which would
+  have made a private family trust a Domestic AMC. The shareholding pattern
+  lists it under Public > Non-Institutions > Trusts, "acting through Rakesh
+  Rawal".
+* Web research returned `AU / bank` for **WBC Holdings LP**, reading the WBC
+  ticker as Westpac. Bloomberg's own profile (1307537D:US) describes it as a
+  US investment-management and broker-dealer partnership.
+
+**Amit Rathi** is `Individual`, not `Promoter`: he was reclassified from
+Promoter Group to Public with effect from 23 May 2025, before the window
+opens, which exactly explains the 47.29% -> 42.71% drop in promoter holding.

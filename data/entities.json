@@ -30,6 +30,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "alliancebernstein": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "AllianceBernstein Holding LP",
+      "entity_type": "asset_manager",
+      "evidence": "10-K filing of AllianceBernstein Holding L.P. (Delaware LP) states 'Delaware 13-3434400 (State or other jurisdiction of incorporation)' and lists 1345 Avenue of the Americas, New York, NY 10105, with the firm operating Institutional, Retail, Private Wealth, and Bernstein Research Services \u2014 research and diversified investment management. Indian equity stakes are held in AB managed funds and SMAs.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://alliancebernsteinholdinglp.gcs-web.com/static-files/4a5bd53f-3daf-46c2-b7ed-58fd389cd163.pdf",
+      "verified_on": "2026-09-22"
+    },
     "alphagrep investment mgmt india": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -43,6 +58,21 @@
         "ANANDRATHI"
       ],
       "source": null,
+      "verified_on": "2026-09-22"
+    },
+    "american century cos": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "American Century Cos Inc",
+      "entity_type": "asset_manager",
+      "evidence": "Wikipedia and the American Century 'About Us' page describe American Century Investments as a US asset manager headquartered in Kansas City, Missouri. The Stowers family (and the Stowers Institute) control the firm through closely held entities. Indian equities sit in its managed mutual fund/ETF vehicles.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/American_Century_Investments",
       "verified_on": "2026-09-22"
     },
     "anandrathi housing fin": {
@@ -180,6 +210,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "blackrock": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Blackrock Inc",
+      "entity_type": "asset_manager",
+      "evidence": "BlackRock Inc is a US-domiciled global asset manager (headquartered New York). A 2008 SEC 10-K confirms US-domestication as the corporate parent of the iShares ETF complex and BlackRock-branded mutual funds. Indian equity stakes are held in BlackRock-managed funds.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm",
+      "verified_on": "2026-09-22"
+    },
     "canadian imperial bank of commerce": {
       "basis": "web",
       "confidence": "medium",
@@ -242,32 +287,47 @@
     },
     "credit agricole": {
       "basis": "web",
-      "confidence": "high",
+      "confidence": "medium",
       "country": "FR",
       "display_name": "Credit Agricole Group",
       "entity_type": "bank",
-      "evidence": "Credit Agricole S.A. owns 80% of Amundi, Europe's largest asset manager and a subsidiary of the Credit Agricole group. Foreign equity including India is held via Amundi-managed funds/accounts.",
+      "evidence": "Credit Agricole's asset manager Amundi is a separately listed company, so a position Bloomberg books under 'Credit Agricole Group' rather than Amundi may sit on the bank's own book. At 190 shares the vehicle cannot be established with confidence; Bank is the alternative.",
       "first_seen": "2026-09-22",
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
       ],
-      "source": "https://about.amundi.com/article/credit-agricole-sa-has-entered-exclusive-negotiations-societe-generale",
+      "source": "https://en.wikipedia.org/wiki/Amundi",
       "verified_on": "2026-09-22"
     },
     "deutsche bank": {
       "basis": "web",
-      "confidence": "high",
+      "confidence": "medium",
       "country": "DE",
       "display_name": "Deutsche Bank AG",
       "entity_type": "bank",
-      "evidence": "German global bank (DBKGn.DE). Its investment arm DWS Group is one of Europe's biggest fund managers; DWS is acquiring 40% in a Nippon Life India Asset Management unit, confirming Indian equity exposure runs through DWS-managed funds.",
+      "evidence": "Deutsche Bank's asset manager DWS Group is a separately listed company, so a position Bloomberg books under 'Deutsche Bank AG' rather than DWS may sit on the bank's own book. At 188 shares the vehicle cannot be established with confidence; Bank is the alternative.",
       "first_seen": "2026-09-22",
       "holding_vehicle": "managed_funds",
       "seen_in": [
         "ANANDRATHI"
       ],
-      "source": "https://www.reuters.com/world/india/deutsche-banks-dws-buy-40-stake-nippon-life-india-asset-management-2025-11-13",
+      "source": "https://en.wikipedia.org/wiki/DWS_Group",
+      "verified_on": "2026-09-22"
+    },
+    "driehaus capital management": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Driehaus Capital Management LLC",
+      "entity_type": "asset_manager",
+      "evidence": "CBInsights and fintrx list Driehaus Capital Management LLC as a Chicago-based active equity/growth manager (Boutique). Holdings appear in its managed mutual-fund range (Driehaus Global Fund, Driehaus International Developed Equity, etc.).",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.cbinsights.com/company/driehaus-capital-management",
       "verified_on": "2026-09-22"
     },
     "dsp asset managers": {
@@ -360,6 +420,21 @@
       "source": "https://www.flexshares.com/us/en/individual/press",
       "verified_on": "2026-09-22"
     },
+    "fmr": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "FMR LLC",
+      "entity_type": "asset_manager",
+      "evidence": "WikiCorporates and Encyclopedia.com both name FMR LLC as the parent of Fidelity Investments, headquartered 82 Devonshire Street, Boston, MA 02109, US. Fil Ltd (Fidelity International) is a separately-incorporated Bermuda entity, NOT a subsidiary of FMR LLC, and serves non-North-American clients; Holdings of an Indian listed equity attributed to 'FMR LLC' sit in Fidelity's North American managed funds.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.wikicorporates.org/wiki/Fidelity_Group",
+      "verified_on": "2026-09-22"
+    },
     "franklin templeton": {
       "basis": "web",
       "confidence": "high",
@@ -373,6 +448,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.ipqwery.com/ipowner/en/owner/ip/485181-franklin-resources-inc.html",
+      "verified_on": "2026-09-22"
+    },
+    "goldman sachs": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Goldman Sachs Group Inc/The",
+      "entity_type": "asset_manager",
+      "evidence": "GSAM-published fund factsheet for the Goldman Sachs India Equity Portfolio confirms Goldman Sachs Asset Management \u2014 the asset-management arm of The Goldman Sachs Group Inc \u2014 runs managed Indian-equity portfolios. For a Bloomberg shareholder register, the parent name aggregates AM-arm holdings, NOT securities held on the bank's own book.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.gsam.com/content/dam/gsam/pdfs/international/en/fund-literature/monthly-factsheet-goldman-sachs-india-equity-portfolio-class-i-shares.pdf",
       "verified_on": "2026-09-22"
     },
     "groww asset management": {
@@ -540,6 +630,21 @@
       "source": "https://en.wikipedia.org/wiki/Legal_%26_General",
       "verified_on": "2026-09-22"
     },
+    "mirae asset financial": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "KR",
+      "display_name": "Mirae Asset Financial Group",
+      "entity_type": "asset_manager",
+      "evidence": "Wikipedia article on Mirae Asset Financial Group identifies it as a privately-held Korean financial conglomerate headquartered in Seoul, South Korea (key affiliates: Mirae Asset Global Investments, Mirae Asset Securities, Mirae Asset Life Insurance, Mirae Asset Venture Investment). The Korean parent runs the global asset-management business; the Indian arm is a separate entity. Bloomberg aggregates the group's global managed-fund activity under the parent.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group",
+      "verified_on": "2026-09-22"
+    },
     "motilal oswal asset management": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -568,6 +673,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.tofler.in/munix-india-private-limited/company/U00000PB2003PTC025986",
+      "verified_on": "2026-09-22"
+    },
+    "national bank of canada": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "CA",
+      "display_name": "National Bank of Canada",
+      "entity_type": "bank",
+      "evidence": "National Bank of Canada (NBC.ca) hosts an NBI Wealth Management and NBI Personal Savings & Investments page, confirming that the bank's asset-management arm \u2014 National Bank Investments \u2014 manages mutual fund and ETF products. For an Indian listed-equity shareholder register, the legal holder name aggregates the bank group's activities through NBI managed vehicles.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.nbc.ca/wealth-management/trust/institutional-services.html",
       "verified_on": "2026-09-22"
     },
     "nationwide fund advisors": {
@@ -780,6 +900,21 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "state street": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "State Street Corp",
+      "entity_type": "asset_manager",
+      "evidence": "US News profile of SPDR/State Street Global Advisors describes SSGA as the asset-management subsidiary of State Street Corp that runs the SPDR ETF family and other managed funds. For an Indian listed-equity shareholder register, the stake attributed to State Street is held through SSGA-managed ETFs/funds, not the bank's own banking book and not in a pure custody record.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://money.usnews.com/funds/spdr/state-street-global-advisors/overview",
+      "verified_on": "2026-09-22"
+    },
     "suhas gupta family trust": {
       "basis": "web",
       "confidence": "high",
@@ -808,6 +943,21 @@
         "ANANDRATHI"
       ],
       "source": "https://en.wikipedia.org/wiki/Sun_Life_Financial",
+      "verified_on": "2026-09-22"
+    },
+    "taiwan securities": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "TW",
+      "display_name": "Taiwan Securities Co Ltd",
+      "entity_type": "broker",
+      "evidence": "Bloomberg company profile page lists 'Taiwan Securities Co Ltd' on Taiwan's TPE (trading as 6010 TT). It is a Taiwanese securities / brokerage firm whose Indian-equity stake is a proprietary / trading-book own_balance_sheet position.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.bloomberg.com/profile/company/6010:TT",
       "verified_on": "2026-09-22"
     },
     "tata aia life insurance": {
@@ -840,6 +990,51 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "teachers insurance and annuity association of america": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "US",
+      "display_name": "Teachers Insurance & Annuity Association of America",
+      "entity_type": "pension_fund",
+      "evidence": "TIAA is legally a life insurer but its business is retirement and pension provision for academic and non-profit employees; web research independently returned holding_vehicle=pension_assets. Placed in the new Foreign Pension Fund category per the agreed taxonomy extension, which was added with TIAA explicitly in mind. Foreign Insurance is the alternative if legal form is the deciding axis.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "pension_assets",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.tiaa.org/public/about-tiaa",
+      "verified_on": "2026-09-22"
+    },
+    "thrivent financial for lutherans": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Thrivent Financial for Lutherans",
+      "entity_type": "insurer",
+      "evidence": "Wikipedia infobox lists Thrivent's Type as 'Not-for-profit membership organization' and Legal Status as 'Fraternal benefit society' / 'Not-for-profit organization', with principal offices in Minneapolis, MN and Appleton, WI. Fraternal benefit societies are organised as life-insurance entities; equity stakes sit in the fraternal insurer's insurance-float general account, not a public-asset-manager fund complex.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "insurance_float",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Thrivent",
+      "verified_on": "2026-09-22"
+    },
+    "trust investment advisors": {
+      "basis": "web",
+      "confidence": "medium",
+      "country": "IN",
+      "display_name": "Trust Investment Advisors Pvt Ltd",
+      "entity_type": "broker",
+      "evidence": "Indian debt-capital-markets house and broker; Trust Mutual Fund is run by the separate Trust Asset Management Pvt Ltd. Confidence lowered to medium because Bloomberg tags this row 'Multiple Portfolios', which normally indicates pooled fund holdings and would point to Domestic AMC instead.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "own_balance_sheet",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.trustgroup.in/",
+      "verified_on": "2026-09-22"
+    },
     "union mutual fund": {
       "basis": "rule:amc+india",
       "confidence": "high",
@@ -870,6 +1065,51 @@
       "source": null,
       "verified_on": "2026-09-22"
     },
+    "vanguard": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Vanguard Group Inc/The",
+      "entity_type": "asset_manager",
+      "evidence": "Wikidata (Q849363) and Wikipedia both list The Vanguard Group as a US-domiciled mutual-fund company registered in Pennsylvania; the corpus includes an EBSCO research entry that confirms it is the world's second-largest asset manager and an investopedia profile reiterating the US-domiciled mutual-fund structure. Indian equity holdings sit in Vanguard-managed funds and ETFs.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q849363",
+      "verified_on": "2026-09-22"
+    },
+    "victory capital management": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "Victory Capital Management Inc",
+      "entity_type": "asset_manager",
+      "evidence": "Wikipedia describes Victory Capital Holdings (the public parent, with affiliate Victory Capital Management) as a US financial-services company headquartered in San Antonio, Texas, focused on investment management with roots in Ohio's Cleveland Trust. Indian equity holdings sit in its multi-affiliate managed-fund platform.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Victory_Capital",
+      "verified_on": "2026-09-22"
+    },
+    "wbc": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "WBC Holdings LP",
+      "entity_type": "asset_manager",
+      "evidence": "Bloomberg's own company profile (ticker 1307537D:US) describes WBC Holdings L.P. as providing investment management and broker-dealer services to institutional and individual clients through its subsidiaries, domiciled in the United States, founded 2008-11-21. Corrects an automated result that read the WBC ticker as Westpac and returned AU/bank.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://www.bloomberg.com/profile/company/1307537D:US",
+      "verified_on": "2026-09-22"
+    },
     "wilshire advisors": {
       "basis": "web",
       "confidence": "high",
@@ -883,6 +1123,21 @@
         "ANANDRATHI"
       ],
       "source": "https://www.wilshire.com",
+      "verified_on": "2026-09-22"
+    },
+    "wisdomtree": {
+      "basis": "web",
+      "confidence": "high",
+      "country": "US",
+      "display_name": "WisdomTree Inc",
+      "entity_type": "asset_manager",
+      "evidence": "Wikipedia and SEC filings (S-1/dpos) describe WisdomTree Investments Inc. as a US-domiciled (NY) ETF sponsor sponsoring a family of exchange-traded funds. The Bloomberg-aggregated Indian equity stake reflects WisdomTree's ETF/managed-fund vehicles.",
+      "first_seen": "2026-09-22",
+      "holding_vehicle": "managed_funds",
+      "seen_in": [
+        "ANANDRATHI"
+      ],
+      "source": "https://en.wikipedia.org/wiki/WisdomTree_Investments",
       "verified_on": "2026-09-22"
     },
     "zerodha asset management": {

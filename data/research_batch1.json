@@ -1,0 +1,182 @@
+[
+  {
+    "evidence": "Wikidata (Q849363) and Wikipedia both list The Vanguard Group as a US-domiciled mutual-fund company registered in Pennsylvania; the corpus includes an EBSCO research entry that confirms it is the world's second-largest asset manager and an investopedia profile reiterating the US-domiciled mutual-fund structure. Indian equity holdings sit in Vanguard-managed funds and ETFs.",
+    "confidence": "high",
+    "source_url": "https://www.wikidata.org/wiki/Q849363",
+    "holder_name": "Vanguard Group Inc/The",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Anand Rathi Wealth RHP filed with NSE lists 'Azeez Family Trust' alongside 'Feroze Azeez ... Joint CEO' of Anand Rathi Wealth Limited; the same RHP distinguishes it from any AMC/fund scheme. Combined with Anand Rathi Wealth's leadership page confirming Feroze Azeez is Joint CEO, this is a private Indian family trust tied to the Azeez family, NOT a mutual fund or AMC.",
+    "confidence": "high",
+    "source_url": "https://archives.nseindia.com/content/equities/IPO/RHP-ARWL.pdf",
+    "holder_name": "Azeez Family Trust",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "private_family_trust",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "IndiaMART 'About Us' page lists Echjay Forging Industries Pvt Ltd, Specialising in upset/closed-die forgings with fully integrated Mumbai plant, with CIN U28900MH2005PTC155047, classifying the firm as a manufacturer/operating company. Trendlyne's Anand Rathi Wealth shareholding page lists it as Indian 'Bodies Corporate'. The stake is a proprietorial/treasury holding.",
+    "confidence": "high",
+    "source_url": "https://www.indiamart.com/echjay-forging-industries/aboutus.html",
+    "holder_name": "Echjay Industries Pvt Ltd",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "operating_company",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "BlackRock Inc is a US-domiciled global asset manager (headquartered New York). A 2008 SEC 10-K confirms US-domestication as the corporate parent of the iShares ETF complex and BlackRock-branded mutual funds. Indian equity stakes are held in BlackRock-managed funds.",
+    "confidence": "high",
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm",
+    "holder_name": "Blackrock Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Norges Bank.no states 'Norges Bank manages the portfolios of the Government Pension Fund Global and the Bank's own foreign exchange reserves.' NBIM.no says NBIM is the arm that runs the sovereign pension fund. The Bloomberg-aggregated name 'Norges Bank' (the central bank itself, NOT 'Norges Bank Investment Management') holds Indian equity through the Government's Pension Fund Global, whose assets are sovereign assets under NBIM management.",
+    "confidence": "high",
+    "source_url": "https://www.nbim.no/en/about-us/norges-bank-investment-management",
+    "holder_name": "Norges Bank",
+    "holding_vehicle": "sovereign_assets",
+    "legal_entity_type": "sovereign_wealth_fund",
+    "country_of_incorporation": "NO"
+  },
+  {
+    "evidence": "Wikipedia article on Mirae Asset Financial Group identifies it as a privately-held Korean financial conglomerate headquartered in Seoul, South Korea (key affiliates: Mirae Asset Global Investments, Mirae Asset Securities, Mirae Asset Life Insurance, Mirae Asset Venture Investment). The Korean parent runs the global asset-management business; the Indian arm is a separate entity. Bloomberg aggregates the group's global managed-fund activity under the parent.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group",
+    "holder_name": "Mirae Asset Financial Group",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "KR"
+  },
+  {
+    "evidence": "Wikipedia and the American Century 'About Us' page describe American Century Investments as a US asset manager headquartered in Kansas City, Missouri. The Stowers family (and the Stowers Institute) control the firm through closely held entities. Indian equities sit in its managed mutual fund/ETF vehicles.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/American_Century_Investments",
+    "holder_name": "American Century Cos Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "GSAM-published fund factsheet for the Goldman Sachs India Equity Portfolio confirms Goldman Sachs Asset Management \u2014 the asset-management arm of The Goldman Sachs Group Inc \u2014 runs managed Indian-equity portfolios. For a Bloomberg shareholder register, the parent name aggregates AM-arm holdings, NOT securities held on the bank's own book.",
+    "confidence": "high",
+    "source_url": "https://www.gsam.com/content/dam/gsam/pdfs/international/en/fund-literature/monthly-factsheet-goldman-sachs-india-equity-portfolio-class-i-shares.pdf",
+    "holder_name": "Goldman Sachs Group Inc/The",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Tracxn profile lists Trust Investment Advisors Pvt Ltd (CIN U67190MH2006PTC162464; ROC Mumbai) as a corporate advisory / investment-bank firm, NOT an AMC. The associated 'Trust Mutual Fund' brand and 'Trust Asset Management Pvt Ltd' are separate sister entities; Trust Investment Advisors itself operates as a corporate-advisory broker. Indian equity stakes therefore sit on its proprietary / own_balance_sheet, not in pooled managed funds.",
+    "confidence": "high",
+    "source_url": "https://tracxn.com/d/legal-entities/india/trust-investment-advisors-private-limited/",
+    "holder_name": "Trust Investment Advisors Pvt Ltd",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "broker",
+    "country_of_incorporation": "IN"
+  },
+  {
+    "evidence": "ASX:WBC is the ticker for Westpac Banking Corporation (Headquarters Sydney, Australia) per Bloomberg and TradingView. WBC Holdings LP appears to be the Westpac group's US-style LP holding vehicle used to register shareholdings on Bloomberg; the parent entity remains Australian and is a bank. (Australian bank groups commonly maintain Delaware LPs for capital-markets access, hence the LP suffix.) Stake therefore sits with the bank group on its own book, not in a client-managed fund.",
+    "confidence": "medium",
+    "source_url": "https://www.tradingview.com/symbols/ASX-WBC/",
+    "holder_name": "WBC Holdings LP",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "AU"
+  },
+  {
+    "evidence": "Wikipedia describes Victory Capital Holdings (the public parent, with affiliate Victory Capital Management) as a US financial-services company headquartered in San Antonio, Texas, focused on investment management with roots in Ohio's Cleveland Trust. Indian equity holdings sit in its multi-affiliate managed-fund platform.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Victory_Capital",
+    "holder_name": "Victory Capital Management Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "CBInsights and fintrx list Driehaus Capital Management LLC as a Chicago-based active equity/growth manager (Boutique). Holdings appear in its managed mutual-fund range (Driehaus Global Fund, Driehaus International Developed Equity, etc.).",
+    "confidence": "high",
+    "source_url": "https://www.cbinsights.com/company/driehaus-capital-management",
+    "holder_name": "Driehaus Capital Management LLC",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Wikipedia and SEC filings (S-1/dpos) describe WisdomTree Investments Inc. as a US-domiciled (NY) ETF sponsor sponsoring a family of exchange-traded funds. The Bloomberg-aggregated Indian equity stake reflects WisdomTree's ETF/managed-fund vehicles.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/WisdomTree_Investments",
+    "holder_name": "WisdomTree Inc",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Encyclopedia.com states that TIAA was 'incorporated as a nonprofit life insurance company under New York state law' in 1918. Wikipedia confirms the same legal entity type (life-insurance company) with insurance subsidiaries (Nuveen, etc.). Universal Asset Owners says TIAA's general account is 'a long-duration, liability-matched balance sheet' whose job is to back lifetime-income annuities \u2014 so the legal entity type is insurer, and the equity stake is functionally held to back retirement/pension liabilities (pension_assets).",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/TIAA",
+    "holder_name": "Teachers Insurance & Annuity Association of America",
+    "holding_vehicle": "pension_assets",
+    "legal_entity_type": "insurer",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "US News profile of SPDR/State Street Global Advisors describes SSGA as the asset-management subsidiary of State Street Corp that runs the SPDR ETF family and other managed funds. For an Indian listed-equity shareholder register, the stake attributed to State Street is held through SSGA-managed ETFs/funds, not the bank's own banking book and not in a pure custody record.",
+    "confidence": "high",
+    "source_url": "https://money.usnews.com/funds/spdr/state-street-global-advisors/overview",
+    "holder_name": "State Street Corp",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "WikiCorporates and Encyclopedia.com both name FMR LLC as the parent of Fidelity Investments, headquartered 82 Devonshire Street, Boston, MA 02109, US. Fil Ltd (Fidelity International) is a separately-incorporated Bermuda entity, NOT a subsidiary of FMR LLC, and serves non-North-American clients; Holdings of an Indian listed equity attributed to 'FMR LLC' sit in Fidelity's North American managed funds.",
+    "confidence": "high",
+    "source_url": "https://www.wikicorporates.org/wiki/Fidelity_Group",
+    "holder_name": "FMR LLC",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "10-K filing of AllianceBernstein Holding L.P. (Delaware LP) states 'Delaware 13-3434400 (State or other jurisdiction of incorporation)' and lists 1345 Avenue of the Americas, New York, NY 10105, with the firm operating Institutional, Retail, Private Wealth, and Bernstein Research Services \u2014 research and diversified investment management. Indian equity stakes are held in AB managed funds and SMAs.",
+    "confidence": "high",
+    "source_url": "https://alliancebernsteinholdinglp.gcs-web.com/static-files/4a5bd53f-3daf-46c2-b7ed-58fd389cd163.pdf",
+    "holder_name": "AllianceBernstein Holding LP",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "asset_manager",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "National Bank of Canada (NBC.ca) hosts an NBI Wealth Management and NBI Personal Savings & Investments page, confirming that the bank's asset-management arm \u2014 National Bank Investments \u2014 manages mutual fund and ETF products. For an Indian listed-equity shareholder register, the legal holder name aggregates the bank group's activities through NBI managed vehicles.",
+    "confidence": "medium",
+    "source_url": "https://www.nbc.ca/wealth-management/trust/institutional-services.html",
+    "holder_name": "National Bank of Canada",
+    "holding_vehicle": "managed_funds",
+    "legal_entity_type": "bank",
+    "country_of_incorporation": "CA"
+  },
+  {
+    "evidence": "Wikipedia infobox lists Thrivent's Type as 'Not-for-profit membership organization' and Legal Status as 'Fraternal benefit society' / 'Not-for-profit organization', with principal offices in Minneapolis, MN and Appleton, WI. Fraternal benefit societies are organised as life-insurance entities; equity stakes sit in the fraternal insurer's insurance-float general account, not a public-asset-manager fund complex.",
+    "confidence": "high",
+    "source_url": "https://en.wikipedia.org/wiki/Thrivent",
+    "holder_name": "Thrivent Financial for Lutherans",
+    "holding_vehicle": "insurance_float",
+    "legal_entity_type": "insurer",
+    "country_of_incorporation": "US"
+  },
+  {
+    "evidence": "Bloomberg company profile page lists 'Taiwan Securities Co Ltd' on Taiwan's TPE (trading as 6010 TT). It is a Taiwanese securities / brokerage firm whose Indian-equity stake is a proprietary / trading-book own_balance_sheet position.",
+    "confidence": "high",
+    "source_url": "https://www.bloomberg.com/profile/company/6010:TT",
+    "holder_name": "Taiwan Securities Co Ltd",
+    "holding_vehicle": "own_balance_sheet",
+    "legal_entity_type": "broker",
+    "country_of_incorporation": "TW"
+  }
+]
