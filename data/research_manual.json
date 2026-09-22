@@ -52,5 +52,50 @@
     "confidence": "medium",
     "evidence": "The holding is reported as 'Government Pension Fund Global' - Norway's sovereign fund, managed by Norges Bank Investment Management, not the central bank's own reserves. Placed in the new Foreign Pension Fund category per the agreed taxonomy extension; Foreign Government is the defensible alternative if sovereign ownership is the more important axis.",
     "source_url": "https://www.investing.com/equities/anand-rathi-wealth-ownership"
+  },
+  {
+    "holder_name": "Teachers Insurance & Annuity Association of America",
+    "country_of_incorporation": "US",
+    "legal_entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "confidence": "medium",
+    "evidence": "TIAA is legally a life insurer but its business is retirement and pension provision for academic and non-profit employees; web research independently returned holding_vehicle=pension_assets. Placed in the new Foreign Pension Fund category per the agreed taxonomy extension, which was added with TIAA explicitly in mind. Foreign Insurance is the alternative if legal form is the deciding axis.",
+    "source_url": "https://www.tiaa.org/public/about-tiaa"
+  },
+  {
+    "holder_name": "Trust Investment Advisors Pvt Ltd",
+    "country_of_incorporation": "IN",
+    "legal_entity_type": "broker",
+    "holding_vehicle": "own_balance_sheet",
+    "confidence": "medium",
+    "evidence": "Indian debt-capital-markets house and broker; Trust Mutual Fund is run by the separate Trust Asset Management Pvt Ltd. Confidence lowered to medium because Bloomberg tags this row 'Multiple Portfolios', which normally indicates pooled fund holdings and would point to Domestic AMC instead.",
+    "source_url": "https://www.trustgroup.in/"
+  },
+  {
+    "holder_name": "Deutsche Bank AG",
+    "country_of_incorporation": "DE",
+    "legal_entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "confidence": "medium",
+    "evidence": "Deutsche Bank's asset manager DWS Group is a separately listed company, so a position Bloomberg books under 'Deutsche Bank AG' rather than DWS may sit on the bank's own book. At 188 shares the vehicle cannot be established with confidence; Bank is the alternative.",
+    "source_url": "https://en.wikipedia.org/wiki/DWS_Group"
+  },
+  {
+    "holder_name": "Credit Agricole Group",
+    "country_of_incorporation": "FR",
+    "legal_entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "confidence": "medium",
+    "evidence": "Credit Agricole's asset manager Amundi is a separately listed company, so a position Bloomberg books under 'Credit Agricole Group' rather than Amundi may sit on the bank's own book. At 190 shares the vehicle cannot be established with confidence; Bank is the alternative.",
+    "source_url": "https://en.wikipedia.org/wiki/Amundi"
+  },
+  {
+    "holder_name": "WBC Holdings LP",
+    "country_of_incorporation": "US",
+    "legal_entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "confidence": "high",
+    "evidence": "Bloomberg's own company profile (ticker 1307537D:US) describes WBC Holdings L.P. as providing investment management and broker-dealer services to institutional and individual clients through its subsidiaries, domiciled in the United States, founded 2008-11-21. Corrects an automated result that read the WBC ticker as Westpac and returned AU/bank.",
+    "source_url": "https://www.bloomberg.com/profile/company/1307537D:US"
   }
 ]

@@ -2,87 +2,87 @@ Company name,Share holder name,Share holder category,Q2/2025 No of shares,Q3/202
 ANAND RATHI WEALTH LTD,Anand Rathi Financial Services Ltd,Promoter,33069516,33069516,33069516,33069516,30177516,30177516,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Anand Rathi,Promoter,16553780,16553780,16553780,16553780,16553780,16256780,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Gupta Pradeep Kumar,Promoter,10328416,10328416,10328416,10328416,10328416,10328416,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,Quant Money Managers Ltd,Domestic AMC,5507698,5507698,5507698,4746834,4746834,4746834,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Quant Money Managers Ltd,Domestic AMC,5507698,5507698,5507698,4746834,4746834,4746834,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Gupta Priti,Promoter,4415952,4415952,4415952,4415952,4415952,4415952,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,Vanguard Group Inc/The,,2751420,2813570,3120270,3189156,3425166,4361760,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,SBI Funds Management Ltd,Domestic AMC,3053798,3055710,4267532,4268936,4274164,4276127,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Vanguard Group Inc/The,Foreign AMC,2751420,2813570,3120270,3189156,3425166,4361760,web,high,US,asset_manager,managed_funds,,https://www.wikidata.org/wiki/Q849363
+ANAND RATHI WEALTH LTD,SBI Funds Management Ltd,Domestic AMC,3053798,3055710,4267532,4268936,4274164,4276127,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Azeez Family Trust,Domestic corporate,4207494,3867494,3609494,3609494,3365054,3365054,web,high,IN,private_family_trust,own_balance_sheet,,https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/
 ANAND RATHI WEALTH LTD,Azeez Feroze,Individual,3408972,2798972,2538872,2538872,2538872,2538872,bloomberg-holder-type,high,,,,,deterministic rule
 ANAND RATHI WEALTH LTD,Gupta Navratan Mal,Promoter,2333968,2333968,2333968,2333968,2333968,2333968,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,JAIPUR SECURITIES PVT LTD,Promoter,2460720,2460720,2460720,2460720,2460720,2315720,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Echjay Industries Pvt Ltd,Domestic corporate,1683740,1683740,1683740,1675800,1675800,1675800,web,high,IN,operating_company,operating_company_treasury,,https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/
-ANAND RATHI WEALTH LTD,Blackrock Inc,,1154273,1337308,1377973,1470722,1533235,1624259,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Canara Robeco Asset Management Co Ltd/India,Domestic AMC,1277164,1277164,1277164,1277164,1277164,1277164,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Invesco Asset Management India Pvt Ltd,Domestic AMC,1033254,904482,1047542,1047542,1047542,1047542,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,ICICI Prudential Asset Management Co Ltd/India,Domestic AMC,921606,923170,925902,929938,932975,934782,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,DSP Asset Managers Pvt Ltd,Domestic AMC,910796,918134,811022,811040,929022,920178,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Blackrock Inc,Foreign AMC,1154273,1337308,1377973,1470722,1533235,1624259,web,high,US,asset_manager,managed_funds,,https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm
+ANAND RATHI WEALTH LTD,Canara Robeco Asset Management Co Ltd/India,Domestic AMC,1277164,1277164,1277164,1277164,1277164,1277164,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Invesco Asset Management India Pvt Ltd,Domestic AMC,1033254,904482,1047542,1047542,1047542,1047542,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,ICICI Prudential Asset Management Co Ltd/India,Domestic AMC,921606,923170,925902,929938,932975,934782,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,DSP Asset Managers Pvt Ltd,Domestic AMC,910796,918134,811022,811040,929022,920178,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Twelfth Tier Property Ltd,Promoter,714492,714492,714492,714492,714492,714492,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Anand Rathi IT Pvt Ltd,Promoter,595412,595412,595412,595412,595406,595406,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Norges Bank,Foreign Pension Fund,897125,897125,585288,585288,585288,585288,web,medium,NO,pension_fund,pension_assets,REVIEW,https://www.investing.com/equities/anand-rathi-wealth-ownership
-ANAND RATHI WEALTH LTD,Motilal Oswal Asset Management Co Ltd,Domestic AMC,131528,144578,204424,305906,461781,547925,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Motilal Oswal Asset Management Co Ltd,Domestic AMC,131528,144578,204424,305906,461781,547925,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Anand Rathi Insurance Brokers Ltd,Promoter,,,420000,420000,420000,420000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,AXIS MAX LIFE INSURANCE LTD,Domestic Insurance,431912,487768,14746,16746,345573,334749,rule:insurance+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,AXIS MAX LIFE INSURANCE LTD,Domestic Insurance,431912,487768,14746,16746,345573,334749,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Aqua Proof Wall Plast Pvt Ltd,Promoter,109404,109404,249404,249404,249404,249404,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Maru Pooja,Promoter,240000,240000,240000,240000,240000,240000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,ICICI Prudential Life Insurance Co Ltd,Domestic Insurance,41038,46386,112090,142096,221564,222086,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Nippon Life India Asset Management Ltd,Domestic AMC,104650,110716,165280,180298,216778,221895,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Bajaj Life Insurance Ltd,Domestic Insurance,241438,265118,0,0,227018,220746,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Bank of India Investment Managers Pvt Ltd,Domestic AMC,,,210000,210000,210000,210000,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Tata Asset Management Pvt Ltd,Domestic AMC,63386,77266,107956,121162,169572,198884,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Tata AIA Life Insurance Co Ltd,Domestic Insurance,,,,,183505,198191,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Mirae Asset Financial Group,,58012,64422,177656,221642,183817,175463,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,American Century Cos Inc,,41278,16564,17000,123466,134348,173687,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Goldman Sachs Group Inc/The,,0,32962,21500,0,169570,169570,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Trust Investment Advisors Pvt Ltd,,,,,,121516,152977,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,HDFC Asset Management Co Ltd,Domestic AMC,73418,81670,97178,134384,141377,146848,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Kotak Mahindra Asset Management Co Ltd/India,Domestic AMC,1054,1304,2258,26378,138926,144363,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,SAMCO ASSET MANAGEMENT INDIA,Domestic AMC,,193106,236960,24400,42355,140683,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,WBC Holdings LP,,,,,,139600,139600,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Axis Asset Management Co Ltd/India,Domestic AMC,1114,13362,15036,87204,118716,129817,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Victory Capital Management Inc,,,,86464,0,117990,126480,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Driehaus Capital Management LLC,,,40686,102320,102320,121650,121650,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,HDFC Life Insurance Co Ltd,Domestic Insurance,,,,,101419,111582,rule:insurance+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,ICICI Prudential Life Insurance Co Ltd,Domestic Insurance,41038,46386,112090,142096,221564,222086,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Nippon Life India Asset Management Ltd,Domestic AMC,104650,110716,165280,180298,216778,221895,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Bajaj Life Insurance Ltd,Domestic Insurance,241438,265118,0,0,227018,220746,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Bank of India Investment Managers Pvt Ltd,Domestic AMC,,,210000,210000,210000,210000,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Tata Asset Management Pvt Ltd,Domestic AMC,63386,77266,107956,121162,169572,198884,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Tata AIA Life Insurance Co Ltd,Domestic Insurance,,,,,183505,198191,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Mirae Asset Financial Group,Foreign AMC,58012,64422,177656,221642,183817,175463,web,high,KR,asset_manager,managed_funds,,https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group
+ANAND RATHI WEALTH LTD,American Century Cos Inc,Foreign AMC,41278,16564,17000,123466,134348,173687,web,high,US,asset_manager,managed_funds,,https://en.wikipedia.org/wiki/American_Century_Investments
+ANAND RATHI WEALTH LTD,Goldman Sachs Group Inc/The,Foreign AMC,0,32962,21500,0,169570,169570,web,high,US,asset_manager,managed_funds,,https://www.gsam.com/content/dam/gsam/pdfs/international/en/fund-literature/monthly-factsheet-goldman-sachs-india-equity-portfolio-class-i-shares.pdf
+ANAND RATHI WEALTH LTD,Trust Investment Advisors Pvt Ltd,Domestic corporate,,,,,121516,152977,web,medium,IN,broker,own_balance_sheet,REVIEW,https://www.trustgroup.in/
+ANAND RATHI WEALTH LTD,HDFC Asset Management Co Ltd,Domestic AMC,73418,81670,97178,134384,141377,146848,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Kotak Mahindra Asset Management Co Ltd/India,Domestic AMC,1054,1304,2258,26378,138926,144363,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,SAMCO ASSET MANAGEMENT INDIA,Domestic AMC,,193106,236960,24400,42355,140683,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,WBC Holdings LP,Foreign AMC,,,,,139600,139600,web,high,US,asset_manager,managed_funds,,https://www.bloomberg.com/profile/company/1307537D:US
+ANAND RATHI WEALTH LTD,Axis Asset Management Co Ltd/India,Domestic AMC,1114,13362,15036,87204,118716,129817,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Victory Capital Management Inc,Foreign AMC,,,86464,0,117990,126480,web,high,US,asset_manager,managed_funds,,https://en.wikipedia.org/wiki/Victory_Capital
+ANAND RATHI WEALTH LTD,Driehaus Capital Management LLC,Foreign AMC,,40686,102320,102320,121650,121650,web,high,US,asset_manager,managed_funds,,https://www.cbinsights.com/company/driehaus-capital-management
+ANAND RATHI WEALTH LTD,HDFC Life Insurance Co Ltd,Domestic Insurance,,,,,101419,111582,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Amit Capital And Securities Pvt Ltd,Promoter,,,100000,100000,100000,100000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,WisdomTree Inc,,111362,102784,101812,96142,94778,90460,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Edelweiss Asset Management Ltd,Domestic AMC,7798,9984,56746,65476,75264,80554,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Bandhan Mutual Fund,Domestic AMC,2370,2514,3872,4750,77083,78208,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Union Mutual Fund/India,Domestic AMC,,60178,0,0,0,67571,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Teachers Insurance & Annuity Association of America,,40484,40484,58860,58860,58860,58860,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,CAPITALMIND ASSET MANAGEMENT,Domestic AMC,,,,,66658,58039,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,State Street Corp,,88014,39770,42136,44596,49843,51736,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Star Union Dai-Ichi Life Insurance Co Ltd,Domestic Insurance,,,,,,51342,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,FMR LLC,,36092,39300,43814,43814,45320,49939,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Aditya Birla Sun Life Asset Management Co Ltd,Domestic AMC,,9470,7766,37754,48826,48900,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,AllianceBernstein Holding LP,,,,,,46870,46870,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Aditya Birla Sun Life Insurance Co Ltd,Domestic Insurance,,,,,43180,46250,rule:insurance+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,WisdomTree Inc,Foreign AMC,111362,102784,101812,96142,94778,90460,web,high,US,asset_manager,managed_funds,,https://en.wikipedia.org/wiki/WisdomTree_Investments
+ANAND RATHI WEALTH LTD,Edelweiss Asset Management Ltd,Domestic AMC,7798,9984,56746,65476,75264,80554,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Bandhan Mutual Fund,Domestic AMC,2370,2514,3872,4750,77083,78208,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Union Mutual Fund/India,Domestic AMC,,60178,0,0,0,67571,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Teachers Insurance & Annuity Association of America,Foreign Pension Fund,40484,40484,58860,58860,58860,58860,web,medium,US,pension_fund,pension_assets,REVIEW,https://www.tiaa.org/public/about-tiaa
+ANAND RATHI WEALTH LTD,CAPITALMIND ASSET MANAGEMENT,Domestic AMC,,,,,66658,58039,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,State Street Corp,Foreign AMC,88014,39770,42136,44596,49843,51736,web,high,US,asset_manager,managed_funds,,https://money.usnews.com/funds/spdr/state-street-global-advisors/overview
+ANAND RATHI WEALTH LTD,Star Union Dai-Ichi Life Insurance Co Ltd,Domestic Insurance,,,,,,51342,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,FMR LLC,Foreign AMC,36092,39300,43814,43814,45320,49939,web,high,US,asset_manager,managed_funds,,https://www.wikicorporates.org/wiki/Fidelity_Group
+ANAND RATHI WEALTH LTD,Aditya Birla Sun Life Asset Management Co Ltd,Domestic AMC,,9470,7766,37754,48826,48900,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,AllianceBernstein Holding LP,Foreign AMC,,,,,46870,46870,web,high,US,asset_manager,managed_funds,,https://alliancebernsteinholdinglp.gcs-web.com/static-files/4a5bd53f-3daf-46c2-b7ed-58fd389cd163.pdf
+ANAND RATHI WEALTH LTD,Aditya Birla Sun Life Insurance Co Ltd,Domestic Insurance,,,,,43180,46250,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Mantri Tara,Promoter,43400,43400,43400,43400,43400,43400,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,National Bank of Canada,,,,,,25812,38250,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Thrivent Financial for Lutherans,,,,,19902,22604,36551,unresolved,low,,,,REVIEW,
-ANAND RATHI WEALTH LTD,Groww Asset Management Ltd,Domestic AMC,5548,12672,12150,13634,18899,31369,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,National Bank of Canada,Foreign AMC,,,,,25812,38250,web,medium,CA,bank,managed_funds,REVIEW,https://www.nbc.ca/wealth-management/trust/institutional-services.html
+ANAND RATHI WEALTH LTD,Thrivent Financial for Lutherans,Foreign Insurance,,,,19902,22604,36551,web,high,US,insurer,insurance_float,,https://en.wikipedia.org/wiki/Thrivent
+ANAND RATHI WEALTH LTD,Groww Asset Management Ltd,Domestic AMC,5548,12672,12150,13634,18899,31369,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Gupta Krishnav Pradeep,Promoter,29796,29796,29796,29796,29796,29796,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,Taiwan Securities Co Ltd,,,,,17988,17993,17993,unresolved,low,,,,REVIEW,
+ANAND RATHI WEALTH LTD,Taiwan Securities Co Ltd,Foreign corporate,,,,17988,17993,17993,web,high,TW,broker,own_balance_sheet,,https://www.bloomberg.com/profile/company/6010:TT
 ANAND RATHI WEALTH LTD,Mundra Phool Kaur,Promoter,17308,17308,17308,17308,17308,17308,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,Jio BlackRock Asset Management Pvt Ltd,Domestic AMC,,4956,9480,14750,16094,17114,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,PNB MetLife India Insurance Co Ltd,Domestic Insurance,,,,,2529,11433,rule:insurance+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Jio BlackRock Asset Management Pvt Ltd,Domestic AMC,,4956,9480,14750,16094,17114,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,PNB MetLife India Insurance Co Ltd,Domestic Insurance,,,,,2529,11433,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Nomura Holdings Inc,Foreign AMC,,,9800,9800,9800,9800,web,high,JP,bank,managed_funds,,https://en.wikipedia.org/wiki/Nomura_Holdings
 ANAND RATHI WEALTH LTD,Nationwide Fund Advisors,Foreign AMC,,,,,9682,9682,web,high,US,asset_manager,managed_funds,,https://www.federalregister.gov/documents/2018/03/13/2018-05039/nationwide-fund-advisors-and-etf-series-solutions
-ANAND RATHI WEALTH LTD,UTI Asset Management Co Ltd,Domestic AMC,,,7390,7682,8425,9669,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,UTI Asset Management Co Ltd,Domestic AMC,,,7390,7682,8425,9669,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Biyani Asha Kailash,Promoter,9000,9000,9000,9000,9000,9000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
-ANAND RATHI WEALTH LTD,Indusind Nippon Life Insurance Co Ltd,Domestic Insurance,,,,,7984,8786,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Edelweiss Life Insurance Co Ltd,Domestic Insurance,,,6768,8162,7966,7944,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Zerodha Asset Management Pvt Ltd,Domestic AMC,,,1586,5264,6511,7779,rule:amc+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Navi AMC Ltd,Domestic AMC,1740,2324,5142,6638,6458,6260,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Indusind Nippon Life Insurance Co Ltd,Domestic Insurance,,,,,7984,8786,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Edelweiss Life Insurance Co Ltd,Domestic Insurance,,,6768,8162,7966,7944,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Zerodha Asset Management Pvt Ltd,Domestic AMC,,,1586,5264,6511,7779,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Navi AMC Ltd,Domestic AMC,1740,2324,5142,6638,6458,6260,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Gupta Aishwariya P,Promoter,6000,6000,6000,6000,6000,6000,filing (token+numeric),high,IN,,,,"SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), NSE filing as at 2026-03-31"
 ANAND RATHI WEALTH LTD,Angel One Ltd,Domestic corporate,252,348,3492,3682,4559,5161,web,medium,IN,broker,custody_only,REVIEW,https://inc42.com/buzz/angel-one-amc-gets-sebi-nod-to-start-mutual-fund-business
-ANAND RATHI WEALTH LTD,Canara HSBC Life Insurance Co Ltd,Domestic Insurance,,,,,3959,4598,rule:insurance+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Canara HSBC Life Insurance Co Ltd,Domestic Insurance,,,,,3959,4598,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Legal & General Group PLC,Foreign Insurance,4328,4328,4328,4328,4328,4328,web,high,GB,insurer,managed_funds,,https://en.wikipedia.org/wiki/Legal_%26_General
 ANAND RATHI WEALTH LTD,Franklin Templeton Inc,Foreign AMC,,,15648,7450,0,3026,web,high,US,asset_manager,managed_funds,,https://www.ipqwery.com/ipowner/en/owner/ip/485181-franklin-resources-inc.html
-ANAND RATHI WEALTH LTD,ALPHAGREP INVESTMENT MGMT INDIA,Domestic AMC,,,,,,2075,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,ALPHAGREP INVESTMENT MGMT INDIA,Domestic AMC,,,,,,2075,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,FlexShares Trust,Foreign AMC,3072,3006,1890,1890,1476,1476,web,high,US,exchange_traded_fund_trust,managed_funds,,https://www.flexshares.com/us/en/individual/press
 ANAND RATHI WEALTH LTD,Canadian Imperial Bank of Commerce,Foreign AMC,,,,,534,764,web,medium,CA,bank,managed_funds,REVIEW,https://www.marketscreener.com/quote/stock/CANADIAN-IMPERIAL-BANK-OF-40530896/company-shareholders
-ANAND RATHI WEALTH LTD,Bandhan Life Insurance Ltd,Domestic Insurance,,,140,116,286,319,rule:insurance+india,high,IN,,,,deterministic rule
-ANAND RATHI WEALTH LTD,Credit Agricole Group,Foreign AMC,,,,108,191,190,web,high,FR,bank,managed_funds,,https://about.amundi.com/article/credit-agricole-sa-has-entered-exclusive-negotiations-societe-generale
-ANAND RATHI WEALTH LTD,Deutsche Bank AG,Foreign AMC,,164,158,158,188,188,web,high,DE,bank,managed_funds,,https://www.reuters.com/world/india/deutsche-banks-dws-buy-40-stake-nippon-life-india-asset-management-2025-11-13
+ANAND RATHI WEALTH LTD,Bandhan Life Insurance Ltd,Domestic Insurance,,,140,116,286,319,rule:insurance+india,high,IN,insurer,insurance_float,,matched by deterministic name rule
+ANAND RATHI WEALTH LTD,Credit Agricole Group,Foreign AMC,,,,108,191,190,web,medium,FR,bank,managed_funds,REVIEW,https://en.wikipedia.org/wiki/Amundi
+ANAND RATHI WEALTH LTD,Deutsche Bank AG,Foreign AMC,,164,158,158,188,188,web,medium,DE,bank,managed_funds,REVIEW,https://en.wikipedia.org/wiki/DWS_Group
 ANAND RATHI WEALTH LTD,Rathi Suresh,Individual,,,,,,0,bloomberg-holder-type,high,,,,,deterministic rule
 ANAND RATHI WEALTH LTD,Prudential Financial Inc,Foreign Insurance,,37906,70328,0,,0,web,medium,US,insurer,insurance_float,REVIEW,https://ad-hoc-news.de/boerse/news/ueberblick/prudential-financial-balances-insuran/69743267
 ANAND RATHI WEALTH LTD,FIL Ltd,Foreign AMC,,,,,,0,web,high,BM,asset_manager,managed_funds,,https://en.wikipedia.org/wiki/Fidelity_International
@@ -95,7 +95,7 @@ ANAND RATHI WEALTH LTD,Saigal Supriya,Individual,,1905200,1905200,1905200,190520
 ANAND RATHI WEALTH LTD,Ali Fahim Sultan,Individual,,,,1874970,1874970,0,bloomberg-holder-type,high,,,,,deterministic rule
 ANAND RATHI WEALTH LTD,JPMorgan Chase & Co,Foreign AMC,,404,0,,,0,web,high,US,bank,managed_funds,,https://jpmorganchaseco.gcs-web.com/static-files/3d1cfdc0-b391-4c71-a055-cb09f463622e
 ANAND RATHI WEALTH LTD,Sun Life Financial Inc,Foreign Insurance,,8374,2072,0,,0,web,medium,CA,insurer,insurance_float,REVIEW,https://en.wikipedia.org/wiki/Sun_Life_Financial
-ANAND RATHI WEALTH LTD,Shriram Asset Management Co Ltd,Domestic AMC,0,,,,,0,rule:amc+india,high,IN,,,,deterministic rule
+ANAND RATHI WEALTH LTD,Shriram Asset Management Co Ltd,Domestic AMC,0,,,,,0,rule:amc+india,high,IN,asset_manager,managed_funds,,matched by deterministic name rule
 ANAND RATHI WEALTH LTD,Rawal Family Trust,Domestic corporate,1750352,1750352,1750352,,,0,web,high,IN,private_family_trust,own_balance_sheet,,https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/
 ANAND RATHI WEALTH LTD,SUHAS GUPTA FAMILY TRUST,Domestic corporate,1748992,1748992,1748992,1748992,1748992,0,web,high,IN,private_family_trust,own_balance_sheet,,https://trendlyne.com/equity/share-holding/747241/ANANDRATHI/31-03-2022/anand-rathi-wealth-ltd/
 ANAND RATHI WEALTH LTD,Munix India Pvt Ltd,Domestic corporate,1668468,1668468,1668468,1668468,1668468,0,web,high,IN,operating_company,operating_company_treasury,,https://www.tofler.in/munix-india-private-limited/company/U00000PB2003PTC025986

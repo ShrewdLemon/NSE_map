@@ -75,8 +75,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Gupta Priti",
@@ -109,11 +111,15 @@
       "Q3/2026": 4361760
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.wikidata.org/wiki/Q849363"
   },
   {
     "holder_name": "SBI Funds Management Ltd",
@@ -131,8 +137,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Azeez Family Trust",
@@ -246,11 +254,15 @@
       "Q3/2026": 1624259
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.sec.gov/Archives/edgar/data/1364742/000119312508041884/d10k.htm"
   },
   {
     "holder_name": "Canara Robeco Asset Management Co Ltd/India",
@@ -268,8 +280,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Invesco Asset Management India Pvt Ltd",
@@ -287,8 +301,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "ICICI Prudential Asset Management Co Ltd/India",
@@ -306,8 +322,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "DSP Asset Managers Pvt Ltd",
@@ -325,8 +343,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Twelfth Tier Property Ltd",
@@ -405,8 +425,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Anand Rathi Insurance Brokers Ltd",
@@ -444,8 +466,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Aqua Proof Wall Plast Pvt Ltd",
@@ -503,8 +527,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Nippon Life India Asset Management Ltd",
@@ -522,8 +548,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Bajaj Life Insurance Ltd",
@@ -541,8 +569,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Bank of India Investment Managers Pvt Ltd",
@@ -560,8 +590,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Tata Asset Management Pvt Ltd",
@@ -579,8 +611,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Tata AIA Life Insurance Co Ltd",
@@ -598,8 +632,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Mirae Asset Financial Group",
@@ -612,11 +648,15 @@
       "Q3/2026": 175463
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "KR",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/Mirae_Asset_Financial_Group"
   },
   {
     "holder_name": "American Century Cos Inc",
@@ -629,11 +669,15 @@
       "Q3/2026": 173687
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/American_Century_Investments"
   },
   {
     "holder_name": "Goldman Sachs Group Inc/The",
@@ -646,11 +690,15 @@
       "Q3/2026": 169570
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.gsam.com/content/dam/gsam/pdfs/international/en/fund-literature/monthly-factsheet-goldman-sachs-india-equity-portfolio-class-i-shares.pdf"
   },
   {
     "holder_name": "Trust Investment Advisors Pvt Ltd",
@@ -664,10 +712,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Domestic corporate",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "IN",
+    "entity_type": "broker",
+    "holding_vehicle": "own_balance_sheet",
+    "reason": "broker treated as a corporate holder",
+    "source": "https://www.trustgroup.in/"
   },
   {
     "holder_name": "HDFC Asset Management Co Ltd",
@@ -685,8 +737,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Kotak Mahindra Asset Management Co Ltd/India",
@@ -704,8 +758,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "SAMCO ASSET MANAGEMENT INDIA",
@@ -723,8 +779,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "WBC Holdings LP",
@@ -737,11 +795,15 @@
       "Q3/2026": 139600
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.bloomberg.com/profile/company/1307537D:US"
   },
   {
     "holder_name": "Axis Asset Management Co Ltd/India",
@@ -759,8 +821,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Victory Capital Management Inc",
@@ -773,11 +837,15 @@
       "Q3/2026": 126480
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/Victory_Capital"
   },
   {
     "holder_name": "Driehaus Capital Management LLC",
@@ -790,11 +858,15 @@
       "Q3/2026": 121650
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.cbinsights.com/company/driehaus-capital-management"
   },
   {
     "holder_name": "HDFC Life Insurance Co Ltd",
@@ -812,8 +884,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Amit Capital And Securities Pvt Ltd",
@@ -846,11 +920,15 @@
       "Q3/2026": 90460
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://en.wikipedia.org/wiki/WisdomTree_Investments"
   },
   {
     "holder_name": "Edelweiss Asset Management Ltd",
@@ -868,8 +946,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Bandhan Mutual Fund",
@@ -887,8 +967,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Union Mutual Fund/India",
@@ -906,8 +988,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Teachers Insurance & Annuity Association of America",
@@ -921,10 +1005,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign Pension Fund",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "US",
+    "entity_type": "pension_fund",
+    "holding_vehicle": "pension_assets",
+    "reason": "pension_fund holding via pension_assets",
+    "source": "https://www.tiaa.org/public/about-tiaa"
   },
   {
     "holder_name": "CAPITALMIND ASSET MANAGEMENT",
@@ -942,8 +1030,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "State Street Corp",
@@ -956,11 +1046,15 @@
       "Q3/2026": 51736
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://money.usnews.com/funds/spdr/state-street-global-advisors/overview"
   },
   {
     "holder_name": "Star Union Dai-Ichi Life Insurance Co Ltd",
@@ -978,8 +1072,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "FMR LLC",
@@ -992,11 +1088,15 @@
       "Q3/2026": 49939
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://www.wikicorporates.org/wiki/Fidelity_Group"
   },
   {
     "holder_name": "Aditya Birla Sun Life Asset Management Co Ltd",
@@ -1014,8 +1114,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "AllianceBernstein Holding LP",
@@ -1028,11 +1130,15 @@
       "Q3/2026": 46870
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "https://alliancebernsteinholdinglp.gcs-web.com/static-files/4a5bd53f-3daf-46c2-b7ed-58fd389cd163.pdf"
   },
   {
     "holder_name": "Aditya Birla Sun Life Insurance Co Ltd",
@@ -1050,8 +1156,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Mantri Tara",
@@ -1085,10 +1193,14 @@
     },
     "bloomberg_holder_type": "Institution",
     "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "category": "Foreign AMC",
+    "basis": "web",
+    "confidence": "medium",
+    "country": "CA",
+    "entity_type": "bank",
+    "holding_vehicle": "managed_funds",
+    "reason": "banking group holding via managed_funds",
+    "source": "https://www.nbc.ca/wealth-management/trust/institutional-services.html"
   },
   {
     "holder_name": "Thrivent Financial for Lutherans",
@@ -1101,11 +1213,15 @@
       "Q3/2026": 36551
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign Insurance",
+    "basis": "web",
+    "confidence": "high",
+    "country": "US",
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "https://en.wikipedia.org/wiki/Thrivent"
   },
   {
     "holder_name": "Groww Asset Management Ltd",
@@ -1123,8 +1239,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Gupta Krishnav Pradeep",
@@ -1157,11 +1275,15 @@
       "Q3/2026": 17993
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": true,
-    "category": null,
-    "basis": "unresolved",
-    "confidence": "low",
-    "reason": "no filing match, no cached entity, no rule"
+    "needs_review": false,
+    "category": "Foreign corporate",
+    "basis": "web",
+    "confidence": "high",
+    "country": "TW",
+    "entity_type": "broker",
+    "holding_vehicle": "own_balance_sheet",
+    "reason": "broker treated as a corporate holder",
+    "source": "https://www.bloomberg.com/profile/company/6010:TT"
   },
   {
     "holder_name": "Mundra Phool Kaur",
@@ -1199,8 +1321,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "PNB MetLife India Insurance Co Ltd",
@@ -1218,8 +1342,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Nomura Holdings Inc",
@@ -1279,8 +1405,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Biyani Asha Kailash",
@@ -1318,8 +1446,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Edelweiss Life Insurance Co Ltd",
@@ -1337,8 +1467,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Zerodha Asset Management Pvt Ltd",
@@ -1356,8 +1488,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Navi AMC Ltd",
@@ -1375,8 +1509,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Gupta Aishwariya P",
@@ -1435,8 +1571,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Legal & General Group PLC",
@@ -1496,8 +1634,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "FlexShares Trust",
@@ -1557,8 +1697,10 @@
     "basis": "rule:insurance+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "insurer",
+    "holding_vehicle": "insurance_float",
+    "reason": "insurer holding via insurance_float",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Credit Agricole Group",
@@ -1571,15 +1713,15 @@
       "Q3/2026": 190
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": false,
+    "needs_review": true,
     "category": "Foreign AMC",
     "basis": "web",
-    "confidence": "high",
+    "confidence": "medium",
     "country": "FR",
     "entity_type": "bank",
     "holding_vehicle": "managed_funds",
     "reason": "banking group holding via managed_funds",
-    "source": "https://about.amundi.com/article/credit-agricole-sa-has-entered-exclusive-negotiations-societe-generale"
+    "source": "https://en.wikipedia.org/wiki/Amundi"
   },
   {
     "holder_name": "Deutsche Bank AG",
@@ -1592,15 +1734,15 @@
       "Q3/2026": 188
     },
     "bloomberg_holder_type": "Institution",
-    "needs_review": false,
+    "needs_review": true,
     "category": "Foreign AMC",
     "basis": "web",
-    "confidence": "high",
+    "confidence": "medium",
     "country": "DE",
     "entity_type": "bank",
     "holding_vehicle": "managed_funds",
     "reason": "banking group holding via managed_funds",
-    "source": "https://www.reuters.com/world/india/deutsche-banks-dws-buy-40-stake-nippon-life-india-asset-management-2025-11-13"
+    "source": "https://en.wikipedia.org/wiki/DWS_Group"
   },
   {
     "holder_name": "Rathi Suresh",
@@ -1856,8 +1998,10 @@
     "basis": "rule:amc+india",
     "confidence": "high",
     "country": "IN",
-    "reason": "name-based rule",
-    "source": "deterministic rule"
+    "entity_type": "asset_manager",
+    "holding_vehicle": "managed_funds",
+    "reason": "asset_manager holding via managed_funds",
+    "source": "matched by deterministic name rule"
   },
   {
     "holder_name": "Rawal Family Trust",
