@@ -1,0 +1,120 @@
+[
+  {
+    "isin": "INE154A01025",
+    "ticker": "ITC",
+    "quarter_end": "2025-12-31",
+    "source_urls": [
+      "https://itcportal.com/content/dam/itc-corporate/pdfs/shareholding-pattern/shareholding-pattern-31-dec-25.pdf"
+    ],
+    "company_name": "ITC Limited",
+    "has_promoter": false,
+    "promoter_pct": 0,
+    "promoter_group": [
+      {
+        "filed_name": "Not Applicable - No Promoter",
+        "holder_class": "Individuals/HUF",
+        "shares_filed": 0
+      }
+    ],
+    "public_holders": [
+      {
+        "pct": 3.29,
+        "shares": 411952887,
+        "holder_name": "SBI Mutual Funds",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 3.1,
+        "shares": 388251802,
+        "holder_name": "ICICI Prudential Mutual Funds",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.44,
+        "shares": 180914514,
+        "holder_name": "Nippon Life india Trustee Mutual Funds",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.38,
+        "shares": 173282184,
+        "holder_name": "UTI Mutual Funds",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.27,
+        "shares": 158616643,
+        "holder_name": "Parag Parikh Flexi Cap Mutual Funds",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 1.08,
+        "shares": 135548063,
+        "holder_name": "Mirae Asset Mutual Funds",
+        "holder_class": "Mutual Fund"
+      },
+      {
+        "pct": 15.69,
+        "shares": 1965797370,
+        "holder_name": "Life Insurance Corporation of India",
+        "holder_class": "Insurance Company"
+      },
+      {
+        "pct": 1.73,
+        "shares": 217085508,
+        "holder_name": "General Insurance Corporation of India",
+        "holder_class": "Insurance Company"
+      },
+      {
+        "pct": 1.44,
+        "shares": 180822832,
+        "holder_name": "The New India Assurance Company Limited",
+        "holder_class": "Insurance Company"
+      },
+      {
+        "pct": 1.62,
+        "shares": 202305296,
+        "holder_name": "NPS Trust (various Pension Funds)",
+        "holder_class": "Pension Fund"
+      },
+      {
+        "pct": 7.78,
+        "shares": 974531427,
+        "holder_name": "Specified Undertaking of the Unit Trust of India",
+        "holder_class": "Other Financial Institutions"
+      },
+      {
+        "pct": 17.79,
+        "shares": 2228495863,
+        "holder_name": "Tobacco Manufacturers (India) Limited",
+        "holder_class": "Bodies Corporate (Foreign Direct Investment)"
+      },
+      {
+        "pct": 3.88,
+        "shares": 486311940,
+        "holder_name": "Myddleton Investment Company Limited",
+        "holder_class": "Bodies Corporate (Foreign Direct Investment)"
+      },
+      {
+        "pct": 1.24,
+        "shares": 154954890,
+        "holder_name": "Rothmans International Enterprises Limited",
+        "holder_class": "Bodies Corporate (Foreign Direct Investment)"
+      },
+      {
+        "pct": 1.79,
+        "shares": 223800530,
+        "holder_name": "GQG Partners Emerging Markets Equity Fund",
+        "holder_class": "FPI Category I"
+      },
+      {
+        "pct": 1.42,
+        "shares": 177285000,
+        "holder_name": "Goldman Sachs Trust II-Goldman Sachs GQG Partners International Opportunities Fund",
+        "holder_class": "FPI Category I"
+      }
+    ],
+    "extraction_notes": "Most recent filed shareholding pattern available is for quarter ended 31 December 2025. Total SCRR basis (A+B+C2) excludes 3,104,065 depository receipt shares shown under C1; the filing's grand total including DRs is 12,528,959,771 which is NOT the percentage denominator. ITC has no promoter; Table II is empty.",
+    "total_shares_scrr": 12525855706
+  }
+]

@@ -56,6 +56,23 @@ _CLASSES = r"""(?:
   | employee\s*(?:benefit\s*)?trusts?  | shares\s*held\s*by\s*employee\s*trusts?
   | any\s*other.*  | others?  | overseas\s*(?:corporate\s*)?bodies?
   | qualified\s*institutional\s*buyers?  | investor\s*education.*
+  | governments?\(?s?\)?  | (?:foreign|indian|domestic)\s*banks?
+  | venture\s*capital\s*funds?  | (?:foreign\s*)?venture\s*capital\s*investors?
+  | provident\s*/?\s*pension\s*funds?  | sovereign\s*wealth\s*funds?
+  | asset\s*reconstruction\s*companies  | other\s*financial\s*institutions?
+  | foreign\s*direct\s*investment  | name\s*of\s*dr\s*holder.*
+  | individuals?\s*/\s*hindu\s*undivided\s*family  | hindu\s*undivided\s*family
+  | limited\s*liability\s*partnerships?  | escrow\s*account.*
+  | independent\s*directors.*  | body\s*corporates?  | corporate\s*bodies?
+  | insurance\s*funds?  | mutual\s*funds?\s*/\s*uti  | uti
+  | .*nominal\s*share\s*capital.*  | .*in\s*excess\s*of\s*rs.*
+  | .*shares\s*underlying\s*(?:depository|dr).*
+  | (?:central|state)\s*government\s*/?\s*(?:governor|president).*
+  | shareholding\s*by\s*companies.*  | associate\s*companies.*
+  | relatives\s*of\s*promoters.*  | trusts?\s*where.*
+  | foreign\s*companies  | overseas?e?\s*corporate\s*bodies
+  | foreign\s*[-–].*  | non\s*resident\s*indians?\s*\(nris?\)
+  | .*not\s*applicable.*  | no\s*promoter.*
 )"""
 
 _AGGREGATE = re.compile(
@@ -81,8 +98,30 @@ def label(iso):
         return None
 
 
+# A SEBI table row is numbered with a parenthesised enumerator: '(a)', '(i)',
+# '(1)', "('c)" once PDF extraction has added a stray quote. The enumerator is
+# noise rather than proof of a heading - "('2) (a) HCL Technologies Stock
+# Options" is a real holder - so it is stripped and the name judged on what
+# remains.
+_ENUMERATOR = re.compile(r"""^\s*['"]?\s*\(\s*['"]?\s*[A-Za-z0-9]{1,3}\s*\)\s*""")
+# Caption text that wrapped out of a table header and into a name buffer.
+_CAPTION = re.compile(r"Table\s+[IV]+\s*[-–]|Statement showing|Category of shareholder", re.I)
+
+
 def _clean_name(raw):
     if not raw:
+        return None
+    raw = str(raw)
+    for _ in range(3):                      # "('2) (a) Name" carries two
+        stripped = _ENUMERATOR.sub("", raw)
+        if stripped == raw:
+            break
+        raw = stripped
+    if _CAPTION.search(raw):
+        return None
+    # A holder's name starts with a capital, a digit or a bracket. A fragment
+    # of a wrapped sentence ("capital in excess of Rs. 2 lakhs") starts lower.
+    if raw[:1].islower():
         return None
     n = _NOISE_SUFFIX.sub("", str(raw).replace("\xa0", " ")).strip(" .,-")
     n = re.sub(r"\s+", " ", n)
