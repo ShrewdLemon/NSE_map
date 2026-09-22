@@ -1,0 +1,1328 @@
+Format of holding of specified securities
+1.   Name of Listed Entity : HCL Technologies Limited
+2.   Scrip Code/ Name of Scrip/ Class of Security : BSE: 532281, NSE: HCLTECH/ Equity Shares
+3.   Share Holding Pattern Filed under :
+4:   Declaration : The Listed entity is required to submit the following declaration to the extent of submission of information:-
+Yes * No*
+1 - √
+2 - √
+3 - √
+4 - √
+5 - √
+5.   The tabular format for disclosure of holding of sepcified securities is as follows:- 
+Regulation 31(1)(b) for the quarter ended June 30, 2026
+Whether the Listed Entity has any shares in locked-in?
+Whether any shares held by promoters are pledge or otherwise encumbered?
+Particulars
+* If the Listed Entity selects the option ‘No’ for the questions above, the columns for the partly paid up shares, Outstanding
+Convertible Securities/Warrants, depository receipts, locked-in shares, No of shares pledged or otherwise encumbered by
+promoters, as applicable, shall not be displayed at the time of dissemination on the Stock Exchange website. Also wherever there
+is ‘No’ declared by Listed Entity in above table the values will be considered as ‘Zero’ by default on submission of the format of
+holding of specified securities.
+Whether the Listed Entity has issued any partly paid up shares?
+Whether the Listed Entity has any shares against which depository receipts are issued?
+Whether the Listed Entity has issued any Convertible Securities or Warrants?
+Table  I -Summary Statement showing holding of specified securities of the listed entity
+Class eg: X Class 
+eg:  Y
+Total
+(A) Promoter & Promoter Group 7                           1,652,112,686           -     -      1,652,112,686           60.88% 1,652,112,686         -      1,652,112,686           60.88% -          1,652,112,686  60.88% -       -    -  -  # -     - -   -     -     1,652,112,686        
+(B) Public 1,023,543             1,053,728,464           -     -      1,053,728,464           38.83% 1,053,728,464         -      1,053,728,464           38.83% -          1,053,728,464  38.83% -       -    1,053,216,603        
+(C) Non Promoter- Non Public
+(C1) Shares underlying DRs -                        -                            -     -      -                             NA -                           -      -                            0.00% -          -                    0.00% -       -    -                          
+(C2) Shares held by Employee Trusts 1                           7,823,946                  -     -      7,823,946                  0.29% 7,823,946                -      7,823,946                  0.29% -          7,823,946         0.29% -       -    7,823,946               
+Total 1,023,551             2,713,665,096           -     -      2,713,665,096           100.00% 2,713,665,096         -      2,713,665,096           100.00% -          2,713,665,096  100.00% -       -    2,713,153,235        
+NA
+NA
+Non-Disposal 
+Undertaking                    
+(XV)
+No.
+(a)
+As a % 
+of total 
+Shares 
+held
+(b)
+NA
+Number of equity 
+shares held in 
+dematerialized form
+(XVIII)
+Total no. shares held  
+(VII) = (IV)+(V)+ (VI)
+Shareholding as 
+a % of total no. 
+of shares 
+(calculated as 
+per SCRR, 
+1957)                           
+As a % of 
+(A+B+C2)   (VIII) 
+No. of 
+Shares 
+Underlying
+Outstandi
+ng 
+convertibl
+e 
+securities 
+(including 
+Warrants, 
+ESOP etc.) 
+(X)
+Shareholding , as 
+a % assuming 
+full conversion of 
+convertible 
+securities ( as a 
+percentage of 
+diluted share 
+capital)                
+(XII)= (VII)+(X)
+As a % of 
+(A+B+C2)
+No.
+(a)
+As a % 
+of total 
+Shares 
+held
+(b)
+Other 
+encumbranc
+es, if any 
+(XVI)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Total Number of 
+Shares 
+encumbered 
+(XVII) = (XIV + 
+XV + XVI)
+No.
+(a)
+As a % 
+of total 
+Shares 
+held
+(b)
+As a 
+% of 
+total 
+Shar
+es 
+held
+(b)
+No.
+(a)
+Number of 
+shares 
+pledged  
+(XIV)
+Category   
+(I)
+Category of shareholder (II) No. of shareholder 
+(III)
+No. of fully paid up 
+equity shares held (IV)
+Partly 
+paid-up 
+equity 
+shares 
+held (V)
+No. of 
+shares 
+underlyi
+ng
+Deposit
+ory 
+Receipt
+s (VI)
+Number of Voting Rights held in each class of securities (IX)
+No of Voting Rights Total as a % 
+of (A+B+C)
+Number of 
+Locked in shares 
+(XIII)
+Total No. of 
+shares on fully 
+diluted basis 
+(including 
+warrants, ESOP, 
+Convertible 
+Securities etc.)          
+(XI) = (VII + X)
+Table II - Statement showing holding of specified securities by the Promoter and Promoter Group
+(1) Indian
+(a) Individuals/Hindu undivided Family
+3           496,034               -       -        496,034                0.018% 496,034               -        496,034               0.02% -              496,034              0.02% -  -  -  -    -  -  -  -  -  -  496,034              
+Mr. Shiv Nadar Promoter 1               736                                -           -            736                                 0.000% 736                                -           736                               0.00003% -                    736                              0.00% -   -    -  -    -  -  -  -  -  -  736                             
+Mrs. Kiran Nadar Promoter 1               494,602                        -           -            494,602                         0.018% 494,602                        -           494,602                       0.01823% -                    494,602                      0.02% -   -    -  -    -  -  -  -  -  -  494,602                     
+Mrs. Roshni Nadar Malhotra Promoter 1               696                                -           -            696                                 0.000% 696                                -           696                               0.00003% -                    696                              0.00% -   -    -  -    -  -  -  -  -  -  696                             
+Mr. Shikhar Neelkamal Malhotra Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Master Armaan Malhotra (minor) Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Master Jahaan Malhotra (minor) Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+(b) Central Government/ State 
+Government(s) -        -                       -       -        -                        0.000% -                       -        -                                -              -              -                      -               -  -  -  -    -  -  -  -  -  -  -                      
+('c) Financial Institutions/ Banks -        -                       -       -        -                        0.000% -                       -        -                                -              -              -                      -               -  -  -  -    -  -  -  -  -  -  -                      
+(d) Any Other (specify) 3           1,204,954,620     -       -        1,204,954,620      44.40% 1,204,954,620     -        1,204,954,620     44.40% -              1,204,954,620    44.40% -  -  -  -    -  -  -  -  -  -  1,204,954,620    
+(i) Body Corporates -                      -  -    -  -  -  -  -  -  
+HCL Corporation  Pvt. Ltd. Promoter -           -                                 -           -            -                                  0.000% -                                 -           -                                0.00% -                    -                               0.00% -   -    -  -    -  -  -  -  -  -  -                              
+Vama Sundari Investments (Delhi) Pvt. 
+Ltd.
+Promoter
+1               1,200,361,516            -           -            1,200,361,516             44.234% 1,200,361,516            -           1,200,361,516            44.23% -                    1,200,361,516          44.23% -   -    -  -    -  -  -  -  -  -  1,200,361,516          
+Universal Office Automation Limited Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+International Data Management 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL Infosystems Limited Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+SSN Investments (Delhi)
+Pvt Ltd
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL IT City Lucknow
+Private Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+KRN Education Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL Avitas Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+SSN Investments (Pondi) Private 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Julian Investments (Chennai) Private 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Blueberry Investments (Chennai) 
+Private Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Guddu Investments (Chennai) Private 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Slocum Investments (Chennai) Private 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+SSN Investments (Chennai) Private 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL Healthcare Pvt. Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Total 
+Number of 
+Shares 
+encumbered 
+(XVIII) = (XV 
++ XVI + XVII)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Number of equity 
+shares held in 
+dematerialized 
+form
+(XIX)
+No. of fully paid up 
+equity shares held
+(V)
+Partly 
+paid-up 
+equity 
+shares 
+held
+(VI)
+No. of 
+shares 
+underlyin
+g
+Depositor
+y 
+Receipts
+(VII)
+Total no. shares 
+held
+(VIII = V+VI+VII)
+Shareholding 
+% calculated 
+as per SCRR, 
+1957
+As a % of 
+(A+B+C2)
+(IX)
+No. of 
+Shares 
+Underlying
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants, 
+ESOP etc.)
+(XI)
+Number of Voting Rights held in each class of securities
+(X)
+No of Voting Rights Total as a 
+% of Total 
+Voting 
+rights
+Number of 
+Locked in 
+shares
+(XIV)
+Total 
+Shareholding, 
+as a % 
+assuming full 
+conversion of 
+convertible 
+securities (as 
+a percentage 
+of diluted 
+share capital)
+(XIII) = 
+(VIII)+(XI) as a 
+% of A+B+C2
+No.
+(a)
+Total No. of 
+shares on fully 
+diluted basis 
+(including 
+warrants, ESOP, 
+Convertible 
+Securities etc.) 
+(XII) = (VIII + XI)
+Non-
+Disposal 
+Undertaking                    
+(XVI)
+Other 
+encumbranc
+es, if any 
+(XVII)
+Number of 
+Shares 
+pledged (XV)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Category & Name of the 
+Shareholders
+(I)
+No. of 
+sharehol
+der
+(IV)
+No.
+(a)
+As a % 
+of total 
+shares 
+held
+(b)
+Entity Type           
+Promoter or 
+Promoter group 
+( Promoter 
+group would 
+exclude 
+promoters)             
+(II)                       
+Total 
+Number of 
+Shares 
+encumbered 
+(XVIII) = (XV 
++ XVI + XVII)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Number of equity 
+shares held in 
+dematerialized 
+form
+(XIX)
+No. of fully paid up 
+equity shares held
+(V)
+Partly 
+paid-up 
+equity 
+shares 
+held
+(VI)
+No. of 
+shares 
+underlyin
+g
+Depositor
+y 
+Receipts
+(VII)
+Total no. shares 
+held
+(VIII = V+VI+VII)
+Shareholding 
+% calculated 
+as per SCRR, 
+1957
+As a % of 
+(A+B+C2)
+(IX)
+No. of 
+Shares 
+Underlying
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants, 
+ESOP etc.)
+(XI)
+Number of Voting Rights held in each class of securities
+(X)
+No of Voting Rights Total as a 
+% of Total 
+Voting 
+rights
+Number of 
+Locked in 
+shares
+(XIV)
+Total 
+Shareholding, 
+as a % 
+assuming full 
+conversion of 
+convertible 
+securities (as 
+a percentage 
+of diluted 
+share capital)
+(XIII) = 
+(VIII)+(XI) as a 
+% of A+B+C2
+No.
+(a)
+Total No. of 
+shares on fully 
+diluted basis 
+(including 
+warrants, ESOP, 
+Convertible 
+Securities etc.) 
+(XII) = (VIII + XI)
+Non-
+Disposal 
+Undertaking                    
+(XVI)
+Other 
+encumbranc
+es, if any 
+(XVII)
+Number of 
+Shares 
+pledged (XV)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Category & Name of the 
+Shareholders
+(I)
+No. of 
+sharehol
+der
+(IV)
+No.
+(a)
+As a % 
+of total 
+shares 
+held
+(b)
+Entity Type           
+Promoter or 
+Promoter group 
+( Promoter 
+group would 
+exclude 
+promoters)             
+(II)                       
+Kiranroshni Investments
+(Chennai) Private Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Shivkiran Investments
+(Chennai) Private Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Vama Sundari Investments (Pondi) Pvt 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Esthetic Infra – Developers Pvt Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Buoyant Infra – Developers Pvt Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Cityframe Infra – Developers Pvt 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Dhrtvan Business Accelerations Pvt Ltd 
+(formerly known as Sprire Infra 
+Developers Private Limited)
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Saola Infra Developers Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Grotto Infra Developers Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL Capital Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL Games Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+HCL Sterna Private Limited (formerly 
+known as HCL Cortech Private Limited)
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Guvi Geek Network Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+School Style Supplies Pvt Ltd Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Edu Voyage Education Private Limited 
+(formerly known as HDFC Education 
+and Development Services Private 
+Limited)
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Hudson Engineering & Technology 
+Solutions Limited      ( Formerly known 
+as HCL Infosolutions Limited)
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+First Stonex Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Ecstatic Employees Care & Support 
+Limited (Formerly known as HCL 
+Employees Investment Co.  Limited) 
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+South Asian Computers Ltd Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+India Chip Private Limited Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Vama Sundari Education Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Slocum Education Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Vidyagyan Foundation Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+SSN Incubation Foundation Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Prudential HCL Health  Insurance 
+Limited
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+(ii) Trust -                      -  -    -  -  -  -  -  -  
+Kiran Nadar Musuem of Art Promoter Group 1               2,300,000                     -           -             2,300,000                     0.085% 2,300,000                     -            2,300,000                     0.085% -                    2,300,000                   0.085% -    -     -   -      -     -     -     -     -     -     2,300,000                   
+Shiv Nadar Foundation Promoter Group 1               2,293,104                     -           -             2,293,104                     0.085% 2,293,104                     -            2,293,104                     0.085% -                    2,293,104                   0.085% -    -     -   -      -     -     -     -     -     -     2,293,104                   
+SSN Trust Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Shiv Nadar Trust Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Vamasundari Scholarship Trust Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+The Habitats Trust Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Shiv Nadar Institution of Eminence 
+Deemed to be University
+Promoter Group
+-           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Anantya Sakti, Inc. Promoter Group -           -                                  -           -             -                                  -                      -                                  -            -                                 -              -                    -                                -                      -    -     -   -      -     -     -     -     -     -     -                               
+Sub-Total (A)(1) 6           1,205,450,654     -       -        1,205,450,654      44.42% 1,205,450,654     -        1,205,450,654     44.42% -              1,205,450,654    44.42% -  -  -  -    1,205,450,654    
+Total 
+Number of 
+Shares 
+encumbered 
+(XVIII) = (XV 
++ XVI + XVII)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Number of equity 
+shares held in 
+dematerialized 
+form
+(XIX)
+No. of fully paid up 
+equity shares held
+(V)
+Partly 
+paid-up 
+equity 
+shares 
+held
+(VI)
+No. of 
+shares 
+underlyin
+g
+Depositor
+y 
+Receipts
+(VII)
+Total no. shares 
+held
+(VIII = V+VI+VII)
+Shareholding 
+% calculated 
+as per SCRR, 
+1957
+As a % of 
+(A+B+C2)
+(IX)
+No. of 
+Shares 
+Underlying
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants, 
+ESOP etc.)
+(XI)
+Number of Voting Rights held in each class of securities
+(X)
+No of Voting Rights Total as a 
+% of Total 
+Voting 
+rights
+Number of 
+Locked in 
+shares
+(XIV)
+Total 
+Shareholding, 
+as a % 
+assuming full 
+conversion of 
+convertible 
+securities (as 
+a percentage 
+of diluted 
+share capital)
+(XIII) = 
+(VIII)+(XI) as a 
+% of A+B+C2
+No.
+(a)
+Total No. of 
+shares on fully 
+diluted basis 
+(including 
+warrants, ESOP, 
+Convertible 
+Securities etc.) 
+(XII) = (VIII + XI)
+Non-
+Disposal 
+Undertaking                    
+(XVI)
+Other 
+encumbranc
+es, if any 
+(XVII)
+Number of 
+Shares 
+pledged (XV)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Category & Name of the 
+Shareholders
+(I)
+No. of 
+sharehol
+der
+(IV)
+No.
+(a)
+As a % 
+of total 
+shares 
+held
+(b)
+Entity Type           
+Promoter or 
+Promoter group 
+( Promoter 
+group would 
+exclude 
+promoters)             
+(II)                       
+-                      
+(2) Foreign -                      
+(a) Individuals (Non-Resident 
+Individuals/ Foreign Individuals)
+-        -                       -       -        -                        - -                       -        -                       - -              -                      - -  -  -  -    -  -  -  -  -  -  -                      
+(b) Government -        -                       -       -        -                        - -                       -        -                       - -              -                      - -  -  -  -    -  -  -  -  -  -  -                      
+('c) Institutions -        -                       -       -        -                        - -                       -        -                       - -              -                      - -  -  -  -    -  -  -  -  -  -  -                      
+(d) Foreign Portfolio Investor -        -                       -       -        -                        - -                       -        -                       - -              -                      - -  -  -  -    -  -  -  -  -  -  -                      
+(e) Any Other (specify) 1           446,662,032        -       -        446,662,032         16.46% 446,662,032        -        446,662,032        16.46% -              446,662,032       16.46% -  -  -  -    -  -  -  -  -  -  446,662,032       
+(i) Bodies Corporate -                      
+HCL Holdings Private Ltd. Promoter Group 1               446,662,032                -           -            446,662,032                16.46% 446,662,032                -           446,662,032               16.46% -                    446,662,032              16.46% -   -    -  -     -    -    -    -    -    -    446,662,032             
+Sub-Total (A)(2) 1           446,662,032        -       -        446,662,032         16.46% 446,662,032        -        446,662,032        16.46% -              446,662,032       16.46% -  -  -  -    446,662,032       
+-                      
+7           1,652,112,686     -       -        1,652,112,686      60.88% 1,652,112,686     -        1,652,112,686     60.88% -              1,652,112,686    60.88% -  -  -  -    -  -  -  -  -  -  1,652,112,686    
+Total Shareholding of Promoter and  Promoter Group           
+(A)= (A)(1)+(A)(2)
+ Classification: Internal#
+Table III - Statement showing holding of specified securities by the Public shareholders
+Class X Class Y Total
+Sub-
+category  
+(i)
+Sub-
+categor
+y(ii)
+Sub-
+category  
+(iii)
+(1) Institutions (Domestic)
+(a) Mutual Funds 47                    245,226,864 -              -                    245,226,864                   9.04% 245,226,864                  -         245,226,864                 9.04% -               245,226,864                          9.04% -         -           245,225,848                                 -             -                -   
+HDFC Trustee Company Limited 1                     56,676,384                    -             -                    56,676,384                     2.09% 56,676,384                    -        56,676,384                   2.09% -               56,676,384                           2.09% -        -           56,676,384                     -          -      -          
+SBI Mutual Fund 1                     37,799,809                    -             -                    37,799,809                     1.39% 37,799,809                    -        37,799,809                   1.39% -               37,799,809                           1.39% -        -           44,231,975                     -          -      -          
+ICICI Prudential Mutual Fund 1                     31,964,191                    -             -                    31,964,191                     1.18% 31,964,191                    -        31,964,191                   1.18% -               31,964,191                           1.18% -        -           37,799,809                     -          -      -          
+                           Parag Parikh Flexi Cap Fund                                                                                                                                                                                                                               1                     44,231,975                    -             -                    44,231,975                     1.63% 44,231,975                    44,231,975                   1.63% -               44,231,975                           1.63% -        -           31,964,191                     -          -      -          
+(b) Venture Capital Funds -                 -                                  -             -                    -                                   -                            -                                  -        -                                 -                            -               -                                          -                            -        -           -                                                -            -                -   
+(c) Alternate Investment Funds 35                   3,419,535                       -              -                    3,419,535                        0.13% 3,419,535                       -         3,419,535                      0.13% -               3,419,535                              0.13% -         -           3,419,535                                      -             -                -   
+(d) Banks 11                   314,869                          -              -                    314,869                           0.01% 314,869                          -         314,869                         0.01% -               314,869                                  0.01% 314,117                                         -             -                -   
+(e) Insurance Companies 39                   225,660,824                  -              -                    225,660,824                   8.32% 225,660,824                  -         225,660,824                 8.32% -               225,660,824                          8.32% -         -           225,660,824                                 -             -                -   
+Life Insurance Corporation Of India                                                                                                                                                                                                                       1                     193,966,713                  -             -                    193,966,713                  7.15% 193,966,713                  -        193,966,713                 7.15% -               193,966,713                         7.15% -        -           193,966,713                  -          -      -          
+(f) Provident / Pension Funds 1                     33,729,612                     -              -                    33,729,612                     1.24% 33,729,612                     33,729,612                    1.24% -               33,729,612                            1.24% -         -           33,729,612                                   -             -                -   
+NPS Trust 1                     33,729,612                    -             -                    33,729,612                     1.24% 33,729,612                    -        33,729,612                   1.24% -               33,729,612                           1.24% -        -           33,729,612                     -          -      -          
+(G) Asset Reconstruction Companies -                  -                                   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -           -                                                  -             -                -   
+(h) Sovereign Wealth Funds 2                     1,030,207                       1,030,207                        0.04% 1,030,207                       -         1,030,207                      0.04% -               1,030,207                              0.04% -         -           1,030,207                                      -             -                -   
+(i) NBFCs registered with RBI 10                   163,949                          -              -                    163,949                           0.01% 163,949                          -         163,949                         0.01% -               163,949                                  0.01% -         -           163,949                                         -             -                -   
+(j) Other Financial Institutions -                  -                                   -                                    - -                                   -         -                                  - -               -                                          - -         -           -                                                  -             -                -   
+(k) Any Other (Specify) -                  -                                   -                                    -                                  0.00% -               -                                          0.00% -         -           -                                                  -             -                -   
+Sub-Total (B)(1) 145                 509,545,860                  -              -                    509,545,860                   18.78% 509,545,860                  -         509,545,860                 18.78% -               509,545,860                          18.78% -         -           509,544,092                                 -             -                -   
+2 Institutions (Foreign) -                    -                                          
+(a) Foreign Direct Investment                      -                                         -   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(b) Foreign Venture Capital Investors                      -                                         -   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(c) Sovereign Wealth Funds                      -                                         -   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(d) Foreign Portfolio Investors Category I 1034                    395,588,922 -              -                    395,588,922                   14.58%                    395,588,922 -         395,588,922                 14.58% -               395,588,922                          14.58% -         -                               395,588,522               -             -                -   
+Artisan International Value Fund                                                                                                                                                                                                                          1                     53,387,154                    -             -                    53,387,154                     1.97% 53,387,154                    -        53,387,154                   1.97% -               53,387,154                           1.97% -        -           53,387,154                                  -            -                -   
+(e) Foreign Portfolio Investors Category II 56                         8,734,889 -              -                    8,734,889                        0.32% 8,734,889                      -         8,734,889                      0.32% -               8,734,889                              0.32% -         -           8,734,889               -             -                -   
+(f) Overseas Depositories(holding DRs) (balancing 
+figure)                      -                                         -   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(g) Any Other (Specify)                       3                              71,108 -              -                    71,108                             0.00% 71,108                            -         71,108                           0.00% -               71,108                                    0.00% -         -                                         71,086               -             -                -   
+Foreign Banks                      3                             71,108 -             -                    71,108                            0.00%                             71,108 -        71,108                           0.00% -               71,108                                   0.00% -        -                                        71,086              -            -                -   
+Sub Total (B)(2)               1,093                    404,394,919                  -                          -                       404,394,919 14.90% 404,394,919                  -         404,394,919                 14.90% -               404,394,919                          14.90% -         -           404,394,497                                 -             -                -   
+(3) Central Government/ State Government(s)
+(a) Central Government / President of India                       4                              19,961 -              -                    19,961                             0.00% 19,961                            -         19,961                           0.00% -               19,961                                    0.00% -         -                                        19,961              -            -                -   
+(b) State Government / Governor -                  -                                   -              -                    -                                   0.00% -                                  -        -                                 0.00% -               -                                          0.00% -         -           -                                    -           -       -          
+(c)
+Shareholding by Companies or Bodies 
+Corporate where Central / State Government is 
+a promoter
+-                  -                                   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -           -                                    -           -       -          
+Sub-Total (B)(3)                       4                              19,961 -              -                                                  19,961 0.00% 19,961                            -         19,961                           0.00% -               19,961                                    0.00% -         -           19,961                             -           -       NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+As a % of 
+total 
+Shares 
+held
+(b)
+No.
+(a)
+As a % of 
+total 
+Shares 
+held
+(b)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Shareholding % 
+calculated as per 
+SCRR, 1957
+As a % of (A+B+C2)
+(VIII)
+Number of Voting Rights held in each class of securities
+(IX)
+Total as a % of 
+Total Voting rights
+No of Voting Rights
+Number of Locked 
+in shares
+(XIII)
+No. of 
+Shares 
+Underlying
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants, 
+ESOP etc.)
+(X)
+Total No. of shares on 
+fully diluted basis 
+(including warrants, 
+ESOP, Convertible 
+Securities etc.) (XI) = (VII + 
+X)
+No.
+(a)
+As a % of 
+total 
+Shares 
+held
+(b)
+NA
+NA
+NA
+NA
+NA
+No.
+(a)
+Sub-categorization of shares    
+(XIX)
+Shareholding(No. of shares) 
+under
+Total 
+Shareholding, as a 
+% assuming full 
+conversion of 
+convertible 
+securities (as a 
+percentage of 
+diluted share 
+capital)
+(XII) 
+Number of equity 
+shares held in 
+dematerialized form
+(XVIII)
+As a % of 
+total 
+shares 
+held
+(b)
+Number of Shares 
+pledged (XIV)
+No.
+(a)
+NA
+NA
+Non-Disposal 
+Undertaking                    
+(XV)
+Other 
+encumbrances, if 
+any (XVI)
+Total Number of 
+Shares encumbered 
+(XVII) = (XIV + XV + 
+XVI)
+No.
+(a)
+As a % of 
+total 
+Shares 
+held
+(b)
+Total no. shares held
+(VII = IV+V+VI)
+Category & Name of the Shareholders
+(I)
+No. of 
+shareholder
+(III)
+No. of fully paid up 
+equity shares held
+(IV)
+Partly paid-
+up equity 
+shares held
+(V)
+No. of shares 
+underlying
+Depository 
+Receipts
+(VI)
+ Classification: Internal#
+Class X Class Y Total
+Sub-
+category  
+(i)
+Sub-
+categor
+y(ii)
+Sub-
+category  
+(iii)
+As a % of 
+total 
+Shares 
+held
+(b)
+No.
+(a)
+As a % of 
+total 
+Shares 
+held
+(b)
+Shareholding % 
+calculated as per 
+SCRR, 1957
+As a % of (A+B+C2)
+(VIII)
+Number of Voting Rights held in each class of securities
+(IX)
+Total as a % of 
+Total Voting rights
+No of Voting Rights
+Number of Locked 
+in shares
+(XIII)
+No. of 
+Shares 
+Underlying
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants, 
+ESOP etc.)
+(X)
+Total No. of shares on 
+fully diluted basis 
+(including warrants, 
+ESOP, Convertible 
+Securities etc.) (XI) = (VII + 
+X)
+No.
+(a)
+As a % of 
+total 
+Shares 
+held
+(b)
+No.
+(a)
+Sub-categorization of shares    
+(XIX)
+Shareholding(No. of shares) 
+under
+Total 
+Shareholding, as a 
+% assuming full 
+conversion of 
+convertible 
+securities (as a 
+percentage of 
+diluted share 
+capital)
+(XII) 
+Number of equity 
+shares held in 
+dematerialized form
+(XVIII)
+As a % of 
+total 
+shares 
+held
+(b)
+Number of Shares 
+pledged (XIV)
+No.
+(a)
+Non-Disposal 
+Undertaking                    
+(XV)
+Other 
+encumbrances, if 
+any (XVI)
+Total Number of 
+Shares encumbered 
+(XVII) = (XIV + XV + 
+XVI)
+No.
+(a)
+As a % of 
+total 
+Shares 
+held
+(b)
+Total no. shares held
+(VII = IV+V+VI)
+Category & Name of the Shareholders
+(I)
+No. of 
+shareholder
+(III)
+No. of fully paid up 
+equity shares held
+(IV)
+Partly paid-
+up equity 
+shares held
+(V)
+No. of shares 
+underlying
+Depository 
+Receipts
+(VI)
+(4) Non-institutions               -             -                -   
+(a) Associate companies/  Subsidaries -              -                    -                                    -                                                                   -   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(b) Directors and their relatives (excluding 
+Independent Directors and nominee Directors)                       1                         1,523,755 -              -                    1,523,755                        0.06%                         1,523,755 -         1,523,755                      0.06% -               1,523,755                              0.06% -         -                                   1,523,755               -             -                -   
+(C) Key Managerial Personnel                       2                              44,997 -              -                    44,997                             0.00%                              44,997 -         44,997                           0.00% -               44,997                                    0.00% -         -                                         44,997               -             -                -   
+(D)
+Relatives of promoters (other than 'immediate 
+relatives' of promoters disclosed under 
+'Promoter and Promoter Group' category)
+                     -                                         -   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(E)
+Trusts where any person belonging to 
+'Promoter and Promoter Group' category is 
+'trustee','beneficiary', or 'author of the trust''
+                     -                                         -   -              -                    -                                    -                             -                                   -         -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(f) Investor Education and Protection Fund (IEPF)                       1                            394,530 -              -                    394,530                           0.01%                            394,530 -         394,530                         0.01% -               394,530                                  0.01% -         -                                       394,530               -             -                -   
+(g) Resident Individuals holding nominal share 
+capital up to Rs. 2 lakhs
+          981,135                      94,050,739 -              -                    94,050,739                     3.47%                      94,050,739 -         94,050,739                    3.47% -               94,050,739                            3.47% -         -                                 93,564,360               -             -                -   
+(h) Resident Individuals holding nominal share 
+capital in excess of Rs. 2 lakhs.                     43                         6,894,648 -              -                    6,894,648                        0.25%                         6,894,648 -         6,894,648                      0.25% -               6,894,648                              0.25% -         -                                   6,894,648               -             -                -   
+(i) Non Resident Indians (NRIs)             26,472                      16,664,108 -              -                    16,664,108                     0.61%                      16,664,108 16,664,108                    0.61% -               16,664,108                            0.61% -         -                                 16,648,556               -             -                -   
+(j) Foreign Nationals                     89                            390,319 -              -                    390,319                           0.01%                            390,319 390,319                         0.01% -               390,319                                  0.01% -         -                                       390,319               -             -                -   
+(k) Foreign Companies                      -                                         -   -              -                    -                                    -                             -                                   -                                  -                             -               -                                          -                             -         -                                                  -                 -             -                -   
+(l) Bodies Corporate 2834                         7,295,303 -              -                    7,295,303                        0.27%                         7,295,303 -         7,295,303                      0.27% -               7,295,303                              0.27% -         -                                   7,289,267               -             -                -   
+(m) Any Other (specify)             11,724                      12,509,325                  -                          -   12,509,325                     0.46%                      12,509,325             -                       12,509,325 0.46%                   -                                12,509,325 0.46%             -                 -                         12,507,621               -             -                -   
+Trusts                    50                           368,669 -             -                    368,669                          0.01% 368,669                         -        368,669                        0.01% -               368,669                                 0.01% -        -                                      368,669              -            -                -   
+Escrow Account                      1                                     23 22                                    0.00% 22                                   -        22                                  0.00% 22                                           0.00%                                      23 
+Limited Liability Partnership                  317                           319,375 -             -                    319,375                          0.01% 319,375                         -        319,375                        0.01% -               319,375                                 0.01% -        -                                      319,375              -            -                -   
+Hindu Undivided Family            11,255                        1,775,857 -             -                    1,775,857                       0.07% 1,775,857                      -        1,775,857                     0.07% -               1,775,857                              0.07% -        -                                   1,774,593              -            -                -   
+Clearing Members                    93                      10,036,161 -             -                    10,036,161                     0.37% 10,036,161                    -        10,036,161                   0.37% -               10,036,161                           0.37% -        -                                10,036,161              -            -                -   
+Oversease Corporate Bodies                      8                                9,240 -             -                    9,240                               0.00% 9,240                              -        9,240                             0.00% -               9,240                                     0.00% -        -                                          8,800              -            -                -   
+Sub-Total (B)(4) 1,022,301      139,767,724                  -              -                    139,767,724                   5.15% 139,767,724                  -         139,767,724                 5.15% -               139,767,724                          5.15% -         -           139,258,053                   
+1,023,543      1,053,728,464               -              -                    1,053,728,464                38.83% 1,053,728,464               -         1,053,728,464              38.83% -               1,053,728,464                       38.83% -         -           1,053,216,603                
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+                         NA
+NA
+NA
+NA
+NA
+                       NA
+                       NA
+NA
+                        NA
+Total Public Shareholding                                               (B)= 
+(B)(1)+(B)(2)+(B)(3)+(B)(4)
+Table IV - Statement showing holding of specified securities by the Non-Promoter Non-Public shareholders
+Class X Class
+Y
+Total
+('1) Custodian/DR Holder
+(a) Name of DR Holder (if available) -           -               -              -                 -              -              -              -    -                  -          -          -                   -               
+('2)
+(a)
+HCL Technologies Stock Options Trust
+1              7,823,946    -                  -                     7,823,946    0.29% 7,823,946    -        7,823,946        0.29% - 0.29% 7,823,946    
+Total Non-Promoter- Non Public 
+Shareholding                                           
+(C)= (C)(1)+(C)(2) 1              7,823,946    -                  -                     7,823,946    0.29% 7,823,946    -        7,823,946        0.29% - 0.29% 7,823,946    
+NA
+NA
+NA
+NA
+Employee Benefit Trust / Employee Welfare Trust under 
+SEBI (Share Based Employee Benefits and Sweat 
+Equity) Regulations, 2021
+Non-Disposal 
+Undertaking                    
+(XV)
+Other 
+encumbrance
+s, if any (XVI)
+Total Number 
+of Shares 
+encumbered 
+(XVII) = (XIV 
++ XV + XVI)
+No.
+(a)
+As a % 
+of total 
+Shares 
+held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+No.
+(a)
+As a 
+% of 
+total 
+Share
+s held
+(b)
+Number of 
+equity 
+shares held 
+in 
+dematerializ
+ed form
+(XVIII)
+Total No. of 
+shares on fully 
+diluted basis 
+(including 
+warrants, 
+ESOP, 
+Convertible 
+Securities etc.) 
+(XI) = (VII + X)
+No. of shares 
+underlying
+Depository 
+Receipts
+(VI)
+Total no. 
+shares held
+(VII = 
+IV+V+VI)
+Shareholdin
+g % 
+calculated 
+as per 
+SCRR, 1957
+As a % of 
+(A+B+C2)
+(VIII)
+Number of Voting Rights held in each class of 
+securities
+(IX)
+No. of 
+Shares 
+Underlyin
+g
+Outstandi
+ng 
+convertibl
+e 
+securities 
+(including 
+Warrants, 
+ESOP 
+etc.)
+(X)
+No of Voting Rights Total as a 
+% of Total 
+Voting 
+rights
+Total 
+Shareholding, 
+as a % 
+assuming full 
+conversion of 
+convertible 
+securities (as a 
+percentage of 
+diluted share 
+capital)
+(XII)
+Number of 
+Locked in 
+shares
+(XIII)
+No.
+(a)
+As a % 
+of total 
+Shares 
+held
+(b)
+Number of 
+Shares 
+pledged (XIV)
+No.
+(a)
+As a % 
+of total 
+shares 
+held
+(b)
+Partly paid-
+up equity 
+shares held
+(V)
+Category & Name of the Shareholders
+(I)
+No. of 
+sharehold
+er
+(III)
+No. of fully 
+paid up 
+equity 
+shares held
+(IV)
+Name Nationality Name Nationality Shares Voting 
+rights
+Rights on 
+distributable 
+dividend or 
+any other 
+distribution
+Exercise 
+of 
+Control
+Exercise of 
+significant 
+influence
+1 Ms. Roshni Nadar Malhotra Indian Vamasundari Investment (Delhi)Private Limited (Ref.note 1) Indian Company 44.234         - - - -
+07-Mar-25
+Notes: 
+1
+2
+3 Mr. Shiv Nadar, relative (father) of Ms. Roshni Nadar Malhotra, directly holds 736 equity shares in the Company and Mrs. Kiran Nadar, relative (mother) of Ms. Roshni Nadar Malhotra, directly 
+holds 4,94,602 equity shares in the Company. The aggregate shareholding of Ms. Roshni Nadar Malhotra along with her family members directly and indirectly in the company is 44.252%.
+Ms. Roshni Nadar Malhotra is holding majority stake i.e. 57.33% in Vama Sundari Investments (Delhi) Pvt. Ltd. Accordingly, her proportionate shareholding in HCL Technologies Ltd. (‘the 
+Company’) shall be 25.359%. The balance 42.67% share in Vama Sundari Investments (Delhi) Pvt. Ltd. are held by her other family members (Mrs. Kiran Nadar – mother and Mr. Shikhar 
+Neelkamal Malhotra – spouse). Accordingly, the aggregate shareholding of Ms. Roshni Nadar Malhotra along with her family members through Vama Sundari Investments (Delhi) Private Limited 
+in the Company is 44.234%.
+HCL Holdings Pvt. Ltd. holds 16.46% equity shares in HCL Technologies Ltd. The shareholding in HCL Holdings Pvt. Ltd. is held through Vama Sundari Trust. Since it is a discretionary trust, interest 
+of none of the beneficiaries has materialized or crystallized as on the date of this disclosure and, as a consequence, cannot be determined. The settler of this trust is Ms. Roshni Nadar Malhotra. 
+Sr. 
+no.
+Details of the significant beneficial owner (SBO)                                       
+(I)
+Details of the registered Owner                                                                                                                                                       
+(II)
+Details of holding/exercise of right of significant beneficial 
+owner (SBO) in the reporting company, whether direct or 
+indirect *; whether by virtue of                                                                                              
+(III)
+Date of 
+creation/ 
+acquisition 
+of 
+significant 
+benefical 
+interest #                    
+(IV)
+Board Approved limit (100%) Limits utilized (100%)
+As on shareholding date 100 32.05
+As on the end of previous 1st quarter 100 32.63
+As on the end of previous 2nd quarter 100 33.35
+As on the end of previous 3rd quarter 100 33.78
+As on the end of previous 4th quarter 100 35.68
+Table VI - Statement showing foreign ownership limits

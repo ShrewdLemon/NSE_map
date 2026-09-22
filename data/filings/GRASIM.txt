@@ -1,0 +1,540 @@
+1 Name of Listed Entity                                                                                                                      : Grasim Industries Limited
+2 Scrip Code / Name of Scrip / Class of Security                                                                    : BSE - 500300 & NSE - GRASIM
+3 Class of Security: Equity Shares
+4 Shareholding Pattern filed under :Reg.31(1)(b)
+a. If under 31(1)(b) then indicate the report for Quarter ending 30.06.2026
+b. If under 31(1)(c) then indicate date of allotment / extinguishment
+5 Declaration  :  The Listed entity is required to submit the following declaration to the extent of sumission of information :-
+Particulars Yes*/No* Remarks
+1 Whether the Listed Entity has issued any partly paid up shares  ? Yes Public Shareholder
+2 Whether the Listed Entity has issued any Convertible Securities ? No
+3 Whether the Listed Entity has issued any Warrants? No
+4 No
+5 Whether the Listed Entity has any shares against which depository receipts are issued ? Yes Promoter and Promoter Group
+Public Shareholder
+6 Whether the Listed Entity has any shares in locked-in ? No
+7 Whether any shares held by promoters are encumbered under "Pledged"? No
+8 No
+9 No
+10 Whether company has equity shares with differential voting rights? No
+11 Whether the listed entity has any significant beneficial owner? Yes
+Whether Listed Entity has granted any ESOPs, which are outstanding ?
+Whether any shares held by promoters are encumbered under Non - Disposal Undertaking ?
+Whether any shares held by promoters are encumbered, other than by way of Pledge or NDU, if any?
+Shareholding as a % 
+of total no. of 
+shares(calculated as 
+per SCRR,1957) (VIII)  
+As a % of (A+B+C2)
+Number of Shares 
+pledged or otherwise 
+encumbered 
+(XIII)
+Class- Equity (x) Class- eg : y Total
+(A) Promoter & Promoter Group* 26                    26,63,51,602             0 3,13,20,509     29,76,72,111            43.74                          29,76,72,111.00   0 29,76,72,111.00 43.89                     0.00 43.74 0 0 0 0 29,76,72,111
+(B) Public* 2,40,990          36,33,17,011             52,931 1,72,47,309     38,06,17,251            55.92                          38,05,84,412.00   0 38,05,84,412.00 56.11                     0.00 55.93 0 0 0 0 37,75,00,320
+(C) Non promoter- Non Public 1 22,91,214                   0 0 22,91,214                 0.34 -                         0 0.00 0.00 0.00 0.34 0 0 0 0 22,91,214                
+(C1) Shares underlying DRs 0 0 0 0 0 0 -                         0 0.00 0.00 0.00 0.00 0 0 0 0 0
+(C2) Shares held by Employee Trusts 1                      22,91,214                   0 0 22,91,214 0.34                            0.00 0 0.00 0.00 0.00 0.34 0 0 0 0 22,91,214                
+Total 2,41,017          63,19,59,827             52,931                                        4,85,67,818     68,05,80,576            100.00                        67,82,56,523.00   0 67,82,56,523.00 100.00                   0.00 100.00                                                - -                          - - 67,74,63,645          
+`
+Category of shareholder 
+(II)
+No. of 
+shareholders 
+(III)
+No. of voting Rights 
+*  GDRs governed in terms of the provisions of the Depository Agreement executed with the Depository.
+No. of fully paid-up 
+equity shares held 
+(IV)
+No. of partly paid-up equity 
+shares held 
+(V)
+No. of shares 
+underlying 
+Depository 
+Receipts       
+(VI)
+Table 1 - Summary Statement holding of specified securities.
+Number of Voting Rights held in each class of securities
+ (IX)
+No. of Shares 
+Underlying 
+Outstanding 
+convertible 
+securities        
+(including 
+Warrants)           
+(X)
+Shareholding, as a % assuming 
+full conversion of convertible 
+securities (as a percentage of 
+diluted share capital)        
+(XI)=(VII)+(X)                                                        
+As a % of (A+B+C2)
+Number of equity 
+shares held in 
+dematerialized 
+form        
+(XIV)
+As a % of total 
+shares held 
+(b)
+No.
+(a)
+No.
+(a)
+As a % of total 
+shares held 
+(b)
+Number of Locked in 
+shares
+ (XII)
+Total Nos. shares 
+held
+(VII) = (IV)+(V)+ (VI)
+Category 
+(I)
+Class eg:         
+X
+Class eg:    
+Y
+Total
+(1)
+(a) Individuals/Hindu Undivided Family 8 27,54,321               0 0 27,54,321               0.40                  27,54,321                    - 27,54,321        0.41                               - 0.40                           -             -               -          -               27,54,321                
+1 Kumar Mangalam Birla Promoter 1 17,76,589               0 0 17,76,589               0.26                  17,76,589                    - 17,76,589        0.26                               - 0.26                           -             -               -          -               17,76,589                
+2 Neerja Birla Promoter group 1 75,967                    0 0 75,967                    0.01                  75,967                         - 75,967             0.01                               - 0.01                           -             -               -          -               75,967                     
+3 Rajashree Birla Promoter group 1 5,74,829                 0 0 5,74,829                 0.08                  5,74,829                      - 5,74,829          0.08                               - 0.08                           -             -               -          -               5,74,829                  
+4 Vasavadatta Bajaj Promoter group 1 1,23,249                 0 0 1,23,249                 0.02                  1,23,249                      - 1,23,249          0.02                               - 0.02                           -             -               -          -               1,23,249                  
+5 Aditya Vikram Kumarmangalam Birla HUF 
+(Karta - Mr. Kumar Mangalam Birla)
+Promoter group 1 93,287                    0 0 93,287                    0.01                  93,287                         - 93,287             0.01                               - 0.01                           -             -               -          -               93,287                     
+6 Ananyashree Birla Promoter group 1 36,800                    0 0 36,800                    0.01                  36,800                         - 36,800             0.01                               - 0.01                           -             -               -          -               36,800                     
+7 Aryaman Vikram Birla Promoter group 1 36,800                    0 0 36,800                    0.01                  36,800                         - 36,800             0.01                               - 0.01                           -             -               -          -               36,800                     
+8 Advaitesha Birla Promoter group 1 36,800                    0 0 36,800                    0.01                  36,800                         - 36,800             0.01                               - 0.01                           -             -               -          -               36,800                     
+(b) Central Government/ State Government(s)
+(c) Financial Institutions/ Banks
+(d) Any other (specify) 12 26,35,97,281          0 0 26,35,97,281          38.73                26,35,97,281              - 26,35,97,281  38.86                             - 38.73 -             -               -          -               26,35,97,281           
+1 Birla Consultants Limited Promoter group 1 90,856                    0 0 90,856                    0.01                  90,856                         - 90,856             0.01                        - 0.01 -             -               -          -               90,856                     
+2 Birla Industrial Finance (India) Limited Promoter group 1 90,962                    0 0 90,962                    0.01                  90,962                         - 90,962             0.01                        - 0.01 -             -               -          -               90,962                     
+3 Birla Industrial Investments (India) Limited Promoter group 1 19,400                    0 0 19,400                    0.00 19,400                         - 19,400             0.00                        - 0.00 -             -               -          -               19,400                     
+4 Hindalco Industries Limited Promoter group 1 2,91,68,472            0 0 2,91,68,472            4.29                  2,91,68,472                 - 2,91,68,472     4.30                        - 4.29 -             -               -          -               2,91,68,472             
+5 Birla Group Holdings Private Limited Promoter 1 15,77,82,973          0 0 15,77,82,973          23.18                15,77,82,973              - 15,77,82,973  23.26                        - 23.18 -             -               -          -               15,77,82,973           
+6 Rajratna Holdings Private Limited Promoter group 1 697                         0 0 697                         0.00 697                              - 697                  0.00                        - 0.00 -             -               -          -               697                          
+7 Vikram Holdings Pvt Ltd Promoter group 1 781                         0 0 781                         0.00 781                              - 781                  0.00                        - 0.00 -             -               -          -               781                          
+8 Vaibhav Holdings Private Limited Promoter group 1 697                         0 0 697                         0.00 697                              - 697                  0.00                        - 0.00 -             -               -          -               697                          
+9 Birla Institute of Technology and Science Promoter group 1 6,61,205                 0 0 6,61,205                 0.10                  6,61,205                      - 6,61,205          0.10                        - 0.10 -             -               -          -               6,61,205                  
+10 Pilani Investment and Industries Promoter group 1 3,03,35,623            0 0 3,03,35,623            4.46                  3,03,35,623                 - 3,03,35,623     4.47                        - 4.46 -             -               -          -               3,03,35,623             
+11 Renuka Ventures Limited Promoter group 1 2,50,302                 0 0 2,50,302                 0.04                  2,50,302                      - 2,50,302          0.04                          - 0.04 -             -               -          -               2,50,302                  
+12 IGH Holdings Private Limited Promoter group 1 4,51,95,313            0 0 4,51,95,313            6.64                  4,51,95,313                 - 4,51,95,313     6.66                        - 6.64 -             -               -          -               4,51,95,313             
+13 ECE Industries Ltd Promoter group -                          -                       -                         -                          -                    -                               - -                                          -                        - -                             -             -               -          -               -                           
+14 Padmavati Investment Private Limited Promoter group -                          -                       -                         -                          -                    -                               - -                                          -                        - -                             -             -               -          -               -                           
+Sub-total (A) (1) 20 26,63,51,602          -                       -                         26,63,51,602          39.14                26,63,51,602              - 26,63,51,602  39.27                             - 39.14                         -             -               -          -               26,63,51,602           
+(2)
+(a) Individuals  (Non-resident Individual/ Foreign 
+Individuals)
+- -                          -                       -                         -                          -                    -                               - -                                 - -                             -             -               -          -               -                           
+(b) Government - -                          -                       -                         -                          -                    -                               - -                                 - -                             -             -               -          -               -                           
+(c) Institutions - -                          -                       -                         -                          -                    -                               - -                                 - -                             -             -               -          -               -                           
+(d) Foreign Portfolio Investor - -                          -                       -                         -                          -                    -                               - -                                 - -                             -             -               -          -               -                           
+(e) Any other (specify) 6 -                          -                       3,13,20,509           3,13,20,509            4.60                  3,13,20,509                 - 3,13,20,509     4.62                               - 4.60                           -             -               -          -               3,13,20,509             
+1 P.T. Indo Bharat Rayon Promoter group 1 -                          -                       2,00,04,020           2,00,04,020            2.94                  2,00,04,020                 - 2,00,04,020     2.95                               - 2.94                           -             -               -          -               2,00,04,020             
+2 PT. Sunrise Bumi Textiles Promoter group 1 -                          -                       12,68,750              12,68,750               0.19                  12,68,750                    - 12,68,750        0.19                               - 0.19                           -             -               -          -               12,68,750                
+3 PT. Elegant Textile Industry Promoter group 1 -                          -                       8,08,750                8,08,750                 0.12                  8,08,750                      - 8,08,750          0.12                               - 0.12                           -             -               -          -               8,08,750                  
+4 Thai Rayon Public Company Limited Promoter group 1 -                          -                       47,74,666              47,74,666               0.70                  47,74,666                    - 47,74,666        0.70                               - 0.70                           -             -               -          -               47,74,666                
+5 Surya Kiran Investments Pte Limited Promoter group 1 5,000                      5,000                      0.00 5,000                           - 5,000               0.00                        - -                             -             -               -          -               5,000                       
+6 Anatole Investments Pte Ltd Promoter group 1 -                          -                       44,59,323              44,59,323               0.66                  44,59,323                    - 44,59,323        0.66                               - 0.66                           -             -               -          -               44,59,323                
+Sub-total (A) (2) 6 -                          -                       3,13,20,509           3,13,20,509            4.60                  3,13,20,509                 - 3,13,20,509     4.62                               - 4.60                           -             -               -          -               3,13,20,509             
+Total Shareholding of Promoter and Promoter 
+Group (A) = (A)(1) + (A)(2) 26           26,63,51,602                        -             3,13,20,509           29,76,72,111                 43.74    29,76,72,111             -    29,76,72,111       43.89                        - 43.74                                         -                     -                -                     -   29,41,37,111           
+FOREIGN
+INDIAN 
+Category and Name of the Shareholders                                             
+(I)
+Sr. No. No. of 
+shareholders
+(III)
+No. of fully paid up 
+equity shares held 
+(IV)
+Shareholder type 
+i.e.
+ Promoter
+OR
+Promoter
+Group entity
+(except promoter)
+(II)
+Total as 
+a % of       
+Total 
+Voting 
+rights
+Table II  -  Statement showing shareholding pattern of the Promoters and Promoter Group
+Shareholding 
+as a % of total 
+no. of shares 
+(calculated as 
+per SCRR, 
+1957)
+(VIII)
+As a % of 
+(A+B+C2)
+No. of Shares 
+Underlying Outstanding 
+convertible securities,                        
+No. of  Warrants and ESOP 
+etc.                                                                       
+ (X)
+Shareholding , as a 
+% assuming full 
+conversion of 
+convertible 
+securities 
+(as a percentage of 
+diluted share 
+capital)
+(XI)= (VII)+(X)
+As a % of (A+B+C2)
+As a % of 
+total shares 
+held 
+(b)
+Number of equity 
+shares held in 
+dematerialized 
+form
+(XIV)
+No. of Partly paid-
+up equity shares 
+held      (V)
+No. of shares 
+underlying 
+Depository 
+Receipts     
+(VI)
+Total   Nos. of 
+shares held        
+(VII)=(IV+V+VI)
+Total No. of Shares 
+encumbered       (XIII)
+Number of Voting Rights held in each class of 
+securities
+ (IX)
+Number of Locked in 
+shares                            
+(XII)
+As a % of 
+total shares 
+held
+ (b)
+No.
+ (a)
+No.
+(a)
+No. of voting Rights 
+Class eg: X Class eg: Y Total Subcategory
+(i)
+Subcategory
+(ii)
+Subcategory
+(iii)
+(1) Institutions (Domestic)
+(a) Mutual funds/UTI 54                                 4,34,32,118                        -                       -                           4,34,32,118                            6.38 4,34,32,118        -                 4,34,32,118     6.40 -                       6.38                                           -                   -                       -                            -                              4,34,05,598                 -                              -                              -                              
+ SBI Nifty 50 ETF 1                                   1,09,16,925                        -                       -                           1,09,16,925                            1.60 1,09,16,925        -                 1,09,16,925     1.61 -                       1.60                                           -                   -                       -                            -                              1,09,16,925                -                              -                              -                              
+ ICICI Prudential Nifty ETF                                                                                                              1                                   69,00,184                           -                       -                           69,00,184                               1.01 69,00,184           -                 69,00,184        1.02 -                       1.01                                           -                   -                       -                            -                              69,00,184                   -                              -                              -                              
+(b)  Venture Capital Funds                                  - - -                       -                           -                                                                                - -                      -                 -                   - -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(c)  Alternate Investment Funds 20                                 5,02,747                            -                       -                           5,02,747                                 0.07 5,02,747             -                 5,02,747          0.07 -                       0.07                                           -                   -                       -                            -                              5,02,747                     -                              -                              -                              
+(d)  Banks 81                                 10,60,224                          -                       -                           10,60,224                               0.16 10,60,224           -                 10,60,224        0.16 -                       0.16                                           -                   -                       -                            -                              9,67,912                     -                              -                              -                              
+(e)  Insurance Companies 13                                 4,61,20,384                       -                       -                           4,61,20,384                            6.78 4,61,20,384        -                 4,61,20,384     6.80 -                       6.78                                           -                   -                       -                            -                              4,61,03,032                 -                              -                              -                              
+ Life Insurance Corporation of India  1                                   4,48,67,472                       -                       -                           4,48,67,472                            6.59 4,48,67,472        -                 4,48,67,472     6.62 -                       6.59                                           -                   -                       -                            -                              4,48,51,285                 -                              -                              -                              
+(f)  Provident funds / Pension Funds 1                                   98,03,199                          -                       -                           98,03,199                               1.44 98,03,199           -                 98,03,199        1.45                              -                       1.44                                           -                   -                       -                            -                              98,03,199                   -                              -                              -                              
+ NPS Trust - A/c UTI Pension Fund Limited - Scheme State      1                                   98,03,199                          -                       -                           98,03,199                               1.44 98,03,199           -98,03,199        1.45                                              - 1.44                                           -                   -                       -                            -                              98,03,199                   -                              -                              -                              
+(g)  Asset Reconstruction Companies - -                                     -                       -                           -                                          -                                  -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(h)  Sovereign Wealth Funds - -                                     -                       -                           -                                          -                                  -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(I)  NBFCs registered with RBI 6                                   1,219                                 -                       -                           1,219                                      0.00 1,219                  -                 1,219               0.00 -                       0.00                                           -                   -                       -                            -                              1,219                          -                              -                              -                              
+(j)  Other Financial Institutions 17                                 88,39,014                          -                       -                           88,39,014                               1.30 88,39,014           -                 88,39,014        1.30 -                       1.30                                           -                   -                       -                            -                              88,31,524                   -                              -                              -                              
+(k)  Any Other (specify) - -                                     -                       -                           -                                          0.00 -                      -                 -                   0.00 -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+ Sub -Total (B)(1) 192                               10,97,58,905                     -                       -                           10,97,58,905                          16.13 10,97,58,905      -                 10,97,58,905   16.18 -                       16.13                                         -                   -                       -                            -                              10,96,15,231              -                              -                              -                              
+(2)
+(a)  Foreign Direct Investment -                                -                                     -                       -                           -                                          -                                  -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(b)  Foreign Venture Capital Investors -                                -                                     -                       -                           -                                          -                                  -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(c)  Sovereign Wealth Funds -                                -                                     -                       -                           -                                          -                                  -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(d)  Foreign Portfolio Investors Category I 637                               8,95,61,941                        2,430                   -                           8,95,64,371                            13.16 8,95,62,909        -                 8,95,62,909     13.20 -                       13.16                                         -                   -                       -                            -                              8,95,64,371                 -                              -                              -                              
+(e)  Foreign Portfolio Investors Category II  35                                 1,00,27,890                        -                       -                           1,00,27,890                            1.47 1,00,27,890        -                 1,00,27,890     1.48 -                       1.47                                           -                   -                       -                            -                              1,00,27,890                 -                              -                              -                              
+ Theleme Master Fund Limited 1                                   79,76,267                           -                       -                           79,76,267                               1.17 79,76,267           -                 79,76,267        1.18 -                       1.17                                           -                   -                       -                            -                              79,76,267                    -                              -                              -                              
+(f)  Overseas Depositories (holding DRs) (balancing figure) 1                                   -                                     -                       1,72,47,309             1,72,47,309                            2.53 1,72,47,309        -                 1,72,47,309     2.54 -                       2.53                                           -                   -                       -                            -                              1,72,46,559                 -                              -                              -                              
+ Citibank N.A. New York, NYADR Department 1                                   -                                     -                       1,72,47,309             1,72,47,309                            2.53 1,72,47,309        -                 1,72,47,309     2.54 -                       2.53                                           -                   -                       -                            -                              1,72,46,559                 -                              -                              -                              
+(g)  Any Other (specify) 5                                   3,127                                  -                       -                           3,127                                      0.00 3,127                  -                 3,127               0.00 -                       0.00                                           -                   -                       -                            -                              0 -                              -                              -                              
+ Foreign Institutional Investors 5                                   3,127                                  -                       -                           3,127                                      0.00 3,127                  -                 3,127               0.00 -                       0.00                                           -                   -                       -                            -                              0 -                              -                              -                              
+Sub-Total (B)(2) 678                               9,95,92,958                       2,430                   1,72,47,309             11,68,42,697                          17.17 11,68,41,235      -                 11,68,41,235   17.23 -                       17.17                                         -                   -                       -                            -                              11,68,38,820              -                              -                              -                              
+(3)
+(a)  Central Government / President of India  1                                   246                                    -           -                           246                                         0.00 246                     -                 246                  0.00 -                       0.00                                           -                   -                       -                            -                              246                             -                              -                              -                              
+(b)  State Government / Governor 2                                   9,155                                 -                       -                           9,155                                      0.00 9,155                  -                 9,155               0.00 -                       0.00                                           -                   -                       -                            -                              7,905                          -                              -                              -                              
+(c)  Shareholding by Companies or Bodies Corporate where Central 
+/ State Government is a promoter 
+4                                   2,208                                 -                       -                           2,208                                      0.00 2,208                  -                 2,208               0.00 -                       0.00                                           -                   -                       -                            -                              2,208                          -                              -                              -                              
+Sub-Total (B)(3) 7                                   11,609                               -                       -                           11,609                                    0.00 11,609                -                 11,609             0.00 -                       0.00                                           -                   -                       -                            -                              10,359                        -                              -                              -                              
+(4)
+(a)  Associate companies / Subsidiaries -                    -                                     -                       -                           -                                          -                                  -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(b)
+ Directors and their relatives (excluding independent directors 
+and nominee directors) 6                                   3,22,660                            -                       -                           3,22,660                                 0.05 3,22,660             -                 3,22,660          0.05                              -                       0.05                                           -                   -                       -                            -                              3,22,660                     -                              -                              -                              
+(c)  Key Managerial Personnel 1                                   15,117                               -                       -                           15,117                                    0.00 15,117                -                 15,117             0.00                              -                       0.00 -                   -                       -                            -                              15,117                        -                              -                              -                              
+(d)  Relatives of promoters (other than ‘immediate relatives’ of 
+promoters disclosed under ‘Promoter and Promoter Group’ 
+category) 
+-                                -                                     -                       -                           -                                          0.00 -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(e)  Trusts where any person belonging to 'Promoter and Promoter 
+Group' category is 'trustee', 'beneficiary', or 'author of the trust'
+-                                -                                     -                       -                           -                                          0.00 -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+(f)  Investor Education and Protection Fund (IEPF) 1                                   38,60,121                          -                       -                           38,60,121                               0.57 38,60,121           -                 38,60,121        0.57                              -                       0.57                                           -                   -                       -                            -                              38,60,121                   -                              -                              -                              
+(g)  Resident Individuals holding nominal share capital up to 
+Rs. 2 lakhs 
+2,24,997                       4,90,11,302                       41,345                 -                           4,90,52,647                            7.21 4,90,27,451        -                 4,90,27,451     7.23                              -                       7.21                                           -                   -                       -                            -                              4,68,02,478                -                              -                              -                              
+(h)  Resident Individuals holding nominal share capital in excess of 
+Rs. 2 lakhs 
+42                                 2,20,84,537                       -                       -                           2,20,84,537                            3.24 2,20,84,537        -                 2,20,84,537     3.26                              -                       3.24                                           -                   -                       -                            -                              2,20,84,537                -                              -                              -                              
+(i)  Non Resident Indians (NRIs) 9,137                            49,77,718                          1,387                   -                           49,79,105                               0.73 49,78,147           -                 49,78,147        0.73                              -                       0.73                                           -                   -                       -                            -                              44,42,944                   -                              -                              -                              
+(j)  Foreign Nationals 7                                   3,077                                 -                       -                           3,077                                      0.00 3,077                  -                 3,077               0.00                              -                       0.00                                           -                   -                       -                            -                              3,077                          -                              -                              -                              
+(k)  Foreign Companies -                                -                                     -                       -                           -                                          0.00 -                      -                 -                   -                                -                       -                                             -                   -                       -                            -                              -                              -                              -                              -                              
+ Bodies Corporate 1,858                            5,69,77,213                       1,743                   -                           5,69,78,956                            8.37 5,69,77,951        -                 5,69,77,951     8.40                              -                       8.37                                           -                   -                       -                            -                              5,68,11,189                -                              -                              -                              
+ Gagandeep Credit Capital Pvt Ltd 1                                   99,23,232                          -                       -                           99,23,232                               1.46 99,23,232           -                 99,23,232        1.46                              -                       1.46                                           -                   -                       -                            -                              99,23,232                   -                              -                              -                              
+ Shamyak Investment Private Limited 1                                   97,54,321                          -                       -                           97,54,321                               1.43 97,54,321           -                 97,54,321        1.44                              -                       1.43                                           -                   -                       -                            -                              97,54,231                   -                              -                              -                              
+ Any Other (specify) 4,064                            1,67,01,794                       6,026                   -                           1,67,07,820                            2.45 1,67,03,602        -                 1,67,03,602     2.46                              -                       2.45                                           -                   -                       -                            -                              1,66,93,787                -                              -                              -                              
+ HUF 3,994                            27,67,815                          5,084                   -                           27,72,899                               0.41 27,69,325           -                 27,69,325        0.41                              -                       0.41                                           -                   -                       -                            -                              27,68,953                   -                              -                              -                              
+ Clearing Members 5                                   8,131                                 -                       -                           8,131                                      0.00 8,131                  -                 8,131               0.00                              -                       0.00                                           -                   -                       -                            -                              8,131                          -                              -                              -                              
+ Qualified Institutional Buyers 2                                   4,84,561                            -                       -                           4,84,561                                 0.07 4,84,561             -                 4,84,561          0.07                              -                       0.07                                           -                   -                       -                            -                              4,84,561                     -                              -                              -                              
+Overseas Corporate Bodies 8                                   1,31,13,530                       -                       -                           1,31,13,530                            1.93 1,31,13,530        -                 1,31,13,530     1.93                              -                       1.93                                           -                   -                       -                            -                              1,31,13,065                -                              -                              -                              
+Trusts 50                                 1,40,185                            -                       -                           1,40,185                                 0.02 1,40,185             -                 1,40,185          0.02                              -                       0.02                                           -                   -                       -                            -                              1,30,563                     -                              -                              -                              
+ Independent Directors or his relatives 2                                   70,332                               -                       -                           70,332                                    0.01 70,332                -                 70,332             0.01                              -                       0.01                                           -                   -                       -                            -                              70,332                        -                              -                              -                              
+ Unclaimed or Suspense or Escrow Account 1                                   1,07,737                            -                       -                           1,07,737                                 0.02 1,07,737             -                 1,07,737          0.02                              -                       0.02                                           -                   -                       -                            -                              1,07,737                     -                              -                              -                              
+ Unclaimed or Suspense or Escrow Account 1                                   9,474                                 -                       -                           9,474                                      0.00 9,474                  -                 9,474               0.00                              -                       0.00                                           -                   -                       -                            -                              9,474                          -                              -                              -                              
+ Unclaimed or Suspense or Escrow Account 1                                   29                                      942                      -                           971                                         0.00 327                     -                 327                  0.00                              -                       0.00                                           -                   -                       -                            -                              971                             -                              -                              -                              
+Sub-Total (B)(4) 2,40,113                       15,39,53,539                     50,501                 -                           15,40,04,040                          22.63 15,39,72,663      -                 15,39,72,663   22.70                            -                       22.63                                         -                   -                       -                            -                              15,10,35,910              -                              -                              -                              
+ Total Public Shareholding 
+(B) = (B)(1) + (B)(2) + (B)(3) + (B)(4) 2,40,990                       36,33,17,011                     52,931                 1,72,47,309             38,06,17,251                          55.93 38,05,84,412      -                 38,05,84,412   56.11                            -                       55.93                                         -                   -                       -                            -                              37,75,00,320              -                              -                              -                              
+Non-Institutions 
+(l)
+No. of shareholders
+(II)
+Number of Voting rights held in each class of securities (VIII)
+Institutions (Foreign)
+Central Government / State Government(s)
+Shareholding % 
+calculated as per 
+SCRR, 1957
+As a % of (A+B+C2)
+(VII)
+Sub-categorization of shares
+(XIV)
+Shareholding (No. of shares) under
+No. of Shares 
+Underlying 
+Outstanding 
+convertible 
+securities,       
+No. of Warrants 
+and ESOP etc.
+(IX)
+No. of Voting Rights 
+(m)
+Sr. No.
+Table III - Statement showing shareholding pattern of the Public shareholders
+Number of equity 
+shares held in 
+dematerialized form
+(XIII)
+As a % of total shares 
+held             (b) 
+No. of Partly 
+paid-up equity 
+shares held
+(IV)
+No. of fully paid-up 
+equity shares held
+(III)
+Shareholding , as a % 
+assuming full conversion 
+of convertible securities    
+(as a percentage of diluted 
+share capital)
+(X)= (VII)+(IX)
+As a % of (A+B+C2)
+As a % of total 
+shares held      
+(b)
+No.
+(a)
+Number of Locked in shares (XI)
+(XII)
+Total Number of shares encumbered
+(XII)
+No.                          
+(a)  
+Category & Name of the Shareholders              
+ (I)
+No. of shares 
+underlying 
+Depository 
+Receipts
+(V)
+Total No. of shares held
+(VI) = (III + IV + V)
+Class eg: 
+X
+Class eg:     
+Y
+Total
+(1) Custodian/DR  Holder - Name of DR 
+Holders  (If Available)
+-                       -                       -                       -                       -                       -                       -                 -                       -                       -                       -                       -                       -                      -                       -                       -                       -
+(2) Employee Benefit Trust / Employee 
+Welfare Trust under SEBI (Share 
+Based Employee Benefits and Sweat 
+Equity) Regulations, 2021
+1 22,91,214                       -                       - 22,91,214 0.34 0                 - 0 0.00 0 0.34                      -                      -                       -                       - 22,91,214                      
+Total Non-Promoter- Non Public 
+Shareholding (C) = (C)(1)+(C)(2) 1 22,91,214         - - 22,91,214                                   - 0.00                 - 0 0.00 0                             -                       -                      -                       -                       - 22,91,214                      
+Number of Locked in 
+shares
+(XI)
+As a % of total 
+Shares held
+No. (Not 
+applicable)
+As a % of total 
+shares held
+(Not applicable)
+Number of shares pledged or 
+otherwise encumbered
+(XII)
+Table IV - Statement showing shareholding pattern of the Non-Promoter - Non Public shareholders
+Sr. No. Category & Name of the 
+Shareholders
+(I)
+No. of 
+shareholders
+(II)
+No. of fully 
+paid-up equity 
+shares held
+(III)
+Partly paid-up 
+equity shares 
+held
+(IV)
+Nos. of shares 
+underlying 
+Depository 
+Receipts
+(V)
+Total Nos. shares 
+held                      
+(VI= III+IV+V)
+Shareholding  % 
+calculated as
+ per SCRR, 1957
+As a % of 
+(A+B+C2)
+(VII) 
+Number of Voting Rights held in each class of securities
+(VIII)
+No. of Shares 
+Underlying 
+Outstanding 
+convertible 
+securities 
+(including 
+Warrants)
+(IX)
+Total shareholding, 
+as a % assuming full 
+conversion 
+of convertible 
+securities (as a percentage of 
+diluted share capital)
+(X)
+Number of equity 
+shares held in 
+dematerialized form
+(XIII)
+(Not Applicable)
+No. of Voting Rights No.
+Shares Voting 
+Rights
+Rights on distributable 
+dividend or any other 
+distribution
+Exercise of 
+control
+Exercise of 
+Significant 
+Influence
+1 Kumar Mangalam Birla India Birla Group Holdings Private Limited India 23.18 0 0 No No 29-03-2022
+2 Kumar Mangalam Birla India IGH Holdings Private Limited India 6.64 0 0 No No 29-03-2022
+3 Kumar Mangalam Birla India Rajratna Holdings Private Limited India 0.00 0 0 No No 29-03-2022
+4 Kumar Mangalam Birla India Vaibhav Holdings Private Limited India 0.00 0 0 No No 29-03-2022
+5 Kumar Mangalam Birla India Vikram Holdings Pvt Ltd India 0.00 0 0 No No 29-03-2022
+6 Kumar Mangalam Birla India Hindalco Industries Limited India 4.29 0 0 No No 29-03-2022
+7 Kumar Mangalam Birla India Renuka Ventures Limited India 0.04 0 0 No No 29-03-2022
+8 Kumar Mangalam Birla India Birla Institute of Technology and Science India 0.10 0 0 No No 29-03-2022
+9 Kumar Mangalam Birla India P. T. Elegant Textile Industry Any other 
+(Indonesia)
+0.12 0 0 No No 29-03-2022
+10 Kumar Mangalam Birla India P.T. Indo Bharat Rayon Any other 
+(Indonesia)
+2.94 0 0 No No 29-03-2022
+11 Kumar Mangalam Birla India P. T. Sunrise Bumi Textiles  Any other 
+(Indonesia)
+0.19 0 0 No No 29-03-2022
+12 Kumar Mangalam Birla India  Surya Kiran Investments Pte Limited Singapore 0.00 0 0 No No 29-03-2022
+13 Kumar Mangalam Birla India Thai Rayon Public Company Limited  Any other 
+(Thailand)
+0.70 0 0 No No 29-03-2022
+14 Kumar Mangalam Birla India Anatole Investments Pte. Ltd Singapore 0.66 0 0 No No 29-03-2022
+15 Kumar Mangalam Birla India Aditya Vikram Kumarmangalam Birla HUF 
+(Karta - Mr. Kumar Mangalam Birla)
+India 0.01 0 0 No No 29-03-2022
+Table V - Statement showing details of significant beneficial owners (SBOs)
+Date of creation / 
+acquisition of 
+significant 
+beneficial interest
+(IV)
+Details of the SBO (I) Details of the registered owner (II)
+NationalityName NationalityName 
+Details of holding/ exercise of right of the SBO in the reporting 
+company, whether direct or indirect :
+(III)
+Whether by virtue of : 
+Sr. No
+Table VI - Statement showing foreign ownership limits
+Particulars Approved Limits (%) Limits Utilized(%)
+As on shareholding date 100.00 26.11
+As on the end of previous 1st quarter 100.00 26.12
+As on the end of previous 2nd quarter 100.00 25.01
+As on the end of previous 3rd quarter 100.00 25.49
+As on the end of previous 4th quarter 100.00 24.88
+No. of Shareholders No. of Shares Voting rights which are frozen
+898 1,07,737 1,07,737
+62 9,474 0*
+108 971 327
+Note : The Approved limit is as per the Sectoral/Statutory Cap prescribed by Government/ Statutory Authorities and limits utilized is as per the NSDL - Daily Foreign 
+Investment Limit Monitoring Report for the respective quarters.
+Details of Shares which remain unclaimed for Public
+Details of Shares which remain unclaimed may be given here along with details such as number of shareholders, outstanding shares held in demat/unclaimed 
+suspense account, voting rights which are frozen etc.
+*Voting rights on equity shares lying in the Suspense Escrow Demat Account of the Company are not frozen as per SEBI Master Circular dated 6th February 2026.
+The ISINs, BSE Scrip code and NSE symbol for the partly paid-up shares included in this report is IN9047A01011 and IN9047A01029, 890190 and 
+GRASIMPP1 respectively.
+Shareholding of Promoter and Promoter Group includes 4.60% GDRs and Public Shareholders include 2.53% GDRs. Refer the Deposit Agreement 
+between the Parties w.r.t. voting rights.
+Voting Rights on shares are in proportion to the amount paid up on the face value of such shares.
+As the shareholding pattern upload utility on the stock exchanges websites does not recognise voting rights in fractions the same have been rounded 
+off to the nearest full figure.
+In terms of SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021, the trustees of the Grasim Employees Welfare Trust ('Trust') 
+do not have voting rights in respect of the shares held by the Trust. The voting rights will be available to the individuals (Grantees) upon exercise of the 
+Options and RSUs by them under the Company's Employee Stock Option Scheme 2018 and Company's Employee Stock Option Scheme 2022.
+Company Remarks 

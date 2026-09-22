@@ -175,15 +175,21 @@ def write(companies, categories, path, index_name="NIFTY 50"):
     ws = wb.create_sheet("Provenance")
     head = ["Ticker", "Company name", "ISIN", "As at", "Quarters",
             "Shares (SCRR base)", "How the share base was settled",
-            "Promoter % filed", "Holders named", "Source"]
+            "Promoter % filed", "Promoter rows reconcile?", "Holders named",
+            "Source"]
     ws.append(head)
     _style_header(ws, 1, len(head))
     for c in companies:
         m = c["meta"]
+        drift = m.get("drift")
+        recon = m.get("reconciliation") or "unchecked"
         ws.append([c["ticker"], c["company"], m.get("isin"), m.get("as_of"),
                    ", ".join(c["quarters"]), m.get("shares_scrr"),
                    m.get("denominator_note"), m.get("promoter_pct"),
+                   recon if drift is None else f"{recon} ({drift:+.1%})",
                    len(c["rows"]), "\n".join(m.get("source_urls") or [])])
+        if recon == "unreconciled":
+            ws.cell(row=ws.max_row, column=9).fill = FLAG_FILL
     for row in ws.iter_rows(min_row=2, min_col=6, max_col=6):
         for cell in row:
             cell.number_format = "#,##0"
@@ -191,7 +197,7 @@ def write(companies, categories, path, index_name="NIFTY 50"):
         for cell in row:
             cell.alignment = Alignment(wrap_text=True, vertical="top")
     for col, w in {1: 13, 2: 40, 3: 15, 4: 12, 5: 34, 6: 20, 7: 52,
-                   8: 15, 9: 14, 10: 60}.items():
+                   8: 15, 9: 24, 10: 14, 11: 60}.items():
         ws.column_dimensions[get_column_letter(col)].width = w
     ws.freeze_panes = "C2"
     ws.auto_filter.ref = f"A1:{get_column_letter(len(head))}{ws.max_row}"

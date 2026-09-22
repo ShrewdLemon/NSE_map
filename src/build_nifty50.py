@@ -59,6 +59,8 @@ def run(index, only=None):
                 "denominator_note": raw.get("denominator_note"),
                 "source_urls": raw.get("source_urls", []),
                 "promoter_pct": registry.get("promoter_total_pct"),
+                "reconciliation": raw.get("promoter_reconciliation"),
+                "drift": raw.get("promoter_drift"),
             },
         })
 

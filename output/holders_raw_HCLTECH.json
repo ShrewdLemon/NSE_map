@@ -1,0 +1,532 @@
+{
+  "company": "HCL Technologies Limited",
+  "ticker": "HCLTECH",
+  "isin": "IN9860A01017",
+  "as_of": "2026-06-30",
+  "shares_scrr": 2711788708,
+  "denominator_note": "denominator recovered from 13 count/percentage pairs",
+  "quarter_labels": [
+    "Jun/2026"
+  ],
+  "holders": [
+    {
+      "holder_name": "Mr. Shiv Nadar",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 736
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Mrs. Kiran Nadar",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 494602
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Mrs. Roshni Nadar Malhotra",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 696
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Mr. Shikhar Neelkamal Malhotra",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Master Armaan Malhotra (minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Master Jahaan Malhotra (minor)",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Corporation Pvt. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Vama Sundari Investments (Delhi) Pvt. Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 1200361516
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Universal Office Automation Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "International Data Management Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Infosystems Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "SSN Investments (Delhi) Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL IT City Lucknow Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "KRN Education Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Avitas Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "SSN Investments (Pondi) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Julian Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Blueberry Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Guddu Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Slocum Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "SSN Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Healthcare Pvt. Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Kiranroshni Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Shivkiran Investments (Chennai) Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Vama Sundari Investments (Pondi) Pvt Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Esthetic Infra \u2013 Developers Pvt Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Buoyant Infra \u2013 Developers Pvt Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Cityframe Infra \u2013 Developers Pvt Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Dhrtvan Business Accelerations Pvt Ltd (formerly known as Sprire Infra Developers Private Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Saola Infra Developers Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Grotto Infra Developers Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Capital Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Games Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Sterna Private Limited (formerly known as HCL Cortech Private Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Guvi Geek Network Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "School Style Supplies Pvt Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "(formerly known as HDFC Education and Development Services Private Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Hudson Engineering & Technology Solutions Limited ( Formerly known as HCL Infosolutions Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "First Stonex Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Ecstatic Employees Care & Support Limited (Formerly known as HCL Employees Investment Co. Limited)",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "South Asian Computers Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "India Chip Private Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Vama Sundari Education",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Slocum Education",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Vidyagyan Foundation",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "SSN Incubation Foundation",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Prudential HCL Health Insurance Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Kiran Nadar Musuem of Art",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2300000
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Shiv Nadar Foundation",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 2293104
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "SSN",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Shiv Nadar",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Vamasundari Scholarship",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "The Habitats",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Shiv Nadar Institution of Eminence Deemed to be University",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Anantya Sakti, Inc",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 0
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Holdings Private Ltd",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 446662032
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HDFC Trustee Company Limited",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 56676384
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "SBI Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 37799809
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "ICICI Prudential Mutual Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 31964191
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Parag Parikh Flexi Cap Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 44231975
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Life Insurance Corporation Of India",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 193966713
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "NPS",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 33729612
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "Artisan International Value Fund",
+      "bloomberg_holder_type": "Institution",
+      "quarters": {
+        "Jun/2026": 53387154
+      },
+      "filed_class": null
+    },
+    {
+      "holder_name": "HCL Technologies Stock Options",
+      "bloomberg_holder_type": "Individual",
+      "quarters": {
+        "Jun/2026": 7823946
+      },
+      "filed_class": null
+    }
+  ],
+  "source_urls": [
+    "https://www.hcltech.com/sites/default/files/document/open/shareholding-pattern/2026-07/Shareholding-Pattern-30June2026.pdf"
+  ],
+  "notes": "Parsed from the filed SEBI Regulation 31 shareholding pattern.",
+  "promoter_reconciliation": "reconciled",
+  "promoter_drift": 0.0007121535190129781,
+  "promoter_pct_filed": 60.88
+}

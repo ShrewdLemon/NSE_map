@@ -1,0 +1,295 @@
+{
+  "company": "HCL Technologies Limited",
+  "isin": "IN9860A01017",
+  "source": "SEBI LODR Reg 31 shareholding pattern (Table II - Promoter & Promoter Group), as at 2026-06-30",
+  "source_urls": [
+    "https://www.hcltech.com/sites/default/files/document/open/shareholding-pattern/2026-07/Shareholding-Pattern-30June2026.pdf"
+  ],
+  "as_of": "2026-06-30",
+  "promoter_total_pct": 60.88,
+  "promoter_total_shares_filed": 1652112686,
+  "bonus_adjustment_note": "Holder counts come straight from the filed table, so no bonus adjustment applies.",
+  "bonus_factor": 1,
+  "promoter_group": [
+    {
+      "filed_name": "Mr. Shiv Nadar",
+      "shares_filed": 736,
+      "class": null
+    },
+    {
+      "filed_name": "Mrs. Kiran Nadar",
+      "shares_filed": 494602,
+      "class": null
+    },
+    {
+      "filed_name": "Mrs. Roshni Nadar Malhotra",
+      "shares_filed": 696,
+      "class": null
+    },
+    {
+      "filed_name": "Mr. Shikhar Neelkamal Malhotra",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Master Armaan Malhotra (minor)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Master Jahaan Malhotra (minor)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Corporation Pvt. Ltd",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Vama Sundari Investments (Delhi) Pvt. Ltd",
+      "shares_filed": 1200361516,
+      "class": null
+    },
+    {
+      "filed_name": "Universal Office Automation Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "International Data Management Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Infosystems Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "SSN Investments (Delhi) Pvt Ltd",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL IT City Lucknow Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "KRN Education Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Avitas Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "SSN Investments (Pondi) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Julian Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Blueberry Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Guddu Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Slocum Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "SSN Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Healthcare Pvt. Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Kiranroshni Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Shivkiran Investments (Chennai) Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Vama Sundari Investments (Pondi) Pvt Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Esthetic Infra \u2013 Developers Pvt Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Buoyant Infra \u2013 Developers Pvt Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Cityframe Infra \u2013 Developers Pvt Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Dhrtvan Business Accelerations Pvt Ltd (formerly known as Sprire Infra Developers Private Limited)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Saola Infra Developers Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Grotto Infra Developers Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Capital Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Games Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Sterna Private Limited (formerly known as HCL Cortech Private Limited)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Guvi Geek Network Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "School Style Supplies Pvt Ltd",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "(formerly known as HDFC Education and Development Services Private Limited)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Hudson Engineering & Technology Solutions Limited ( Formerly known as HCL Infosolutions Limited)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "First Stonex Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Ecstatic Employees Care & Support Limited (Formerly known as HCL Employees Investment Co. Limited)",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "South Asian Computers Ltd",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "India Chip Private Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Vama Sundari Education",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Slocum Education",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Vidyagyan Foundation",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "SSN Incubation Foundation",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Prudential HCL Health Insurance Limited",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Kiran Nadar Musuem of Art",
+      "shares_filed": 2300000,
+      "class": null
+    },
+    {
+      "filed_name": "Shiv Nadar Foundation",
+      "shares_filed": 2293104,
+      "class": null
+    },
+    {
+      "filed_name": "SSN",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Shiv Nadar",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Vamasundari Scholarship",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "The Habitats",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Shiv Nadar Institution of Eminence Deemed to be University",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "Anantya Sakti, Inc",
+      "shares_filed": 0,
+      "class": null
+    },
+    {
+      "filed_name": "HCL Holdings Private Ltd",
+      "shares_filed": 446662032,
+      "class": null
+    }
+  ]
+}
