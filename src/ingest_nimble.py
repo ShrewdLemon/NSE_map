@@ -18,8 +18,16 @@ _MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
 
 # Subtotal and section-heading rows a filing table carries alongside real
 # holders. Letting one through would double-count a whole category.
+# A table reference can sit on either side of the label - '(A)(1) Sub-Total'
+# and 'Sub-Total (A)(1)' are the same row. _TABLE_REF strips it from both ends
+# before the label itself is matched.
+# References chain with '+' in the grand-total row: 'Total (A)+(B)+(C)'.
+# A reference is a single letter (optionally with a digit, as in the SCRR
+# base '(A)+(B)+(C2)'), a roman numeral or a digit, so a real name
+# like 'Alpha Holdings (India) Pvt Ltd' is never mistaken for one.
+_TABLE_REF = r"(?:[-\s+]*\((?:[A-Za-z]\d?|[ivx]+|\d)\))*"
 _AGGREGATE = re.compile(
-    r"^\s*(?:\(?[a-c]\d?\)?\s*)?(?:sub[\s-]?total|total|grand total|"
+    r"^\s*" + _TABLE_REF + r"\s*(?:sub[\s-]?total|total|grand total|"
     r"promoter(?:s)?(?: (?:and|&) promoter group)?|public(?: shareholding)?|"
     r"non[\s-]?promoter[\s-]?non[\s-]?public|institutions?|non[\s-]?institutions?|"
     r"foreign portfolio investors?|mutual funds?|insurance companies|"
@@ -28,7 +36,8 @@ _AGGREGATE = re.compile(
     r"central government.*|state government.*|shares held by employee trusts?|"
     r"foreign institutional investors?|resident individuals?|"
     r"clearing members?|trusts?|huf|foreign nationals?|"
-    r"key managerial personnel|directors and their relatives)\s*$", re.I)
+    r"key managerial personnel|directors and their relatives)"
+    r"\s*" + _TABLE_REF + r"\s*$", re.I)
 
 _NOISE_SUFFIX = re.compile(r"\s*[\(\[]\s*(?:nil|nan|n/?a|-{1,2})\s*[\)\]]\s*$", re.I)
 

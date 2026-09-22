@@ -137,6 +137,83 @@ nil_member = next(h for h in rel_raw["holders"]
 check("a filed nil holding stays zero rather than becoming null",
       nil_member["quarters"][rel_raw["quarter_labels"][-1]], 0)
 
+# --- ingest: the airlock between a web agent and the pipeline --------------
+import ingest_nimble as ing
+
+check("a quarter end becomes a Book1 label", ing.label("2026-06-30"), "Jun/2026")
+check("a malformed date yields no label", ing.label("Q1 FY27"), None)
+
+# Filing tables carry subtotal and section-heading rows beside real holders.
+# One slipping through would double-count an entire category.
+for junk in ("Total", "Sub-Total (A)(1)", "Promoter & Promoter Group",
+             "Mutual Funds", "Bodies Corporate", "Public", "Any Other (specify)",
+             "Foreign Portfolio Investors", "Resident Individuals", "12,345",
+             "Total (A)+(B)+(C)", "Total (A)+(B)+(C2)", "(A)(1) Sub-Total", "Sub Total - (B)(3)",
+             "Mutual Funds (i)"):
+    check(f"aggregate row rejected: {junk!r}", ing._clean_name(junk), None)
+# A real name may carry parentheses too; only a single letter, roman numeral
+# or digit inside them reads as a table reference.
+for real in ("SBI Mutual Fund", "Life Insurance Corporation of India",
+             "Vanguard Group Inc/The", "Rekha Rakesh Jhunjhunwala",
+             "Alpha Holdings (India) Pvt Ltd", "Nestle (Deutschland) AG"):
+    check(f"real holder kept: {real!r}", ing._clean_name(real), real)
+
+# 'Trusts' is a category heading; a named trust is a holder.
+check("a category heading is not a holder", ing._clean_name("Trusts"), None)
+check("a named trust is a holder",
+      ing._clean_name("NPS Trust- A/C UTI Retirement Solutions"),
+      "NPS Trust- A/C UTI Retirement Solutions")
+
+sample = {"ticker": "TEST", "company_name": "Test Ltd", "quarter_end": "2026-06-30",
+          "total_shares_scrr": 1_000_000, "promoter_pct": 50.0, "has_promoter": True,
+          "promoter_group": [{"filed_name": "Alpha Holdings Pvt Ltd",
+                              "shares_filed": 500_000, "pct": 50.0},
+                             {"filed_name": "Total", "shares_filed": 500_000}],
+          "public_holders": [{"holder_name": "SBI Mutual Fund", "shares": 100_000,
+                              "pct": 10.0},
+                             {"holder_name": "Alpha Holdings Pvt Ltd",
+                              "shares": 500_000, "pct": 50.0}],
+          "source_urls": ["https://example.com/shp.pdf"]}
+reg, warns = ing.normalise(sample)
+check("subtotal row dropped from the promoter group", len(reg["promoter_group"]), 1)
+check("a promoter cannot also be a public holder", len(reg["public_holders"]), 1)
+check("the surviving public holder is the right one",
+      reg["public_holders"][0]["holder_name"], "SBI Mutual Fund")
+check("the duplicate is reported, not swallowed",
+      any("duplicate a promoter name" in w for w in warns), True)
+
+# --- cross-check: corroborate, never silently rewrite ----------------------
+import crosscheck
+
+reg_for_xc = {"ticker": "TEST", "promoter_pct": 50.0, "shares_scrr": 1_000_000,
+              "as_of": "2026-06-30", "promoter_group": [], "public_holders": []}
+check("agreement within tolerance raises nothing",
+      crosscheck.compare({"promoter_pct": 50.3, "total_shares_scrr": 1_000_500,
+                          "quarter_end": "2026-06-30"}, reg_for_xc), [])
+check("a promoter percentage disagreement is reported",
+      len(crosscheck.compare({"promoter_pct": 42.0}, reg_for_xc)), 1)
+check("a share base disagreement is reported",
+      len(crosscheck.compare({"promoter_pct": 50.0,
+                              "total_shares_scrr": 1_200_000}, reg_for_xc)), 1)
+
+target = {"ticker": "TEST", "promoter_group": [{"filed_name": "Alpha Holdings Pvt Ltd"}],
+          "public_holders": [{"holder_name": "SBI Mutual Fund"}]}
+added = crosscheck.supplement(
+    {"top_holders": [{"holder_name": "SBI Mutual Fund", "pct": 10.0},
+                     {"holder_name": "Alpha Holdings Pvt Ltd", "pct": 50.0},
+                     {"holder_name": "ICICI Prudential Mutual Fund", "pct": 3.0}]},
+    target)
+check("only the genuinely new holder is added", added, 1)
+check("a supplemented holder is tagged with its weaker provenance",
+      "cross-check" in target["public_holders"][-1]["provenance"], True)
+
+# --- workbook: sheet names must survive Excel's restrictions ---------------
+from write_workbook import sheet_name
+check("an ampersand ticker is a legal sheet name", sheet_name("M&M"), "M&M")
+check("a slash is replaced, not passed through", sheet_name("A/B"), "A-B")
+check("a long name is truncated to Excel's limit",
+      len(sheet_name("X" * 40)), 31)
+
 if FAILURES:
     print(f"FAILED ({len(FAILURES)}):")
     for f in FAILURES:
